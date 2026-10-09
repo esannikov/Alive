@@ -1,6 +1,8 @@
+![ALIVE · ВІЗУАЛЬНА РОЗРОБКА](../assets/sections/visual.svg)
+
 # Візуальна й звукова розробка
 
-[Головна](../README.md) · [Уся біблія](README.md) · [Історія](Story.md) · [Персонажі](Characters.md) · [Світ](World.md) · [Технології](Technology/README.md)
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md)
 
 ## Зміст документа
 
@@ -384,3 +386,7 @@ flowchart LR
 
 Пов’язані документи: [інфраструктура](../Sources/Not_Included.md#outside-99f5c161e7), [виробничий план](../Sources/Not_Included.md#outside-1ca28ed38c), [критерії поставки](../Sources/Not_Included.md#outside-bc27df4018).
 <!-- import-end: Bible/Tech.md -->
+
+---
+
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md) · [↑ На початок](#%D0%B2%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B9-%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D0%B0-%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BA%D0%B0)

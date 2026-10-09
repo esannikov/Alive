@@ -1,6 +1,8 @@
+![ALIVE · ТЕХНОЛОГІЇ](../../assets/sections/technology.svg)
+
 # Роботи, предмети й технології
 
-[Головна](../../README.md) · [Уся біблія](../README.md) · [Історія](../Story.md) · [Персонажі](../Characters.md) · [Світ](../World.md) · [Розробка](../Visual_Development.md)
+[Головна](../../README.md) · [Робоче місце](../../TEAM_DASHBOARD.md) · [Біблія](../README.md) · [Джерела](../../Sources/README.md) · [Питання](../../Decisions/Open_Questions.md)
 
 Каталоги: [Роботи](Robots.md) · [Транспорт і зброя](Transport_and_Weapons.md) · [Інтерфейси й доступ](Interfaces_and_Access.md) · [Медицина й живі істоти](Medicine_and_Life.md)
 
@@ -60,3 +62,7 @@
 
 Детальна конструкція, спосіб користування й невизначені параметри предметів: [арт-дирекційний довідник](../README.md#%D0%B0%D1%80%D1%82-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%88%D0%BD-alive-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%B8%D0%B9-%D1%81%D0%B2%D1%96%D1%82-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%83); швидкий пошук — [покажчик карток](../README.md#%D0%BF%D0%BE%D0%BA%D0%B0%D0%B6%D1%87%D0%B8%D0%BA-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%BA-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D1%83-%D1%81%D0%B2%D1%96%D1%82%D1%83).
 <!-- import-end: Bible/Props.md -->
+
+---
+
+[Головна](../../README.md) · [Робоче місце](../../TEAM_DASHBOARD.md) · [Біблія](../README.md) · [Джерела](../../Sources/README.md) · [Питання](../../Decisions/Open_Questions.md) · [↑ На початок](#%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B8-%D0%B9-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97)
