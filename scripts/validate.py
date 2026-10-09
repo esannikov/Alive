@@ -23,7 +23,7 @@ def anchors(text):
 
 def main():
     errors=[];link_count=0;anchor_count=0
-    files=[p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts]
+    files=[p for p in ROOT.rglob('*') if p.is_file() and not {'.git', '.obsidian', '.trash', '__pycache__'}.intersection(p.relative_to(ROOT).parts)]
     markdown={p.resolve():p.read_text() for p in files if p.suffix=='.md'}
     anchor_map={p:anchors(t) for p,t in markdown.items()}
     for p,t in markdown.items():

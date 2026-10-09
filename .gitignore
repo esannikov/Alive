@@ -1,12 +1,10 @@
 .DS_Store
 Thumbs.db
 .trash/
-.obsidian/workspace*.json
-.obsidian/cache/
-.obsidian/plugins/
 .env
 .env.*
 *.pem
 *.key
 __pycache__/
 *.pyc
+.obsidian/
