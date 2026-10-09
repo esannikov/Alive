@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-09",
+  "primary_source": "Sources/ALIVE.pdf",
+  "pages": 538,
+  "files": [
+    {
+      "path": "Sources/ALIVE.pdf",
+      "sha256": "cf5a12003ed3b74b6b1c68df6cff704be0fb8d8bf86460c6aeea5fb1f748e37e",
+      "bytes": 4767007,
+      "role": "current_novel"
+    },
+    {
+      "path": "Sources/Novel.md",
+      "sha256": "8600421d98d839b5e6c293182d8ef2ce6915faf4436c06da690a7bb97502e617",
+      "bytes": 1398007,
+      "role": "derived_pdf_text"
+    },
+    {
+      "path": "Sources/Extracted/S01_ALIVE_final_names.md",
+      "sha256": "bcf5e139d942044d3a2346d5a0719803aaaa2640798550af29ceceacf9830ce9",
+      "bytes": 91099,
+      "role": "secondary_editorial_reference"
+    },
+    {
+      "path": "Sources/Extracted/S02_ЖИВЫЕ_World_Bible.md",
+      "sha256": "4807bffbbbfcc03bbea4c541cd50d38cbed1af00f07866035c78d3a121e19a97",
+      "bytes": 70269,
+      "role": "secondary_editorial_reference"
+    },
+    {
+      "path": "Sources/Extracted/S03_ЖИВЫЕ_Локации_и_маршруты.md",
+      "sha256": "1fb394a284ec5d5319f4fcdc54a0ae0bf8a20b57abd5a71e72a7535c73688f17",
+      "bytes": 84653,
+      "role": "secondary_editorial_reference"
+    },
+    {
+      "path": "Sources/Extracted/S04_ЖИВЫЕ_World_Bible (1).md",
+      "sha256": "227eea19d6b5cfadd20e3799026bb86ab690151a76a25b32f63b49f256798440",
+      "bytes": 241224,
+      "role": "secondary_editorial_reference"
+    },
+    {
+      "path": "Sources/Extracted/S05_ЖИВЫЕ_Персонажи_и_роботы.md",
+      "sha256": "bf0c932cd55041fe40c0993f89453f25b1741f0830d5ad9bdd2a04c964f5e441",
+      "bytes": 70970,
+      "role": "secondary_editorial_reference"
+    },
+    {
+      "path": "Sources/Extracted/S06_ЖИВЫЕ_Предметы_и_технологии.md",
+      "sha256": "4cd3a9fea4fb33d655d0601de38eab641b852acd6a30dde4aafa286ff78e8e12",
+      "bytes": 47591,
+      "role": "secondary_editorial_reference"
+    },
+    {
+      "path": "Sources/Extracted/S07_ЖИВЫЕ_Символика_и_визуальные_идентификаторы.md",
+      "sha256": "05897330226d04a14a16b6b2eae9305be581f9880ab88391cb9323db26c31543",
+      "bytes": 24952,
+      "role": "secondary_editorial_reference"
+    }
+  ]
+}
