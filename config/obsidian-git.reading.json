@@ -3,7 +3,7 @@
   "autoPushInterval": 0,
   "autoPullInterval": 5,
   "autoPullOnBoot": true,
-  "disablePush": true,
+  "disablePush": false,
   "pullBeforePush": false,
   "syncMethod": "merge",
   "mergeStrategy": "none",
@@ -16,5 +16,6 @@
   "showErrorNotices": true,
   "disablePopupsForNoChanges": true,
   "updateSubmodules": false,
-  "autoStageOnEmptyIndex": false
+  "autoStageOnEmptyIndex": false,
+  "commitMessage": "Оновлення текстів ALIVE — {{date}}"
 }
