@@ -19,8 +19,10 @@
 | Розділи біблії |  |
 | :--- | :--- |
 | [![Історія](assets/navigation/story.svg)](Bible/Story.md)<br>сюжет → хронологія → стани й втрати | [![Світ](assets/navigation/world.svg)](Bible/World.md)<br>просторовий устрій → керування → доступ → вірус |
-| [![Персонажі](assets/navigation/characters.svg)](Bible/Characters.md)<br>склад героїв → зовнішність → одяг і особисті речі | [![Середовища](assets/navigation/environment.svg)](Bible/Environments/Station.md)<br>станція, рівні, приміщення, побут і матеріали<br><br>[Станція](Bible/Environments/Station.md) · [Другий рівень](Bible/Environments/Second_Level.md) · [Нижній рівень](Bible/Environments/Lower_Level.md) · [Третій рівень](Bible/Environments/Third_Level.md) · [Побут і матеріали](Bible/Environments/Everyday_Life.md) |
+| [![Персонажі](assets/navigation/characters.svg)](Bible/Characters.md)<br>склад героїв → зовнішність → одяг і особисті речі | [![Середовища](assets/navigation/environment.svg)](Bible/Environments/Station.md)<br>станція, рівні, приміщення, побут і матеріали |
 | [![Технології](assets/navigation/technology.svg)](Bible/Technology/README.md)<br>роботи, транспорт, зброя, інтерфейси й медицина | [![Візуальна й звукова розробка](assets/navigation/visual.svg)](Bible/Visual_Development.md)<br>стиль, дизайн, режисура, звук і концепти |
+
+**Простори станції:** [Станція](Bible/Environments/Station.md) · [Другий рівень](Bible/Environments/Second_Level.md) · [Нижній рівень](Bible/Environments/Lower_Level.md) · [Третій рівень](Bible/Environments/Third_Level.md) · [Побут і матеріали](Bible/Environments/Everyday_Life.md)
 
 ## Писати руками в Obsidian
 

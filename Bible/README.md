@@ -9,8 +9,10 @@
 | Розділи біблії |  |
 | :--- | :--- |
 | [![Історія](../assets/navigation/story.svg)](Story.md)<br>сюжет → хронологія → стани й втрати | [![Світ](../assets/navigation/world.svg)](World.md)<br>просторовий устрій → керування → доступ → вірус |
-| [![Персонажі](../assets/navigation/characters.svg)](Characters.md)<br>склад героїв → зовнішність → одяг і особисті речі | [![Середовища](../assets/navigation/environment.svg)](Environments/Station.md)<br>станція, рівні, приміщення, побут і матеріали<br><br>[Станція](Environments/Station.md) · [Другий рівень](Environments/Second_Level.md) · [Нижній рівень](Environments/Lower_Level.md) · [Третій рівень](Environments/Third_Level.md) · [Побут і матеріали](Environments/Everyday_Life.md) |
+| [![Персонажі](../assets/navigation/characters.svg)](Characters.md)<br>склад героїв → зовнішність → одяг і особисті речі | [![Середовища](../assets/navigation/environment.svg)](Environments/Station.md)<br>станція, рівні, приміщення, побут і матеріали |
 | [![Технології](../assets/navigation/technology.svg)](Technology/README.md)<br>роботи, транспорт, зброя, інтерфейси й медицина | [![Візуальна й звукова розробка](../assets/navigation/visual.svg)](Visual_Development.md)<br>стиль, дизайн, режисура, звук і концепти |
+
+**Простори станції:** [Станція](Environments/Station.md) · [Другий рівень](Environments/Second_Level.md) · [Нижній рівень](Environments/Lower_Level.md) · [Третій рівень](Environments/Third_Level.md) · [Побут і матеріали](Environments/Everyday_Life.md)
 
 ## Зміст документа
 
