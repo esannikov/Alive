@@ -1,0 +1,20 @@
+{
+  "autoSaveInterval": 0,
+  "autoPushInterval": 0,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePush": true,
+  "pullBeforePush": false,
+  "syncMethod": "merge",
+  "mergeStrategy": "none",
+  "rebaseAutoStash": "disabled",
+  "showStatusBar": true,
+  "showBranchStatusBar": true,
+  "changedFilesInStatusBar": true,
+  "refreshSourceControl": true,
+  "refreshSourceControlTimer": 7000,
+  "showErrorNotices": true,
+  "disablePopupsForNoChanges": true,
+  "updateSubmodules": false,
+  "autoStageOnEmptyIndex": false
+}
