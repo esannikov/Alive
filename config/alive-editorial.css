@@ -1,0 +1,49 @@
+/* ALIVE editorial reading style. Enable only in the ALIVE vault.
+   No external fonts, scripts, remote assets or hidden content. */
+body.theme-light {
+  --alive-ink: #193b45;
+  --alive-teal: #246d68;
+  --alive-blue: #365f8e;
+  --alive-rule: #d8e5e2;
+  --alive-soft: #f1f7f5;
+  --alive-table-stripe: #f5f8fa;
+}
+body.theme-dark {
+  --alive-ink: #e3eee9;
+  --alive-teal: #9fd6c2;
+  --alive-blue: #a6c8ec;
+  --alive-rule: #3b535b;
+  --alive-soft: #20363d;
+  --alive-table-stripe: #203038;
+}
+body {
+  --file-line-width: 900px;
+  --line-height-normal: 1.65;
+  --h1-color: var(--alive-ink);
+  --h2-color: var(--alive-teal);
+  --h3-color: var(--alive-blue);
+  --h4-color: var(--alive-ink);
+}
+.markdown-rendered h1 { letter-spacing: -.025em; line-height: 1.18; margin-bottom: .7em; }
+.markdown-rendered h2 { border-bottom: 1px solid var(--alive-rule); padding-bottom: .35em; margin-top: 2em; }
+.markdown-rendered h3 { margin-top: 1.6em; }
+.markdown-rendered p { margin-block: .75em; }
+.markdown-rendered hr { border-color: var(--alive-rule); margin-block: 2em; }
+.markdown-rendered img[src*="assets/cover.svg"],
+.markdown-rendered img[src*="assets/sections/"],
+.markdown-rendered img[src*="assets/onboarding.svg"] { width: 100%; height: auto; border-radius: 14px; }
+.markdown-rendered table { width: 100%; font-size: .94em; line-height: 1.5; }
+.markdown-rendered thead th { background: var(--alive-soft); color: var(--alive-ink); font-weight: 650; }
+.markdown-rendered th, .markdown-rendered td { padding: .7em .85em; border-color: var(--alive-rule); }
+.markdown-rendered tbody tr:nth-child(even) { background: var(--alive-table-stripe); }
+.markdown-rendered .callout { border: 1px solid rgba(var(--callout-color),.23); border-left: 4px solid rgb(var(--callout-color)); border-radius: 0 12px 12px 0; padding: 14px 18px; }
+.markdown-rendered .callout-title { font-weight: 650; }
+.markdown-rendered .callout-content p:first-child { margin-top: .45em; }
+.markdown-rendered .callout-content p:last-child { margin-bottom: .2em; }
+.markdown-rendered pre { border: 1px solid var(--alive-rule); border-radius: 10px; }
+.markdown-rendered a { text-underline-offset: .18em; }
+@media (max-width: 700px) {
+  .markdown-rendered table { font-size: .88em; }
+  .markdown-rendered th, .markdown-rendered td { padding: .5em .6em; }
+  .markdown-rendered .callout { padding: 11px 13px; }
+}

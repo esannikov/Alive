@@ -1,6 +1,8 @@
+![ALIVE · БІБЛІЯ СВІТУ](../assets/sections/wiki.svg)
+
 # Джерела й редакційні правила
 
-[Головна](../README.md) · [Уся біблія](README.md) · [Історія](Story.md) · [Персонажі](Characters.md) · [Світ](World.md) · [Технології](Technology/README.md) · [Розробка](Visual_Development.md)
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md)
 
 ## Зміст документа
 
@@ -32,3 +34,7 @@ S02 і S04 — проміжні зведення; слово «канон» ус
 
 Поточний набір Bible/* — джерельна основа й робочі пропозиції; він не означає, що творчу концепцію вже прийнято. Для виробництва конкретного відео застосовується [технічний паспорт](Visual_Development.md#%D1%82%D0%B5%D1%85%D0%BD%D1%96%D1%87%D0%BD%D0%B8%D0%B9-%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BA%D0%B8) та відповідний процес Producer.
 <!-- import-end: Bible/Rules.md -->
+
+---
+
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md) · [↑ На початок](#%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0-%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D1%96%D0%B9%D0%BD%D1%96-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0)

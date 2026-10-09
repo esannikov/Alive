@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">ALIVE — біблія світу</title><desc id="desc">Історія, персонажі, середовища й спільна творча робота.</desc>
+<rect width="1200" height="320" rx="20" fill="#182f3b"/>
+<path d="M48 267h1104" stroke="#395460"/>
+<text x="49" y="47" fill="#b9dfcb" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">СПІЛЬНА БІБЛІЯ ПРОЄКТУ</text>
+<text x="42" y="165" fill="#f4f0e6" font-family="Arial,Helvetica,sans-serif" font-size="118" font-weight="700" letter-spacing="-5">ALIVE</text>
+<text x="50" y="220" fill="#c0d0d4" font-family="Arial,Helvetica,sans-serif" font-size="24">Історія. Персонажі. Світ у деталях.</text>
+<text x="50" y="297" fill="#b9dfcb" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">ЧИТАТИ</text>
+<text x="185" y="297" fill="#91bcea" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">ДОСЛІДЖУВАТИ</text>
+<text x="396" y="297" fill="#e8af9d" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">СТВОРЮВАТИ РАЗОМ</text>
+</svg>

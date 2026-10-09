@@ -1,6 +1,8 @@
+![ALIVE · БІБЛІЯ СВІТУ](../assets/sections/wiki.svg)
+
 # Біблія ALIVE — карта світу
 
-[Головна](../README.md) · [Історія](Story.md) · [Персонажі](Characters.md) · [Світ](World.md) · [Технології](Technology/README.md) · [Розробка](Visual_Development.md)
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md)
 
 Шість основних напрямів: історія, персонажі, світ, середовища, технології та розробка. Приміщення згруповано за рівнями станції; окремий файл для кожної кімнати не потрібний. Нижче збережено повний зміст попереднього довідника й покажчика карток.
 
@@ -329,3 +331,7 @@
 
 - [Люди архіву й пам’ятні фотографії](Characters.md#%D0%BB%D1%8E%D0%B4%D0%B8-%D0%B0%D1%80%D1%85%D1%96%D0%B2%D1%83-%D0%B9-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%96-%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%97)
 <!-- import-end: Bible/Art_Direction/Index.md -->
+
+---
+
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md) · [↑ На початок](#%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D1%8F-alive--%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D0%B2%D1%96%D1%82%D1%83)

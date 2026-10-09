@@ -1,6 +1,8 @@
+![ALIVE · РІШЕННЯ Й ПИТАННЯ](../assets/sections/decisions.svg)
+
 # Відкриті питання біблії
 
-[Головна](../README.md) · [Уся біблія](../Bible/README.md) · [Історія](../Bible/Story.md) · [Персонажі](../Bible/Characters.md) · [Світ](../Bible/World.md) · [Технології](../Bible/Technology/README.md) · [Розробка](../Bible/Visual_Development.md)
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](../Bible/README.md) · [Джерела](../Sources/README.md)
 
 ## Зміст документа
 
@@ -84,3 +86,7 @@
 
 Докладні опори й питання конструкції: [арт-дирекційний довідник](../Bible/README.md#%D0%B0%D1%80%D1%82-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%88%D0%BD-alive-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%B8%D0%B9-%D1%81%D0%B2%D1%96%D1%82-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%83).
 <!-- import-end: Analysis/Novel_Bible_Audit_2026-09-22.md -->
+
+---
+
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](../Bible/README.md) · [Джерела](../Sources/README.md) · [↑ На початок](#%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D1%97)

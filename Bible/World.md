@@ -1,6 +1,8 @@
+![ALIVE · СВІТ](../assets/sections/world.svg)
+
 # Світ ALIVE: устрій, простір і правила
 
-[Головна](../README.md) · [Уся біблія](README.md) · [Історія](Story.md) · [Персонажі](Characters.md) · [Технології](Technology/README.md) · [Розробка](Visual_Development.md)
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md)
 
 Загальний опис світу й правила зібрано разом. Детальні простори: [Станція](Environments/Station.md) · [Другий рівень](Environments/Second_Level.md) · [Нижній рівень](Environments/Lower_Level.md) · [Третій рівень](Environments/Third_Level.md) · [Побут](Environments/Everyday_Life.md)
 
@@ -145,3 +147,7 @@ flowchart TD
 
 Шкільна історія Землі, умови роботи, право, сім’я й еволюція — засвоєна героями версія. Архіви показують примусове обмеження пересування, зачаття дітей без згоди батьків і евтаназію; ці історичні записи не підтверджують нинішнього стану всієї Землі. Фінал показує планету у вікно, але контакту з її людьми ще немає. [PDF, с. 482–483](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-482), [PDF, с. 483](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-483), [PDF, с. 485](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-485), [PDF, с. 532](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-532), [PDF, с. 538](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-538).
 <!-- import-end: Bible/World_Rules.md -->
+
+---
+
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md) · [↑ На початок](#%D1%81%D0%B2%D1%96%D1%82-alive-%D1%83%D1%81%D1%82%D1%80%D1%96%D0%B9-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%96%D1%80-%D1%96-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0)

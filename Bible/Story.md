@@ -1,6 +1,8 @@
+![ALIVE · ІСТОРІЯ](../assets/sections/story.svg)
+
 # Історія, хронологія й сюжетні стани
 
-[Головна](../README.md) · [Уся біблія](README.md) · [Персонажі](Characters.md) · [Світ](World.md) · [Технології](Technology/README.md) · [Розробка](Visual_Development.md)
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md)
 
 ## Зміст документа
 
@@ -129,3 +131,7 @@
 
 **Результат фіналу:** усі Дони-15 перепрограмовані, стая ізольована, герої на Третьому, керування в людей. **Ще не результат:** лікування всіх носіїв, евакуація на Землю, угода з Гільдією, доведена безпечність дорослого Пушистика. [PDF, с. 534](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-534), [PDF, с. 538](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-538), [PDF, с. 538](../Sources/Novel.md#%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-538).
 <!-- import-end: Bible/Continuity.md -->
+
+---
+
+[Головна](../README.md) · [Робоче місце](../TEAM_DASHBOARD.md) · [Біблія](README.md) · [Джерела](../Sources/README.md) · [Питання](../Decisions/Open_Questions.md) · [↑ На початок](#%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F-%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F-%D0%B9-%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D1%96-%D1%81%D1%82%D0%B0%D0%BD%D0%B8)
