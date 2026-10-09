@@ -1,19 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">ALIVE — біблія світу</title><desc id="desc">Історія, персонажі, середовища й спільна творча робота.</desc>
 <rect width="1200" height="320" rx="20" fill="#182f3b"/>
-<path d="M802 0v320M1023 0v320M0 267h1200" stroke="#395460"/>
-<circle cx="1023" cy="131" r="95" fill="none" stroke="#5c7d87"/>
-<circle cx="1023" cy="131" r="59" fill="none" stroke="#85ada9"/>
-<path d="M891 131h266M1023 0v263" stroke="#5c7d87"/>
-<circle cx="1023" cy="131" r="13" fill="#b9dfcb"/>
-<circle cx="1087" cy="62" r="6" fill="#e8af9d"/>
-<circle cx="969" cy="154" r="5" fill="#91bcea"/>
+<path d="M48 267h1104" stroke="#395460"/>
 <text x="49" y="47" fill="#b9dfcb" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">СПІЛЬНА БІБЛІЯ ПРОЄКТУ</text>
 <text x="42" y="165" fill="#f4f0e6" font-family="Arial,Helvetica,sans-serif" font-size="118" font-weight="700" letter-spacing="-5">ALIVE</text>
 <text x="50" y="220" fill="#c0d0d4" font-family="Arial,Helvetica,sans-serif" font-size="24">Історія. Персонажі. Світ у деталях.</text>
 <text x="50" y="297" fill="#b9dfcb" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">ЧИТАТИ</text>
-<circle cx="162" cy="292" r="2.5" fill="#5c7d87"/>
 <text x="185" y="297" fill="#91bcea" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">ДОСЛІДЖУВАТИ</text>
-<circle cx="373" cy="292" r="2.5" fill="#5c7d87"/>
 <text x="396" y="297" fill="#e8af9d" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">СТВОРЮВАТИ РАЗОМ</text>
 </svg>

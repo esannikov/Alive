@@ -7,9 +7,4 @@
 <path d="M191 30v90" stroke="#425c67"/>
 <text x="224" y="65" fill="#8fcdc6" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="2">СЕРЕДОВИЩА</text>
 <text x="226" y="99" fill="#b6c8cd" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">PLACES &amp; EVERYDAY LIFE</text>
-<circle cx="1084" cy="75" r="49" fill="none" stroke="#4e6a75"/>
-<circle cx="1084" cy="75" r="28" fill="none" stroke="#8fcdc6" stroke-opacity=".55"/>
-<path d="M1016 75h136M1084 12v126" stroke="#4e6a75"/>
-<circle cx="1084" cy="75" r="7" fill="#8fcdc6"/>
-<circle cx="1121" cy="43" r="4" fill="#8fcdc6"/>
 </svg>
