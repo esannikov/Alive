@@ -16,16 +16,11 @@
 
 **[Повна карта та покажчик 108 карток](Bible/README.md)**
 
-| Розділ | Що всередині |
+| Розділи біблії |  |
 | :--- | :--- |
-| **[01 · Історія](Bible/Story.md)** | Сюжет, хронологія, розкриття й стани героїв |
-| **[02 · Персонажі](Bible/Characters.md)** | Люди й роботи як персонажі, зовнішність, одяг, особисті речі |
-| **[03 · Світ](Bible/World.md)** | Просторовий устрій, керування, доступ, вірус і знання героїв |
-| **[04 · Середовища](Bible/Environments/Station.md)** | Станція, її рівні, приміщення, побут і матеріали |
-| **[05 · Технології](Bible/Technology/README.md)** | Роботи, транспорт, зброя, інтерфейси й медицина |
-| **[06 · Візуальна розробка](Bible/Visual_Development.md)** | Стиль, система дизайну, режисура, звук і концепти |
-
-**Приміщення за рівнями:** [Другий](Bible/Environments/Second_Level.md) · [Нижній](Bible/Environments/Lower_Level.md) · [Третій](Bible/Environments/Third_Level.md) · [Побут і матеріали](Bible/Environments/Everyday_Life.md)
+| [![Історія](assets/navigation/story.svg)](Bible/Story.md)<br>сюжет → хронологія → стани й втрати | [![Світ](assets/navigation/world.svg)](Bible/World.md)<br>просторовий устрій → керування → доступ → вірус |
+| [![Персонажі](assets/navigation/characters.svg)](Bible/Characters.md)<br>склад героїв → зовнішність → одяг і особисті речі | [![Середовища](assets/navigation/environment.svg)](Bible/Environments/Station.md)<br>станція, рівні, приміщення, побут і матеріали<br><br>[Станція](Bible/Environments/Station.md) · [Другий рівень](Bible/Environments/Second_Level.md) · [Нижній рівень](Bible/Environments/Lower_Level.md) · [Третій рівень](Bible/Environments/Third_Level.md) · [Побут і матеріали](Bible/Environments/Everyday_Life.md) |
+| [![Технології](assets/navigation/technology.svg)](Bible/Technology/README.md)<br>роботи, транспорт, зброя, інтерфейси й медицина | [![Візуальна й звукова розробка](assets/navigation/visual.svg)](Bible/Visual_Development.md)<br>стиль, дизайн, режисура, звук і концепти |
 
 ## Писати руками в Obsidian
 
