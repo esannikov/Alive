@@ -57,7 +57,10 @@ for task in tasks.values():
     assert all(i in evidence for i in task['evidenceCards'])
     assert all((ROOT / f).is_file() for f in task['sourceFiles'])
     assert task['firstAction'] and task['readyWhen']
-assert 'К началу работы' in text and 'function showStart()' in text
+for noise in ['id="start"', 'function showStart()', '<h3>Первый шаг</h3>', '<h3>От команды</h3>', '<h3>Готово, когда</h3>', '<h3>Входные результаты</h3>']:
+    assert noise not in text, 'Process metadata must stay out of the map interface'
+assert "t.deps.length?'<h3>Зависит от</h3>'" in text
+assert "next.length?'<h3>Нужно для</h3>'" in text
 assert (ROOT / 'docs/.nojekyll').is_file()
 assert not (ROOT / 'docs/index.html').exists(), 'Root redirect is not required'
 assert 'SIL OPEN FONT LICENSE' in (ROOT / 'docs/LICENSE-Manrope.txt').read_text()
