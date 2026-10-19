@@ -16,6 +16,8 @@
 
 [Интерактивная карта разработки](https://esannikov.github.io/Alive/ProductionFlow/) — рабочий план на 19.10.2026–19.01.2027: материалы, сроки и зависимости.
 
+[Подготовка к началу исследования](Production/Research_Start.md) · [Рабочие карточки](Production/Research_Workcards.md)
+
 **[Повна карта та покажчик 108 карток](Bible/README.md)**
 
 | Розділи біблії |  |
