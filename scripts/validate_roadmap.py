@@ -45,9 +45,7 @@ def visit(item):
 visit('handoff')
 assert seen == set(tasks) - {'music'}, 'Unconnected active material'
 assert (ROOT / 'docs/.nojekyll').is_file()
-redirect = (ROOT / 'docs/index.html').read_text()
-assert 'content="0; url=ProductionFlow/"' in redirect
-assert 'href="ProductionFlow/"' in redirect
+assert not (ROOT / 'docs/index.html').exists(), 'Root redirect is not required'
 assert 'SIL OPEN FONT LICENSE' in (ROOT / 'docs/LICENSE-Manrope.txt').read_text()
 print(json.dumps({'status': 'PASS', 'materials': len(tasks), 'groups': len(data['groups']),
                   'static_rows': len(tasks), 'accounted_csv_items': len(refs),
