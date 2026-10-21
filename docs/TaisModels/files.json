@@ -1,0 +1,111 @@
+{
+  "files": [
+    {
+      "file": "images/nano-banana-21-portrait.png",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 6409133,
+      "sha256": "67a560cf6589ddb8271e0cf8e5b282edf45f305d080dff549c4a9d1cf0f8a343"
+    },
+    {
+      "file": "images/nano-banana-21-garden.png",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 6895553,
+      "sha256": "3a8077441d9e176994e1cc42a5b101a579f8f766a423413154f94db0aef1e398"
+    },
+    {
+      "file": "images/nano-banana-21-bars.png",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 6723113,
+      "sha256": "c5813b0d4aa29fcb459ed6a4531e555542cdd3b825ea23c634fb071a0ea5fd69"
+    },
+    {
+      "file": "images/seedream-5-pro-portrait.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 4315157,
+      "sha256": "bfdf938040232ab8be15156daa2b9fba3c4695666cc98a5e95dc985ef716a241"
+    },
+    {
+      "file": "images/seedream-5-pro-garden.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 4751100,
+      "sha256": "b4d2263f64c55d731a4966f1c953ac94e8173edba09365f65dcea0ed9a4739cf"
+    },
+    {
+      "file": "images/seedream-5-pro-bars.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 4330867,
+      "sha256": "def38723fe8b038a3f2d4ac10f386082abc32b9738484276e4cf2efea50de307"
+    },
+    {
+      "file": "images/gpt-image-2-portrait.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3021451,
+      "sha256": "63364650027e42e153110027905d8251da60471acb5a7bf53c8cb152725b4cb3"
+    },
+    {
+      "file": "images/gpt-image-2-garden.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3296217,
+      "sha256": "eef3ec4347bf5c40e3b6b13a2c5d6f3022d9b387ded509e528b9170fe0ad02fe"
+    },
+    {
+      "file": "images/gpt-image-2-bars.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3657595,
+      "sha256": "f878e4f02d6e5c73f01659f94e974d9f3e05ac054b66a8edfe205c546b2de34f"
+    },
+    {
+      "file": "images/gpt-image-25-sunburst-portrait.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3186691,
+      "sha256": "f5d4e32ba9ee758d5bd299654d4496ce5465a2478a3aacb7cb24aed3d609a186"
+    },
+    {
+      "file": "images/gpt-image-25-sunburst-garden.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3467195,
+      "sha256": "5a3fc1ac84981c55e696b07638474545ad1a5beda673d69433b056b4b82690d6"
+    },
+    {
+      "file": "images/gpt-image-25-sunburst-bars.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3210735,
+      "sha256": "115a3b3b360581a0f8f1144fde37d64ed0f28200e21ed4c900318855fd097ced"
+    },
+    {
+      "file": "images/flux-2-max-portrait.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3819076,
+      "sha256": "760a40485effa0c491349ff308a1ad66459a25a16b55d3d6961b78eec24d5fa3"
+    },
+    {
+      "file": "images/flux-2-max-garden.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 4121498,
+      "sha256": "ce47694611ba0c46571361747629a8fa703484b375671e03558ac1d674511248"
+    },
+    {
+      "file": "images/flux-2-max-bars.png",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 3778588,
+      "sha256": "112a905116f1cf8a85deb3404b9db07050a3d8d8a2013f9fbc9d6c96381acaed"
+    }
+  ],
+  "count": 15,
+  "originals_preserved": true
+}
