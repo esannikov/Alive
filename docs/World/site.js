@@ -68,25 +68,30 @@
   const objectId = document.body.dataset.object;
   if (!objectId) return;
   const assets = data.assets.filter(a=>a.object===objectId&&!a.archived);
+  const isShip=objects[objectId].kind==='ship';
   const select = $('#series-select'); let active = assets[0], comparing = false;
-  const visibleAssets = () => assets.filter(a=>select.value==='all'||a.series===select.value);
+  const visibleAssets = () => assets.filter(a=>isShip?a.series===active.series:select.value==='all'||a.series===select.value);
   const showSeries = () => {
+    if(isShip){$('#gallery-count').textContent=`${new Set(assets.map(a=>a.series)).size} вариантов`;return;}
     document.querySelectorAll('.asset-tile').forEach(el=>{el.hidden=select.value!=='all'&&el.dataset.series!==select.value;});
     const count=visibleAssets().length; $('#gallery-count').textContent=objects[objectId].kind==='ship'?`${count} кадров`:`${count} вариантов`;
   };
   const setActive = (code, push=false) => {
     const a=byCode[code]; if(!a||a.object!==objectId) return false;
     active=a;
-    if(select.value!=='all'&&select.value!==a.series) select.value=a.series;
+    if(select&&select.value!=='all'&&select.value!==a.series) select.value=a.series;
     showSeries();
-    const img=$('#hero-image'); img.src=url(a.preview); img.alt=`${a.code}: ${a.title}`;
+    const img=$('#hero-image'); img.src=url(a.original); img.alt=`${a.code}: ${a.title}`;
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
     if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.series]||'';
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
-      const chosen=el.dataset.code===code;el.classList.toggle('selected',chosen);
+      const chosen=isShip?el.dataset.series===a.series:el.dataset.code===code;el.classList.toggle('selected',chosen);
       if(chosen)el.querySelector('.thumb-link').setAttribute('aria-current','true');else el.querySelector('.thumb-link').removeAttribute('aria-current');
     });
+    document.querySelectorAll('.ship-view-link').forEach(link=>{if(link.dataset.code===code)link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
+    const pair=assets.filter(item=>item.series===a.series);
+    document.querySelectorAll('[data-angle]').forEach(button=>button.setAttribute('aria-pressed',String(pair[Number(button.dataset.angle)]?.code===code)));
     if(push){const dest=new URL(location.href);dest.hash=code;history.pushState({code},'',dest);}
     if($('#image-dialog').open) refreshDialog();
     return true;
@@ -96,13 +101,15 @@
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
     if(code&&code!=='gallery'&&!setActive(code))announce('Такой код не найден у этого объекта.');
-    if(!code){select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery'){if(objects[objectId].kind==='ship')select.value='all';showSeries();}
+    if(!code){if(select)select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery'){if(select&&isShip)select.value='all';showSeries();}
   }
-  document.querySelectorAll('.thumb-link').forEach(a=>a.addEventListener('click',e=>{
-    e.preventDefault();setActive(a.closest('.asset-tile').dataset.code,true);
+  document.querySelectorAll('.thumb-link, .ship-view-link').forEach(a=>a.addEventListener('click',e=>{
+    if(e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();setActive(a.dataset.code||a.closest('.asset-tile').dataset.code,true);
     if(!comparing){$('#viewer').scrollIntoView({block:'start',behavior:'auto'});}
   }));
-  select.addEventListener('change',()=>{showSeries();setActive(visibleAssets()[0].code,true);});
+  select?.addEventListener('change',()=>{showSeries();setActive(visibleAssets()[0].code,true);});
+  document.querySelectorAll('[data-angle]').forEach(button=>button.addEventListener('click',()=>{const pair=assets.filter(a=>a.series===active.series);const a=pair[Number(button.dataset.angle)];if(a)setActive(a.code,true);}));
   $('#previous-image').addEventListener('click',()=>step(-1));$('#next-image').addEventListener('click',()=>step(1));
   $('#copy-code').addEventListener('click',()=>copy(active.code));
   $('#copy-link').addEventListener('click',()=>{const u=new URL(location.href);u.hash=active.code;copy(u.href);});
@@ -118,13 +125,13 @@
     assets.forEach(a=>{const opt=document.createElement('option');opt.value=a.code;opt.textContent=`${a.code} · ${a.title}`;picker.append(opt);});
     picker.addEventListener('change',()=>updateCompare(side));
   }
-  function updateCompare(side){const a=byCode[$('#compare-'+side).value];const img=$('#compare-image-'+side);img.src=url(a.preview);img.alt=`${a.code}: ${a.title}`;$('#compare-caption-'+side).textContent=`${a.code} · ${a.title}`;}
+  function updateCompare(side){const a=byCode[$('#compare-'+side).value];const img=$('#compare-image-'+side);img.src=url(a.original);img.alt=`${a.code}: ${a.title}`;$('#compare-caption-'+side).textContent=`${a.code} · ${a.title}`;}
   $('#compare-toggle').addEventListener('click',()=>{
     comparing=!comparing;$('#compare-toggle').setAttribute('aria-pressed',String(comparing));$('#compare-toggle').textContent=comparing?'Закрыть сравнение':'Сравнить';
     $('#compare-panel').hidden=!comparing;$('#viewer').hidden=comparing;
     if(comparing){const comparable=assets.includes(active)?active:assets[0];$('#compare-left').value=comparable.code;$('#compare-right').value=assets[(assets.indexOf(comparable)+1)%assets.length].code;updateCompare('left');updateCompare('right');}
   });
-  $('#hero-image').addEventListener('error',()=>announce('Превью не загрузилось. Откройте оригинал по ссылке ниже.'));
+  $('#hero-image').addEventListener('error',()=>announce('Изображение не загрузилось. Откройте оригинал по ссылке ниже.'));
   setActive(assets.find(a=>a.code===objects[objectId].cover).code);
   fromHash();
   window.addEventListener('hashchange',fromHash);window.addEventListener('popstate',fromHash);
