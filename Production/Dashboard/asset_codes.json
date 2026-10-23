@@ -11,7 +11,7 @@
   ],
   "next_numbers": {
     "tais": 43,
-    "fedor": 11
+    "fedor": 21
   },
   "assets": [
     {
@@ -1069,7 +1069,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor002",
@@ -1091,7 +1092,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor003",
@@ -1113,7 +1115,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor004",
@@ -1135,7 +1138,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor005",
@@ -1157,7 +1161,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor006",
@@ -1179,7 +1184,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor007",
@@ -1201,7 +1207,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor008",
@@ -1223,7 +1230,8 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "fedor009",
@@ -1245,7 +1253,9 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "active",
+      "selection_note": "Понравился продюсеру по сообщению пользователя 23.10.2026; ориентир для новой подборки, не принятие полного комплекта."
     },
     {
       "code": "fedor010",
@@ -1267,7 +1277,248 @@
       "task_ids": [
         "fedor"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor011",
+      "object": "fedor",
+      "caption": "Близкая вариация 1",
+      "sha256": "5321525b74855609f29a9639cea836cb40f38b32c85ae1dd7a08f120ffac2cca",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor011.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor011.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor012",
+      "object": "fedor",
+      "caption": "Близкая вариация 2",
+      "sha256": "edbed6b4ae608ef5feb5e3837ccd3058faa7f5ebbde3154fd29116afac311119",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor012.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor012.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor013",
+      "object": "fedor",
+      "caption": "Близкая вариация 3",
+      "sha256": "90e91e987440274dee362974fe5d3c20934cc93aba067f75337f395426bf766a",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor013.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor013.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor014",
+      "object": "fedor",
+      "caption": "Близкая вариация 4",
+      "sha256": "6773fa0e310a8e51cc48f3eb1bd192caf052790abb9b23265274c3ef069761b9",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor014.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor014.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor015",
+      "object": "fedor",
+      "caption": "Близкая вариация 5",
+      "sha256": "0b10ac884a3f6cc93fa1f1bbd86816f336c862a3c8e0fe1c040d451665530822",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor015.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor015.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor016",
+      "object": "fedor",
+      "caption": "Вытянутое лицо",
+      "sha256": "d5705bfaac69736af38335665d9037a7005f9bfecc2ba4b12389e5635961f199",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor016.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor016.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor017",
+      "object": "fedor",
+      "caption": "Квадратное лицо",
+      "sha256": "624bf47e2874710863b1dbdc22892c454875feee8c32634a47d1c6fa996941a5",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor017.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor017.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor018",
+      "object": "fedor",
+      "caption": "Треугольное лицо",
+      "sha256": "8e8437862b8cc52854f2add864e8e6b65dbce4a975e0c01665acdbfdc27c0767",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor018.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor018.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor019",
+      "object": "fedor",
+      "caption": "Выраженные скулы",
+      "sha256": "bbd496eeab2aad893e7e9bbb27dc252ef13babb08d42d34ca2ec529a509fde95",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor019.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor019.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor020",
+      "object": "fedor",
+      "caption": "Мягкое овальное лицо",
+      "sha256": "5a39ad08c0d6b3c976fb2fbf1e6a7e239eab72ccff6674eae72f78c9c0f50525",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor020.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor020.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ]
 }

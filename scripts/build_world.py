@@ -43,7 +43,7 @@ def build():
                        'preview':f'previews/{code}-view.webp','thumb':f'previews/{code}-thumb.webp',
                        'original':f'https://raw.githubusercontent.com/esannikov/Alive/{record["source_commit"]}/{record["source_file"]}',
                        'sourceFile':record['source_file'],
-                       'status':'Поисковый вариант','kind':'appearance', 'taskIds':record['task_ids']})
+                       'status':'Поисковый вариант','kind':'appearance', 'taskIds':record['task_ids'], 'archived':record.get('visibility')=='archived'})
     bycode = {a['code']: a for a in assets}
     data = {'objects':config['objects'],'assets':assets,'series':config['series'],
             'groups':plan['groups'],'tasks':[{'id':t['id'],'title':t['title'],'group':t['group'],'output':t['output']} for t in plan['tasks']]}
@@ -99,7 +99,7 @@ def build():
         catalog.append(f'''<details class="catalog-group" id="{g['id']}" {'open' if g['id']=='people' else ''}><summary><span>{g['title']}</span><span class="mono">{len(members)} материалов</span>{ARROW}</summary><ul>{''.join(entries)}</ul></details>''')
     page('catalog.html','Каталог',f'''<div class="page-heading"><h1>Каталог мира</h1><p>Все направления разработки — от первых образов до готовых комплектов.</p></div><div class="catalog-groups">{''.join(catalog)}</div>''')
     for o in config['objects']:
-        aa=[a for a in assets if a['object']==o['id']];current=[a for a in aa if a['series']=='current'];first=bycode[o['cover']]
+        aa=[a for a in assets if a['object']==o['id'] and not a['archived']];current=[a for a in aa if a['series']=='current'];first=bycode[o['cover']]
         tabs=''.join(f'<button class="derivative {"active" if d["id"]=="appearance" else ""}"'+(' aria-current="page"' if d['id']=='appearance' else ' disabled title="Материалы ещё не подготовлены"')+f'>{d["title"]}{f" <span class=mono>{len(current)}</span>" if d["id"]=="appearance" else ""}</button>' for d in config['derivatives'])
         series=[s for s in config['series'] if any(a['series']==s['id'] for a in aa)]
         options=''.join(f'<option value="{s["id"]}">{s["title"]} · {sum(a["series"]==s["id"] for a in aa)}</option>' for s in series)+'<option value="all">Все серии</option>'

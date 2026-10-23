@@ -42,7 +42,7 @@
     const normalize = s => s.toLocaleLowerCase('ru').replaceAll('ё','е').replace(/[^\p{L}\p{N}]+/gu,' ').trim();
     const field = $('#global-search'); field.value = new URLSearchParams(location.search).get('q') || '';
     const series = Object.fromEntries(data.series.map(s => [s.id,s.title]));
-    const entries = data.assets.map(a => ({title: `${objects[a.object].title} · ${a.title}`, meta:a.code,
+    const entries = data.assets.filter(a=>!a.archived).map(a => ({title: `${objects[a.object].title} · ${a.title}`, meta:a.code,
       text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} портрет внешность концепт`,
       note: `${series[a.series]} · поисковый вариант`, href:`characters/${a.object}/#${a.code}`,image:a.thumb,code:a.code}));
     data.tasks.forEach(t => entries.push({title:t.title,meta:'ProductionFlow',text:`${t.title} ${t.output}`,note:'Задание в плане',href:`../ProductionFlow/#task=${t.id}`}));
@@ -67,7 +67,7 @@
 
   const objectId = document.body.dataset.object;
   if (!objectId) return;
-  const assets = data.assets.filter(a=>a.object===objectId);
+  const assets = data.assets.filter(a=>a.object===objectId&&!a.archived);
   const select = $('#series-select'); let active = assets[0], comparing = false;
   const visibleAssets = () => assets.filter(a=>select.value==='all'||a.series===select.value);
   const showSeries = () => {
@@ -81,7 +81,7 @@
     showSeries();
     const img=$('#hero-image'); img.src=url(a.preview); img.alt=`${a.code}: ${a.title}`;
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
-    $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title;
+    $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
       const chosen=el.dataset.code===code;el.classList.toggle('selected',chosen);
       if(chosen)el.querySelector('.thumb-link').setAttribute('aria-current','true');else el.querySelector('.thumb-link').removeAttribute('aria-current');
@@ -90,7 +90,7 @@
     if($('#image-dialog').open) refreshDialog();
     return true;
   };
-  const step = delta => {const list=visibleAssets();const i=list.findIndex(a=>a.code===active.code);setActive(list[(i+delta+list.length)%list.length].code,true);};
+  const step = delta => {const list=visibleAssets();const i=list.findIndex(a=>a.code===active.code);setActive(list[i<0?(delta>0?0:list.length-1):(i+delta+list.length)%list.length].code,true);};
   function refreshDialog(){const img=$('#dialog-image');img.src=url(active.original);img.alt=`${active.code}: ${active.title}`;$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
@@ -121,7 +121,7 @@
   $('#compare-toggle').addEventListener('click',()=>{
     comparing=!comparing;$('#compare-toggle').setAttribute('aria-pressed',String(comparing));$('#compare-toggle').textContent=comparing?'Закрыть сравнение':'Сравнить';
     $('#compare-panel').hidden=!comparing;$('#viewer').hidden=comparing;
-    if(comparing){$('#compare-left').value=active.code;$('#compare-right').value=assets[(assets.indexOf(active)+1)%assets.length].code;updateCompare('left');updateCompare('right');}
+    if(comparing){const comparable=assets.includes(active)?active:assets[0];$('#compare-left').value=comparable.code;$('#compare-right').value=assets[(assets.indexOf(comparable)+1)%assets.length].code;updateCompare('left');updateCompare('right');}
   });
   $('#hero-image').addEventListener('error',()=>announce('Превью не загрузилось. Откройте оригинал по ссылке ниже.'));
   setActive(assets.find(a=>a.code===objects[objectId].cover).code);
