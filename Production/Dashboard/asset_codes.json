@@ -11,7 +11,8 @@
   ],
   "next_numbers": {
     "tais": 43,
-    "fedor": 21
+    "fedor": 21,
+    "moag": 37
   },
   "assets": [
     {
@@ -1518,6 +1519,870 @@
         "fedor"
       ],
       "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "moag001",
+      "object": "moag",
+      "caption": "Бастион · ракурс 1",
+      "sha256": "33be88b85e1140b2d26c889f63ecdb6d357d74e954b42cee09584aba3c51b5a5",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag001-bastion-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag001-bastion-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-bastion",
+      "visibility": "active"
+    },
+    {
+      "code": "moag002",
+      "object": "moag",
+      "caption": "Бастион · ракурс 2",
+      "sha256": "9af5ab75bfc14368aff1cebd86810d12c8068b695f4d8250742cc98d1a38b6f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag002-bastion-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag002-bastion-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag001",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-bastion",
+      "visibility": "active"
+    },
+    {
+      "code": "moag003",
+      "object": "moag",
+      "caption": "Камертон · ракурс 1",
+      "sha256": "2377fcaa5a5203b7ebdc1fa68a2d9d5a830e71507ca0192f91c5b5201a86e8cb",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag003-fork-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag003-fork-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-fork",
+      "visibility": "active"
+    },
+    {
+      "code": "moag004",
+      "object": "moag",
+      "caption": "Камертон · ракурс 2",
+      "sha256": "8694f01e1861a8bdf16b552c0bd979976d71732ab3229ae7c563f6091b4de0fd",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag004-fork-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag004-fork-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag003",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-fork",
+      "visibility": "active"
+    },
+    {
+      "code": "moag005",
+      "object": "moag",
+      "caption": "Каскад · ракурс 1",
+      "sha256": "c461955eeeff135997a31e1283b779d8446d394e8fd6e06f6492dd673b771ff6",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag005-cascade-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag005-cascade-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-cascade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag006",
+      "object": "moag",
+      "caption": "Каскад · ракурс 2",
+      "sha256": "c2d9674fa5bc5e5440a0b91ed3ca9958d284420d3179a1a78e230999380baf9a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag006-cascade-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag006-cascade-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag005",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-cascade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag007",
+      "object": "moag",
+      "caption": "Двор · ракурс 1",
+      "sha256": "bf370f74c02e9b239005d26adad5b9f1d9ff60353141429e7c46271bc859732f",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag007-courtyard-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag007-courtyard-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-courtyard",
+      "visibility": "active"
+    },
+    {
+      "code": "moag008",
+      "object": "moag",
+      "caption": "Двор · ракурс 2",
+      "sha256": "e442477db66157d79a2f57bdf00e2863736dde0b1fce4b02914f92451918d56a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag008-courtyard-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag008-courtyard-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag007",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-courtyard",
+      "visibility": "active"
+    },
+    {
+      "code": "moag009",
+      "object": "moag",
+      "caption": "Перекрёсток · ракурс 1",
+      "sha256": "57c001fb4ccb2ca7fbe573b6b0798e3be413b73f2cb00bf36220b81a2bc3da03",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag009-crossroads-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag009-crossroads-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-crossroads",
+      "visibility": "active"
+    },
+    {
+      "code": "moag010",
+      "object": "moag",
+      "caption": "Перекрёсток · ракурс 2",
+      "sha256": "6cc0ebd562b70de80451a90983cbabab998efa63791b514d5a11e32e24e7f36b",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag010-crossroads-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag010-crossroads-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag009",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-crossroads",
+      "visibility": "active"
+    },
+    {
+      "code": "moag011",
+      "object": "moag",
+      "caption": "Клин · ракурс 1",
+      "sha256": "54f0c487c2dca36a93af1a54dac0192b27e25b4ade917a2bcd47205937ee225d",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag011-wedge-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag011-wedge-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-wedge",
+      "visibility": "active"
+    },
+    {
+      "code": "moag012",
+      "object": "moag",
+      "caption": "Клин · ракурс 2",
+      "sha256": "965a2e89d9a7f0084bcd43251fd2063bb862249d5fcd5a405e3d399e11bb91df",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag012-wedge-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag012-wedge-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag011",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-wedge",
+      "visibility": "active"
+    },
+    {
+      "code": "moag013",
+      "object": "moag",
+      "caption": "Параллакс · ракурс 1",
+      "sha256": "867329328a2957690382698ca151d6a0b95a3f62e95922740045a8c8005fd968",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag013-parallax-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag013-parallax-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-parallax",
+      "visibility": "active"
+    },
+    {
+      "code": "moag014",
+      "object": "moag",
+      "caption": "Параллакс · ракурс 2",
+      "sha256": "6f1657530a131218d557064d9940eee8f93c0ae062fdb376e96d3e32e3e598f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag014-parallax-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag014-parallax-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag013",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-parallax",
+      "visibility": "active"
+    },
+    {
+      "code": "moag015",
+      "object": "moag",
+      "caption": "Комбинат · ракурс 1",
+      "sha256": "d2ef2a2382163994dea6496fc3a3caa121785f5fc6a1586e90fe5fe10f22ec08",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag015-combine-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag015-combine-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-combine",
+      "visibility": "active"
+    },
+    {
+      "code": "moag016",
+      "object": "moag",
+      "caption": "Комбинат · ракурс 2",
+      "sha256": "3b95b25a5bdc67f1f2d54705958ba274e626eb1904f5d96eec7e663da59af338",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag016-combine-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag016-combine-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag015",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-combine",
+      "visibility": "active"
+    },
+    {
+      "code": "moag017",
+      "object": "moag",
+      "caption": "Обод · ракурс 1",
+      "sha256": "bcb497d4de33f1bb5237ce2f4c846bf4fb0133a1b83751b8294bff6457cce3e0",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag017-annulus-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag017-annulus-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-annulus",
+      "visibility": "active"
+    },
+    {
+      "code": "moag018",
+      "object": "moag",
+      "caption": "Обод · ракурс 2",
+      "sha256": "8dc88b8693048d20adb2c43cd2acd2b81c2e6703b0956d40e6083a65001bdf32",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag018-annulus-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag018-annulus-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag017",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-annulus",
+      "visibility": "active"
+    },
+    {
+      "code": "moag019",
+      "object": "moag",
+      "caption": "Контур · ракурс 1",
+      "sha256": "83a0f8ae057dc47596f6446b7f0688d3dd344ac871ffccaeb50e2432cbf1746a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag019-contour-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag019-contour-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-contour",
+      "visibility": "active"
+    },
+    {
+      "code": "moag020",
+      "object": "moag",
+      "caption": "Контур · ракурс 2",
+      "sha256": "3dc1bea65a14d9ac54c38c4025cf4ae2a98854358f94522db283578af20c1ae7",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag020-contour-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag020-contour-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag019",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-contour",
+      "visibility": "active"
+    },
+    {
+      "code": "moag021",
+      "object": "moag",
+      "caption": "Монолит · ракурс 1",
+      "sha256": "1413b7526379ad9273aae55ba6f294403ce70a693188e8979295d13d8d7acf16",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag021-monolith-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag021-monolith-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-monolith",
+      "visibility": "active"
+    },
+    {
+      "code": "moag022",
+      "object": "moag",
+      "caption": "Монолит · ракурс 2",
+      "sha256": "e3864768ba62ccd102abe92b4c9d8c4134729e3df1b7d3cbea3690e0e14d7ee5",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag022-monolith-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag022-monolith-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag021",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-monolith",
+      "visibility": "active"
+    },
+    {
+      "code": "moag023",
+      "object": "moag",
+      "caption": "Аркада · ракурс 1",
+      "sha256": "b8b3ff688e65589181408ef7273fce654e4afb0874f6e8cdf3bfc722a6f5abf6",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag023-arcade-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag023-arcade-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-arcade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag024",
+      "object": "moag",
+      "caption": "Аркада · ракурс 2",
+      "sha256": "f60a67732312e1a1d27a366b594ecebb2093b939bcfd8f80ac93d12d28ece5a9",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag024-arcade-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag024-arcade-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag023",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-arcade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag025",
+      "object": "moag",
+      "caption": "Пелагос A · ракурс 1",
+      "sha256": "3cf8b7b699601d5c9ca3efbb1989d047ac564ee38846037502c6a4c864be6b14",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag025-pelagos-a-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag025-pelagos-a-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-a",
+      "visibility": "active"
+    },
+    {
+      "code": "moag026",
+      "object": "moag",
+      "caption": "Пелагос A · ракурс 2",
+      "sha256": "24112d005754418b40a54142eb490c63f4e7f7a20c3cab7b7bb6220f05b0c8c2",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag026-pelagos-a-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag026-pelagos-a-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag025",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-a",
+      "visibility": "active"
+    },
+    {
+      "code": "moag027",
+      "object": "moag",
+      "caption": "Пелагос B · ракурс 1",
+      "sha256": "c44afb4b91b6405733f8707639c3cad488503b90f572555477c72a4ae9a4726a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag027-pelagos-b-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag027-pelagos-b-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-b",
+      "visibility": "active"
+    },
+    {
+      "code": "moag028",
+      "object": "moag",
+      "caption": "Пелагос B · ракурс 2",
+      "sha256": "38781d18eb8a688ff9e6d4b7acf7987018b456b164d042c44b7b6ab9b2721420",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag028-pelagos-b-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag028-pelagos-b-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag027",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-b",
+      "visibility": "active"
+    },
+    {
+      "code": "moag029",
+      "object": "moag",
+      "caption": "Ковчег · ракурс 1",
+      "sha256": "46e6472b1e3486b3584a391d1451656c64924110dcbd4f5dd826fb20d3b110df",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag029-kovcheg-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag029-kovcheg-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-kovcheg",
+      "visibility": "active"
+    },
+    {
+      "code": "moag030",
+      "object": "moag",
+      "caption": "Ковчег · ракурс 2",
+      "sha256": "971401e5e44061d543b95ff0198c8c28c8630c99eacd1e0adbdc74e78a6365b2",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag030-kovcheg-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag030-kovcheg-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag029",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-kovcheg",
+      "visibility": "active"
+    },
+    {
+      "code": "moag031",
+      "object": "moag",
+      "caption": "Ось · ракурс 1",
+      "sha256": "7b24e17e294bf0d0425512191b6b2e9ac0c7a6faef113723d157009587b42fe1",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag031-axis-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag031-axis-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-axis",
+      "visibility": "active"
+    },
+    {
+      "code": "moag032",
+      "object": "moag",
+      "caption": "Ось · ракурс 2",
+      "sha256": "fbc277a4e35479c2719e5b283110067fe49304634b6182a7fde1f15402b1feae",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag032-axis-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag032-axis-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag031",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-axis",
+      "visibility": "active"
+    },
+    {
+      "code": "moag033",
+      "object": "moag",
+      "caption": "Гавань · ракурс 1",
+      "sha256": "8048683516bf186233de8bfc1e172299286a7c3ee4c1ec94ce0b4045c804a39f",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag033-harbor-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag033-harbor-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-harbor",
+      "visibility": "active"
+    },
+    {
+      "code": "moag034",
+      "object": "moag",
+      "caption": "Гавань · ракурс 2",
+      "sha256": "a1075b8eb164cf5dd44dfdd6d2b6d022b3ef795b6617cb02af72bfa62278262c",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag034-harbor-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag034-harbor-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag033",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-harbor",
+      "visibility": "active"
+    },
+    {
+      "code": "moag035",
+      "object": "moag",
+      "caption": "Пласты · ракурс 1",
+      "sha256": "421f3262f3bfb78db52859913dbae8c5fd4b59f9dd6a7759488e7c88bb780a3a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag035-strata-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag035-strata-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-strata",
+      "visibility": "active"
+    },
+    {
+      "code": "moag036",
+      "object": "moag",
+      "caption": "Пласты · ракурс 2",
+      "sha256": "7423752efdbcd37e9bfdf546ff99a8a0efe9f49144f78c46f45722744f4524f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag036-strata-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag036-strata-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag035",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-strata",
       "visibility": "active"
     }
   ]

@@ -11,3 +11,5 @@
 html:not(.js) .js-only{display:none!important}
 
 html:not(.js) .fallback-navigation{display:none}@media(max-width:680px){html:not(.js) .fallback-navigation{display:flex;gap:24px;padding:14px 20px;border-bottom:1px solid var(--line)}html:not(.js) #menu-toggle{display:none}.viewer-step button{min-width:44px;min-height:44px}}
+
+.object-card[data-kind="ship"] .card-image img{object-fit:contain;background:#050607}body[data-object="moag"] .hero-link img{aspect-ratio:auto}body[data-object="moag"] .thumb-link img,body[data-object="moag"] .compare-panel img{aspect-ratio:2.2/1}.variant-note{max-width:85ch;color:var(--muted);font-size:13px;line-height:1.6;margin:0 0 28px}

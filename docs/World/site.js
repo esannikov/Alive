@@ -43,8 +43,8 @@
     const field = $('#global-search'); field.value = new URLSearchParams(location.search).get('q') || '';
     const series = Object.fromEntries(data.series.map(s => [s.id,s.title]));
     const entries = data.assets.filter(a=>!a.archived).map(a => ({title: `${objects[a.object].title} · ${a.title}`, meta:a.code,
-      text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} портрет внешность концепт`,
-      note: `${series[a.series]} · поисковый вариант`, href:`characters/${a.object}/#${a.code}`,image:a.thumb,code:a.code}));
+      text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} ${objects[a.object].variant_notes?.[a.series]||''} ${objects[a.object].kind==='ship'?'корабль станция внешний облик':'портрет внешность'} концепт`,
+      note: `${series[a.series]} · поисковый вариант`, href:`${a.page||`characters/${a.object}/`}#${a.code}`,image:a.thumb,code:a.code}));
     data.tasks.forEach(t => entries.push({title:t.title,meta:'ProductionFlow',text:`${t.title} ${t.output}`,note:'Задание в плане',href:`../ProductionFlow/#task=${t.id}`}));
     const render = () => {
       const q = normalize(field.value); const parts = q.split(' ').filter(Boolean);
@@ -72,7 +72,7 @@
   const visibleAssets = () => assets.filter(a=>select.value==='all'||a.series===select.value);
   const showSeries = () => {
     document.querySelectorAll('.asset-tile').forEach(el=>{el.hidden=select.value!=='all'&&el.dataset.series!==select.value;});
-    const count=visibleAssets().length; $('#gallery-count').textContent=`${count} вариантов`;
+    const count=visibleAssets().length; $('#gallery-count').textContent=objects[objectId].kind==='ship'?`${count} кадров`:`${count} вариантов`;
   };
   const setActive = (code, push=false) => {
     const a=byCode[code]; if(!a||a.object!==objectId) return false;
@@ -81,6 +81,7 @@
     showSeries();
     const img=$('#hero-image'); img.src=url(a.preview); img.alt=`${a.code}: ${a.title}`;
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
+    if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.series]||'';
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
       const chosen=el.dataset.code===code;el.classList.toggle('selected',chosen);
@@ -94,8 +95,8 @@
   function refreshDialog(){const img=$('#dialog-image');img.src=url(active.original);img.alt=`${active.code}: ${active.title}`;$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
-    if(code&&code!=='gallery'&&!setActive(code))announce('Такой код не найден у этого персонажа.');
-    if(!code){select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery')showSeries();
+    if(code&&code!=='gallery'&&!setActive(code))announce('Такой код не найден у этого объекта.');
+    if(!code){select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery'){if(objects[objectId].kind==='ship')select.value='all';showSeries();}
   }
   document.querySelectorAll('.thumb-link').forEach(a=>a.addEventListener('click',e=>{
     e.preventDefault();setActive(a.closest('.asset-tile').dataset.code,true);

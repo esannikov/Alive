@@ -53,7 +53,7 @@ def main():
             if target.is_dir():target=target/'index.html'
             if target in parsed:assert unquote(u.fragment) in parsed[target].ids,(p,link)
     for a in data['assets']:
-        target=OUT/f'characters/{a["object"]}/index.html'
+        target=OUT/a.get('page',f'characters/{a["object"]}/')/'index.html'
         assert (a['code'] in parsed[target.resolve()].ids) == (not a.get('archived',False))
     flow=(ROOT/'docs/ProductionFlow/index.html').read_text()
     mapping=json.loads(re.search(r'const WORLD_LINKS=(.*?);\n',flow)[1])
