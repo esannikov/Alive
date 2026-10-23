@@ -1618,30 +1618,6 @@
       "visibility": "active"
     },
     {
-      "code": "moag005",
-      "object": "moag",
-      "caption": "Каскад · ракурс 1",
-      "sha256": "c461955eeeff135997a31e1283b779d8446d394e8fd6e06f6492dd673b771ff6",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag005-cascade-front.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag005-cascade-front.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-cascade",
-      "visibility": "active"
-    },
-    {
       "code": "moag006",
       "object": "moag",
       "caption": "Каскад · ракурс 2",
@@ -1711,30 +1687,6 @@
         "hull"
       ],
       "series": "moag-courtyard",
-      "visibility": "active"
-    },
-    {
-      "code": "moag009",
-      "object": "moag",
-      "caption": "Перекрёсток · ракурс 1",
-      "sha256": "57c001fb4ccb2ca7fbe573b6b0798e3be413b73f2cb00bf36220b81a2bc3da03",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag009-crossroads-front.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag009-crossroads-front.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-crossroads",
       "visibility": "active"
     },
     {
@@ -2385,5 +2337,9 @@
       "series": "moag-strata",
       "visibility": "active"
     }
+  ],
+  "deleted_codes": [
+    "moag005",
+    "moag009"
   ]
 }

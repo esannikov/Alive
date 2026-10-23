@@ -19,12 +19,16 @@ def main():
     data=json.loads((OUT/'data.js').read_text().removeprefix('window.ALIVE_WORLD=').strip().removesuffix(';'))
     codes=[a['code'] for a in registry['assets']]
     assert len(codes)==len(set(codes)) and codes
+    assert not set(codes).intersection(registry.get('deleted_codes',[])), 'Deleted code was reused'
+    assert data.get('deletedCodes',[])==registry.get('deleted_codes',[])
     assert codes==[a['code'] for a in data['assets']], 'Code ordering changed'
     for a in registry['assets']:
         assert re.fullmatch(r'[a-z]+\d{3,}',a['code'])
         assert hashlib.sha256((ROOT/a['source_file']).read_bytes()).hexdigest()==a['sha256'], a['code']
     for a in data['assets']:
         assert (ROOT/a['sourceFile']).is_file()
+        display=(OUT/a['display']).resolve()
+        assert display==(ROOT/a['sourceFile']).resolve() and display.is_relative_to(ROOT/'docs')
         assert a['original'].startswith('https://raw.githubusercontent.com/esannikov/Alive/')
         assert (OUT/a['preview']).is_file() and (OUT/a['thumb']).is_file()
     tasks={t['id'] for t in data['tasks']}

@@ -19,9 +19,7 @@
     },
     {
       "id": "cascade",
-      "front": "moag005",
       "second_view": "moag006",
-      "front_revision": 4,
       "second_revision": 4
     },
     {
@@ -33,9 +31,7 @@
     },
     {
       "id": "crossroads",
-      "front": "moag009",
       "second_view": "moag010",
-      "front_revision": 4,
       "second_revision": 4
     },
     {
@@ -129,5 +125,9 @@
       "front_revision": 4,
       "second_revision": 4
     }
+  ],
+  "removed_codes": [
+    "moag005",
+    "moag009"
   ]
 }
