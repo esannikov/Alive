@@ -54,7 +54,7 @@ def main():
             if target in parsed:assert unquote(u.fragment) in parsed[target].ids,(p,link)
     for a in data['assets']:
         target=OUT/f'characters/{a["object"]}/index.html'
-        assert a['code'] in parsed[target.resolve()].ids
+        assert (a['code'] in parsed[target.resolve()].ids) == (not a.get('archived',False))
     flow=(ROOT/'docs/ProductionFlow/index.html').read_text()
     mapping=json.loads(re.search(r'const WORLD_LINKS=(.*?);\n',flow)[1])
     assert set(mapping)<=tasks
@@ -63,5 +63,5 @@ def main():
     for filename in ['site.js','data.js']:
         subprocess.run(['node','--check',str(OUT/filename)],check=True)
     for name in ['Onest','IBMPlexMono']:assert 'SIL OPEN FONT LICENSE' in (OUT/f'fonts/OFL-{name}.txt').read_text()
-    print(json.dumps({'status':'PASS','pages':len(pages),'codes':len(codes),'tasks':len(tasks),'bidirectional_task_links':len(mapping),'source_hashes':'match'},ensure_ascii=False))
+    print(json.dumps({'status':'PASS','pages':len(pages),'codes':len(codes),'active_images':sum(not a.get('archived',False) for a in data['assets']),'tasks':len(tasks),'bidirectional_task_links':len(mapping),'source_hashes':'match'},ensure_ascii=False))
 if __name__=='__main__':main()
