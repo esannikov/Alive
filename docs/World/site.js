@@ -76,12 +76,57 @@
     document.querySelectorAll('.asset-tile').forEach(el=>{el.hidden=select.value!=='all'&&el.dataset.series!==select.value;});
     const count=visibleAssets().length; $('#gallery-count').textContent=objects[objectId].kind==='ship'?`${count} кадров`:`${count} вариантов`;
   };
+  const imageCache=new Map(), imageStates=new WeakMap();
+  function prepareImage(a){
+    const src=url(a.display||a.original);
+    if(imageCache.has(src))return imageCache.get(src);
+    const picture=new Image(); picture.decoding='async';
+    const promise=new Promise((resolve,reject)=>{
+      picture.onload=async()=>{try{if(picture.decode)await picture.decode();resolve(picture);}catch(error){imageCache.delete(src);reject(error);}};
+      picture.onerror=()=>{imageCache.delete(src);reject(new Error('image-load'));};
+    });
+    imageCache.set(src,promise);picture.src=src;
+    while(imageCache.size>8)imageCache.delete(imageCache.keys().next().value);
+    return promise;
+  }
+  function prefetch(a){
+    const connection=navigator.connection;
+    if(!a||connection?.saveData||['slow-2g','2g'].includes(connection?.effectiveType))return;
+    prepareImage(a).catch(()=>{});
+  }
+  async function loadPicture(img,a){
+    let state=imageStates.get(img);
+    if(!state){
+      const stage=document.createElement('div');stage.className='media-stage';
+      img.parentNode.insertBefore(stage,img);stage.append(img);
+      const message=document.createElement('span');message.className='media-status';message.setAttribute('role','status');message.setAttribute('aria-live','polite');message.hidden=true;stage.append(message);
+      state={sequence:0,stage,message,code:null,status:'idle'};imageStates.set(img,state);
+    }
+    const sequence=++state.sequence,src=url(a.display||a.original);state.code=a.code;
+    if(img.complete&&img.naturalWidth>0&&img.currentSrc===src){state.status='ready';state.stage.dataset.state='ready';img.style.visibility='visible';img.removeAttribute('aria-busy');state.message.hidden=true;return true;}
+    state.status='loading';state.stage.dataset.state='loading';
+    img.style.visibility='hidden';img.setAttribute('aria-busy','true');
+    state.message.textContent=`Загрузка ${a.code}…`;state.message.hidden=false;
+    try{
+      await prepareImage(a);
+      if(state.sequence!==sequence)return false;
+      img.src=src;img.alt=`${a.code}: ${a.title}`;
+      if(img.decode)await img.decode();
+      if(state.sequence!==sequence)return false;
+      img.style.visibility='visible';img.removeAttribute('aria-busy');state.message.hidden=true;state.status='ready';state.stage.dataset.state='ready';return true;
+    }catch(_){
+      if(state.sequence!==sequence)return false;
+      img.style.visibility='hidden';img.removeAttribute('aria-busy');state.status='error';state.stage.dataset.state='error';
+      state.message.textContent=`Не удалось загрузить ${a.code}. Выберите кадр ещё раз или откройте оригинал.`;return false;
+    }
+  }
   const setActive = (code, push=false) => {
     const a=byCode[code]; if(!a||a.object!==objectId) return false;
     active=a;
     if(select&&select.value!=='all'&&select.value!==a.series) select.value=a.series;
     showSeries();
-    const img=$('#hero-image'); img.src=url(a.original); img.alt=`${a.code}: ${a.title}`;
+    const img=$('#hero-image');
+    loadPicture(img,a).then(ready=>{if(ready&&active.code===a.code){const next=assets.find(item=>item.series===a.series&&item.code!==a.code);prefetch(next);}});
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
     if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.series]||'';
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
@@ -91,26 +136,36 @@
     });
     document.querySelectorAll('.ship-view-link').forEach(link=>{if(link.dataset.code===code)link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
     const pair=assets.filter(item=>item.series===a.series);
-    document.querySelectorAll('[data-angle]').forEach(button=>button.setAttribute('aria-pressed',String(pair[Number(button.dataset.angle)]?.code===code)));
+    document.querySelectorAll('[data-angle]').forEach(button=>{const item=pair[Number(button.dataset.angle)];button.hidden=!item;button.disabled=!item;if(item){button.textContent=item.title.split('·').pop().trim().replace(/^ракурс/i,'Ракурс');button.setAttribute('aria-pressed',String(item.code===code));}});
+    for(const id of ['previous-image','next-image','dialog-previous','dialog-next']){const button=$('#'+id);if(button)button.disabled=visibleAssets().length<2;}
+    if($('.dialog-navigation'))$('.dialog-navigation').hidden=visibleAssets().length<2;
     if(push){const dest=new URL(location.href);dest.hash=code;history.pushState({code},'',dest);}
     if($('#image-dialog').open) refreshDialog();
     return true;
   };
   const step = delta => {const list=visibleAssets();const i=list.findIndex(a=>a.code===active.code);setActive(list[i<0?(delta>0?0:list.length-1):(i+delta+list.length)%list.length].code,true);};
-  function refreshDialog(){const img=$('#dialog-image');img.src=url(active.original);img.alt=`${active.code}: ${active.title}`;$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
+  function refreshDialog(){const img=$('#dialog-image');loadPicture(img,active);$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
-    if(code&&code!=='gallery'&&!setActive(code))announce('Такой код не найден у этого объекта.');
+    if(code&&code!=='gallery'&&!setActive(code)){announce((data.deletedCodes||[]).includes(code)?`Кадр ${code} удалён из галереи.`:'Такой код не найден у этого объекта.');const u=new URL(location.href);u.hash=objects[objectId].cover;history.replaceState(null,'',u);setActive(objects[objectId].cover);}
     if(!code){if(select)select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery'){if(select&&isShip)select.value='all';showSeries();}
   }
   document.querySelectorAll('.thumb-link, .ship-view-link').forEach(a=>a.addEventListener('click',e=>{
     if(e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;
     e.preventDefault();setActive(a.dataset.code||a.closest('.asset-tile').dataset.code,true);
-    if(!comparing){$('#viewer').scrollIntoView({block:'start',behavior:'auto'});}
+    if(isShip&&!comparing){refreshDialog();$('#image-dialog').showModal();}
+
   }));
+  let hoverTimer;
+  document.querySelectorAll('.thumb-link, .ship-view-link').forEach(link=>{
+    const warm=()=>prefetch(byCode[link.dataset.code||link.closest('.asset-tile').dataset.code]);
+    link.addEventListener('pointerenter',()=>{clearTimeout(hoverTimer);hoverTimer=setTimeout(warm,100);});
+    link.addEventListener('pointerleave',()=>clearTimeout(hoverTimer));link.addEventListener('focus',warm);link.addEventListener('pointerdown',warm);
+  });
   select?.addEventListener('change',()=>{showSeries();setActive(visibleAssets()[0].code,true);});
   document.querySelectorAll('[data-angle]').forEach(button=>button.addEventListener('click',()=>{const pair=assets.filter(a=>a.series===active.series);const a=pair[Number(button.dataset.angle)];if(a)setActive(a.code,true);}));
   $('#previous-image').addEventListener('click',()=>step(-1));$('#next-image').addEventListener('click',()=>step(1));
+  $('#dialog-previous')?.addEventListener('click',()=>step(-1));$('#dialog-next')?.addEventListener('click',()=>step(1));
   $('#copy-code').addEventListener('click',()=>copy(active.code));
   $('#copy-link').addEventListener('click',()=>{const u=new URL(location.href);u.hash=active.code;copy(u.href);});
   $('#enlarge').addEventListener('click',()=>{refreshDialog();$('#image-dialog').showModal();});
@@ -125,7 +180,7 @@
     assets.forEach(a=>{const opt=document.createElement('option');opt.value=a.code;opt.textContent=`${a.code} · ${a.title}`;picker.append(opt);});
     picker.addEventListener('change',()=>updateCompare(side));
   }
-  function updateCompare(side){const a=byCode[$('#compare-'+side).value];const img=$('#compare-image-'+side);img.src=url(a.original);img.alt=`${a.code}: ${a.title}`;$('#compare-caption-'+side).textContent=`${a.code} · ${a.title}`;}
+  function updateCompare(side){const a=byCode[$('#compare-'+side).value];const img=$('#compare-image-'+side);loadPicture(img,a);$('#compare-caption-'+side).textContent=`${a.code} · ${a.title}`;}
   $('#compare-toggle').addEventListener('click',()=>{
     comparing=!comparing;$('#compare-toggle').setAttribute('aria-pressed',String(comparing));$('#compare-toggle').textContent=comparing?'Закрыть сравнение':'Сравнить';
     $('#compare-panel').hidden=!comparing;$('#viewer').hidden=comparing;
