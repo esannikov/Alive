@@ -13,7 +13,8 @@
     "tais": 43,
     "fedor": 21,
     "moag": 37,
-    "emma": 7
+    "emma": 7,
+    "kolka": 7
   },
   "assets": [
     {
@@ -2526,6 +2527,150 @@
       "task_ids": [
         "emma",
         "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka001",
+      "object": "kolka",
+      "caption": "Узкое лицо",
+      "sha256": "e28327a25763c3f7004c673be20ab54a71cf23e0cc274a60bca4a5e3bb5bca27",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka001.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka001.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka002",
+      "object": "kolka",
+      "caption": "Широкая челюсть",
+      "sha256": "f62feda9fec3dcc7e3041e805031fea4752e4848856305bcc8c744c06d20ca75",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka002.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka002.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka003",
+      "object": "kolka",
+      "caption": "Острые черты",
+      "sha256": "bd8d8445894f0444b0235c50ed6b4ffc0067126b14046e5f7c75e97bdce87a77",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka003.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka003.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka004",
+      "object": "kolka",
+      "caption": "Выраженная переносица",
+      "sha256": "73b3cda47cb3302a1b3c523c8afd6c34e18b0ffb1e9e04029165eb99b6020313",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka004.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka004.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka005",
+      "object": "kolka",
+      "caption": "Мягче по характеру",
+      "sha256": "452081c71a5d26882436752be717f3fbd9bfb614c2a7daf62f13047ea7aeb51d",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka005.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka005.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka006",
+      "object": "kolka",
+      "caption": "Тяжёлый взгляд",
+      "sha256": "410a8c75c2730875315001cd01f705e643af3e2a0bb5d03d814c0b3d2d21b2bf",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka006.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka006.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
       ],
       "series": "current",
       "visibility": "active"
