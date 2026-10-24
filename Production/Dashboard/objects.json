@@ -4,9 +4,9 @@
       "id": "tais",
       "title": "Таис",
       "group": "people",
-      "cover": "tais001",
+      "cover": "tais009",
       "default_series": "current",
-      "summary": "9 типажей · сравнение версий",
+      "summary": "3 варианта в подборке",
       "task_ids": [
         "tais",
         "costume",
@@ -36,7 +36,7 @@
       "group": "people",
       "cover": "emma001",
       "default_series": "current",
-      "summary": "6 вариантов внешности · до побега",
+      "summary": "2 варианта и 1 предварительный",
       "task_ids": [
         "emma",
         "character-concepts"
@@ -64,7 +64,7 @@
       "group": "people",
       "cover": "fedor009",
       "default_series": "current",
-      "summary": "Ориентир и 5 новых вариантов",
+      "summary": "Ориентир и 2 варианта для проверки",
       "task_ids": [
         "fedor",
         "costume",

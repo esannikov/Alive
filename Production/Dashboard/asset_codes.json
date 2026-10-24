@@ -39,7 +39,9 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
       "code": "tais002",
@@ -62,7 +64,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "tais003",
@@ -85,7 +88,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "tais004",
@@ -108,7 +112,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "tais005",
@@ -131,7 +136,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "tais006",
@@ -154,7 +160,9 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
       "code": "tais007",
@@ -177,7 +185,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "tais008",
@@ -200,7 +209,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "archived"
     },
     {
       "code": "tais009",
@@ -223,7 +233,9 @@
         "tais",
         "character-concepts"
       ],
-      "series": "current"
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
       "code": "tais010",
@@ -248,7 +260,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais011",
@@ -273,7 +286,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais012",
@@ -298,7 +312,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais013",
@@ -323,7 +338,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais014",
@@ -348,7 +364,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais015",
@@ -373,7 +390,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais016",
@@ -398,7 +416,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais017",
@@ -423,7 +442,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais018",
@@ -448,7 +468,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "soft"
+      "series": "soft",
+      "visibility": "archived"
     },
     {
       "code": "tais019",
@@ -473,7 +494,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais020",
@@ -498,7 +520,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais021",
@@ -523,7 +546,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais022",
@@ -548,7 +572,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais023",
@@ -573,7 +598,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais024",
@@ -598,7 +624,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais025",
@@ -623,7 +650,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais026",
@@ -648,7 +676,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais027",
@@ -673,7 +702,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "original"
+      "series": "original",
+      "visibility": "archived"
     },
     {
       "code": "tais028",
@@ -701,7 +731,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais029",
@@ -729,7 +760,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais030",
@@ -757,7 +789,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais031",
@@ -785,7 +818,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais032",
@@ -813,7 +847,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais033",
@@ -841,7 +876,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais034",
@@ -869,7 +905,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais035",
@@ -897,7 +934,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais036",
@@ -925,7 +963,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais037",
@@ -953,7 +992,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais038",
@@ -981,7 +1021,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais039",
@@ -1009,7 +1050,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais040",
@@ -1037,7 +1079,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais041",
@@ -1065,7 +1108,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "tais042",
@@ -1093,7 +1137,8 @@
         "tais",
         "character-concepts"
       ],
-      "series": "models"
+      "series": "models",
+      "visibility": "archived"
     },
     {
       "code": "fedor001",
@@ -1301,7 +1346,8 @@
       ],
       "series": "current",
       "visibility": "active",
-      "selection_note": "Понравился продюсеру по сообщению пользователя 23.10.2026; ориентир для новой подборки, не принятие полного комплекта."
+      "selection_note": "Понравился продюсеру по сообщению пользователя 23.10.2026; ориентир для новой подборки, не принятие полного комплекта.",
+      "producer_review_note": "Основной предпочитаемый ориентир по отзыву продюсера, переданному пользователем 24.10.2026; это не принятие полного комплекта."
     },
     {
       "code": "fedor010",
@@ -1468,7 +1514,7 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "fedor017",
@@ -1492,7 +1538,8 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "producer_review_note": "Оставлен для возможной дополнительной пробы с переданным визуальным референсом. Новая генерация не выполнялась."
     },
     {
       "code": "fedor018",
@@ -1516,7 +1563,8 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
     },
     {
       "code": "fedor019",
@@ -1540,7 +1588,7 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "fedor020",
@@ -1564,7 +1612,7 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "moag001",
@@ -2405,7 +2453,8 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
       "code": "emma002",
@@ -2430,7 +2479,8 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
     },
     {
       "code": "emma003",
@@ -2455,7 +2505,8 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
       "code": "emma004",
@@ -2480,7 +2531,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "emma005",
@@ -2505,7 +2556,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "emma006",
@@ -2530,7 +2581,8 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "producer_review_note": "Убран из подборки Эммы. Сохранён как возможный образ для одной из девочек с базы с последующим изменением цвета волос и глаз; персонаж не назначен, изображение не изменено."
     },
     {
       "code": "kolka001",
