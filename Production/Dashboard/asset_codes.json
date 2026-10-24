@@ -15,7 +15,8 @@
     "moag": 37,
     "emma": 7,
     "kolka": 7,
-    "lon": 11
+    "lon": 11,
+    "don": 7
   },
   "assets": [
     {
@@ -3038,6 +3039,150 @@
       "renditions": [],
       "task_ids": [
         "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don001",
+      "object": "don15",
+      "caption": "Бастион · бронетанковый",
+      "sha256": "486e31c99dd24df0a9c5f60288b9cb8d08766f66ce87cf4549c4f96c8610e012",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don001.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don001.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don002",
+      "object": "don15",
+      "caption": "Клин · стелс",
+      "sha256": "a281132e971e9ca7715d0347edee53757cf0caea394783f41dddc122bbc1978f",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don002.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don002.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don003",
+      "object": "don15",
+      "caption": "Пресс · индустриальный",
+      "sha256": "63af1b14040902613a94513ae93671e5cb7c79d3ce42f22dd981baba7137e2ec",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don003.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don003.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don004",
+      "object": "don15",
+      "caption": "Караул · монументальный",
+      "sha256": "eaa0c8bfa02584b57ebd8146bc5ad526c10ae4b1c304f01df34f2932532f136b",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don004.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don004.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don005",
+      "object": "don15",
+      "caption": "Сухожилие · механический",
+      "sha256": "d589ad91c1653f0bb66da0ec6e0f736156db234c101147652d184fdcef2fee52",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don005.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don005.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don006",
+      "object": "don15",
+      "caption": "Ноль · стерильный минимализм",
+      "sha256": "e3af7a358139b68cb8a482af1e195ecdc8bd79a75b629a2f58917a7d7269f25f",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don006.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don006.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
       ],
       "series": "current",
       "visibility": "active"
