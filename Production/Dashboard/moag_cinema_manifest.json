@@ -1,0 +1,133 @@
+{
+  "tool": "built-in ImageGen",
+  "date": "2026-10-23",
+  "publication": "docs/World/ships/moag/",
+  "variants": [
+    {
+      "id": "bastion",
+      "front": "moag001",
+      "second_view": "moag002",
+      "front_revision": 2,
+      "second_revision": 2
+    },
+    {
+      "id": "fork",
+      "front": "moag003",
+      "second_view": "moag004",
+      "front_revision": 3,
+      "second_revision": 3
+    },
+    {
+      "id": "cascade",
+      "second_view": "moag006",
+      "second_revision": 4
+    },
+    {
+      "id": "courtyard",
+      "front": "moag007",
+      "second_view": "moag008",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "crossroads",
+      "second_view": "moag010",
+      "second_revision": 4
+    },
+    {
+      "id": "wedge",
+      "front": "moag011",
+      "second_view": "moag012",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "parallax",
+      "front": "moag013",
+      "second_view": "moag014",
+      "front_revision": 7,
+      "second_revision": 7
+    },
+    {
+      "id": "combine",
+      "front": "moag015",
+      "second_view": "moag016",
+      "front_revision": 4,
+      "second_revision": 5
+    },
+    {
+      "id": "annulus",
+      "front": "moag017",
+      "second_view": "moag018",
+      "front_revision": 5,
+      "second_revision": 5
+    },
+    {
+      "id": "contour",
+      "front": "moag019",
+      "second_view": "moag020",
+      "front_revision": 5,
+      "second_revision": 5
+    },
+    {
+      "id": "monolith",
+      "front": "moag021",
+      "second_view": "moag022",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "arcade",
+      "front": "moag023",
+      "second_view": "moag024",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "pelagos-a",
+      "front": "moag025",
+      "second_view": "moag026",
+      "front_revision": 6,
+      "second_revision": 6
+    },
+    {
+      "id": "pelagos-b",
+      "front": "moag027",
+      "second_view": "moag028",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "kovcheg",
+      "front": "moag029",
+      "second_view": "moag030",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "axis",
+      "front": "moag031",
+      "second_view": "moag032",
+      "front_revision": 6,
+      "second_revision": 6
+    },
+    {
+      "id": "harbor",
+      "front": "moag033",
+      "second_view": "moag034",
+      "front_revision": 4,
+      "second_revision": 4
+    },
+    {
+      "id": "strata",
+      "front": "moag035",
+      "second_view": "moag036",
+      "front_revision": 4,
+      "second_revision": 4
+    }
+  ],
+  "removed_codes": [
+    "moag005",
+    "moag009"
+  ]
+}

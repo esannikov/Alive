@@ -1,0 +1,3363 @@
+{
+  "version": 1,
+  "created": "2026-10-23",
+  "repository": "esannikov/Alive",
+  "scope": "Published assets of the ALIVE static World dashboard. Stable codes are never renumbered.",
+  "rules": [
+    "Never renumber or reuse assigned codes.",
+    "One exact asset keeps its code across galleries.",
+    "Reworked images receive new codes; record relationship separately.",
+    "Future prefixes are unique per object."
+  ],
+  "next_numbers": {
+    "tais": 43,
+    "fedor": 24,
+    "moag": 37,
+    "emma": 7,
+    "kolka": 7,
+    "lon": 11,
+    "don": 20
+  },
+  "assets": [
+    {
+      "code": "tais001",
+      "object": "tais",
+      "caption": "Усиленная версия: Узкое угловатое лицо",
+      "sha256": "7623758c0e29efa8ae80d68ea4c0f5333c04d30e7ddfb50c000e7327831caef7",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-01.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-01.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "tais002",
+      "object": "tais",
+      "caption": "Усиленная версия: Компактное округлое лицо",
+      "sha256": "cc73f854572e15485db6474a04a8d243d026408eece7cc0a14495d6fe98ea79a",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-02.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-02.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais003",
+      "object": "tais",
+      "caption": "Усиленная версия: Широкая челюсть",
+      "sha256": "0d7d9b69b83053a87b82c0c1740fdacab13b666980358a56db058e1304b84a6b",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-03.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-03.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais004",
+      "object": "tais",
+      "caption": "Усиленная версия: Сердцевидное лицо",
+      "sha256": "45069f593e57d5539a9181ae5284ba07bfb160f70e9742fea8c52b97dcd72f62",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-04-v2.png",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-04-v2.png"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais005",
+      "object": "tais",
+      "caption": "Усиленная версия: Овальное лицо",
+      "sha256": "872e265fd32fa38dfdf53e46a90f3fca64c6f7abcd334cd655d55e1bab201287",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-05.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-05.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais006",
+      "object": "tais",
+      "caption": "Усиленная версия: Ромбовидное лицо",
+      "sha256": "8de67092561be439ead9805d06e95d070a1b7b778b8b7315e4c43a5a20e1830d",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-06.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-06.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "tais007",
+      "object": "tais",
+      "caption": "Усиленная версия: Широкий мягкий овал",
+      "sha256": "d015134563567cc0bce67398a483b9d6cbce073080314dfba4cf310bdf17eafc",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-07.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-07.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais008",
+      "object": "tais",
+      "caption": "Усиленная версия: Удлинённый мягкий овал",
+      "sha256": "4690e594973fed761aefadbdee0e137fa22fc33694fb9cb8842c49e49a3a45e9",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-08-v2.png",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-08-v2.png"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais009",
+      "object": "tais",
+      "caption": "Усиленная версия: Прямоугольное лицо",
+      "sha256": "7c60cd98d4dffc56c2c883997d91f4455aadc64ad7141c73e62f77da828753ee",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-strong-09.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-strong-09.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "tais010",
+      "object": "tais",
+      "caption": "Мягкое смешение: Узкое угловатое лицо",
+      "sha256": "127cc3f06940317da764d0d7bdfe4c99ca574fa43b05f85429aec371e73379f6",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-01.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-01.jpg",
+        "docs/TaisBella/images/tais-bella-01.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais011",
+      "object": "tais",
+      "caption": "Мягкое смешение: Компактное округлое лицо",
+      "sha256": "bbad3b61ccc7bcc8b6c963de625ddff5c4c65bbe7b3219deefcfe15247d9b70c",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-02.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-02.jpg",
+        "docs/TaisBella/images/tais-bella-02.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais012",
+      "object": "tais",
+      "caption": "Мягкое смешение: Широкая челюсть",
+      "sha256": "10622eaa3682130bf9be1fa74afd78a3ef2753a8916ef27c5170a8ce8df023e2",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-03.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-03.jpg",
+        "docs/TaisBella/images/tais-bella-03.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais013",
+      "object": "tais",
+      "caption": "Мягкое смешение: Сердцевидное лицо",
+      "sha256": "83710ca695958c506190c0713e973964f5415bdac8397428e43cfe665bdb7985",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-04.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-04.jpg",
+        "docs/TaisBella/images/tais-bella-04.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais014",
+      "object": "tais",
+      "caption": "Мягкое смешение: Овальное лицо",
+      "sha256": "2d114cb357f164d8ffe7fce604e7a09ff2d7681c3ccca4a331df2447b408e7dc",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-05.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-05.jpg",
+        "docs/TaisBella/images/tais-bella-05.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais015",
+      "object": "tais",
+      "caption": "Мягкое смешение: Ромбовидное лицо",
+      "sha256": "123d36e04c2a866fb8526227a5fc6354861215da8d287c5f38119a9c642f5a63",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-06.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-06.jpg",
+        "docs/TaisBella/images/tais-bella-06.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais016",
+      "object": "tais",
+      "caption": "Мягкое смешение: Широкий мягкий овал",
+      "sha256": "df5bd5c0e07b2426081ec39ef0a8c1b06887f3a711db0782c7c3550b79a55448",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-07.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-07.jpg",
+        "docs/TaisBella/images/tais-bella-07.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais017",
+      "object": "tais",
+      "caption": "Мягкое смешение: Удлинённый мягкий овал",
+      "sha256": "a1dddf4010d1c93f06f2f8ba0f8441f7757b0bdb2df229bee718971fab4c000e",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-08.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-08.jpg",
+        "docs/TaisBella/images/tais-bella-08.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais018",
+      "object": "tais",
+      "caption": "Мягкое смешение: Прямоугольное лицо",
+      "sha256": "333dcd9938d2b0df67fbad5ecfb190b6a4a8efbe7928351b4e68e20401c83fab",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBellaStrong/images/tais-soft-09.jpg",
+      "aliases": [
+        "docs/TaisBellaStrong/images/tais-soft-09.jpg",
+        "docs/TaisBella/images/tais-bella-09.jpg"
+      ],
+      "galleries": [
+        "TaisBellaStrong",
+        "TaisBella"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "soft",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais019",
+      "object": "tais",
+      "caption": "Исходная Таис: Узкое угловатое лицо",
+      "sha256": "c2e6d1c5376cdc2779a7c0dd89cb03cc412a329a9b566b0d0ac91f2fa973a46e",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-01.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-01.jpg",
+        "docs/TaisSeven/images/tais-01.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais020",
+      "object": "tais",
+      "caption": "Исходная Таис: Компактное округлое лицо",
+      "sha256": "bec15f6a38e05fc993f382529b77b3e17bc899b80666b3e8f3a3778bc7aac69c",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-02.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-02.jpg",
+        "docs/TaisSeven/images/tais-02.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais021",
+      "object": "tais",
+      "caption": "Исходная Таис: Широкая челюсть",
+      "sha256": "78c6003b00abc4dd568d6454619fae02e0b2a751ac70603059b80c7eea1172ea",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-03.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-03.jpg",
+        "docs/TaisSeven/images/tais-03.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais022",
+      "object": "tais",
+      "caption": "Исходная Таис: Сердцевидное лицо",
+      "sha256": "386e267b275c322cd5e8a54137a7c77da74e2dd58f1b85f7adf0c0a13caa8f87",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-04.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-04.jpg",
+        "docs/TaisSeven/images/tais-04.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais023",
+      "object": "tais",
+      "caption": "Исходная Таис: Овальное лицо",
+      "sha256": "2f94da3bf90d0eb1a9311cf63457848a99619c4d692ff93769965c3c9f962018",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-05.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-05.jpg",
+        "docs/TaisSeven/images/tais-05-v2.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais024",
+      "object": "tais",
+      "caption": "Исходная Таис: Ромбовидное лицо",
+      "sha256": "e770d884a057f629082991eaf9d99217e533c61555b42abceaa2a99e39e9a062",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-06.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-06.jpg",
+        "docs/TaisSeven/images/tais-06.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais025",
+      "object": "tais",
+      "caption": "Исходная Таис: Широкий мягкий овал",
+      "sha256": "dd5fbd1556f603e11f28f221a5bd19c24d401588dcf7566b81bf1e3da3b4cdcb",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-07.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-07.jpg",
+        "docs/TaisSeven/images/tais-07.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais026",
+      "object": "tais",
+      "caption": "Исходная Таис: Трапециевидное лицо",
+      "sha256": "5cd59b904acc778874a672b1181c1849bbbe0fcb998f537c1912367312b8095c",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-08.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-08.jpg",
+        "docs/TaisSeven/images/tais-08.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais027",
+      "object": "tais",
+      "caption": "Исходная Таис: Прямоугольное лицо",
+      "sha256": "9858bca019544744a0b227288410b6b3b30a1a3eae53b07124f879ce086597b0",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisBella/images/tais-original-09.jpg",
+      "aliases": [
+        "docs/TaisBella/images/tais-original-09.jpg",
+        "docs/TaisSeven/images/tais-09.jpg"
+      ],
+      "galleries": [
+        "TaisBella",
+        "TaisSeven"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "original",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais028",
+      "object": "tais",
+      "caption": "Таис — Nano Banana 2.1: исходный портрет",
+      "sha256": "67a560cf6589ddb8271e0cf8e5b282edf45f305d080dff549c4a9d1cf0f8a343",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/nano-banana-21-portrait.png",
+      "aliases": [
+        "docs/TaisModels/images/nano-banana-21-portrait.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/nano-banana-21-portrait.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais029",
+      "object": "tais",
+      "caption": "Таис — Nano Banana 2.1: цитрусовый сад",
+      "sha256": "3a8077441d9e176994e1cc42a5b101a579f8f766a423413154f94db0aef1e398",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/nano-banana-21-garden.png",
+      "aliases": [
+        "docs/TaisModels/images/nano-banana-21-garden.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/nano-banana-21-garden.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais030",
+      "object": "tais",
+      "caption": "Таис — Nano Banana 2.1: у автомата",
+      "sha256": "c5813b0d4aa29fcb459ed6a4531e555542cdd3b825ea23c634fb071a0ea5fd69",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/nano-banana-21-bars.png",
+      "aliases": [
+        "docs/TaisModels/images/nano-banana-21-bars.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/nano-banana-21-bars.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais031",
+      "object": "tais",
+      "caption": "Таис — Seedream 5 Pro: исходный портрет",
+      "sha256": "bfdf938040232ab8be15156daa2b9fba3c4695666cc98a5e95dc985ef716a241",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/seedream-5-pro-portrait.png",
+      "aliases": [
+        "docs/TaisModels/images/seedream-5-pro-portrait.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/seedream-5-pro-portrait.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais032",
+      "object": "tais",
+      "caption": "Таис — Seedream 5 Pro: цитрусовый сад",
+      "sha256": "b4d2263f64c55d731a4966f1c953ac94e8173edba09365f65dcea0ed9a4739cf",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/seedream-5-pro-garden.png",
+      "aliases": [
+        "docs/TaisModels/images/seedream-5-pro-garden.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/seedream-5-pro-garden.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais033",
+      "object": "tais",
+      "caption": "Таис — Seedream 5 Pro: у автомата",
+      "sha256": "def38723fe8b038a3f2d4ac10f386082abc32b9738484276e4cf2efea50de307",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/seedream-5-pro-bars.png",
+      "aliases": [
+        "docs/TaisModels/images/seedream-5-pro-bars.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/seedream-5-pro-bars.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais034",
+      "object": "tais",
+      "caption": "Таис — GPT Image 2: исходный портрет",
+      "sha256": "63364650027e42e153110027905d8251da60471acb5a7bf53c8cb152725b4cb3",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/gpt-image-2-portrait.png",
+      "aliases": [
+        "docs/TaisModels/images/gpt-image-2-portrait.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/gpt-image-2-portrait.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais035",
+      "object": "tais",
+      "caption": "Таис — GPT Image 2: цитрусовый сад",
+      "sha256": "eef3ec4347bf5c40e3b6b13a2c5d6f3022d9b387ded509e528b9170fe0ad02fe",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/gpt-image-2-garden.png",
+      "aliases": [
+        "docs/TaisModels/images/gpt-image-2-garden.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/gpt-image-2-garden.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais036",
+      "object": "tais",
+      "caption": "Таис — GPT Image 2: у автомата",
+      "sha256": "f878e4f02d6e5c73f01659f94e974d9f3e05ac054b66a8edfe205c546b2de34f",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/gpt-image-2-bars.png",
+      "aliases": [
+        "docs/TaisModels/images/gpt-image-2-bars.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/gpt-image-2-bars.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais037",
+      "object": "tais",
+      "caption": "Таис — GPT Image 2.5 Sunburst: исходный портрет",
+      "sha256": "f5d4e32ba9ee758d5bd299654d4496ce5465a2478a3aacb7cb24aed3d609a186",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/gpt-image-25-sunburst-portrait.png",
+      "aliases": [
+        "docs/TaisModels/images/gpt-image-25-sunburst-portrait.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/gpt-image-25-sunburst-portrait.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais038",
+      "object": "tais",
+      "caption": "Таис — GPT Image 2.5 Sunburst: цитрусовый сад",
+      "sha256": "5a3fc1ac84981c55e696b07638474545ad1a5beda673d69433b056b4b82690d6",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/gpt-image-25-sunburst-garden.png",
+      "aliases": [
+        "docs/TaisModels/images/gpt-image-25-sunburst-garden.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/gpt-image-25-sunburst-garden.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais039",
+      "object": "tais",
+      "caption": "Таис — GPT Image 2.5 Sunburst: у автомата",
+      "sha256": "115a3b3b360581a0f8f1144fde37d64ed0f28200e21ed4c900318855fd097ced",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/gpt-image-25-sunburst-bars.png",
+      "aliases": [
+        "docs/TaisModels/images/gpt-image-25-sunburst-bars.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/gpt-image-25-sunburst-bars.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais040",
+      "object": "tais",
+      "caption": "Таис — FLUX.2 Max: исходный портрет",
+      "sha256": "760a40485effa0c491349ff308a1ad66459a25a16b55d3d6961b78eec24d5fa3",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/flux-2-max-portrait.png",
+      "aliases": [
+        "docs/TaisModels/images/flux-2-max-portrait.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/flux-2-max-portrait.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais041",
+      "object": "tais",
+      "caption": "Таис — FLUX.2 Max: цитрусовый сад",
+      "sha256": "ce47694611ba0c46571361747629a8fa703484b375671e03558ac1d674511248",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/flux-2-max-garden.png",
+      "aliases": [
+        "docs/TaisModels/images/flux-2-max-garden.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/flux-2-max-garden.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "tais042",
+      "object": "tais",
+      "caption": "Таис — FLUX.2 Max: у автомата",
+      "sha256": "112a905116f1cf8a85deb3404b9db07050a3d8d8a2013f9fbc9d6c96381acaed",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/TaisModels/images/flux-2-max-bars.png",
+      "aliases": [
+        "docs/TaisModels/images/flux-2-max-bars.png"
+      ],
+      "galleries": [
+        "TaisModels"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [
+        {
+          "path": "docs/TaisModels/previews/flux-2-max-bars.webp",
+          "role": "preview"
+        }
+      ],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "models",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor001",
+      "object": "fedor",
+      "caption": "Узкое лицо",
+      "sha256": "b12ab93ae6fe7c4ea49263f0bbb5e845fae327d6fb4d8c81b8e65febbea79fc3",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-01-v2.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-01-v2.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor002",
+      "object": "fedor",
+      "caption": "Широкое лицо",
+      "sha256": "0bf8a2f282a7444cfe5746a943f6211aec44b2acde87b27211058000e885d87a",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-02-v2.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-02-v2.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor003",
+      "object": "fedor",
+      "caption": "Выраженные скулы",
+      "sha256": "aa344cd561564f4bbc75cf9b65ddb440fd2af2dcf46567a98aa1c954b8e0ca4f",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-03-v2.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-03-v2.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor004",
+      "object": "fedor",
+      "caption": "Мягкое лицо",
+      "sha256": "f4d9fb3e1ce7cc2e3bf57b6f4ecdf7e31ab6a1013f344a213e0ef45d4c9a724d",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-04-v2.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-04-v2.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor005",
+      "object": "fedor",
+      "caption": "Прямоугольное лицо",
+      "sha256": "8ee380618b6ce7f572c74c4aa9f483b11cfeedb5ebc657177ad26f5cb41cc8ee",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-05-v2.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-05-v2.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor006",
+      "object": "fedor",
+      "caption": "Широкий овал",
+      "sha256": "4347298db70a0ad6cde61bf008cba7fd5f4067d3816b6032d68753034ed4231d",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-06-v2.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-06-v2.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor007",
+      "object": "fedor",
+      "caption": "Короткое широкое лицо",
+      "sha256": "6765c891cfcced7cbdc62311390bdba679c841e4faf7404b63973e72fbdd5b2e",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-07.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-07.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor008",
+      "object": "fedor",
+      "caption": "Длинный нос и мягкая челюсть",
+      "sha256": "6f4cf902273758128544396a5ee65e57e5da6f6f43b7245b6b25c031b0c9401c",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-08.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-08.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor009",
+      "object": "fedor",
+      "caption": "Широкая челюсть",
+      "sha256": "7e9c9186b6a79698768156429b0b85bf69239b876890e0ec4bfaeea6b63ec475",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-09.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-09.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "selection_note": "Понравился продюсеру по сообщению пользователя 23.10.2026; ориентир для новой подборки, не принятие полного комплекта.",
+      "producer_review_note": "Основной предпочитаемый ориентир по отзыву продюсера, переданному пользователем 24.10.2026; это не принятие полного комплекта."
+    },
+    {
+      "code": "fedor010",
+      "object": "fedor",
+      "caption": "Высокий лоб и мягкие черты",
+      "sha256": "81f4276f3d6ea40e00c8f5c8b97cf333e3f65abc190e9161b8d16729e0c389f7",
+      "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
+      "source_file": "docs/FedorSix/images/fedor-10.png",
+      "aliases": [
+        "docs/FedorSix/images/fedor-10.png"
+      ],
+      "galleries": [
+        "FedorSix"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor011",
+      "object": "fedor",
+      "caption": "Близкая вариация 1",
+      "sha256": "5321525b74855609f29a9639cea836cb40f38b32c85ae1dd7a08f120ffac2cca",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor011.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor011.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor012",
+      "object": "fedor",
+      "caption": "Близкая вариация 2",
+      "sha256": "edbed6b4ae608ef5feb5e3837ccd3058faa7f5ebbde3154fd29116afac311119",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor012.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor012.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor013",
+      "object": "fedor",
+      "caption": "Близкая вариация 3",
+      "sha256": "90e91e987440274dee362974fe5d3c20934cc93aba067f75337f395426bf766a",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor013.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor013.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor014",
+      "object": "fedor",
+      "caption": "Близкая вариация 4",
+      "sha256": "6773fa0e310a8e51cc48f3eb1bd192caf052790abb9b23265274c3ef069761b9",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor014.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor014.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor015",
+      "object": "fedor",
+      "caption": "Близкая вариация 5",
+      "sha256": "0b10ac884a3f6cc93fa1f1bbd86816f336c862a3c8e0fe1c040d451665530822",
+      "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
+      "source_file": "docs/FedorRefinement/images/fedor015.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor015.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "reference_edit",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor016",
+      "object": "fedor",
+      "caption": "Вытянутое лицо",
+      "sha256": "d5705bfaac69736af38335665d9037a7005f9bfecc2ba4b12389e5635961f199",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor016.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor016.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor017",
+      "object": "fedor",
+      "caption": "Квадратное лицо",
+      "sha256": "624bf47e2874710863b1dbdc22892c454875feee8c32634a47d1c6fa996941a5",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor017.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor017.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен для дополнительной пробы с переданным референсом. По последующему поручению пользователя 24.10.2026 созданы fedor021–fedor023; исходный fedor017 сохранён для сравнения."
+    },
+    {
+      "code": "fedor018",
+      "object": "fedor",
+      "caption": "Треугольное лицо",
+      "sha256": "8e8437862b8cc52854f2add864e8e6b65dbce4a975e0c01665acdbfdc27c0767",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor018.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor018.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+    },
+    {
+      "code": "fedor019",
+      "object": "fedor",
+      "caption": "Выраженные скулы",
+      "sha256": "bbd496eeab2aad893e7e9bbb27dc252ef13babb08d42d34ca2ec529a509fde95",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor019.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor019.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "fedor020",
+      "object": "fedor",
+      "caption": "Мягкое овальное лицо",
+      "sha256": "5a39ad08c0d6b3c976fb2fbf1e6a7e239eab72ccff6674eae72f78c9c0f50525",
+      "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
+      "source_file": "docs/FedorRefinement/images/fedor020.png",
+      "aliases": [
+        "docs/FedorRefinement/images/fedor020.png"
+      ],
+      "galleries": [
+        "FedorRefinement"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "moag001",
+      "object": "moag",
+      "caption": "Бастион · ракурс 1",
+      "sha256": "33be88b85e1140b2d26c889f63ecdb6d357d74e954b42cee09584aba3c51b5a5",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag001-bastion-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag001-bastion-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-bastion",
+      "visibility": "active"
+    },
+    {
+      "code": "moag002",
+      "object": "moag",
+      "caption": "Бастион · ракурс 2",
+      "sha256": "9af5ab75bfc14368aff1cebd86810d12c8068b695f4d8250742cc98d1a38b6f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag002-bastion-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag002-bastion-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag001",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-bastion",
+      "visibility": "active"
+    },
+    {
+      "code": "moag003",
+      "object": "moag",
+      "caption": "Камертон · ракурс 1",
+      "sha256": "2377fcaa5a5203b7ebdc1fa68a2d9d5a830e71507ca0192f91c5b5201a86e8cb",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag003-fork-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag003-fork-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-fork",
+      "visibility": "active"
+    },
+    {
+      "code": "moag004",
+      "object": "moag",
+      "caption": "Камертон · ракурс 2",
+      "sha256": "8694f01e1861a8bdf16b552c0bd979976d71732ab3229ae7c563f6091b4de0fd",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag004-fork-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag004-fork-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag003",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-fork",
+      "visibility": "active"
+    },
+    {
+      "code": "moag006",
+      "object": "moag",
+      "caption": "Каскад · ракурс 2",
+      "sha256": "c2d9674fa5bc5e5440a0b91ed3ca9958d284420d3179a1a78e230999380baf9a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag006-cascade-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag006-cascade-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag005",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-cascade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag007",
+      "object": "moag",
+      "caption": "Двор · ракурс 1",
+      "sha256": "bf370f74c02e9b239005d26adad5b9f1d9ff60353141429e7c46271bc859732f",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag007-courtyard-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag007-courtyard-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-courtyard",
+      "visibility": "active"
+    },
+    {
+      "code": "moag008",
+      "object": "moag",
+      "caption": "Двор · ракурс 2",
+      "sha256": "e442477db66157d79a2f57bdf00e2863736dde0b1fce4b02914f92451918d56a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag008-courtyard-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag008-courtyard-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag007",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-courtyard",
+      "visibility": "active"
+    },
+    {
+      "code": "moag010",
+      "object": "moag",
+      "caption": "Перекрёсток · ракурс 2",
+      "sha256": "6cc0ebd562b70de80451a90983cbabab998efa63791b514d5a11e32e24e7f36b",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag010-crossroads-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag010-crossroads-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag009",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-crossroads",
+      "visibility": "active"
+    },
+    {
+      "code": "moag011",
+      "object": "moag",
+      "caption": "Клин · ракурс 1",
+      "sha256": "54f0c487c2dca36a93af1a54dac0192b27e25b4ade917a2bcd47205937ee225d",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag011-wedge-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag011-wedge-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-wedge",
+      "visibility": "active"
+    },
+    {
+      "code": "moag012",
+      "object": "moag",
+      "caption": "Клин · ракурс 2",
+      "sha256": "965a2e89d9a7f0084bcd43251fd2063bb862249d5fcd5a405e3d399e11bb91df",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag012-wedge-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag012-wedge-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag011",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-wedge",
+      "visibility": "active"
+    },
+    {
+      "code": "moag013",
+      "object": "moag",
+      "caption": "Параллакс · ракурс 1",
+      "sha256": "867329328a2957690382698ca151d6a0b95a3f62e95922740045a8c8005fd968",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag013-parallax-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag013-parallax-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-parallax",
+      "visibility": "active"
+    },
+    {
+      "code": "moag014",
+      "object": "moag",
+      "caption": "Параллакс · ракурс 2",
+      "sha256": "6f1657530a131218d557064d9940eee8f93c0ae062fdb376e96d3e32e3e598f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag014-parallax-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag014-parallax-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag013",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-parallax",
+      "visibility": "active"
+    },
+    {
+      "code": "moag015",
+      "object": "moag",
+      "caption": "Комбинат · ракурс 1",
+      "sha256": "d2ef2a2382163994dea6496fc3a3caa121785f5fc6a1586e90fe5fe10f22ec08",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag015-combine-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag015-combine-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-combine",
+      "visibility": "active"
+    },
+    {
+      "code": "moag016",
+      "object": "moag",
+      "caption": "Комбинат · ракурс 2",
+      "sha256": "3b95b25a5bdc67f1f2d54705958ba274e626eb1904f5d96eec7e663da59af338",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag016-combine-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag016-combine-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag015",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-combine",
+      "visibility": "active"
+    },
+    {
+      "code": "moag017",
+      "object": "moag",
+      "caption": "Обод · ракурс 1",
+      "sha256": "bcb497d4de33f1bb5237ce2f4c846bf4fb0133a1b83751b8294bff6457cce3e0",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag017-annulus-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag017-annulus-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-annulus",
+      "visibility": "active"
+    },
+    {
+      "code": "moag018",
+      "object": "moag",
+      "caption": "Обод · ракурс 2",
+      "sha256": "8dc88b8693048d20adb2c43cd2acd2b81c2e6703b0956d40e6083a65001bdf32",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag018-annulus-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag018-annulus-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag017",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-annulus",
+      "visibility": "active"
+    },
+    {
+      "code": "moag019",
+      "object": "moag",
+      "caption": "Контур · ракурс 1",
+      "sha256": "83a0f8ae057dc47596f6446b7f0688d3dd344ac871ffccaeb50e2432cbf1746a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag019-contour-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag019-contour-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-contour",
+      "visibility": "active"
+    },
+    {
+      "code": "moag020",
+      "object": "moag",
+      "caption": "Контур · ракурс 2",
+      "sha256": "3dc1bea65a14d9ac54c38c4025cf4ae2a98854358f94522db283578af20c1ae7",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag020-contour-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag020-contour-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag019",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-contour",
+      "visibility": "active"
+    },
+    {
+      "code": "moag021",
+      "object": "moag",
+      "caption": "Монолит · ракурс 1",
+      "sha256": "1413b7526379ad9273aae55ba6f294403ce70a693188e8979295d13d8d7acf16",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag021-monolith-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag021-monolith-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-monolith",
+      "visibility": "active"
+    },
+    {
+      "code": "moag022",
+      "object": "moag",
+      "caption": "Монолит · ракурс 2",
+      "sha256": "e3864768ba62ccd102abe92b4c9d8c4134729e3df1b7d3cbea3690e0e14d7ee5",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag022-monolith-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag022-monolith-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag021",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-monolith",
+      "visibility": "active"
+    },
+    {
+      "code": "moag023",
+      "object": "moag",
+      "caption": "Аркада · ракурс 1",
+      "sha256": "b8b3ff688e65589181408ef7273fce654e4afb0874f6e8cdf3bfc722a6f5abf6",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag023-arcade-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag023-arcade-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-arcade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag024",
+      "object": "moag",
+      "caption": "Аркада · ракурс 2",
+      "sha256": "f60a67732312e1a1d27a366b594ecebb2093b939bcfd8f80ac93d12d28ece5a9",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag024-arcade-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag024-arcade-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag023",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-arcade",
+      "visibility": "active"
+    },
+    {
+      "code": "moag025",
+      "object": "moag",
+      "caption": "Пелагос A · ракурс 1",
+      "sha256": "3cf8b7b699601d5c9ca3efbb1989d047ac564ee38846037502c6a4c864be6b14",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag025-pelagos-a-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag025-pelagos-a-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-a",
+      "visibility": "active"
+    },
+    {
+      "code": "moag026",
+      "object": "moag",
+      "caption": "Пелагос A · ракурс 2",
+      "sha256": "24112d005754418b40a54142eb490c63f4e7f7a20c3cab7b7bb6220f05b0c8c2",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag026-pelagos-a-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag026-pelagos-a-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag025",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-a",
+      "visibility": "active"
+    },
+    {
+      "code": "moag027",
+      "object": "moag",
+      "caption": "Пелагос B · ракурс 1",
+      "sha256": "c44afb4b91b6405733f8707639c3cad488503b90f572555477c72a4ae9a4726a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag027-pelagos-b-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag027-pelagos-b-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-b",
+      "visibility": "active"
+    },
+    {
+      "code": "moag028",
+      "object": "moag",
+      "caption": "Пелагос B · ракурс 2",
+      "sha256": "38781d18eb8a688ff9e6d4b7acf7987018b456b164d042c44b7b6ab9b2721420",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag028-pelagos-b-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag028-pelagos-b-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag027",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-pelagos-b",
+      "visibility": "active"
+    },
+    {
+      "code": "moag029",
+      "object": "moag",
+      "caption": "Ковчег · ракурс 1",
+      "sha256": "46e6472b1e3486b3584a391d1451656c64924110dcbd4f5dd826fb20d3b110df",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag029-kovcheg-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag029-kovcheg-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-kovcheg",
+      "visibility": "active"
+    },
+    {
+      "code": "moag030",
+      "object": "moag",
+      "caption": "Ковчег · ракурс 2",
+      "sha256": "971401e5e44061d543b95ff0198c8c28c8630c99eacd1e0adbdc74e78a6365b2",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag030-kovcheg-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag030-kovcheg-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag029",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-kovcheg",
+      "visibility": "active"
+    },
+    {
+      "code": "moag031",
+      "object": "moag",
+      "caption": "Ось · ракурс 1",
+      "sha256": "7b24e17e294bf0d0425512191b6b2e9ac0c7a6faef113723d157009587b42fe1",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag031-axis-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag031-axis-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-axis",
+      "visibility": "active"
+    },
+    {
+      "code": "moag032",
+      "object": "moag",
+      "caption": "Ось · ракурс 2",
+      "sha256": "fbc277a4e35479c2719e5b283110067fe49304634b6182a7fde1f15402b1feae",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag032-axis-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag032-axis-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag031",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-axis",
+      "visibility": "active"
+    },
+    {
+      "code": "moag033",
+      "object": "moag",
+      "caption": "Гавань · ракурс 1",
+      "sha256": "8048683516bf186233de8bfc1e172299286a7c3ee4c1ec94ce0b4045c804a39f",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag033-harbor-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag033-harbor-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-harbor",
+      "visibility": "active"
+    },
+    {
+      "code": "moag034",
+      "object": "moag",
+      "caption": "Гавань · ракурс 2",
+      "sha256": "a1075b8eb164cf5dd44dfdd6d2b6d022b3ef795b6617cb02af72bfa62278262c",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag034-harbor-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag034-harbor-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag033",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-harbor",
+      "visibility": "active"
+    },
+    {
+      "code": "moag035",
+      "object": "moag",
+      "caption": "Пласты · ракурс 1",
+      "sha256": "421f3262f3bfb78db52859913dbae8c5fd4b59f9dd6a7759488e7c88bb780a3a",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag035-strata-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag035-strata-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-strata",
+      "visibility": "active"
+    },
+    {
+      "code": "moag036",
+      "object": "moag",
+      "caption": "Пласты · ракурс 2",
+      "sha256": "7423752efdbcd37e9bfdf546ff99a8a0efe9f49144f78c46f45722744f4524f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag036-strata-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag036-strata-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag035",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-strata",
+      "visibility": "active"
+    },
+    {
+      "code": "emma001",
+      "object": "emma",
+      "caption": "Чистый овал",
+      "sha256": "f2b3d3893a3b063d49f1a9d28434c112ab503b485da04535c7df2ad6c486399c",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma001.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma001.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "emma002",
+      "object": "emma",
+      "caption": "Открытый взгляд",
+      "sha256": "0147c9b400749eebf6b25bcdf6caaab593888cc450b87db9eaf168870dbed6cf",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma002.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma002.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+    },
+    {
+      "code": "emma003",
+      "object": "emma",
+      "caption": "Высокие скулы",
+      "sha256": "be3dd114f1f7f35bf42c099038c7b050272614bb9a38492f19b166fa897b86f7",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma003.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma003.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "emma004",
+      "object": "emma",
+      "caption": "Твёрдый характер",
+      "sha256": "ecc276ac5bb5a5e998bcc3037ac17430c546a7a7baee6eefad9d318a9ba8ba5b",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma004.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma004.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "emma005",
+      "object": "emma",
+      "caption": "Сердцевидное лицо",
+      "sha256": "2312bf14183b925bfc8a2c7daef856ccea0af1f40bcc134574b52ce77bc576e4",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma005.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma005.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "emma006",
+      "object": "base-girls",
+      "caption": "Резерв лица · роль не назначена",
+      "sha256": "f7e1534087493b02bfc523b7418d0a25fd5b6eabe2c929268a80db53e0499c0a",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma006.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma006.png"
+      ],
+      "galleries": [
+        "World/characters/base-girls"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "По уточнению пользователя 24.10.2026 перенесён в галерею резерва для девочек с базы. Волосы и глаза не изменялись, конкретный персонаж не назначен. Код emma006 сохранён.",
+      "previous_objects": [
+        "emma"
+      ]
+    },
+    {
+      "code": "kolka001",
+      "object": "kolka",
+      "caption": "Узкое лицо",
+      "sha256": "e28327a25763c3f7004c673be20ab54a71cf23e0cc274a60bca4a5e3bb5bca27",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka001.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka001.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka002",
+      "object": "kolka",
+      "caption": "Широкая челюсть",
+      "sha256": "f62feda9fec3dcc7e3041e805031fea4752e4848856305bcc8c744c06d20ca75",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka002.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka002.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka003",
+      "object": "kolka",
+      "caption": "Острые черты",
+      "sha256": "bd8d8445894f0444b0235c50ed6b4ffc0067126b14046e5f7c75e97bdce87a77",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka003.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka003.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka004",
+      "object": "kolka",
+      "caption": "Выраженная переносица",
+      "sha256": "73b3cda47cb3302a1b3c523c8afd6c34e18b0ffb1e9e04029165eb99b6020313",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka004.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka004.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka005",
+      "object": "kolka",
+      "caption": "Мягче по характеру",
+      "sha256": "452081c71a5d26882436752be717f3fbd9bfb614c2a7daf62f13047ea7aeb51d",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka005.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka005.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka006",
+      "object": "kolka",
+      "caption": "Тяжёлый взгляд",
+      "sha256": "410a8c75c2730875315001cd01f705e643af3e2a0bb5d03d814c0b3d2d21b2bf",
+      "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
+      "source_file": "docs/World/characters/kolka/images/kolka006.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka006.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon001",
+      "object": "lon",
+      "caption": "Орбита · ретрофутуризм",
+      "sha256": "97db17e37e31946f64a16eb4d75130835b9b53b70965e7da50878e3d683ee4e9",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon001.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon001.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon002",
+      "object": "lon",
+      "caption": "Тихий · минимализм",
+      "sha256": "b9d7207dd5bb0a3b36bf3d86b5bde39af56c1d57f0193fabf539431ae51cf070",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon002.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon002.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon003",
+      "object": "lon",
+      "caption": "Linea · итальянский дизайн",
+      "sha256": "d777e24efc477a0a1a82766b3d830a1806f464a302b42f1a90becf3412080d59",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon003.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon003.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon004",
+      "object": "lon",
+      "caption": "Док · индустриальный Alien",
+      "sha256": "f347123812d025c614b469ec1c83f5ec629858dca5726e37d1231aa4a8244fbc",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon004.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon004.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon005",
+      "object": "lon",
+      "caption": "Сборщик · Star Wars",
+      "sha256": "19d2a225f39bb3701fb707ad0e61ba472609772ab48dfdf87138c32ac454df12",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon005.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon005.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon006",
+      "object": "lon",
+      "caption": "Атриум · Dune",
+      "sha256": "e5cd3481e455e111d322a7cf2a876779d4aa2895860d4beffeace399655bc0c1",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon006.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon006.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon007",
+      "object": "lon",
+      "caption": "Арка · скульптурная конструкция",
+      "sha256": "d9b38f43189e15404597514fb88eaaad1923acb1717c9b7933bb06bd1046e68e",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon007.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon007.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon005",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon008",
+      "object": "lon",
+      "caption": "Каракури · механический слуга",
+      "sha256": "b318a6eeaa1050995bbcdfbf3a41c94dbf27afece70ba547d50d11dce6c2b72f",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon008.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon008.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon006",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon009",
+      "object": "lon",
+      "caption": "Каракури · опорная стойка",
+      "sha256": "9bfe205bfb8f518d08795f47da3e3928418c16cc0aaa4c2fa53607d10e5b257a",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon009.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon009.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon008",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon010",
+      "object": "lon",
+      "caption": "Контур · полый торс",
+      "sha256": "5071e9a3697b3e95a7d597551ddc5c029d8babd13a411a94c4bf57c6eb9ecaab",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon010.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon010.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon007",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor021",
+      "object": "fedor",
+      "caption": "Конрад · мягкое смешение",
+      "sha256": "5da3a2b4ab0d6fe73fa9d8dad311075d8a0bc1c3202f292aeab581d63486ad78",
+      "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
+      "source_file": "docs/FedorConrad/images/fedor021.png",
+      "aliases": [
+        "docs/FedorConrad/images/fedor021.png"
+      ],
+      "galleries": [
+        "FedorConrad"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor017",
+      "derivation_kind": "reference_blend",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor022",
+      "object": "fedor",
+      "caption": "Конрад · среднее смешение",
+      "sha256": "5378f60124d76cb97da59c5e8cf72add0aa796cf4c399ef4750a12519243fece",
+      "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
+      "source_file": "docs/FedorConrad/images/fedor022.png",
+      "aliases": [
+        "docs/FedorConrad/images/fedor022.png"
+      ],
+      "galleries": [
+        "FedorConrad"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor017",
+      "derivation_kind": "reference_blend",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor023",
+      "object": "fedor",
+      "caption": "Конрад · выраженное смешение",
+      "sha256": "23c3fc0900ffb8be229919adec1bd4cbc6bb69e761e588be940f772898ec43db",
+      "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
+      "source_file": "docs/FedorConrad/images/fedor023.png",
+      "aliases": [
+        "docs/FedorConrad/images/fedor023.png"
+      ],
+      "galleries": [
+        "FedorConrad"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor017",
+      "derivation_kind": "reference_blend",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don001",
+      "object": "don15",
+      "caption": "Бастион · бронетанковый",
+      "sha256": "486e31c99dd24df0a9c5f60288b9cb8d08766f66ce87cf4549c4f96c8610e012",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don001.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don001.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don013",
+      "object": "don15",
+      "caption": "Бастион · точные белые вставки",
+      "sha256": "a513df75813339e1be5e80443ef7c1e28046885102092807afd6818d5e351ab6",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don013.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don013.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don001",
+      "derivation_kind": "color_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don002",
+      "object": "don15",
+      "caption": "Клин · стелс",
+      "sha256": "a281132e971e9ca7715d0347edee53757cf0caea394783f41dddc122bbc1978f",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don002.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don002.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don014",
+      "object": "don15",
+      "caption": "Клин · точные белые вставки",
+      "sha256": "872caecac11b3cffbb23d4483b6e3a6a72b7f52f05cf3c768adefbd1d26fd79d",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don014.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don014.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don002",
+      "derivation_kind": "color_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don003",
+      "object": "don15",
+      "caption": "Пресс · индустриальный",
+      "sha256": "63af1b14040902613a94513ae93671e5cb7c79d3ce42f22dd981baba7137e2ec",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don003.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don003.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don004",
+      "object": "don15",
+      "caption": "Караул · монументальный",
+      "sha256": "eaa0c8bfa02584b57ebd8146bc5ad526c10ae4b1c304f01df34f2932532f136b",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don004.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don004.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don005",
+      "object": "don15",
+      "caption": "Сухожилие · механический",
+      "sha256": "d589ad91c1653f0bb66da0ec6e0f736156db234c101147652d184fdcef2fee52",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don005.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don005.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don015",
+      "object": "don15",
+      "caption": "Сухожилие · точные белые вставки",
+      "sha256": "2dbd7e2a55d380e3ecd5847f8373ea4ff23ba09db558bdbbc2798d3bce8faa9f",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don015.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don015.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don005",
+      "derivation_kind": "color_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don006",
+      "object": "don15",
+      "caption": "Ноль · стерильный минимализм",
+      "sha256": "e3af7a358139b68cb8a482af1e195ecdc8bd79a75b629a2f58917a7d7269f25f",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don006.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don006.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don016",
+      "object": "don15",
+      "caption": "Готика · европейская пластика",
+      "sha256": "31ec4bd822eb955018a673f58525a35701445796d3f5a8b960aa939a38690e3d",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don016.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don016.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don017",
+      "object": "don15",
+      "caption": "Клюв · бацинет",
+      "sha256": "5ddca88c34e7365db0016de671130dcdcc2015e90a70a9850629ae52e209ce18",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don017.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don017.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don018",
+      "object": "don15",
+      "caption": "Милан · цельная защита",
+      "sha256": "650c0ba532ca947a9c39ec23b75846de661483304804366c9f0ace3be4e5f575",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don018.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don018.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don019",
+      "object": "don15",
+      "caption": "Ламелла · японская пластика",
+      "sha256": "bea37ac68bc9bbf5cc6072f5113bf1a309209fc219430ec5db2a874fbcd7da9d",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don019.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don019.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    }
+  ],
+  "deleted_codes": [
+    "moag005",
+    "moag009"
+  ]
+}
