@@ -16,7 +16,7 @@
     "emma": 7,
     "kolka": 7,
     "lon": 11,
-    "don": 7
+    "don": 16
   },
   "assets": [
     {
@@ -3065,6 +3065,30 @@
         "don15"
       ],
       "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don013",
+      "object": "don15",
+      "caption": "Бастион · точные белые вставки",
+      "sha256": "a513df75813339e1be5e80443ef7c1e28046885102092807afd6818d5e351ab6",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don013.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don013.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don001",
+      "derivation_kind": "color_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
       "visibility": "active"
     },
     {
@@ -3084,6 +3108,30 @@
       "status": "candidate",
       "derived_from": null,
       "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don014",
+      "object": "don15",
+      "caption": "Клин · точные белые вставки",
+      "sha256": "872caecac11b3cffbb23d4483b6e3a6a72b7f52f05cf3c768adefbd1d26fd79d",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don014.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don014.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don002",
+      "derivation_kind": "color_revision",
       "renditions": [],
       "task_ids": [
         "don15"
@@ -3156,6 +3204,30 @@
       "status": "candidate",
       "derived_from": null,
       "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don015",
+      "object": "don15",
+      "caption": "Сухожилие · точные белые вставки",
+      "sha256": "2dbd7e2a55d380e3ecd5847f8373ea4ff23ba09db558bdbbc2798d3bce8faa9f",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don015.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don015.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don005",
+      "derivation_kind": "color_revision",
       "renditions": [],
       "task_ids": [
         "don15"
