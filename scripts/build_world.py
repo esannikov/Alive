@@ -22,6 +22,7 @@ def build():
     registry = json.loads(REGISTRY.read_text())
     config = json.loads((ROOT/'Production/Dashboard/objects.json').read_text())
     plan = json.loads((ROOT/'Production/research_plan.json').read_text())
+    studies = config.get('studies', [])
     objects = {o['id']: o for o in config['objects']}
     tasks = {t['id']: t for t in plan['tasks']}
     object_path = lambda o: o.get('path', f'characters/{o["id"]}')
@@ -81,6 +82,8 @@ def build():
             a=bycode[o['cover']]
             cards.append(f'''<article class="object-card" data-kind="{o.get('kind','character')}"><a class="card-image" href="@ROOT@{object_path(o)}/"><img src="@ROOT@{a['preview']}" width="1440" height="810" alt="{esc(o['title'])}: {esc(a['title'])}"></a><div class="card-body"><span class="code mono">{a['code']}</span><h3><a href="@ROOT@{object_path(o)}/">{o['title']}</a></h3><p class="card-meta">{o['summary']}</p><a class="button primary-button" href="@ROOT@{object_path(o)}/">Открыть галерею {ARROW}</a></div></article>''')
         if 'moag' not in objects: cards.append('''<article class="object-card pending"><div class="ship-placeholder"><span class="mono">Галерея появится здесь</span></div><div class="card-body"><span class="code mono">В работе</span><h3>Корабль</h3><p class="card-meta">Материалы готовятся к подключению</p><span class="button unavailable" aria-disabled="true">Галерея пока недоступна</span></div></article>''')
+        for study in studies:
+            cards.append(f'''<article class="object-card"><a class="card-image" href="@ROOT@{study['path']}/"><img src="@ROOT@{study['image']}" width="1440" height="810" alt="{esc(study['title'])}"></a><div class="card-body"><span class="code mono">Размерная гипотеза</span><h3>{esc(study['title'])}</h3><p class="card-meta">{esc(study['summary'])}</p><a class="button primary-button" href="@ROOT@{study['path']}/">Открыть лист {ARROW}</a></div></article>''')
         return '<div class="object-grid">'+''.join(cards)+'</div>'
 
     descriptions={
@@ -90,7 +93,7 @@ def build():
         'props':'Транспорт, оборудование и личные вещи', 'screens':'Устройства, интерфейсы и доступ',
         'signs':'Эмблемы, надписи и навигация', 'life':'Проявления, состояния и существа',
         'sound':'Звуковые и речевые признаки', 'delivery':'Комплекты эпизодов и общий атлас'}
-    available_groups={o['group'] for o in config['objects']}
+    available_groups={o['group'] for o in config['objects']+studies}
     rows=''.join(f'''<a class="catalog-row {"available" if g['id'] in available_groups else "planned"}" href="@ROOT@catalog.html#{g['id']}"><span class="row-title">{g['title']}</span><span class="row-description">{descriptions[g['id']]}</span><span class="row-state mono">{"Есть материалы" if g['id'] in available_groups else "Запланировано"}</span>{ARROW}</a>''' for g in plan['groups'])
     page('index.html','Обзор',f'''<div class="page-heading"><h1>Разработка ALIVE</h1><p>Персонажи, пространства и предметы мира.</p></div><section aria-labelledby="current-heading"><h2 id="current-heading">Сейчас в разработке</h2>{object_cards()}</section><section class="catalog-section" aria-labelledby="catalog-heading"><div class="section-heading"><h2 id="catalog-heading">Полный состав разработки</h2><a class="quiet-link mono" href="@ROOT@catalog.html">Открыть каталог {ARROW}</a></div><div class="catalog-list">{rows}</div></section>''',active='overview')
     page('work.html','В разработке',f'''<div class="page-heading"><h1>В разработке</h1><p>Текущие подборки и материалы, которые готовятся.</p></div><section aria-label="Текущие работы"><h2 class="sr-only">Материалы</h2>{object_cards()}</section>''',active='work')
@@ -99,7 +102,7 @@ def build():
         members=[t for t in plan['tasks'] if t['group']==g['id']]
         entries=[]
         for t in members:
-            connected=[o for o in config['objects'] if t['id'] in o['task_ids']]
+            connected=[o for o in config['objects']+studies if t['id'] in o['task_ids']]
             links=''.join(f'<a class="inline-object" href="@ROOT@{object_path(o)}/">{o["title"]} {ARROW}</a>' for o in connected)
             entries.append(f'''<li class="task-line"><div><span>{esc(t['title'])}</span><span class="task-note mono">{"Есть связанные материалы" if connected else "Неактивно" if t['scope']=='inactive' else "Запланировано"}</span></div><div class="task-links">{links}<a class="plan-link mono" href="@ROOT@../ProductionFlow/#task={t['id']}">План {EXTERNAL}</a></div></li>''')
         catalog.append(f'''<details class="catalog-group" id="{g['id']}" {'open' if g['id']=='people' else ''}><summary><span>{g['title']}</span><span class="mono">{len(members)} материалов</span>{ARROW}</summary><ul>{''.join(entries)}</ul></details>''')
@@ -135,9 +138,11 @@ def build():
         flow=''.join(f'<a class="reference-link" href="@ROOT@../ProductionFlow/#task={id}"><span>{tasks[id]["title"]}</span>{ARROW}</a>' for id in o['task_ids'])
         page(f'{object_path(o)}/reference.html',f'{o["title"]} · справка',f'''<div class="page-heading"><a class="back-link mono" href="./">К галерее {ARROW}</a><h1>{o['title']}: справка</h1></div><div class="reference-content"><section><h2>Опоры в романе</h2><p>{esc(o['source_summary'])}</p><p class="source-pages">Страницы PDF: {pages}</p><p class="subtle">{esc(o['source_note'])}</p><a class="quiet-link" href="https://github.com/esannikov/Alive/blob/{source_commit}/{o.get('source_doc','Bible/Characters.md')}" target="_blank" rel="noopener">{o.get('source_label', 'Описание персонажей · '+o['evidence'])} {EXTERNAL}</a></section><section><h2>В ProductionFlow</h2>{flow}</section><section><h2>Как читать материалы</h2><p>{o.get('reading_note','Это поисковые варианты. Выбранная внешность, подробный модельный лист и принятый комплект — отдельные результаты. Коды изображений сохраняются при перемещении между подборками.')}</p></section></div>''',category=o['group'])
     page('search.html','Поиск', '''<div class="page-heading"><h1>Поиск по миру</h1><p>Имя, постоянный код, предмет или нужный материал.</p></div><p class="mono" id="search-summary">Введите запрос в строке поиска.</p><div id="search-results" class="search-results"></div><noscript><p>Для поиска нужен JavaScript. <a href="catalog.html">Открыть полный каталог</a>.</p></noscript>''',active='search')
+    for study in studies:
+        page(study['path']+'/index.html', study['title'], (ROOT/study['body_file']).read_text(), category=study['group'])
     mapping={}
     for t in plan['tasks']:
-        related=[{'title':o['title'],'url':f'../World/{object_path(o)}/'} for o in config['objects'] if t['id'] in o['task_ids']]
+        related=[{'title':o['title'],'url':f'../World/{object_path(o)}/'} for o in config['objects']+studies if t['id'] in o['task_ids']]
         if related:mapping[t['id']]=related
     flowfile=ROOT/'docs/ProductionFlow/index.html';flowtext=flowfile.read_text()
     payload=json.dumps(mapping,ensure_ascii=False,separators=(',',':'))
