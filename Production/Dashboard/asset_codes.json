@@ -14,7 +14,8 @@
     "fedor": 21,
     "moag": 37,
     "emma": 7,
-    "kolka": 7
+    "kolka": 7,
+    "lon": 11
   },
   "assets": [
     {
@@ -2671,6 +2672,246 @@
       "renditions": [],
       "task_ids": [
         "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon001",
+      "object": "lon",
+      "caption": "Орбита · ретрофутуризм",
+      "sha256": "97db17e37e31946f64a16eb4d75130835b9b53b70965e7da50878e3d683ee4e9",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon001.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon001.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon002",
+      "object": "lon",
+      "caption": "Тихий · минимализм",
+      "sha256": "b9d7207dd5bb0a3b36bf3d86b5bde39af56c1d57f0193fabf539431ae51cf070",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon002.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon002.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon003",
+      "object": "lon",
+      "caption": "Linea · итальянский дизайн",
+      "sha256": "d777e24efc477a0a1a82766b3d830a1806f464a302b42f1a90becf3412080d59",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon003.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon003.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon004",
+      "object": "lon",
+      "caption": "Док · индустриальный Alien",
+      "sha256": "f347123812d025c614b469ec1c83f5ec629858dca5726e37d1231aa4a8244fbc",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon004.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon004.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon005",
+      "object": "lon",
+      "caption": "Сборщик · Star Wars",
+      "sha256": "19d2a225f39bb3701fb707ad0e61ba472609772ab48dfdf87138c32ac454df12",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon005.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon005.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon006",
+      "object": "lon",
+      "caption": "Атриум · Dune",
+      "sha256": "e5cd3481e455e111d322a7cf2a876779d4aa2895860d4beffeace399655bc0c1",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon006.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon006.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon007",
+      "object": "lon",
+      "caption": "Арка · скульптурная конструкция",
+      "sha256": "d9b38f43189e15404597514fb88eaaad1923acb1717c9b7933bb06bd1046e68e",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon007.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon007.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon005",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon008",
+      "object": "lon",
+      "caption": "Каракури · механический слуга",
+      "sha256": "b318a6eeaa1050995bbcdfbf3a41c94dbf27afece70ba547d50d11dce6c2b72f",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon008.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon008.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon006",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon009",
+      "object": "lon",
+      "caption": "Каракури · опорная стойка",
+      "sha256": "9bfe205bfb8f518d08795f47da3e3928418c16cc0aaa4c2fa53607d10e5b257a",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon009.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon009.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon008",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon010",
+      "object": "lon",
+      "caption": "Контур · полый торс",
+      "sha256": "5071e9a3697b3e95a7d597551ddc5c029d8babd13a411a94c4bf57c6eb9ecaab",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon010.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon010.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon007",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
       ],
       "series": "current",
       "visibility": "active"
