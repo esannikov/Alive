@@ -291,5 +291,23 @@
       "id": "moag-strata",
       "title": "Пласты"
     }
+  ],
+  "studies": [
+    {
+      "id": "robot-scale",
+      "title": "Роботы · размерный лист",
+      "path": "robots/scale",
+      "group": "robots",
+      "task_ids": [
+        "scale",
+        "lon",
+        "don15",
+        "robotfamilies",
+        "service"
+      ],
+      "summary": "Рабочие размеры рядом с людьми",
+      "image": "robots/scale/scale-sheet.svg",
+      "body_file": "Production/Dashboard/robot_scale_body.html"
+    }
   ]
 }
