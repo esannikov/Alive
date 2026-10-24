@@ -57,7 +57,7 @@ const byUrl=new Map(data.assets.flatMap(a=>[[a.original,a],[new URL(a.display||a
    assert(await page.locator('#dialog-next').isDisabled());
    await page.locator('#close-image').click();
   }
-  for(const id of ['tais','fedor']){
+  for(const id of ['tais','fedor','emma']){
    await page.goto(base+'characters/'+id+'/');
    await page.waitForFunction(()=>document.querySelector('#hero-image').parentElement.dataset.state==='ready');
    await page.locator('#next-image').click();
