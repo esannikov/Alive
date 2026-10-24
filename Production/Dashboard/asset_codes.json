@@ -16,7 +16,7 @@
     "emma": 7,
     "kolka": 7,
     "lon": 11,
-    "don": 16
+    "don": 20
   },
   "assets": [
     {
@@ -3244,6 +3244,102 @@
       "source_file": "docs/World/robots/don15/images/don006.png",
       "aliases": [
         "docs/World/robots/don15/images/don006.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don016",
+      "object": "don15",
+      "caption": "Готика · европейская пластика",
+      "sha256": "31ec4bd822eb955018a673f58525a35701445796d3f5a8b960aa939a38690e3d",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don016.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don016.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don017",
+      "object": "don15",
+      "caption": "Клюв · бацинет",
+      "sha256": "5ddca88c34e7365db0016de671130dcdcc2015e90a70a9850629ae52e209ce18",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don017.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don017.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don018",
+      "object": "don15",
+      "caption": "Милан · цельная защита",
+      "sha256": "650c0ba532ca947a9c39ec23b75846de661483304804366c9f0ace3be4e5f575",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don018.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don018.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don019",
+      "object": "don15",
+      "caption": "Ламелла · японская пластика",
+      "sha256": "bea37ac68bc9bbf5cc6072f5113bf1a309209fc219430ec5db2a874fbcd7da9d",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don019.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don019.png"
       ],
       "galleries": [
         "World/robots/don15"
