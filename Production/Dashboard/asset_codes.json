@@ -12,7 +12,8 @@
   "next_numbers": {
     "tais": 43,
     "fedor": 21,
-    "moag": 37
+    "moag": 37,
+    "emma": 7
   },
   "assets": [
     {
@@ -33,7 +34,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -55,7 +57,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -77,7 +80,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -99,7 +103,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -121,7 +126,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -143,7 +149,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -165,7 +172,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -187,7 +195,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -209,7 +218,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "current"
     },
@@ -233,7 +243,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -257,7 +268,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -281,7 +293,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -305,7 +318,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -329,7 +343,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -353,7 +368,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -377,7 +393,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -401,7 +418,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -425,7 +443,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "soft"
     },
@@ -449,7 +468,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -473,7 +493,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -497,7 +518,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -521,7 +543,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -545,7 +568,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -569,7 +593,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -593,7 +618,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -617,7 +643,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -641,7 +668,8 @@
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "original"
     },
@@ -668,7 +696,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -695,7 +724,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -722,7 +752,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -749,7 +780,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -776,7 +808,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -803,7 +836,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -830,7 +864,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -857,7 +892,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -884,7 +920,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -911,7 +948,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -938,7 +976,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -965,7 +1004,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -992,7 +1032,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -1019,7 +1060,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -1046,7 +1088,8 @@
         }
       ],
       "task_ids": [
-        "tais"
+        "tais",
+        "character-concepts"
       ],
       "series": "models"
     },
@@ -2335,6 +2378,156 @@
         "hull"
       ],
       "series": "moag-strata",
+      "visibility": "active"
+    },
+    {
+      "code": "emma001",
+      "object": "emma",
+      "caption": "Чистый овал",
+      "sha256": "f2b3d3893a3b063d49f1a9d28434c112ab503b485da04535c7df2ad6c486399c",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma001.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma001.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma002",
+      "object": "emma",
+      "caption": "Открытый взгляд",
+      "sha256": "0147c9b400749eebf6b25bcdf6caaab593888cc450b87db9eaf168870dbed6cf",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma002.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma002.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma003",
+      "object": "emma",
+      "caption": "Высокие скулы",
+      "sha256": "be3dd114f1f7f35bf42c099038c7b050272614bb9a38492f19b166fa897b86f7",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma003.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma003.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma004",
+      "object": "emma",
+      "caption": "Твёрдый характер",
+      "sha256": "ecc276ac5bb5a5e998bcc3037ac17430c546a7a7baee6eefad9d318a9ba8ba5b",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma004.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma004.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma005",
+      "object": "emma",
+      "caption": "Сердцевидное лицо",
+      "sha256": "2312bf14183b925bfc8a2c7daef856ccea0af1f40bcc134574b52ce77bc576e4",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma005.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma005.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma006",
+      "object": "emma",
+      "caption": "Удлинённый профиль",
+      "sha256": "f7e1534087493b02bfc523b7418d0a25fd5b6eabe2c929268a80db53e0499c0a",
+      "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+      "source_file": "docs/World/characters/emma/images/emma006.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma006.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
       "visibility": "active"
     }
   ],
