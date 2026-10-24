@@ -68,13 +68,17 @@
   const objectId = document.body.dataset.object;
   if (!objectId) return;
   const assets = data.assets.filter(a=>a.object===objectId&&!a.archived);
+  const galleryOrder=objects[objectId].gallery_order||[];
+  const orderOf=a=>galleryOrder.includes(a.code)?galleryOrder.indexOf(a.code):galleryOrder.length;
+  assets.sort((a,b)=>orderOf(a)-orderOf(b));
   const isShip=objects[objectId].kind==='ship';
   const select = $('#series-select'); let active = assets[0], comparing = false;
+  const variantCount=n=>`${n} ${n%10===1&&n%100!==11?'вариант':[2,3,4].includes(n%10)&&![12,13,14].includes(n%100)?'варианта':'вариантов'}`;
   const visibleAssets = () => assets.filter(a=>isShip?a.series===active.series:select.value==='all'||a.series===select.value);
   const showSeries = () => {
     if(isShip){$('#gallery-count').textContent=`${new Set(assets.map(a=>a.series)).size} вариантов`;return;}
     document.querySelectorAll('.asset-tile').forEach(el=>{el.hidden=select.value!=='all'&&el.dataset.series!==select.value;});
-    const count=visibleAssets().length; $('#gallery-count').textContent=objects[objectId].kind==='ship'?`${count} кадров`:`${count} вариантов`;
+    const count=visibleAssets().length; $('#gallery-count').textContent=objects[objectId].kind==='ship'?`${count} кадров`:variantCount(count);
   };
   const imageCache=new Map(), imageStates=new WeakMap();
   function prepareImage(a){
@@ -147,6 +151,8 @@
   function refreshDialog(){const img=$('#dialog-image');loadPicture(img,active);$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
+    const moved=byCode[code];
+    if(moved&&moved.object!==objectId&&moved.previousObjects?.includes(objectId)){location.replace(url(moved.page+'#'+encodeURIComponent(code)));return;}
     if(code&&code!=='gallery'&&!setActive(code)){announce((data.deletedCodes||[]).includes(code)?`Кадр ${code} удалён из галереи.`:'Такой код не найден у этого объекта.');const u=new URL(location.href);u.hash=objects[objectId].cover;history.replaceState(null,'',u);setActive(objects[objectId].cover);}
     if(!code){if(select)select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery'){if(select&&isShip)select.value='all';showSeries();}
   }
