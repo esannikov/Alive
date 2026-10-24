@@ -11,7 +11,7 @@
   ],
   "next_numbers": {
     "tais": 43,
-    "fedor": 21,
+    "fedor": 24,
     "moag": 37,
     "emma": 7,
     "kolka": 7,
@@ -1539,7 +1539,7 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен для возможной дополнительной пробы с переданным визуальным референсом. Новая генерация не выполнялась."
+      "producer_review_note": "Оставлен для дополнительной пробы с переданным референсом. По последующему поручению пользователя 24.10.2026 созданы fedor021–fedor023; исходный fedor017 сохранён для сравнения."
     },
     {
       "code": "fedor018",
@@ -2560,8 +2560,8 @@
     },
     {
       "code": "emma006",
-      "object": "emma",
-      "caption": "Удлинённый профиль",
+      "object": "base-girls",
+      "caption": "Резерв лица · роль не назначена",
       "sha256": "f7e1534087493b02bfc523b7418d0a25fd5b6eabe2c929268a80db53e0499c0a",
       "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
       "source_file": "docs/World/characters/emma/images/emma006.png",
@@ -2569,7 +2569,7 @@
         "docs/World/characters/emma/images/emma006.png"
       ],
       "galleries": [
-        "World/characters/emma"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -2577,12 +2577,14 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "emma",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived",
-      "producer_review_note": "Убран из подборки Эммы. Сохранён как возможный образ для одной из девочек с базы с последующим изменением цвета волос и глаз; персонаж не назначен, изображение не изменено."
+      "visibility": "active",
+      "producer_review_note": "По уточнению пользователя 24.10.2026 перенесён в галерею резерва для девочек с базы. Волосы и глаза не изменялись, конкретный персонаж не назначен. Код emma006 сохранён.",
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "kolka001",
@@ -2964,6 +2966,78 @@
       "renditions": [],
       "task_ids": [
         "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor021",
+      "object": "fedor",
+      "caption": "Конрад · мягкое смешение",
+      "sha256": "5da3a2b4ab0d6fe73fa9d8dad311075d8a0bc1c3202f292aeab581d63486ad78",
+      "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
+      "source_file": "docs/FedorConrad/images/fedor021.png",
+      "aliases": [
+        "docs/FedorConrad/images/fedor021.png"
+      ],
+      "galleries": [
+        "FedorConrad"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor017",
+      "derivation_kind": "reference_blend",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor022",
+      "object": "fedor",
+      "caption": "Конрад · среднее смешение",
+      "sha256": "5378f60124d76cb97da59c5e8cf72add0aa796cf4c399ef4750a12519243fece",
+      "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
+      "source_file": "docs/FedorConrad/images/fedor022.png",
+      "aliases": [
+        "docs/FedorConrad/images/fedor022.png"
+      ],
+      "galleries": [
+        "FedorConrad"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor017",
+      "derivation_kind": "reference_blend",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor023",
+      "object": "fedor",
+      "caption": "Конрад · выраженное смешение",
+      "sha256": "23c3fc0900ffb8be229919adec1bd4cbc6bb69e761e588be940f772898ec43db",
+      "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
+      "source_file": "docs/FedorConrad/images/fedor023.png",
+      "aliases": [
+        "docs/FedorConrad/images/fedor023.png"
+      ],
+      "galleries": [
+        "FedorConrad"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor017",
+      "derivation_kind": "reference_blend",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
       ],
       "series": "current",
       "visibility": "active"
