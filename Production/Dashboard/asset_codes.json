@@ -16,7 +16,8 @@
     "emma": 7,
     "kolka": 7,
     "lon": 11,
-    "don": 20
+    "don": 20,
+    "martin": 9
   },
   "assets": [
     {
@@ -3351,6 +3352,198 @@
       "renditions": [],
       "task_ids": [
         "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin001",
+      "object": "martin",
+      "caption": "Наставник · тёплый гуманизм",
+      "sha256": "6da4a78f4e853bd0edfeb30ab0b9ffe1f6d37f9c515a2ef277bccface980fd8f",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin001.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin001.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin002",
+      "object": "martin",
+      "caption": "Куратор · строгая вертикаль",
+      "sha256": "d8a0ecc86f2032958ca23b2f2ec2f6882b2abf246eac49e766670a83cbde7f66",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin002.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin002.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin003",
+      "object": "martin",
+      "caption": "Клиника · мягкая конструкция",
+      "sha256": "27a566b5ea0b22539406aaf79d01c5ea9abe4ea302d949f84803be4f9f6aee65",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin003.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin003.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin004",
+      "object": "martin",
+      "caption": "Linea · скульптурный",
+      "sha256": "e265f125660a6a3de09691473bcac49b5fd6329e1fb09ac51c032b50060e8c67",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin004.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin004.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin005",
+      "object": "martin",
+      "caption": "Реле · ретрофутуризм",
+      "sha256": "aecf335257bf0efa38e3a5ada452f36149a2b2d2a52fb60417c207d262a25dc5",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin005.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin005.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "martin006",
+      "object": "martin",
+      "caption": "Каркас · открытая архитектура",
+      "sha256": "202358f5526fc52447bdb3622048459e9b0be04e695bd4f508077487be0ad78c",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin006.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin006.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin007",
+      "object": "martin",
+      "caption": "Облако · розовый и голубой",
+      "sha256": "20323b1d7b371eaa971343dc415b7ab1dda5f7c43adf8c563bd2fb7a52b709b2",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin007.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin007.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "martin005",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "martin008",
+      "object": "martin",
+      "caption": "Rosa · итальянская пластика",
+      "sha256": "379e166b5b20a4ffe10c94b9c158ff0490e2c1975d0eb218d97b6a00b0c3ebf5",
+      "source_commit": "5f2e6e0f638f5f3dde3d390035101559e897db04",
+      "source_file": "docs/World/robots/martin/images/martin008.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin008.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "martin007",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
       ],
       "series": "current",
       "visibility": "active"
