@@ -17,7 +17,8 @@
     "kolka": 7,
     "lon": 11,
     "don": 20,
-    "martin": 9
+    "martin": 9,
+    "valek": 7
   },
   "assets": [
     {
@@ -3544,6 +3545,150 @@
       "renditions": [],
       "task_ids": [
         "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek001",
+      "object": "valek",
+      "caption": "Узкий овал",
+      "sha256": "dd358beb4f09c58e53d3eab37f556300fb8b0e5c8f8742db695cac37b57022fb",
+      "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
+      "source_file": "docs/World/characters/valek/images/valek001.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek001.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek002",
+      "object": "valek",
+      "caption": "Широкая челюсть",
+      "sha256": "159adf378062af0fd0e9d13f25609bdb265c506be09fd94f27fe57de2b6c9862",
+      "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
+      "source_file": "docs/World/characters/valek/images/valek002.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek002.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek003",
+      "object": "valek",
+      "caption": "Высокие скулы",
+      "sha256": "d3c606d5e41ac39b263a072fc51145ec2e479df583a15236ca8c362771f942ac",
+      "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
+      "source_file": "docs/World/characters/valek/images/valek003.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek003.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek004",
+      "object": "valek",
+      "caption": "Острые черты",
+      "sha256": "7c4e3d7c67fb53a063515cbe2b41ea656f0e171466140c420b73138d2f1904c1",
+      "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
+      "source_file": "docs/World/characters/valek/images/valek004.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek004.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek005",
+      "object": "valek",
+      "caption": "Мягкий овал",
+      "sha256": "332903a3c2aee6b70d1d277fbacfe140c8cd2b711a0c31711d4fdfd079715ec4",
+      "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
+      "source_file": "docs/World/characters/valek/images/valek005.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek005.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek006",
+      "object": "valek",
+      "caption": "Выразительный профиль",
+      "sha256": "0bd792eda036395ef2059fb381f49c16730e6fa43581991be4be16c3d9269a3c",
+      "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
+      "source_file": "docs/World/characters/valek/images/valek006.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek006.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "support"
       ],
       "series": "current",
       "visibility": "active"
