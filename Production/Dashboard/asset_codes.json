@@ -18,7 +18,8 @@
     "lon": 11,
     "don": 20,
     "martin": 9,
-    "valek": 13
+    "valek": 13,
+    "nitka": 5
   },
   "assets": [
     {
@@ -3836,6 +3837,100 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "nitka001",
+      "object": "nitka",
+      "caption": "A · мягкий типаж",
+      "sha256": "5c98f37d7094c7d6770ebb29861f46a079d13c07f4145be27845ee6ecc2a15d7",
+      "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
+      "source_file": "docs/World/characters/nitka/images/nitka001.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka001.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma006",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "casting_direction"
+    },
+    {
+      "code": "nitka002",
+      "object": "nitka",
+      "caption": "B · короткая стрижка",
+      "sha256": "fe7c827d5e6ca9d285218c6e0d35f79f2c6d84dc623abfd896333fdad3d420d4",
+      "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
+      "source_file": "docs/World/characters/nitka/images/nitka002.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka002.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "nitka003",
+      "object": "nitka",
+      "caption": "C · растрёпанные волны",
+      "sha256": "3d01c45ca10c8ec7daf9e3b029bf7ed817d1570a1eca1f3de04a62d6dacfd0af",
+      "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
+      "source_file": "docs/World/characters/nitka/images/nitka003.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka003.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "nitka004",
+      "object": "nitka",
+      "caption": "C · за ручным шитьём",
+      "sha256": "f9a559d6ff04b25338b6958d5ba44acb2148bf34797fa07b606d14699be18ba8",
+      "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
+      "source_file": "docs/World/characters/nitka/images/nitka004.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka004.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "scene",
+      "status": "candidate",
+      "derived_from": "nitka003",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "scene_study"
     }
   ],
   "deleted_codes": [
