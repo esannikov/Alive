@@ -19,7 +19,7 @@
     "don": 20,
     "martin": 9,
     "valek": 13,
-    "nitka": 5
+    "nitka": 12
   },
   "assets": [
     {
@@ -3859,8 +3859,9 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active",
-      "derivation_kind": "casting_direction"
+      "visibility": "archived",
+      "derivation_kind": "casting_direction",
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
     },
     {
       "code": "nitka002",
@@ -3883,7 +3884,8 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
     },
     {
       "code": "nitka003",
@@ -3906,7 +3908,8 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
     },
     {
       "code": "nitka004",
@@ -3929,8 +3932,174 @@
         "support"
       ],
       "series": "current",
+      "visibility": "archived",
+      "derivation_kind": "scene_study",
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
+    },
+    {
+      "code": "nitka005",
+      "object": "nitka",
+      "caption": "A · мягкий типаж",
+      "sha256": "6f1b266f1c219cebbaa7c591911479f395d2b299f3f5c7a19f20d09c3452ccba",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka005.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka005.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "nitka001",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
       "visibility": "active",
-      "derivation_kind": "scene_study"
+      "derivation_kind": "framing_revision"
+    },
+    {
+      "code": "nitka006",
+      "object": "nitka",
+      "caption": "B · короткая стрижка",
+      "sha256": "7928490933d54c25e88318e057466a28a0e0b0f70722e4d40bfb5b6914727684",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka006.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka006.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "nitka002",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "framing_revision"
+    },
+    {
+      "code": "nitka007",
+      "object": "nitka",
+      "caption": "C · растрёпанные волны",
+      "sha256": "a91c71bd3e7588b4ed9ea965d4f551ebf36a1101c0637d33304a3007ba620165",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka007.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka007.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "nitka003",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "framing_revision"
+    },
+    {
+      "code": "nitka008",
+      "object": "nitka",
+      "caption": "C · за ручным шитьём",
+      "sha256": "7b4bd58fbc0ff38daafa1eeb8ee9b48f416181c5d9848423b6c5f4333a78a253",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka008.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka008.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "scene",
+      "status": "candidate",
+      "derived_from": "nitka004",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "framing_revision"
+    },
+    {
+      "code": "nitka009",
+      "object": "nitka",
+      "caption": "D · прямые тёмные волосы",
+      "sha256": "8e92a2a1dd93da003ae4d7854b88303f0a60d2d2cd51ac85a73f1c9f26c7fbb8",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka009.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka009.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "nitka010",
+      "object": "nitka",
+      "caption": "E · короткие кудри",
+      "sha256": "6936cf7e349c5e1fd0df96c59cf615d3a59b48b87c2a5680033b040eba2812c8",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka010.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka010.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "nitka011",
+      "object": "nitka",
+      "caption": "F · светлая короткая стрижка",
+      "sha256": "952c5faf91fbf35a8842ff7539b7bfa4e4b7fe7b2c8d3351498bf657034af9ea",
+      "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
+      "source_file": "docs/World/characters/nitka/images/nitka011.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka011.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
