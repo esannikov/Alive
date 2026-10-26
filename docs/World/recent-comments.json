@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T20:02:59.934292+00:00",
+  "generatedAt": "2026-10-26T20:06:45.789543+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQZ6",
+      "page": "robots/scale/",
+      "title": "Роботы · размерный лист",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:06:32Z",
+      "excerpt": "да 15 - боевые, они по идее должны быть угрожающие, и вероятно выше 12х. Типа 2,5 метровые?",
+      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203706"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQZN",
       "page": "characters/masha/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-26T19:59:19Z",
       "excerpt": "fedor009 клевый",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203610"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQYT",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T19:58:49Z",
-      "excerpt": "kolka002",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19203603"
     }
   ]
 }
