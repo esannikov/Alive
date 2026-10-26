@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:25:25.313814+00:00",
+  "generatedAt": "2026-10-26T19:29:50.746165+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQSM",
+      "page": "robots/scale/",
+      "title": "Роботы · размерный лист",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-26T19:29:40Z",
+      "excerpt": "Доны 12 и Доны 15 - тут вот надо разбираться. Там с ними в книге чуть путаница, а визуально их надо нам сразу развести. И может тут уже сразу. Я провею описания, но мне кажется, что 15 - это типа боевые, а 12 - интеллигенция. 15 тогда должны быть устрашающи…",
+      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203212"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQQ2",
       "page": "robots/don15/",
