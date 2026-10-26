@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:47:41.663568+00:00",
+  "generatedAt": "2026-10-26T19:50:38.198687+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQWt",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:50:23Z",
+      "excerpt": "Да, в руке оружие. Мне они не сильно угрожающими кажутся, а они же боевые роботы.",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203501"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQWI",
       "page": "robots/lon/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-26T19:42:57Z",
       "excerpt": "Это клевая",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203418"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQVJ",
-      "page": "characters/valek/",
-      "title": "Валёк",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T19:41:39Z",
-      "excerpt": "слишком эльфийски-красивые все вальки. он дрыщ худой по-моему",
-      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19203401"
     }
   ]
 }
