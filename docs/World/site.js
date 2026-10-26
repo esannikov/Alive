@@ -241,9 +241,6 @@
   path.setAttribute('d', 'm6 9 6 6 6-6'); arrow.append(path);
   summary.append(title, context, arrow);
   const content = document.createElement('div'); content.className = 'comments-content';
-  const note = document.createElement('p');
-  note.className = 'comments-note';
-  note.textContent = 'Один тред для всей страницы. Для конкретного варианта укажите его код. Комментарии публичны; для ответа нужен GitHub.';
   const fallback = document.createElement('a');
   fallback.className = 'quiet-link comments-link';
   fallback.href = `https://github.com/${config.repo}/discussions/categories/comments`;
@@ -257,7 +254,6 @@
   const host = document.createElement('div');
   host.className = 'giscus';
   host.id = 'giscus-comments';
-  content.append(note);
   const viewerCaption = document.querySelector('#viewer .viewer-caption');
   if (viewerCaption) {
     box.classList.add('comments--gallery');
