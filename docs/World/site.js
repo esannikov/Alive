@@ -302,7 +302,7 @@
     Object.assign(script.dataset, {
       repo: config.repo, repoId: config.repoId, category: config.category,
       categoryId: config.categoryId, mapping: 'pathname', strict: '1',
-      reactionsEnabled: '1', emitMetadata: '1', inputPosition: config.inputPosition || 'bottom',
+      reactionsEnabled: config.reactionsEnabled || '0', emitMetadata: '1', inputPosition: config.inputPosition || 'bottom',
       theme: 'dark', lang: 'ru', loading: 'lazy'
     });
     const selectedHash = location.hash;
