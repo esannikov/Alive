@@ -6,7 +6,7 @@ const assert=require('node:assert/strict');
   const page=await browser.newPage({viewport:{width:1440,height:1100}});
   let mode='filled';
   const items=Array.from({length:6},(_,i)=>({id:String(i),page:i%2?'robots/lon/':'characters/emma/',title:i%2?'Лон':'Эмма',author:'reviewer',createdAt:new Date(Date.now()-i*3600000).toISOString(),excerpt:i?'Тест отображения комментария к варианту.':'<img src=x onerror="alert(1)"> Тест безопасного текста'}));
-  await page.route('https://raw.githubusercontent.com/**/recent-comments.json', r=>mode==='error'?r.abort():r.fulfill({contentType:'application/json',body:JSON.stringify({schemaVersion:1,items:mode==='empty'?[]:items})}));
+  await page.route('https://raw.githubusercontent.com/**/recent-comments.json*', r=>mode==='error'?r.abort():r.fulfill({contentType:'application/json',body:JSON.stringify({schemaVersion:1,items:mode==='empty'?[]:items})}));
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   await page.goto('http://127.0.0.1:8769/World/');
   await page.locator('#recent-comments-list li').first().waitFor();

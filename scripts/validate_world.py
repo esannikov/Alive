@@ -49,12 +49,17 @@ def main():
             if target.is_dir():target=target/'index.html'
             assert target.is_relative_to(ROOT/'docs'),(p,link)
             assert target.is_file(),(p,link)
+    comment_targets={(OUT/(x['page'] if x['page'].endswith('.html') else x['page']+'index.html')).resolve() for x in json.loads((OUT/'comment-pages.json').read_text()) if x['page']}
     for p,parser in parsed.items():
         for link in parser.links:
             u=urlsplit(link)
             if u.scheme or not u.fragment or u.fragment.startswith('task='):continue
             target=(p.parent/unquote(u.path)).resolve() if u.path else p
             if target.is_dir():target=target/'index.html'
+            # Giscus creates this documented anchor at runtime on World content pages.
+            if unquote(u.fragment)=='comments' and data.get('comments',{}).get('enabled') and target in comment_targets:
+                assert 'world-script' in parsed[target].ids,(p,link)
+                continue
             if target in parsed:assert unquote(u.fragment) in parsed[target].ids,(p,link)
     for a in data['assets']:
         target=OUT/a.get('page',f'characters/{a["object"]}/')/'index.html'

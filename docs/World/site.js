@@ -358,8 +358,9 @@
 /* Public read-only feed; GitHub Actions keeps its JSON up to date. */
 (() => {
   const section = document.getElementById('recent-comments');
-  if (!section || section.dataset.ready) return;
-  section.dataset.ready = 'true';
+  const cards = [...document.querySelectorAll('[data-discussion-summary]')];
+  if ((!section && !cards.length) || document.body.dataset.discussionFeedReady) return;
+  document.body.dataset.discussionFeedReady = 'true';
   const list = document.getElementById('recent-comments-list');
   const status = document.getElementById('recent-comments-status');
   const retry = document.getElementById('recent-comments-retry');
@@ -375,6 +376,7 @@
     }
   }
   function render(items) {
+    if (!list) return;
     const fragment = document.createDocumentFragment();
     for (const item of items.slice(0,5)) {
       // Never render external comment markup or accept an arbitrary target URL.
@@ -392,23 +394,51 @@
     list.replaceChildren(fragment); list.hidden = items.length === 0;
     status.textContent = items.length ? '' : 'Комментариев пока нет.'; status.hidden = items.length > 0;
   }
+  const shortDate = new Intl.DateTimeFormat('ru-RU', {timeZone:'Europe/Kyiv',day:'2-digit',month:'2-digit',year:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'});
+  const fullDate = new Intl.DateTimeFormat('ru-RU', {timeZone:'Europe/Kyiv',dateStyle:'short',timeStyle:'short',hourCycle:'h23'});
+  const messageCount = n => `${n} ${n%10===1&&n%100!==11?'сообщение':n%10>=2&&n%10<=4&&(n%100<12||n%100>14)?'сообщения':'сообщений'}`;
+  function renderCards(stats) {
+    for (const card of cards) {
+      const summary = stats?.[card.dataset.discussionSummary];
+      if (!summary || !Number.isSafeInteger(summary.messageCount) || summary.messageCount < 0 || (summary.messageCount > 0 && (!summary.last || typeof summary.last.author !== 'string' || !Number.isFinite(Date.parse(summary.last.createdAt))))) {
+        if (!card.dataset.loaded) card.textContent = 'Комментарии недоступны';
+        card.title = 'Не удалось обновить сведения. Открыть обсуждение';
+        continue;
+      }
+      const count = document.createElement('span'); count.className = 'card-discussion-count';
+      const icon = document.createElementNS('http://www.w3.org/2000/svg','svg'); icon.setAttribute('viewBox','0 0 24 24'); icon.setAttribute('aria-hidden','true');
+      const outline = document.createElementNS('http://www.w3.org/2000/svg','path'); outline.setAttribute('d','M5 4h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H9l-6 4V6a2 2 0 0 1 2-2Z');icon.append(outline);
+      count.append(icon,document.createTextNode(String(summary.messageCount)));
+      const elements = [count];
+      let label = messageCount(summary.messageCount);
+      if (summary.last && summary.messageCount) {
+        const separator = () => { const el=document.createElement('span');el.className='card-discussion-separator';el.textContent='·';el.setAttribute('aria-hidden','true');return el; };
+        const author = document.createElement('span');author.className='card-discussion-author';author.textContent=summary.last.author;
+        const time = document.createElement('time');time.dateTime=summary.last.createdAt;time.textContent=shortDate.format(new Date(summary.last.createdAt)).replace(',','');
+        elements.push(separator(),author,separator(),time);
+        label += ` · Последнее: ${summary.last.author}, ${fullDate.format(new Date(summary.last.createdAt))} (Киев)`;
+      }
+      card.replaceChildren(...elements);card.dataset.loaded='true';card.title=label;card.setAttribute('aria-label',label+' · Открыть обсуждение');
+    }
+  }
   async function refresh() {
     if (pending) return;
-    pending = true; retry.hidden = true;
+    pending = true; if (retry) retry.hidden = true;
     const controller = new AbortController(); const timeout = setTimeout(() => controller.abort(), 12000);
     try {
-      const response = await fetch(source, {cache:'no-store', credentials:'omit', signal:controller.signal});
+      const response = await fetch(source + '?updated=' + Math.floor(Date.now()/60000), {cache:'no-store', credentials:'omit', signal:controller.signal});
       if (!response.ok) throw new Error('Feed unavailable');
       const feed = await response.json();
       if (feed.schemaVersion !== 1 || !Array.isArray(feed.items)) throw new Error('Invalid feed');
-      render(feed.items); checked = Date.now();
+      render(feed.items); renderCards(feed.discussionStats); checked = Date.now();
     } catch (_) {
-      status.hidden = false;
-      status.textContent = list.childElementCount ? 'Не удалось обновить комментарии. Показана предыдущая загрузка.' : 'Комментарии не загрузились. Повторите попытку или откройте все обсуждения.';
-      retry.hidden = false;
+      renderCards(null);
+      if (status) status.hidden = false;
+      if (status) status.textContent = list?.childElementCount ? 'Не удалось обновить комментарии. Показана предыдущая загрузка.' : 'Комментарии не загрузились. Повторите попытку или откройте все обсуждения.';
+      if (retry) retry.hidden = false;
     } finally { clearTimeout(timeout); pending = false; }
   }
-  retry.addEventListener('click', refresh);
+  retry?.addEventListener('click', refresh);
   document.addEventListener('visibilitychange', () => { if (!document.hidden && Date.now() - checked > 60000) refresh(); });
   setInterval(() => { if (!document.hidden && Date.now() - checked > 60000) refresh(); }, 60000);
   refresh();

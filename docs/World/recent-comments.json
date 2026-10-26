@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T22:04:20.342458+00:00",
+  "generatedAt": "2026-10-26T22:22:40.606817+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BJQk4",
@@ -62,5 +62,160 @@
     "ships/moag/": 62,
     "robots/martin/": 61,
     "robots/lon/": 44
+  },
+  "discussionStats": {
+    "work.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "catalog.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/tais/": {
+      "messageCount": 2,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-26T19:58:20Z"
+      }
+    },
+    "characters/tais/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/emma/": {
+      "messageCount": 3,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:20Z"
+      }
+    },
+    "characters/emma/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/fedor/": {
+      "messageCount": 5,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:23Z"
+      }
+    },
+    "characters/fedor/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kolka/": {
+      "messageCount": 2,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-26T19:58:49Z"
+      }
+    },
+    "characters/kolka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/valek/": {
+      "messageCount": 2,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:18Z"
+      }
+    },
+    "characters/valek/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/nitka/": {
+      "messageCount": 3,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-26T20:01:14Z"
+      }
+    },
+    "characters/nitka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/masha/": {
+      "messageCount": 2,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-26T20:02:43Z"
+      }
+    },
+    "characters/masha/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/katya/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/katya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/lon/": {
+      "messageCount": 2,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-26T19:47:26Z"
+      }
+    },
+    "robots/lon/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don15/": {
+      "messageCount": 4,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:16Z"
+      }
+    },
+    "robots/don15/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/martin/": {
+      "messageCount": 1,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-26T19:51:51Z"
+      }
+    },
+    "robots/martin/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/moag/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/moag/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/base-girls/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/base-girls/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "search.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/scale/": {
+      "messageCount": 3,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:25Z"
+      }
+    }
   }
 }
