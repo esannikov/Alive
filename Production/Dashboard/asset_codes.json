@@ -19,7 +19,8 @@
     "don": 20,
     "martin": 9,
     "valek": 13,
-    "nitka": 12
+    "nitka": 12,
+    "masha": 7
   },
   "assets": [
     {
@@ -4090,6 +4091,144 @@
       ],
       "galleries": [
         "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha001",
+      "object": "masha",
+      "caption": "A · мягкий овал",
+      "sha256": "4f995ad82086e99e674e1ae8abbd20de44539b0577e32ebac32eb7967b6f1792",
+      "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
+      "source_file": "docs/World/characters/masha/images/masha001.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha001.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha002",
+      "object": "masha",
+      "caption": "B · угловатый типаж",
+      "sha256": "b1ef7427641007ed49e660da90a7c0eafd1e96528f8da55c30ec99b5c32dcee7",
+      "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
+      "source_file": "docs/World/characters/masha/images/masha002.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha002.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha003",
+      "object": "masha",
+      "caption": "C · округлое лицо и кудри",
+      "sha256": "45cf64568010347c2316338f119cc3113faa43649fcd77e9260edee70517bf4d",
+      "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
+      "source_file": "docs/World/characters/masha/images/masha003.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha003.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha004",
+      "object": "masha",
+      "caption": "D · широкие скулы",
+      "sha256": "5d571c7fce5d3bb5da84c82bf99790c1e48de6b27d68c234e29505f24138117a",
+      "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
+      "source_file": "docs/World/characters/masha/images/masha004.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha004.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha005",
+      "object": "masha",
+      "caption": "E · выраженный профиль",
+      "sha256": "eeed90ec856c1ac30716f33c8775c426836e332873ea92f97582835528a0c292",
+      "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
+      "source_file": "docs/World/characters/masha/images/masha005.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha005.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha006",
+      "object": "masha",
+      "caption": "F · широкий мягкий типаж",
+      "sha256": "ea5e2262100d13bfcba3a52641698a26ab74a23b817c76c72ed7cab1464da732",
+      "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
+      "source_file": "docs/World/characters/masha/images/masha006.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha006.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
       ],
       "kind": "appearance",
       "status": "candidate",
