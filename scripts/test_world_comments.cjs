@@ -33,10 +33,10 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   for(const [key,value] of Object.entries({mapping:'pathname',strict:'1',theme:'dark',lang:'ru',inputPosition:'bottom',reactionsEnabled:'0'}))assert.equal(frame.searchParams.get(key),value);
   const term=frame.searchParams.get('term');assert(term.endsWith('/characters/valek/'));
   assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'viewer-caption');
-  const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek008"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek008'));
+  const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek014"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek014'));
   await p.addScriptTag({path:path.join(root,'docs/World/site.js')});assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('.giscus-frame').count(),1);
   await p.goto(base+'index.html');assert.equal(await p.locator('#comments').count(),0);assert.equal(await p.locator('#recent-comments').count(),1);
-  await p.goto(base+'characters/valek/?giscus=test-session#giscus-comments');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek008');
+  await p.goto(base+'characters/valek/?giscus=test-session#giscus-comments');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek014');
   await p.goto(base+'characters/valek/#comments');await p.locator('#comments').waitFor();assert.equal(new URL(p.url()).hash,'#comments');
   await p.setViewportSize({width:390,height:844});await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
   if(process.env.QA_SCREENSHOT)await p.screenshot({path:process.env.QA_SCREENSHOT});
