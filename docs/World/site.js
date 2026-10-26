@@ -53,7 +53,7 @@
     const field = $('#global-search'); field.value = new URLSearchParams(location.search).get('q') || '';
     const series = Object.fromEntries(data.series.map(s => [s.id,s.title]));
     const entries = data.assets.filter(a=>!a.archived).map(a => ({title: `${objects[a.object].title} · ${a.title}`, meta:a.code,
-      text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} ${objects[a.object].variant_notes?.[a.series]||''} ${objects[a.object].kind==='ship'?'корабль станция внешний облик':'портрет внешность'} концепт`,
+      text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} ${objects[a.object].variant_notes?.[a.code]||objects[a.object].variant_notes?.[a.series]||''} ${objects[a.object].kind==='ship'?'корабль станция внешний облик':'портрет внешность'} концепт`,
       note: `${series[a.series]} · поисковый вариант`, href:`${a.page||`characters/${a.object}/`}#${a.code}`,image:a.thumb,code:a.code}));
     data.tasks.forEach(t => entries.push({title:t.title,meta:'ProductionFlow',text:`${t.title} ${t.output}`,note:'Задание в плане',href:`../ProductionFlow/#task=${t.id}`}));
     const render = () => {
@@ -142,7 +142,7 @@
     const img=$('#hero-image');
     loadPicture(img,a).then(ready=>{if(ready&&active.code===a.code){const next=assets.find(item=>item.series===a.series&&item.code!==a.code);prefetch(next);}});
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
-    if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.series]||'';
+    if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.code]||objects[objectId].variant_notes?.[a.series]||'';
     if (data.comments?.enabled) { try { sessionStorage.setItem(commentsSelectionKey, a.code); } catch (_) {} }
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{

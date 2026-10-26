@@ -13,12 +13,12 @@
     "tais": 43,
     "fedor": 24,
     "moag": 37,
-    "emma": 7,
+    "emma": 9,
     "kolka": 7,
     "lon": 11,
-    "don": 20,
+    "don": 23,
     "martin": 9,
-    "valek": 13,
+    "valek": 19,
     "nitka": 12,
     "masha": 7
   },
@@ -2458,7 +2458,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
@@ -2484,7 +2484,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
     },
     {
@@ -3309,7 +3309,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don018",
@@ -3597,7 +3597,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "valek002",
@@ -3645,7 +3645,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "valek003",
@@ -3693,7 +3693,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "valek004",
@@ -3741,7 +3741,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "valek005",
@@ -3789,7 +3789,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "valek006",
@@ -3837,7 +3837,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "nitka001",
@@ -4236,6 +4236,274 @@
       "renditions": [],
       "task_ids": [
         "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek013",
+      "object": "valek",
+      "caption": "Узкий овал · худой типаж",
+      "sha256": "0b2421d0ee53e81ae7169d4c29530e6d9eff01e97a4c92ff27b4949a50fa1c64",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek013.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek013.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek007",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek014",
+      "object": "valek",
+      "caption": "Широкая челюсть · худой типаж",
+      "sha256": "0490bcb8093ef2305f062498a4e44d596430b20dfc1258e20abed12ee58303ce",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek014.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek014.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek008",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek015",
+      "object": "valek",
+      "caption": "Высокие скулы · худой типаж",
+      "sha256": "4a621907cdf1d191f1384056045089865256cf2e67411f4058ba31d071b967ce",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek015.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek015.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek009",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek016",
+      "object": "valek",
+      "caption": "Острые черты · худой типаж",
+      "sha256": "5538f98f747f458b80ce8a9f740cad4867119d1dfd24a2ff22988ab3d865bbef",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek016.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek016.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek010",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek017",
+      "object": "valek",
+      "caption": "Мягкий овал · худой типаж",
+      "sha256": "6c70fbbfde4cc9d82e3b7c65ca54c96187903669c93244625dfbe64f181ccee1",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek017.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek017.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek011",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek018",
+      "object": "valek",
+      "caption": "Выразительный профиль · худой типаж",
+      "sha256": "67f5e384f9e335439c2b5c4f2b92682cadc88a04ca9c60a1ce2ea28fb15a6993",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek018.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek018.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek012",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma007",
+      "object": "emma",
+      "caption": "Открытый взгляд · собранность",
+      "sha256": "67886cdad99ce2a8024923973cbb9f7fc724dc5a4058f984154a3b7d349e430b",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/emma/images/emma007.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma007.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma002",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+    },
+    {
+      "code": "emma008",
+      "object": "emma",
+      "caption": "Чистый овал · уверенность",
+      "sha256": "12c81776d43c47d7274ee2e4e914ca7109de9dae6ef8814446815dd64d9de767",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/emma/images/emma008.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma008.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma001",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "don020",
+      "object": "don15",
+      "caption": "Клюв · сухой силуэт",
+      "sha256": "10c069ab8ce393707887f18b31f40595e18b8f5973733eee82d5186edb28e410",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/robots/don15/images/don020.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don020.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don017",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don021",
+      "object": "don15",
+      "caption": "Клюв · прицеливание",
+      "sha256": "25e75ed6518e0d6f74b1d482a7e7f56f08d5a7ea174b623bc2f05b380822c91c",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/robots/don15/images/don021.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don021.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don022",
+      "object": "don15",
+      "caption": "Рыцарь · щелевой визор (адаптация)",
+      "sha256": "03dbd8aa8774defca6293637a9435d90f10c5e7eec87ba53c791ce480ca13282",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/robots/don15/images/don022.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don022.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
       ],
       "series": "current",
       "visibility": "active"
