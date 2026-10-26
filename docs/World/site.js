@@ -271,6 +271,10 @@
   box.append(summary, content);
 
   let started = false;
+  let boundNumber = null;
+  const worldRoot = new URL(document.body.dataset.root || './', location.href);
+  const pagePath = location.pathname.slice(worldRoot.pathname.length);
+  const validNumber = n => Number.isSafeInteger(n) && n > 0;
   let timeout;
   const fail = () => {
     clearTimeout(timeout);
@@ -283,28 +287,52 @@
     if (event.origin !== 'https://giscus.app' || event.source !== frame?.contentWindow || !event.data?.giscus) return;
     if (event.data.giscus.error) {
       // No thread exists until the first comment; this is an ordinary empty state.
-      if (String(event.data.giscus.error).includes('Discussion not found')) { clearTimeout(timeout); status.hidden = true; }
+      if (String(event.data.giscus.error).includes('Discussion not found') && !boundNumber) { clearTimeout(timeout); status.hidden = true; }
+      else if (boundNumber) { host.hidden = true; fail(); }
       else fail();
       return;
     }
     if (event.data.giscus.resizeHeight || event.data.giscus.discussion || event.data.giscus.discussion === null) {
       clearTimeout(timeout);
-      status.hidden = true;
+      if (!host.hidden) status.hidden = true;
     }
   });
-  const start = () => {
+  const start = async () => {
     if (started) return;
     started = true;
+    boundNumber = config.discussionNumbers?.[pagePath];
+    if (!validNumber(boundNumber)) {
+      // The feed discovers newly created threads without a site rebuild.
+      // If lookup is unavailable, don't pretend an existing conversation is empty.
+      const controller = new AbortController();
+      const lookupTimeout = setTimeout(() => controller.abort(), 8000);
+      try {
+        const feedURL = 'https://raw.githubusercontent.com/esannikov/Alive/codex/alive-roadmap-site/docs/World/recent-comments.json';
+        const response = await fetch(feedURL + '?map=' + Math.floor(Date.now()/60000), {cache:'no-store', credentials:'omit', signal:controller.signal});
+        if (!response.ok) throw new Error('Discussion directory unavailable');
+        const feed = await response.json();
+        if (feed.schemaVersion !== 1 || !feed.discussionNumbers || typeof feed.discussionNumbers !== 'object') throw new Error('Invalid discussion directory');
+        boundNumber = feed.discussionNumbers[pagePath];
+        if (boundNumber !== undefined && !validNumber(boundNumber)) throw new Error('Invalid discussion number');
+      } catch (_) { fail(); return; }
+      finally { clearTimeout(lookupTimeout); }
+    }
+    if (!validNumber(boundNumber)) boundNumber = null;
+    if (boundNumber) {
+      fallback.href = `https://github.com/${config.repo}/discussions/${boundNumber}`;
+      fallback.textContent = 'Открыть обсуждение на GitHub';
+    }
     const script = document.createElement('script');
     script.src = 'https://giscus.app/client.js';
     script.async = true;
     script.crossOrigin = 'anonymous';
     Object.assign(script.dataset, {
       repo: config.repo, repoId: config.repoId, category: config.category,
-      categoryId: config.categoryId, mapping: 'pathname', strict: '1',
+      categoryId: config.categoryId, mapping: boundNumber ? 'number' : 'pathname', strict: '1',
       reactionsEnabled: config.reactionsEnabled || '0', emitMetadata: '1', inputPosition: config.inputPosition || 'bottom',
       theme: 'dark', lang: 'ru', loading: 'lazy'
     });
+    if (boundNumber) script.dataset.term = String(boundNumber);
     const selectedHash = location.hash;
     script.addEventListener('error', fail, {once:true});
     script.addEventListener('load', () => {
