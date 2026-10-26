@@ -48,7 +48,7 @@ DISCUSSIONS = '''query($category:ID!,$cursor:String) {
 }'''
 COMMENTS = '''query($id:ID!,$cursor:String) {
  node(id:$id) { ... on Discussion { comments(first:100,after:$cursor) {
-  nodes { %s replies(last:5) { nodes { %s } pageInfo { hasPreviousPage startCursor } } }
+  nodes { %s replies(last:100) { nodes { %s } pageInfo { hasPreviousPage startCursor } } }
   pageInfo { hasNextPage endCursor }
  } } }
 }''' % (COMMENT_FIELDS, COMMENT_FIELDS)
@@ -60,14 +60,14 @@ REPLIES = """query($id:ID!,$before:String) {
 }""" % COMMENT_FIELDS
 
 
-def visible_replies(comment):
+def visible_replies(comment, limit=5):
     connection = comment['replies']
     found = []
     while True:
-        found.extend(r for r in connection['nodes'] if not r.get('isMinimized') and r.get('bodyText', '').strip())
+        found.extend(r for r in connection['nodes'] if not r.get('isMinimized'))
         info = connection.get('pageInfo', {})
-        if len(found) >= 5 or not info.get('hasPreviousPage'):
-            return sorted(found, key=lambda r: (r['createdAt'], r['id']), reverse=True)[:5]
+        if (limit is not None and len(found) >= limit) or not info.get('hasPreviousPage'):
+            return sorted(found, key=lambda r: (r['createdAt'], r['id']), reverse=True)[:limit]
         cursor = info.get('startCursor')
         if not cursor:
             raise RuntimeError('Invalid reply pagination')
@@ -112,25 +112,41 @@ def make_item(comment, page):
             'createdAt': comment['createdAt'], 'excerpt': excerpt, 'url': comment['url']}
 
 
-def collect(pages, category, discussion_numbers=None):
+def collect(pages, category, discussion_numbers=None, discussion_stats=None):
     found = {}
+    if discussion_stats is not None:
+        discussion_stats.update({p['page']: {'messageCount': 0, 'last': None} for p in pages})
+    # Match the same oldest canonical thread used by the direct widget binding.
+    selected = {}
     discussions = paginated(DISCUSSIONS, lambda d: d['repository']['discussions'], category=category)
     for discussion in discussions:
         page = identify_page(discussion, pages)
         if page is None:
             continue
+        previous = selected.get(page['page'])
+        if previous is None or discussion['number'] < previous[0]['number']:
+            selected[page['page']] = (discussion, page)
+    for discussion, page in selected.values():
         if discussion_numbers is not None:
-            number = discussion['number']
-            discussion_numbers[page['page']] = min(number, discussion_numbers.get(page['page'], number))
+            discussion_numbers[page['page']] = discussion['number']
+        messages = {}
         comments = paginated(COMMENTS, lambda d: d['node']['comments'], id=discussion['id'])
         for comment in comments:
-            # A minimized conversation is not promoted through its replies either.
             if comment.get('isMinimized'):
                 continue
-            for entry in [comment, *visible_replies(comment)]:
+            for entry in [comment, *visible_replies(comment, limit=None)]:
+                # Include image-only messages in the count, even without an excerpt.
+                messages[entry['id']] = entry
                 item = make_item(entry, page)
                 if item:
                     found[item['id']] = item
+        if discussion_stats is not None:
+            latest = max(messages.values(), key=lambda x: (x['createdAt'], x['id'])) if messages else None
+            discussion_stats[page['page']] = {
+                'messageCount': len(messages),
+                'last': {'author': (latest.get('author') or {}).get('login') or 'Удалённый аккаунт',
+                         'createdAt': latest['createdAt']} if latest else None,
+            }
     return sorted(found.values(), key=lambda c: (c['createdAt'], c['id']), reverse=True)[:5]
 
 
@@ -140,7 +156,7 @@ def publish(feed):
     for attempt in range(3):
         current = gh_api(endpoint + '?ref=' + BRANCH)
         previous = json.loads(base64.b64decode(current['content']))
-        if previous.get('items') == feed['items'] and previous.get('schemaVersion') == 1 and previous.get('discussionNumbers', {}) == feed.get('discussionNumbers', {}):
+        if previous.get('items') == feed['items'] and previous.get('schemaVersion') == 1 and previous.get('discussionNumbers', {}) == feed.get('discussionNumbers', {}) and previous.get('discussionStats', {}) == feed.get('discussionStats', {}):
             print('Feed is current; no commit needed')
             return
         try:
@@ -164,8 +180,9 @@ def main():
     # Overview has a feed, not its own comment form.
     pages = [p for p in pages if p['page']]
     discussion_numbers = {}
-    items = collect(pages, config['categoryId'], discussion_numbers)
-    feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items, 'discussionNumbers': discussion_numbers}
+    discussion_stats = {}
+    items = collect(pages, config['categoryId'], discussion_numbers, discussion_stats)
+    feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items, 'discussionNumbers': discussion_numbers, 'discussionStats': discussion_stats}
     if args.publish:
         publish(feed)
     else:

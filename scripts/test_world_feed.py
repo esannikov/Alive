@@ -8,7 +8,7 @@ PAGES = [{'term':'Alive/World/characters/emma/', 'page':'characters/emma/', 'tit
          {'term':'Alive/World/robots/lon/', 'page':'robots/lon/', 'title':'Лон'}]
 
 def thread(id, page):
-    return {'id':id, 'title':'renamed', 'body':'<!-- sha1: '+hashlib.sha1(page['term'].encode()).hexdigest()+' -->'}
+    return {'id':id, 'number':1 if id=='d1' else 2, 'title':'renamed', 'body':'<!-- sha1: '+hashlib.sha1(page['term'].encode()).hexdigest()+' -->'}
 
 def comment(id, day, **overrides):
     return dict(id=id, createdAt=f'2026-10-{day:02}T12:00:00Z', url='https://github.com/esannikov/Alive/discussions/1',
@@ -40,6 +40,27 @@ class FeedTests(unittest.TestCase):
         with patch.object(feed,'gh_api',side_effect=[current,{}]) as api:
             feed.publish({'schemaVersion':1,'items':[],'discussionNumbers':{'characters/emma/':52}})
             self.assertEqual(api.call_args.kwargs['method'],'PUT')
+    def test_stats_count_all_replies_and_images(self):
+        d=thread('d1',PAGES[0]);parent=comment('parent',1)
+        replies=[comment('r'+str(n),n+2) for n in range(8)]
+        replies[-1]['bodyText']=''  # image-only last message still counts
+        replies[-1]['author']={'login':'last-author'}
+        parent['replies']={'nodes':replies[4:], 'pageInfo':{'hasPreviousPage':True,'startCursor':'earlier'}}
+        hidden=comment('hidden',30);hidden['isMinimized']=True
+        stats={}
+        def fake(query, select, **kwargs):return iter([d] if query==feed.DISCUSSIONS else [parent,hidden])
+        with patch.object(feed,'paginated',side_effect=fake), patch.object(feed,'graphql',return_value={'node':{'replies':{'nodes':replies[:4], 'pageInfo':{'hasPreviousPage':False}}}}):
+            items=feed.collect(PAGES,'category',{},stats)
+        self.assertEqual(stats[PAGES[0]['page']]['messageCount'],9)
+        self.assertEqual(stats[PAGES[0]['page']]['last']['author'],'last-author')
+        self.assertEqual(stats[PAGES[1]['page']],{'messageCount':0,'last':None})
+        self.assertEqual(len(items),5)
+    def test_stats_changes_publish_even_if_top_five_unchanged(self):
+        import base64,json
+        current={'sha':'abc','content':base64.b64encode(json.dumps({'schemaVersion':1,'items':[],'discussionStats':{}}).encode()).decode()}
+        with patch.object(feed,'gh_api',side_effect=[current,{}]) as api:
+            feed.publish({'schemaVersion':1,'items':[],'discussionStats':{'x/':{'messageCount':1,'last':None}}})
+            self.assertEqual(api.call_count,2)
     def test_pagination(self):
         results=[{'nodes':[1], 'pageInfo':{'hasNextPage':True,'endCursor':'next'}}, {'nodes':[2], 'pageInfo':{'hasNextPage':False,'endCursor':None}}]
         with patch.object(feed,'graphql',side_effect=results) as call:
