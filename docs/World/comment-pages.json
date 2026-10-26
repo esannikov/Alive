@@ -1,0 +1,127 @@
+[
+  {
+    "term": "Alive/World/",
+    "page": "",
+    "title": "Обзор"
+  },
+  {
+    "term": "Alive/World/work",
+    "page": "work.html",
+    "title": "В разработке"
+  },
+  {
+    "term": "Alive/World/catalog",
+    "page": "catalog.html",
+    "title": "Каталог"
+  },
+  {
+    "term": "Alive/World/characters/tais/",
+    "page": "characters/tais/",
+    "title": "Таис"
+  },
+  {
+    "term": "Alive/World/characters/tais/reference",
+    "page": "characters/tais/reference.html",
+    "title": "Таис · справка"
+  },
+  {
+    "term": "Alive/World/characters/emma/",
+    "page": "characters/emma/",
+    "title": "Эмма"
+  },
+  {
+    "term": "Alive/World/characters/emma/reference",
+    "page": "characters/emma/reference.html",
+    "title": "Эмма · справка"
+  },
+  {
+    "term": "Alive/World/characters/fedor/",
+    "page": "characters/fedor/",
+    "title": "Федор"
+  },
+  {
+    "term": "Alive/World/characters/fedor/reference",
+    "page": "characters/fedor/reference.html",
+    "title": "Федор · справка"
+  },
+  {
+    "term": "Alive/World/characters/kolka/",
+    "page": "characters/kolka/",
+    "title": "Колька · Колючий"
+  },
+  {
+    "term": "Alive/World/characters/kolka/reference",
+    "page": "characters/kolka/reference.html",
+    "title": "Колька · Колючий · справка"
+  },
+  {
+    "term": "Alive/World/characters/valek/",
+    "page": "characters/valek/",
+    "title": "Валёк"
+  },
+  {
+    "term": "Alive/World/characters/valek/reference",
+    "page": "characters/valek/reference.html",
+    "title": "Валёк · справка"
+  },
+  {
+    "term": "Alive/World/robots/lon/",
+    "page": "robots/lon/",
+    "title": "Лон"
+  },
+  {
+    "term": "Alive/World/robots/lon/reference",
+    "page": "robots/lon/reference.html",
+    "title": "Лон · справка"
+  },
+  {
+    "term": "Alive/World/robots/don15/",
+    "page": "robots/don15/",
+    "title": "Дон-15"
+  },
+  {
+    "term": "Alive/World/robots/don15/reference",
+    "page": "robots/don15/reference.html",
+    "title": "Дон-15 · справка"
+  },
+  {
+    "term": "Alive/World/robots/martin/",
+    "page": "robots/martin/",
+    "title": "Мартин · Дон-12"
+  },
+  {
+    "term": "Alive/World/robots/martin/reference",
+    "page": "robots/martin/reference.html",
+    "title": "Мартин · Дон-12 · справка"
+  },
+  {
+    "term": "Alive/World/ships/moag/",
+    "page": "ships/moag/",
+    "title": "Моаг · корабль"
+  },
+  {
+    "term": "Alive/World/ships/moag/reference",
+    "page": "ships/moag/reference.html",
+    "title": "Моаг · корабль · справка"
+  },
+  {
+    "term": "Alive/World/characters/base-girls/",
+    "page": "characters/base-girls/",
+    "title": "Девочки с базы"
+  },
+  {
+    "term": "Alive/World/characters/base-girls/reference",
+    "page": "characters/base-girls/reference.html",
+    "title": "Девочки с базы · справка"
+  },
+  {
+    "term": "Alive/World/search",
+    "page": "search.html",
+    "title": "Поиск"
+  },
+  {
+    "term": "Alive/World/robots/scale/",
+    "page": "robots/scale/",
+    "title": "Роботы · размерный лист"
+  }
+]

@@ -39,3 +39,15 @@ node scripts/test_world_comments.cjs
 - [Официальная конфигурация Giscus](https://giscus.app/)
 - [Строгое сопоставление и дополнительные параметры](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md)
 - [GitHub Discussions API](https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions)
+
+## Лента на главной
+
+`World/index.html` показывает пять последних видимых сообщений и ответов из категории Comments, привязанных к страницам World. На главной отдельной формы Giscus нет. Кнопки ведут к `#comments` нужной страницы.
+
+`scripts/build_world.py` формирует список путей `docs/World/comment-pages.json`. `scripts/sync_world_comments.py` читает GitHub GraphQL с полной пагинацией обсуждений и корневых комментариев; для ответов добирает пять последних видимых записей. Сопоставление использует strict SHA1 Giscus. Посторонние и скрытые обсуждения/комментарии не выводятся, тексты сохраняются без HTML. Скрытый родитель исключает свои ответы из ленты.
+
+Workflow `.github/workflows/world-comments.yml` должен находиться также на default-ветке `main`: GitHub запускает discussion events и schedule только оттуда. Он читает код публикационной ветки `codex/alive-roadmap-site` и меняет только `docs/World/recent-comments.json` в этой ветке. Используется встроенный `GITHUB_TOKEN` с `discussions: read` и `contents: write`; в сайт токен не передаётся. Отдельный сервер и сторонний планировщик не нужны.
+
+Обновление запускается при создании/редактировании/удалении комментариев и обсуждений, вручную и с резервной проверкой раз в 15 минут (GitHub может задержать scheduled run). При неизменном содержимом коммит не создаётся. Главная читает JSON через raw.githubusercontent.com: коммиты GITHUB_TOKEN не запускают обычную сборку Pages. Открытая главная проверяет ленту раз в минуту, пока вкладка видима, и при возвращении во вкладку. Ошибка загрузки не маскируется пустым состоянием; есть повтор и ссылка в Discussions.
+
+Проверка без записи обсуждений: `python3 scripts/test_world_feed.py`, `node scripts/test_world_feed.cjs`. Тестовые комментарии в публичный репозиторий не добавляются.
