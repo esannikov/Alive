@@ -11,14 +11,15 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.CHROME_BIN||'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true,args:['--disable-gpu']});
  try{
-  const context=await browser.newContext({viewport:{width:1440,height:1000}});let clients=0;let fail=false;
+  const context=await browser.newContext({viewport:{width:1440,height:1000}});let clients=0;let fail=false;let directoryFail=false;
   await context.route('**/data.js*',r=>r.fulfill({body:'window.ALIVE_WORLD='+JSON.stringify(fixture)+';',contentType:'application/javascript'}));
+  await context.route('https://raw.githubusercontent.com/**/recent-comments.json*',r=>directoryFail?r.abort():r.fulfill({contentType:'application/json',body:JSON.stringify({schemaVersion:1,items:[],discussionNumbers:{...fixture.comments.discussionNumbers,'work.html':999}})}));
   await context.route('https://giscus.app/**',async route=>{
    const u=new URL(route.request().url());
    if(u.pathname==='/client.js'){
     clients++;if(fail)return route.abort();
     // Emulate only the public client contract; never exercise OAuth or createDiscussion.
-    return route.fulfill({contentType:'application/javascript',body:`(()=>{const s=document.currentScript,d=s.dataset;const f=document.createElement('iframe');f.title='Комментарии';f.className='giscus-frame';f.src='https://giscus.app/ru/widget?'+new URLSearchParams({...d,term:location.pathname.substring(1).replace(/\\.\\w+$/,'')});document.querySelector('.giscus').append(f);if(new URL(location.href).searchParams.has('giscus'))history.replaceState(null,'',location.pathname);})();`});
+    return route.fulfill({contentType:'application/javascript',body:`(()=>{const s=document.currentScript,d=s.dataset;const f=document.createElement('iframe');f.title='Комментарии';f.className='giscus-frame';f.src='https://giscus.app/ru/widget?'+new URLSearchParams({...d,term:d.mapping==='number'?d.term:location.pathname.substring(1).replace(/\\.\\w+$/,'')});document.querySelector('.giscus').append(f);if(new URL(location.href).searchParams.has('giscus'))history.replaceState(null,'',location.pathname);})();`});
    }
    if(u.pathname==='/ru/widget')return route.fulfill({body:widget,contentType:'text/html'});
    return route.fulfill({body:'',contentType:'text/css'});
@@ -30,8 +31,8 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   assert.equal(clients,0,'Giscus must wait for scrolling on a long gallery');
   await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>document.querySelector('#comments .comments-status').hidden);
   let frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));
-  for(const [key,value] of Object.entries({mapping:'pathname',strict:'1',theme:'dark',lang:'ru',inputPosition:'bottom',reactionsEnabled:'0'}))assert.equal(frame.searchParams.get(key),value);
-  const term=frame.searchParams.get('term');assert(term.endsWith('/characters/valek/'));
+  for(const [key,value] of Object.entries({mapping:'number',strict:'1',theme:'dark',lang:'ru',inputPosition:'bottom',reactionsEnabled:'0'}))assert.equal(frame.searchParams.get(key),value);
+  const term=frame.searchParams.get('term');assert.equal(term,'60');
   assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'viewer-caption');
   const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek014"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek014'));
   await p.addScriptTag({path:path.join(root,'docs/World/site.js')});assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('.giscus-frame').count(),1);
@@ -42,6 +43,13 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   if(process.env.QA_SCREENSHOT)await p.screenshot({path:process.env.QA_SCREENSHOT});
   fail=true;await p.goto(base+'robots/lon/');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>document.querySelector('.comments-status').textContent.includes('не загрузились'));
   assert.deepEqual(errors,[]);
+  // Regression: direct IDs survive broken GitHub search; discovery works for new threads.
+  fail=false;await p.goto(base+'characters/fedor/#comments');await p.locator('.giscus-frame').waitFor();
+  frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.equal(frame.searchParams.get('mapping'),'number');assert.equal(frame.searchParams.get('term'),'52');
+  assert.equal(await p.locator('.comments-link').getAttribute('href'),'https://github.com/esannikov/Alive/discussions/52');
+  await p.goto(base+'work.html#comments');await p.locator('.giscus-frame').waitFor();frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.equal(frame.searchParams.get('term'),'999');
+  await p.goto(base+'search.html#comments');await p.locator('.giscus-frame').waitFor();frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.equal(frame.searchParams.get('mapping'),'pathname');
+  directoryFail=true;await p.goto(base+'characters/emma/reference.html#comments');await p.waitForFunction(()=>document.querySelector('.comments-status').textContent.includes('не загрузились'));assert.equal(await p.locator('.giscus-frame').count(),0);directoryFail=false;
   // All World routes receive the same integration. Disabled config has no remote widget.
   fail=false;
   function htmlFiles(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?htmlFiles(path.join(dir,e.name)):e.name.endsWith('.html')?[path.join(dir,e.name)]:[]);}

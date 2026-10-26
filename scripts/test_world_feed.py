@@ -27,6 +27,19 @@ class FeedTests(unittest.TestCase):
         self.assertEqual([i['id'] for i in items],['new-reply','c25','c24','c23','c22'])
         self.assertEqual(items[0]['page'],'characters/emma/')
         self.assertEqual(items[1]['title'],'Лон')
+    def test_directory_includes_empty_threads(self):
+        discussion=thread('d1',PAGES[0]);discussion['number']=52
+        def fake(query, select, **kwargs):return iter([discussion] if query==feed.DISCUSSIONS else [])
+        directory={}
+        with patch.object(feed,'paginated',side_effect=fake):
+            self.assertEqual(feed.collect(PAGES,'category',directory),[])
+        self.assertEqual(directory,{'characters/emma/':52})
+    def test_directory_change_publishes_without_new_comments(self):
+        import base64,json
+        current={'sha':'abc','content':base64.b64encode(json.dumps({'schemaVersion':1,'items':[],'discussionNumbers':{}}).encode()).decode()}
+        with patch.object(feed,'gh_api',side_effect=[current,{}]) as api:
+            feed.publish({'schemaVersion':1,'items':[],'discussionNumbers':{'characters/emma/':52}})
+            self.assertEqual(api.call_args.kwargs['method'],'PUT')
     def test_pagination(self):
         results=[{'nodes':[1], 'pageInfo':{'hasNextPage':True,'endCursor':'next'}}, {'nodes':[2], 'pageInfo':{'hasNextPage':False,'endCursor':None}}]
         with patch.object(feed,'graphql',side_effect=results) as call:

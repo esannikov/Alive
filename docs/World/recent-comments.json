@@ -47,5 +47,19 @@
       "excerpt": "Переделал руку: теперь кисть переходит в компактную боевую форму, без пушки поверх неё — don023 и don024. Добавил два птицеобразных варианта на тонких ногах: don025, don026. Головы сделал компактнее, с коротким стилизованным клювом.",
       "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19204401"
     }
-  ]
+  ],
+  "discussionNumbers": {
+    "robots/scale/": 54,
+    "characters/fedor/": 52,
+    "characters/emma/": 57,
+    "characters/valek/": 60,
+    "robots/don15/": 53,
+    "characters/masha/": 50,
+    "characters/nitka/": 48,
+    "characters/kolka/": 59,
+    "characters/tais/": 56,
+    "ships/moag/": 62,
+    "robots/martin/": 61,
+    "robots/lon/": 44
+  }
 }

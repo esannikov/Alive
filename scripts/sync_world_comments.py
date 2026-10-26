@@ -41,7 +41,7 @@ COMMENT_FIELDS = 'id url createdAt bodyText isMinimized author { login }'
 DISCUSSIONS = '''query($category:ID!,$cursor:String) {
  repository(owner:"esannikov",name:"Alive") {
   discussions(first:100,categoryId:$category,after:$cursor) {
-   nodes { id title body }
+   nodes { id number title body }
    pageInfo { hasNextPage endCursor }
   }
  }
@@ -112,13 +112,16 @@ def make_item(comment, page):
             'createdAt': comment['createdAt'], 'excerpt': excerpt, 'url': comment['url']}
 
 
-def collect(pages, category):
+def collect(pages, category, discussion_numbers=None):
     found = {}
     discussions = paginated(DISCUSSIONS, lambda d: d['repository']['discussions'], category=category)
     for discussion in discussions:
         page = identify_page(discussion, pages)
         if page is None:
             continue
+        if discussion_numbers is not None:
+            number = discussion['number']
+            discussion_numbers[page['page']] = min(number, discussion_numbers.get(page['page'], number))
         comments = paginated(COMMENTS, lambda d: d['node']['comments'], id=discussion['id'])
         for comment in comments:
             # A minimized conversation is not promoted through its replies either.
@@ -137,7 +140,7 @@ def publish(feed):
     for attempt in range(3):
         current = gh_api(endpoint + '?ref=' + BRANCH)
         previous = json.loads(base64.b64decode(current['content']))
-        if previous.get('items') == feed['items'] and previous.get('schemaVersion') == 1:
+        if previous.get('items') == feed['items'] and previous.get('schemaVersion') == 1 and previous.get('discussionNumbers', {}) == feed.get('discussionNumbers', {}):
             print('Feed is current; no commit needed')
             return
         try:
@@ -160,8 +163,9 @@ def main():
     pages = json.loads((ROOT/'docs/World/comment-pages.json').read_text())
     # Overview has a feed, not its own comment form.
     pages = [p for p in pages if p['page']]
-    items = collect(pages, config['categoryId'])
-    feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items}
+    discussion_numbers = {}
+    items = collect(pages, config['categoryId'], discussion_numbers)
+    feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items, 'discussionNumbers': discussion_numbers}
     if args.publish:
         publish(feed)
     else:

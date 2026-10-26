@@ -10,5 +10,19 @@
   "inputPosition": "bottom",
   "theme": "dark",
   "lang": "ru",
-  "loading": "lazy"
+  "loading": "lazy",
+  "discussionNumbers": {
+    "robots/scale/": 54,
+    "characters/fedor/": 52,
+    "characters/emma/": 57,
+    "characters/valek/": 60,
+    "robots/don15/": 53,
+    "characters/masha/": 50,
+    "characters/nitka/": 48,
+    "characters/kolka/": 59,
+    "characters/tais/": 56,
+    "ships/moag/": 62,
+    "robots/martin/": 61,
+    "robots/lon/": 44
+  }
 }
