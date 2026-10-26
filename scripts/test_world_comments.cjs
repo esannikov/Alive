@@ -35,7 +35,7 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'viewer-caption');
   const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek008"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek008'));
   await p.addScriptTag({path:path.join(root,'docs/World/site.js')});assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('.giscus-frame').count(),1);
-  await p.goto(base+'index.html');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.locator('.giscus-frame').waitFor();frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.notEqual(frame.searchParams.get('term'),term);
+  await p.goto(base+'index.html');assert.equal(await p.locator('#comments').count(),0);assert.equal(await p.locator('#recent-comments').count(),1);
   await p.goto(base+'characters/valek/?giscus=test-session#giscus-comments');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek008');
   await p.goto(base+'characters/valek/#comments');await p.locator('#comments').waitFor();assert.equal(new URL(p.url()).hash,'#comments');
   await p.setViewportSize({width:390,height:844});await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
@@ -45,7 +45,7 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   // All World routes receive the same integration. Disabled config has no remote widget.
   fail=false;
   function htmlFiles(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?htmlFiles(path.join(dir,e.name)):e.name.endsWith('.html')?[path.join(dir,e.name)]:[]);}
-  let pages=0;for(const file of htmlFiles(path.join(root,'docs/World'))){await p.goto(new URL(path.relative(path.join(root,'docs/World'),file),base).href);assert.equal(await p.locator('#comments').count(),1);pages++;}
+  let pages=0;for(const file of htmlFiles(path.join(root,'docs/World'))){await p.goto(new URL(path.relative(path.join(root,'docs/World'),file),base).href);assert.equal(await p.locator('#comments').count(),path.relative(path.join(root,'docs/World'),file)==='index.html'?0:1);pages++;}
   await context.unroute('**/data.js*');await p.goto(base+'characters/valek/');if(!data.comments.enabled)assert.equal(await p.locator('#comments').count(),0);
   console.log(JSON.stringify({status:'PASS',pages,lazy:true,strict:true,indexAlias:true,hashStable:true,oauthReturnHash:true,duplicateGuard:true,mobile:true,loadFailure:true,externalWrites:0}));
  }finally{await browser.close();}

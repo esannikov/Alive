@@ -72,7 +72,11 @@ def build():
         digest=hashlib.sha256((OUT/name).read_bytes()).hexdigest()[:12]
         return f'{name}?v={digest}'
 
+    comment_pages = []
+
     def page(path, title, body, active='catalog', category='', obj=None):
+        canonical = path.removesuffix('index.html') if path.endswith('index.html') else path
+        comment_pages.append({'term': 'Alive/World/' + re.sub(r'\.\w+$', '', canonical), 'page': canonical, 'title': title})
         target = OUT/path
         target.parent.mkdir(parents=True,exist_ok=True)
         prefix = os.path.relpath(OUT,target.parent).replace('\\','/')
@@ -103,7 +107,7 @@ def build():
         'sound':'Звуковые и речевые признаки', 'delivery':'Комплекты эпизодов и общий атлас'}
     available_groups={o['group'] for o in config['objects']+studies}
     rows=''.join(f'''<a class="catalog-row {"available" if g['id'] in available_groups else "planned"}" href="@ROOT@catalog.html#{g['id']}"><span class="row-title">{g['title']}</span><span class="row-description">{descriptions[g['id']]}</span><span class="row-state mono">{"Есть материалы" if g['id'] in available_groups else "Запланировано"}</span>{ARROW}</a>''' for g in plan['groups'])
-    page('index.html','Обзор',f'''<div class="page-heading"><h1>Разработка ALIVE</h1><p>Персонажи, пространства и предметы мира.</p></div><section aria-labelledby="current-heading"><h2 id="current-heading">Сейчас в разработке</h2>{object_cards()}</section><section class="catalog-section" aria-labelledby="catalog-heading"><div class="section-heading"><h2 id="catalog-heading">Полный состав разработки</h2><a class="quiet-link mono" href="@ROOT@catalog.html">Открыть каталог {ARROW}</a></div><div class="catalog-list">{rows}</div></section>''',active='overview')
+    page('index.html','Обзор',f'''<div class="page-heading"><h1>Разработка ALIVE</h1><p>Персонажи, пространства и предметы мира.</p></div><section id="recent-comments" class="recent-comments" aria-labelledby="recent-comments-heading"><div class="section-heading"><h2 id="recent-comments-heading">Последние комментарии</h2><button id="recent-comments-retry" class="quiet-button" hidden>Повторить</button></div><p id="recent-comments-status" class="recent-comments-status" role="status">Загрузка комментариев…</p><ol id="recent-comments-list" class="recent-comments-list" hidden></ol><a class="quiet-link recent-comments-all" href="https://github.com/esannikov/Alive/discussions/categories/comments">Все обсуждения {EXTERNAL}</a><noscript><p>Комментарии доступны по ссылке «Все обсуждения».</p></noscript></section><section aria-labelledby="current-heading"><h2 id="current-heading">Сейчас в разработке</h2>{object_cards()}</section><section class="catalog-section" aria-labelledby="catalog-heading"><div class="section-heading"><h2 id="catalog-heading">Полный состав разработки</h2><a class="quiet-link mono" href="@ROOT@catalog.html">Открыть каталог {ARROW}</a></div><div class="catalog-list">{rows}</div></section>''',active='overview')
     page('work.html','В разработке',f'''<div class="page-heading"><h1>В разработке</h1><p>Текущие подборки и материалы, которые готовятся.</p></div><section aria-label="Текущие работы"><h2 class="sr-only">Материалы</h2>{object_cards()}</section>''',active='work')
     catalog=[]
     for g in plan['groups']:
@@ -163,5 +167,7 @@ def build():
     else:raise RuntimeError('ProductionFlow integration marker missing; apply the integration patch once.')
     flowfile.write_text(flowtext)
     print(json.dumps({'status':'BUILT','images':len(assets),'objects':len(objects),'tasks':len(tasks),'pages':len(list(OUT.rglob('*.html')))},ensure_ascii=False))
+
+    (OUT/'comment-pages.json').write_text(json.dumps(comment_pages, ensure_ascii=False, indent=2)+'\n')
 
 if __name__=='__main__':build()

@@ -216,6 +216,7 @@
   'use strict';
   const config = window.ALIVE_WORLD?.comments;
   const main = document.getElementById('main');
+  if (document.body.dataset.page === 'overview') return;
   if (!config?.enabled || !config.repoId || !config.categoryId || !main || document.getElementById('comments')) return;
 
   // /index.html and / name the same World page. Preserve gallery selection and query parameters.
@@ -324,4 +325,63 @@
   window.addEventListener('hashchange', openForAnchor);
   openForAnchor();
   if (new URL(location.href).searchParams.has('giscus')) box.open = true;
+})();
+
+/* Public read-only feed; GitHub Actions keeps its JSON up to date. */
+(() => {
+  const section = document.getElementById('recent-comments');
+  if (!section || section.dataset.ready) return;
+  section.dataset.ready = 'true';
+  const list = document.getElementById('recent-comments-list');
+  const status = document.getElementById('recent-comments-status');
+  const retry = document.getElementById('recent-comments-retry');
+  const root = new URL(document.body.dataset.root || './', location.href);
+  const source = 'https://raw.githubusercontent.com/esannikov/Alive/codex/alive-roadmap-site/docs/World/recent-comments.json';
+  let pending = false, checked = 0;
+  const relative = new Intl.RelativeTimeFormat('ru', {numeric: 'auto'});
+  function timeLabel(date) {
+    const seconds = Math.min(0, (Date.parse(date) - Date.now()) / 1000);
+    if (seconds > -60) return 'только что';
+    for (const [unit, size] of [['day',86400], ['hour',3600], ['minute',60]]) {
+      if (Math.abs(seconds) >= size) return relative.format(Math.ceil(seconds / size), unit);
+    }
+  }
+  function render(items) {
+    const fragment = document.createDocumentFragment();
+    for (const item of items.slice(0,5)) {
+      // Never render external comment markup or accept an arbitrary target URL.
+      if (typeof item.page !== 'string' || !/^(?:[a-z0-9-]+\/)*(?:[a-z0-9-]+\.html)?$/.test(item.page) || !Number.isFinite(Date.parse(item.createdAt))) throw new Error('Invalid feed item');
+      const li = document.createElement('li');
+      const meta = document.createElement('div'); meta.className = 'recent-comment-meta';
+      const object = document.createElement('a'); object.href = new URL(item.page + '#comments', root).href; object.textContent = item.title;
+      const author = document.createElement('span'); author.textContent = item.author;
+      const time = document.createElement('time'); time.dateTime = item.createdAt; time.textContent = timeLabel(item.createdAt); time.title = new Date(item.createdAt).toLocaleString('ru');
+      meta.append(object, author, time);
+      const excerpt = document.createElement('p'); excerpt.textContent = item.excerpt;
+      const link = document.createElement('a'); link.href = object.href; link.className = 'quiet-link recent-comment-link'; link.textContent = 'Перейти к обсуждению';
+      li.append(meta, excerpt, link); fragment.append(li);
+    }
+    list.replaceChildren(fragment); list.hidden = items.length === 0;
+    status.textContent = items.length ? '' : 'Комментариев пока нет.'; status.hidden = items.length > 0;
+  }
+  async function refresh() {
+    if (pending) return;
+    pending = true; retry.hidden = true;
+    const controller = new AbortController(); const timeout = setTimeout(() => controller.abort(), 12000);
+    try {
+      const response = await fetch(source, {cache:'no-store', credentials:'omit', signal:controller.signal});
+      if (!response.ok) throw new Error('Feed unavailable');
+      const feed = await response.json();
+      if (feed.schemaVersion !== 1 || !Array.isArray(feed.items)) throw new Error('Invalid feed');
+      render(feed.items); checked = Date.now();
+    } catch (_) {
+      status.hidden = false;
+      status.textContent = list.childElementCount ? 'Не удалось обновить комментарии. Показана предыдущая загрузка.' : 'Комментарии не загрузились. Повторите попытку или откройте все обсуждения.';
+      retry.hidden = false;
+    } finally { clearTimeout(timeout); pending = false; }
+  }
+  retry.addEventListener('click', refresh);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden && Date.now() - checked > 60000) refresh(); });
+  setInterval(() => { if (!document.hidden && Date.now() - checked > 60000) refresh(); }, 60000);
+  refresh();
 })();
