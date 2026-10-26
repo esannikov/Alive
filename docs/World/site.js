@@ -8,6 +8,16 @@
   const $ = s => document.querySelector(s);
   const byCode = Object.fromEntries(data.assets.map(a => [a.code, a]));
   const objects = Object.fromEntries(data.objects.map(o => [o.id, o]));
+  const commentsSelectionKey = 'alive-world:comments:' + location.pathname.replace(/index\.html$/, '');
+  if (data.comments?.enabled && new URL(location.href).searchParams.has('giscus')) {
+    try {
+      const saved = sessionStorage.getItem(commentsSelectionKey);
+      if (saved && byCode[saved]?.object === document.body.dataset.object) {
+        const returned = new URL(location.href); returned.hash = saved;
+        history.replaceState(history.state, '', returned);
+      }
+    } catch (_) { /* Storage may be disabled; the gallery still works. */ }
+  }
   document.documentElement.classList.add('js');
   let noticeTimer;
   function announce(message) {
@@ -133,6 +143,7 @@
     loadPicture(img,a).then(ready=>{if(ready&&active.code===a.code){const next=assets.find(item=>item.series===a.series&&item.code!==a.code);prefetch(next);}});
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
     if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.series]||'';
+    if (data.comments?.enabled) { try { sessionStorage.setItem(commentsSelectionKey, a.code); } catch (_) {} }
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
       const chosen=isShip?el.dataset.series===a.series:el.dataset.code===code;el.classList.toggle('selected',chosen);
@@ -151,7 +162,7 @@
   function refreshDialog(){const img=$('#dialog-image');loadPicture(img,active);$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
-    if(code==='comments'){setActive(active?.code||objects[objectId].cover);return;}
+    if(code==='comments'||code==='giscus-comments'){setActive(active?.code||objects[objectId].cover);return;}
     const moved=byCode[code];
     if(moved&&moved.object!==objectId&&moved.previousObjects?.includes(objectId)){location.replace(url(moved.page+'#'+encodeURIComponent(code)));return;}
     if(code&&code!=='gallery'&&!setActive(code)){announce((data.deletedCodes||[]).includes(code)?`Кадр ${code} удалён из галереи.`:'Такой код не найден у этого объекта.');const u=new URL(location.href);u.hash=objects[objectId].cover;history.replaceState(null,'',u);setActive(objects[objectId].cover);}

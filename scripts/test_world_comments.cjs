@@ -35,7 +35,7 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek008"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);
   await p.addScriptTag({path:path.join(root,'docs/World/site.js')});assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('.giscus-frame').count(),1);
   await p.goto(base+'index.html');await p.locator('#comments').scrollIntoViewIfNeeded();await p.locator('.giscus-frame').waitFor();frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.notEqual(frame.searchParams.get('term'),term);
-  await p.goto(base+'characters/valek/?giscus=test-session#valek008');await p.locator('#comments').scrollIntoViewIfNeeded();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek008');
+  await p.goto(base+'characters/valek/?giscus=test-session#giscus-comments');await p.locator('#comments').scrollIntoViewIfNeeded();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek008');
   await p.goto(base+'characters/valek/#comments');await p.locator('#comments').waitFor();assert.equal(new URL(p.url()).hash,'#comments');
   await p.setViewportSize({width:390,height:844});await p.locator('#comments').scrollIntoViewIfNeeded();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
   if(process.env.QA_SCREENSHOT)await p.screenshot({path:process.env.QA_SCREENSHOT});

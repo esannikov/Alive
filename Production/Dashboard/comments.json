@@ -1,9 +1,9 @@
 {
-  "enabled": false,
+  "enabled": true,
   "repo": "esannikov/Alive",
   "repoId": "R_kgDOVCLQyQ",
   "category": "Comments",
-  "categoryId": null,
+  "categoryId": "DIC_kwDOVCLQyc4DJpty",
   "mapping": "pathname",
   "strict": "1",
   "reactionsEnabled": "1",
