@@ -1,0 +1,68 @@
+{
+  "character": "Ника / Нитка",
+  "purpose": "Поиск внешности и рабочий образ",
+  "date": "2026-10-26",
+  "canon_status": "Предложения для просмотра; типаж не утверждён",
+  "assets": [
+    {
+      "code": "nitka001",
+      "title": "A · мягкий типаж",
+      "provider": "built-in imagegen",
+      "date": "2026-10-26",
+      "source_reference": "emma006",
+      "source_file": "docs/World/characters/nitka/images/nitka001.png",
+      "sha256": "5c98f37d7094c7d6770ebb29861f46a079d13c07f4145be27845ee6ecc2a15d7",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "prompt": "Use the supplied fictional woman's image as a FACE-STRUCTURE reference only. Preserve its recognizable facial proportions while depicting the same facial type as a 19-year-old adult. Change the long red hair to practical ash-brown hair loosely gathered at the back, with untidy flyaways near the temples. Change the blue eyes to muted hazel-brown. Replace all clothing, jewelry, setting and lighting: no lace, no pendant, no white uniform. Her expression is quietly attentive with slightly heavy sleepy eyelids, not a smile. A sharp photorealistic live-action character casting portrait for the science-fiction film world ALIVE. Nitka (Nika) is a 19-year-old young adult woman living in a hidden communal base inside an aging industrial spaceship. She hand-sews and repairs clothes made by joining smaller children's garments, and makes simple soft toys. Her presence is practical, a little sleepy and unpolished, direct but capable of warmth. Adult youthful proportions, ordinary working posture, natural skin and hands; no fashion posing, visible makeup, pristine styling or glossy beauty retouch. Head and upper chest portrait, eye-level 65mm spherical lens look at moderate aperture, both eyes and lips critically resolved, irregular fine skin texture and coherent hair strands. Dim inhabited ship interior, restrained cool ambient fill with a warm practical side light, deep readable shadows. No added film grain, halation, diffusion haze, sharpen halos, repeating pore patterns or decorative text. Clothes are modest, worn and functionally repaired: faded cotton collarless shirt with sleeves extended and re-stitched, a simple muted work layer; no costume jewelry, military gear or futuristic armor. One image, no collage.\nUse case: photorealistic-natural. Make this a vertical 3:4 frame, head and upper chest filling most of the image. Preserve the referenced facial structure but use the proposed adult age, ash-brown hair and hazel-brown eyes. Inhabited hidden base, not a pristine ship corridor. Natural individual facial features and fine coherent details. No typography, labels, panels or watermark.",
+      "status": "candidate"
+    },
+    {
+      "code": "nitka002",
+      "title": "B · короткая стрижка",
+      "provider": "built-in imagegen",
+      "date": "2026-10-26",
+      "source_reference": null,
+      "source_file": "docs/World/characters/nitka/images/nitka002.png",
+      "sha256": "fe7c827d5e6ca9d285218c6e0d35f79f2c6d84dc623abfd896333fdad3d420d4",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "prompt": "A sharp photorealistic live-action character casting portrait for the science-fiction film world ALIVE. Nitka (Nika) is a 19-year-old young adult woman living in a hidden communal base inside an aging industrial spaceship. She hand-sews and repairs clothes made by joining smaller children's garments, and makes simple soft toys. Her presence is practical, a little sleepy and unpolished, direct but capable of warmth. Adult youthful proportions, ordinary working posture, natural skin and hands; no fashion posing, visible makeup, pristine styling or glossy beauty retouch. Head and upper chest portrait, eye-level 65mm spherical lens look at moderate aperture, both eyes and lips critically resolved, irregular fine skin texture and coherent hair strands. Dim inhabited ship interior, restrained cool ambient fill with a warm practical side light, deep readable shadows. No added film grain, halation, diffusion haze, sharpen halos, repeating pore patterns or decorative text. Clothes are modest, worn and functionally repaired: faded cotton collarless shirt with sleeves extended and re-stitched, a simple muted work layer; no costume jewelry, military gear or futuristic armor. One image, no collage. This distinct casting candidate has a long angular face, visible cheekbones, a moderately long straight nose with a small natural asymmetry, narrow upper lip and fuller lower lip, dark straight brows, grey eyes, pale olive skin with sparse natural small marks. Dark chestnut hair cut unevenly to the neck, tucked behind one ear. Compact slender build, mildly skeptical direct gaze. A faded muted-blue shirt under a worn charcoal knit vest. No resemblance to a polished fashion model; quiet self-possession, alertness under fatigue.\nUse case: photorealistic-natural. Vertical 3:4 casting portrait, head and upper chest filling the frame. The clothing is clearly repurposed factory-made jersey, cotton twill and denim with modest purposeful alterations, never burlap, hessian, a medieval tunic or a rag costume. Keep a few repairs rather than fraying every seam. Face is optically sharp with subtle irregular skin detail and natural eyelashes. No text, labels, border or montage.",
+      "status": "candidate"
+    },
+    {
+      "code": "nitka003",
+      "title": "C · растрёпанные волны",
+      "provider": "built-in imagegen",
+      "date": "2026-10-26",
+      "source_reference": null,
+      "source_file": "docs/World/characters/nitka/images/nitka003.png",
+      "sha256": "3d01c45ca10c8ec7daf9e3b029bf7ed817d1570a1eca1f3de04a62d6dacfd0af",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "prompt": "A sharp photorealistic live-action character casting portrait for the science-fiction film world ALIVE. Nitka (Nika) is a 19-year-old young adult woman living in a hidden communal base inside an aging industrial spaceship. She hand-sews and repairs clothes made by joining smaller children's garments, and makes simple soft toys. Her presence is practical, a little sleepy and unpolished, direct but capable of warmth. Adult youthful proportions, ordinary working posture, natural skin and hands; no fashion posing, visible makeup, pristine styling or glossy beauty retouch. Head and upper chest portrait, eye-level 65mm spherical lens look at moderate aperture, both eyes and lips critically resolved, irregular fine skin texture and coherent hair strands. Dim inhabited ship interior, restrained cool ambient fill with a warm practical side light, deep readable shadows. No added film grain, halation, diffusion haze, sharpen halos, repeating pore patterns or decorative text. Clothes are modest, worn and functionally repaired: faded cotton collarless shirt with sleeves extended and re-stitched, a simple muted work layer; no costume jewelry, military gear or futuristic armor. One image, no collage. This distinctly different casting candidate has a broad compact face, a short softly rounded nose, wider-set muted green eyes, gently arched thick brows, a firm rounded chin and expressive slightly asymmetric mouth. Fair neutral skin, healthy lean adult build, neither gaunt nor plump. Thick dark-blond wavy hair in a loose low knot, many naturally escaped strands, no braids. Worn dusty-olive cotton overshirt over a faded brown-grey T-shirt. A grounded, slightly sleepy and warm but unsentimental expression.\nUse case: photorealistic-natural. Vertical 3:4 casting portrait, head and upper chest filling the frame. The clothing is clearly repurposed factory-made jersey, cotton twill and denim with modest purposeful alterations, never burlap, hessian, a medieval tunic or a rag costume. Keep a few repairs rather than fraying every seam. Face is optically sharp with subtle irregular skin detail and natural eyelashes. No text, labels, border or montage.",
+      "status": "candidate"
+    },
+    {
+      "code": "nitka004",
+      "title": "C · за ручным шитьём",
+      "provider": "built-in imagegen",
+      "date": "2026-10-26",
+      "source_reference": "nitka003",
+      "source_file": "docs/World/characters/nitka/images/nitka004.png",
+      "sha256": "f9a559d6ff04b25338b6958d5ba44acb2148bf34797fa07b606d14699be18ba8",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ALIVE Nitka work-scene concept, vertical 4:5 live-action film still.\nUse the supplied portrait as the exact identity and costume reference for this 19-year-old adult woman. Preserve her broad compact face, softly rounded nose, hazel-green eyes, thick brows, dark-blond untidy wavy hair tied loosely back, and lean young adult build. Keep her faded olive factory-made cotton overshirt, worn grey-brown crewneck T-shirt and restrained practical repairs. Preserve recognizable face shape and natural youthful skin detail.\nReframe to a waist-up view at an improvised table in the inhabited hidden base of an aging industrial spaceship. Nitka is hand-stitching an extension into a worn grey-and-blue patchwork denim sleeve, concentrating on the seam. One hand holds the fabric fold steady, the other guides a fine needle through its edge; show believable individual fingers and a single thread. A plain spool, blunt scissors and a modest half-finished soft rag animal toy sit on the table beside a few cut pieces of reclaimed children's clothing. The props are practical and few, not a decorative workshop display. No sewing machine, futuristic gadget, industrial factory or fantasy tools.\nThe room feels like a modest communal living space adapted inside the ship: functional metal wall panels, a subdued shelf with folded clothing in the background, restrained signs of habitation. A warm practical task light illuminates her hands and face, with cooler dim ambient light from the room. Unposed and focused, slightly sleepy but competent, no smile toward camera. Tactile real skin, coherent weave and stitches, clean sharp spherical-lens cinematography with natural depth of field, no soft-focus diffusion, no overly crunchy sharpening or heavy grain. No jewelry, no makeup, no added freckles, no text, logos or collage. A single coherent cinematic image.",
+      "status": "candidate"
+    }
+  ]
+}
