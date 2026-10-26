@@ -244,7 +244,7 @@
   const content = document.createElement('div'); content.className = 'comments-content';
   const fallback = document.createElement('a');
   fallback.className = 'quiet-link comments-link';
-  fallback.href = `https://github.com/${config.repo}/discussions/categories/comments`;
+  fallback.href = `https://github.com/${config.repo}/discussions?discussions_q=`;
   fallback.target = '_blank';
   fallback.rel = 'noopener noreferrer';
   fallback.textContent = 'Обсуждения на GitHub';
