@@ -1,0 +1,393 @@
+{
+  "collectedAt": "2026-10-26T20:12:12.516922+00:00",
+  "timezone": "Europe/Kyiv",
+  "scope": "All comments and replies in GitHub Discussions category Comments, esannikov/Alive; finite snapshot, not monitoring.",
+  "threads": [
+    {
+      "number": 53,
+      "page": "Alive/World/robots/don15/",
+      "url": "https://github.com/esannikov/Alive/discussions/53",
+      "messageCount": 3
+    },
+    {
+      "number": 54,
+      "page": "Alive/World/robots/scale/",
+      "url": "https://github.com/esannikov/Alive/discussions/54",
+      "messageCount": 2
+    },
+    {
+      "number": 50,
+      "page": "Alive/World/characters/masha/",
+      "url": "https://github.com/esannikov/Alive/discussions/50",
+      "messageCount": 2
+    },
+    {
+      "number": 48,
+      "page": "Alive/World/characters/nitka/",
+      "url": "https://github.com/esannikov/Alive/discussions/48",
+      "messageCount": 3
+    },
+    {
+      "number": 52,
+      "page": "Alive/World/characters/fedor/",
+      "url": "https://github.com/esannikov/Alive/discussions/52",
+      "messageCount": 4
+    },
+    {
+      "number": 59,
+      "page": "Alive/World/characters/kolka/",
+      "url": "https://github.com/esannikov/Alive/discussions/59",
+      "messageCount": 2
+    },
+    {
+      "number": 56,
+      "page": "Alive/World/characters/tais/",
+      "url": "https://github.com/esannikov/Alive/discussions/56",
+      "messageCount": 2
+    },
+    {
+      "number": 62,
+      "page": "Alive/World/ships/moag/",
+      "url": "https://github.com/esannikov/Alive/discussions/62",
+      "messageCount": 0
+    },
+    {
+      "number": 61,
+      "page": "Alive/World/robots/martin/",
+      "url": "https://github.com/esannikov/Alive/discussions/61",
+      "messageCount": 1
+    },
+    {
+      "number": 44,
+      "page": "Alive/World/robots/lon/",
+      "url": "https://github.com/esannikov/Alive/discussions/44",
+      "messageCount": 2
+    },
+    {
+      "number": 60,
+      "page": "Alive/World/characters/valek/",
+      "url": "https://github.com/esannikov/Alive/discussions/60",
+      "messageCount": 1
+    },
+    {
+      "number": 57,
+      "page": "Alive/World/characters/emma/",
+      "url": "https://github.com/esannikov/Alive/discussions/57",
+      "messageCount": 2
+    }
+  ],
+  "messages": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQQ2",
+      "thread": 53,
+      "page": "Alive/World/robots/don15/",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203126",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-26T19:25:16Z",
+      "updatedAt": "2026-10-26T19:25:16Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "don017 очень неожиданно. Но может и да. Лапы тяжелые. они вроде двигаться у нас должны быстро, не? И если это 15  - у них оружие вроде сразу должно быть"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQWt",
+      "thread": 53,
+      "page": "Alive/World/robots/don15/",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203501",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:50:23Z",
+      "updatedAt": "2026-10-26T19:50:23Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQQ2",
+      "hidden": false,
+      "text": "Да, в руке оружие. Мне они не сильно угрожающими кажутся, а они же боевые роботы. "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQam",
+      "thread": 53,
+      "page": "Alive/World/robots/don15/",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203750",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:09:35Z",
+      "updatedAt": "2026-10-26T20:09:35Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQQ2",
+      "hidden": false,
+      "text": "don017 мне чуть на грустную ворону похож. Клюв - прикольный ход. типа там радар какой нить. но сделать бы его более худым и угрожающим, страшным. "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQSM",
+      "thread": 54,
+      "page": "Alive/World/robots/scale/",
+      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203212",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-26T19:29:40Z",
+      "updatedAt": "2026-10-26T19:29:40Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Доны 12 и Доны 15 - тут вот надо разбираться.  Там с ними в книге чуть путаница, а визуально их надо нам сразу развести. И может тут уже сразу. Я провею описания, но мне кажется, что 15 - это типа боевые, а 12 - интеллигенция. 15 тогда должны быть устрашающими сразу, другого цвета и формы и наверное сразу с оружием. Если я ничего не путаю и правильно понимаю"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQZ6",
+      "thread": 54,
+      "page": "Alive/World/robots/scale/",
+      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203706",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:06:32Z",
+      "updatedAt": "2026-10-26T20:06:32Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQSM",
+      "hidden": false,
+      "text": "да 15 - боевые, они по идее должны быть угрожающие, и вероятно выше 12х. Типа 2,5 метровые? "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQV2",
+      "thread": 50,
+      "page": "Alive/World/characters/masha/",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19203446",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:45:35Z",
+      "updatedAt": "2026-10-26T19:45:35Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Вот эта хорошая имхо. "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQZN",
+      "thread": 50,
+      "page": "Alive/World/characters/masha/",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19203661",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:02:43Z",
+      "updatedAt": "2026-10-26T20:02:43Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQV2",
+      "hidden": false,
+      "text": "masha006"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQVa",
+      "thread": 48,
+      "page": "Alive/World/characters/nitka/",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203418",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:42:57Z",
+      "updatedAt": "2026-10-26T19:42:57Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Это клевая"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQY2",
+      "thread": 48,
+      "page": "Alive/World/characters/nitka/",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203638",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:01:14Z",
+      "updatedAt": "2026-10-26T20:01:14Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQVa",
+      "hidden": false,
+      "text": "nitka007 - клевая"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQVg",
+      "thread": 48,
+      "page": "Alive/World/characters/nitka/",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203424",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:43:17Z",
+      "updatedAt": "2026-10-26T19:43:17Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "И эта"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQOV",
+      "thread": 52,
+      "page": "Alive/World/characters/fedor/",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19202965",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-26T19:16:11Z",
+      "updatedAt": "2026-10-26T19:16:11Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "fedor021\nочень крутой, но сильно закручен на актера. Можно чуть от него отойти? и родинку убрать надо на губе точно"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQUk",
+      "thread": 52,
+      "page": "Alive/World/characters/fedor/",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203364",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:39:24Z",
+      "updatedAt": "2026-10-26T19:39:24Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQOV",
+      "hidden": false,
+      "text": "Этот клевый да. "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQYa",
+      "thread": 52,
+      "page": "Alive/World/characters/fedor/",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203610",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:59:19Z",
+      "updatedAt": "2026-10-26T19:59:19Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQOV",
+      "hidden": false,
+      "text": "fedor009 клевый"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQYo",
+      "thread": 52,
+      "page": "Alive/World/characters/fedor/",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203624",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:00:04Z",
+      "updatedAt": "2026-10-26T20:00:04Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQOV",
+      "hidden": false,
+      "text": "fedor021 - выглядит как мудак-извращенец. А федор типа добрейший и оч смелый парень "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQU3",
+      "thread": 59,
+      "page": "Alive/World/characters/kolka/",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19203383",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:40:31Z",
+      "updatedAt": "2026-10-26T19:40:31Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Этот мне больше всего нравится, но азиат тоже концептуально правильно. "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQYT",
+      "thread": 59,
+      "page": "Alive/World/characters/kolka/",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19203603",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:58:49Z",
+      "updatedAt": "2026-10-26T19:58:49Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQU3",
+      "hidden": false,
+      "text": "kolka002"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQT8",
+      "thread": 56,
+      "page": "Alive/World/characters/tais/",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19203324",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:36:32Z",
+      "updatedAt": "2026-10-26T19:36:32Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Ромбовидное мне чуть больше нравится, но Таис в моей голове красивее этой. "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQYK",
+      "thread": 56,
+      "page": "Alive/World/characters/tais/",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19203594",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:58:20Z",
+      "updatedAt": "2026-10-26T19:58:20Z",
+      "replyTo": "DC_kwDOVCLQyc4BJQT8",
+      "hidden": false,
+      "text": "tais006\nРомбовидное лицо"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQW8",
+      "thread": 61,
+      "page": "Alive/World/robots/martin/",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19203516",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:51:51Z",
+      "updatedAt": "2026-10-26T19:51:51Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "martin004\nLinea · скульптурный\n\nприкольный"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJPCp",
+      "thread": 44,
+      "page": "Alive/World/robots/lon/",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19198121",
+      "author": "esannikov",
+      "createdAt": "2026-10-26T15:17:01Z",
+      "updatedAt": "2026-10-26T15:17:01Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": " тест-комментарий: мне забавными кажутся lon009 и lon010 (у этого хотелось чтобы тело обыгрывало силуэт). Открытые панели - для демонстрации внутреннего модуля"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQWI",
+      "thread": 44,
+      "page": "Alive/World/robots/lon/",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19203464",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:47:26Z",
+      "updatedAt": "2026-10-26T19:47:26Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "lon001 - самый добрый имхо "
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQVJ",
+      "thread": 60,
+      "page": "Alive/World/characters/valek/",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19203401",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:41:39Z",
+      "updatedAt": "2026-10-26T19:41:39Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "слишком эльфийски-красивые все вальки. он дрыщ худой по-моему"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQUN",
+      "thread": 57,
+      "page": "Alive/World/characters/emma/",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19203341",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:37:20Z",
+      "updatedAt": "2026-10-26T19:37:20Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Тут она совсем ребенок, а по книге Эмма та еще гадина"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQUQ",
+      "thread": 57,
+      "page": "Alive/World/characters/emma/",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19203344",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:37:43Z",
+      "updatedAt": "2026-10-26T19:37:43Z",
+      "replyTo": null,
+      "hidden": false,
+      "text": "Высокие скулы - неплохо. "
+    }
+  ],
+  "appliedGalleryChanges": [
+    {
+      "code": "fedor021",
+      "action": "archive_from_active_gallery",
+      "source": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203624",
+      "authorization": "Direct user instruction in this chat: hide a variant when producer feedback is clearly negative.",
+      "conflictingSource": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19202965",
+      "originalPreserved": true
+    }
+  ],
+  "unresolvedReferences": [
+    {
+      "message": "DC_kwDOVCLQyc4BJQUN",
+      "reason": "Emma negative feedback does not identify an image code."
+    },
+    {
+      "message": "DC_kwDOVCLQyc4BJQVg",
+      "reason": "Second Nitka preference does not identify an image code."
+    },
+    {
+      "message": "DC_kwDOVCLQyc4BJQU3",
+      "reason": "Preferred kolka002 clarified; alternative called Asian has no explicit code."
+    }
+  ]
+}

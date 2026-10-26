@@ -64,7 +64,7 @@
       "group": "people",
       "cover": "fedor009",
       "default_series": "current",
-      "summary": "3 отобранных и 3 пробы с референсом",
+      "summary": "3 отобранных и 2 пробы с референсом",
       "task_ids": [
         "fedor",
         "costume",
@@ -86,7 +86,6 @@
       "gallery_order": [
         "fedor009",
         "fedor017",
-        "fedor021",
         "fedor022",
         "fedor023",
         "fedor018"

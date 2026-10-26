@@ -4,6 +4,11 @@
 
 Статичный сайт: [World](https://esannikov.github.io/Alive/World/). Подключены Таис, [Эмма](https://esannikov.github.io/Alive/World/characters/emma/), Федор, [Колька](https://esannikov.github.io/Alive/World/characters/kolka/) и [Моаг](https://esannikov.github.io/Alive/World/ships/moag/). Новые материалы корабля публикуются в World/ships/moag/. У локаций и других результатов пока нет выдуманных галерей.
 
+## Замечания продюсеров
+
+[Разбор отзывов от 26 октября 2026](Producer_Feedback_2026-10-26.md) — предпочтения, задачи на правку, разногласия и исключённые варианты; [полные сообщения](Producer_Feedback_2026-10-26.json).
+
+
 ## Источники
 
 - [asset_codes.json](asset_codes.json) — постоянные коды, оригинальные файлы и контрольные суммы. Коды не назначаются заново при сборке.
