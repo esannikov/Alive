@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T21:30:42.878173+00:00",
+  "generatedAt": "2026-10-26T22:04:20.342458+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BJQk4",
@@ -49,6 +49,7 @@
     }
   ],
   "discussionNumbers": {
+    "characters/katya/": 67,
     "robots/scale/": 54,
     "characters/fedor/": 52,
     "characters/emma/": 57,
