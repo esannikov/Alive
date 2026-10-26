@@ -20,7 +20,8 @@
     "martin": 9,
     "valek": 19,
     "nitka": 12,
-    "masha": 7
+    "masha": 7,
+    "katya": 7
   },
   "assets": [
     {
@@ -4655,6 +4656,144 @@
       "series": "current",
       "visibility": "active",
       "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+    },
+    {
+      "code": "katya001",
+      "object": "katya",
+      "caption": "A · узкое лицо",
+      "sha256": "fa23d435e5f580a4b711844755d0f3a14ababf9a45ee3f65da1445b1219c1cc2",
+      "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
+      "source_file": "docs/World/characters/katya/images/katya001.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya001.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "katya002",
+      "object": "katya",
+      "caption": "B · мягкое округлое лицо",
+      "sha256": "4a7aad293cbb0d6b87f5bd8ce63f38962ed768a5be30f14a81aafb93ddc990c1",
+      "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
+      "source_file": "docs/World/characters/katya/images/katya002.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya002.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "katya003",
+      "object": "katya",
+      "caption": "C · широкие скулы",
+      "sha256": "7e6fd187d50752d5ee44630a652e0527525f2584f6553e705267075dbb136c8b",
+      "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
+      "source_file": "docs/World/characters/katya/images/katya003.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya003.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "katya004",
+      "object": "katya",
+      "caption": "D · выраженный нос",
+      "sha256": "41d263edd888bbc9e710bc05020cd011d003ee9d2ca21c396032cb490e63e894",
+      "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
+      "source_file": "docs/World/characters/katya/images/katya004.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya004.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "katya005",
+      "object": "katya",
+      "caption": "E · широкое лицо",
+      "sha256": "9ce8e435593cbec1e02dc2f059b9e4ac3b2c5d8e441ce2faf0e7429f5060bbcb",
+      "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
+      "source_file": "docs/World/characters/katya/images/katya005.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya005.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "katya006",
+      "object": "katya",
+      "caption": "F · треугольное лицо",
+      "sha256": "c401dd80376182307a07a753106a3e1030a2c1652e6c1b8bfaf73c98c89bcf96",
+      "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
+      "source_file": "docs/World/characters/katya/images/katya006.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya006.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
