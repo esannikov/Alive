@@ -13,10 +13,10 @@
     "tais": 43,
     "fedor": 24,
     "moag": 37,
-    "emma": 9,
+    "emma": 11,
     "kolka": 7,
     "lon": 11,
-    "don": 23,
+    "don": 27,
     "martin": 9,
     "valek": 19,
     "nitka": 12,
@@ -4407,7 +4407,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
     },
     {
@@ -4433,7 +4433,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
@@ -4458,7 +4458,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don021",
@@ -4482,7 +4482,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don022",
@@ -4507,6 +4507,154 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "don023",
+      "object": "don15",
+      "caption": "Клюв · кисть в обычном режиме",
+      "sha256": "caaf258842c64dad8683994f0d706dd1a7cb6a7d6bb476a1566303801ee91f6a",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/robots/don15/images/don023.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don023.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don024",
+      "object": "don15",
+      "caption": "Клюв · кисть в боевом режиме",
+      "sha256": "9427c097edf7bb04e363b066eb5bb631e7fd91a2d1aef1f81aa95a125702b807",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/robots/don15/images/don024.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don024.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don021",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don025",
+      "object": "don15",
+      "caption": "Птица · вертикальный силуэт",
+      "sha256": "7bd3fa73b3e80c68474a10067f3d80bf0d2d25d0b6b2edaeca01184e57d32e5e",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/robots/don15/images/don025.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don025.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don026",
+      "object": "don15",
+      "caption": "Птица · хищная стойка",
+      "sha256": "ab3893655562e0ea7d95c977f84c31d93d0ccfc84d8f7f3eff55179552eb1e3a",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/robots/don15/images/don026.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don026.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma009",
+      "object": "emma",
+      "caption": "Открытый взгляд · уточнённые пропорции",
+      "sha256": "fbc0d26bf8bfa0e92acb398f325b8a50decf1a608a52859dbc7e0d9fd80d9c7a",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/characters/emma/images/emma009.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma009.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma007",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+    },
+    {
+      "code": "emma010",
+      "object": "emma",
+      "caption": "Чистый овал · уточнённые пропорции",
+      "sha256": "b360b59275a71da4f36eaf00f67d6523fe20afdeb7ff552b68ca3d2cf742d8df",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/characters/emma/images/emma010.png",
+      "aliases": [
+        "docs/World/characters/emma/images/emma010.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma008",
+      "derivation_kind": "casting_direction",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     }
   ],
   "deleted_codes": [
