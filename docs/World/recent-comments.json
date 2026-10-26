@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:37:30.446226+00:00",
+  "generatedAt": "2026-10-26T19:37:57.155624+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQUQ",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:37:43Z",
+      "excerpt": "Высокие скулы - неплохо.",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19203344"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQUN",
       "page": "characters/emma/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-26T19:25:16Z",
       "excerpt": "don017 очень неожиданно. Но может и да. Лапы тяжелые. они вроде двигаться у нас должны быстро, не? И если это 15 - у них оружие вроде сразу должно быть",
       "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203126"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQOV",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-26T19:16:11Z",
-      "excerpt": "fedor021 очень крутой, но сильно закручен на актера. Можно чуть от него отойти? и родинку убрать надо на губе точно",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19202965"
     }
   ]
 }
