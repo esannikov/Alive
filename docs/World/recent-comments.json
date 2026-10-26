@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:45:47.152349+00:00",
+  "generatedAt": "2026-10-26T19:47:41.663568+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQWI",
+      "page": "robots/lon/",
+      "title": "Лон",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T19:47:26Z",
+      "excerpt": "lon001 - самый добрый имхо",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19203464"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQV2",
       "page": "characters/masha/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-26T19:41:39Z",
       "excerpt": "слишком эльфийски-красивые все вальки. он дрыщ худой по-моему",
       "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19203401"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQU3",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T19:40:31Z",
-      "excerpt": "Этот мне больше всего нравится, но азиат тоже концептуально правильно.",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19203383"
     }
   ]
 }
