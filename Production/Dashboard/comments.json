@@ -7,7 +7,7 @@
   "mapping": "pathname",
   "strict": "1",
   "reactionsEnabled": "1",
-  "inputPosition": "top",
+  "inputPosition": "bottom",
   "theme": "dark",
   "lang": "ru",
   "loading": "lazy"

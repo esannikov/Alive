@@ -30,7 +30,7 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   assert.equal(clients,0,'Giscus must wait for scrolling on a long gallery');
   await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>document.querySelector('#comments .comments-status').hidden);
   let frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));
-  for(const [key,value] of Object.entries({mapping:'pathname',strict:'1',theme:'dark',lang:'ru',inputPosition:'top',reactionsEnabled:'1'}))assert.equal(frame.searchParams.get(key),value);
+  for(const [key,value] of Object.entries({mapping:'pathname',strict:'1',theme:'dark',lang:'ru',inputPosition:'bottom',reactionsEnabled:'1'}))assert.equal(frame.searchParams.get(key),value);
   const term=frame.searchParams.get('term');assert(term.endsWith('/characters/valek/'));
   assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'viewer-caption');
   const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek008"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek008'));
