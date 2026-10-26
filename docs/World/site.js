@@ -1,4 +1,4 @@
-/* Static ALIVE catalogue. No accounts, writes, approvals, or remote API calls. */
+/* Static ALIVE catalogue. Optional comments use the hosted Giscus service. */
 (() => {
   'use strict';
   const data = window.ALIVE_WORLD;
@@ -8,6 +8,16 @@
   const $ = s => document.querySelector(s);
   const byCode = Object.fromEntries(data.assets.map(a => [a.code, a]));
   const objects = Object.fromEntries(data.objects.map(o => [o.id, o]));
+  const commentsSelectionKey = 'alive-world:comments:' + location.pathname.replace(/index\.html$/, '');
+  if (data.comments?.enabled && new URL(location.href).searchParams.has('giscus')) {
+    try {
+      const saved = sessionStorage.getItem(commentsSelectionKey);
+      if (saved && byCode[saved]?.object === document.body.dataset.object) {
+        const returned = new URL(location.href); returned.hash = saved;
+        history.replaceState(history.state, '', returned);
+      }
+    } catch (_) { /* Storage may be disabled; the gallery still works. */ }
+  }
   document.documentElement.classList.add('js');
   let noticeTimer;
   function announce(message) {
@@ -133,6 +143,7 @@
     loadPicture(img,a).then(ready=>{if(ready&&active.code===a.code){const next=assets.find(item=>item.series===a.series&&item.code!==a.code);prefetch(next);}});
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
     if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.series]||'';
+    if (data.comments?.enabled) { try { sessionStorage.setItem(commentsSelectionKey, a.code); } catch (_) {} }
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
       const chosen=isShip?el.dataset.series===a.series:el.dataset.code===code;el.classList.toggle('selected',chosen);
@@ -151,6 +162,7 @@
   function refreshDialog(){const img=$('#dialog-image');loadPicture(img,active);$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
+    if(code==='comments'||code==='giscus-comments'){setActive(active?.code||objects[objectId].cover);return;}
     const moved=byCode[code];
     if(moved&&moved.object!==objectId&&moved.previousObjects?.includes(objectId)){location.replace(url(moved.page+'#'+encodeURIComponent(code)));return;}
     if(code&&code!=='gallery'&&!setActive(code)){announce((data.deletedCodes||[]).includes(code)?`Кадр ${code} удалён из галереи.`:'Такой код не найден у этого объекта.');const u=new URL(location.href);u.hash=objects[objectId].cover;history.replaceState(null,'',u);setActive(objects[objectId].cover);}
@@ -197,4 +209,119 @@
   fromHash();
   window.addEventListener('hashchange',fromHash);window.addEventListener('popstate',fromHash);
   document.documentElement.dataset.ready='true';
+})();
+
+/* One discussion per canonical page; selecting an image never changes the thread. */
+(() => {
+  'use strict';
+  const config = window.ALIVE_WORLD?.comments;
+  const main = document.getElementById('main');
+  if (!config?.enabled || !config.repoId || !config.categoryId || !main || document.getElementById('comments')) return;
+
+  // /index.html and / name the same World page. Preserve gallery selection and query parameters.
+  if (location.pathname.endsWith('/index.html')) {
+    const canonical = new URL(location.href);
+    canonical.pathname = canonical.pathname.slice(0, -10);
+    history.replaceState(history.state, '', canonical);
+  }
+  const box = document.createElement('details');
+  box.id = 'comments';
+  box.className = 'comments';
+  box.setAttribute('aria-labelledby', 'comments-heading');
+  const summary = document.createElement('summary');
+  const title = document.createElement('span');
+  title.id = 'comments-heading';
+  title.textContent = 'Комментарии';
+  const context = document.createElement('span');
+  context.className = 'comments-context';
+  context.textContent = 'Общее обсуждение';
+  const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  arrow.setAttribute('viewBox', '0 0 24 24'); arrow.setAttribute('aria-hidden', 'true');
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', 'm6 9 6 6 6-6'); arrow.append(path);
+  summary.append(title, context, arrow);
+  const content = document.createElement('div'); content.className = 'comments-content';
+  const fallback = document.createElement('a');
+  fallback.className = 'quiet-link comments-link';
+  fallback.href = `https://github.com/${config.repo}/discussions/categories/comments`;
+  fallback.target = '_blank';
+  fallback.rel = 'noopener noreferrer';
+  fallback.textContent = 'Обсуждения на GitHub';
+  const status = document.createElement('p');
+  status.className = 'comments-status';
+  status.setAttribute('role', 'status');
+  status.textContent = 'Загрузка комментариев…';
+  const host = document.createElement('div');
+  host.className = 'giscus';
+  host.id = 'giscus-comments';
+  const viewerCaption = document.querySelector('#viewer .viewer-caption');
+  if (viewerCaption) {
+    box.classList.add('comments--gallery');
+    const code = document.getElementById('hero-code');
+    const copyCode = document.createElement('button');
+    copyCode.type = 'button'; copyCode.className = 'quiet-button comments-copy';
+    const syncCode = () => { copyCode.textContent = 'Копировать код ' + code.textContent; };
+    syncCode(); new MutationObserver(syncCode).observe(code, {childList:true,characterData:true,subtree:true});
+    copyCode.addEventListener('click', () => document.getElementById('copy-code')?.click());
+    content.append(copyCode);
+    viewerCaption.after(box);
+  } else main.append(box);
+  content.append(status, host, fallback);
+  box.append(summary, content);
+
+  let started = false;
+  let timeout;
+  const fail = () => {
+    clearTimeout(timeout);
+    status.hidden = false;
+    status.textContent = 'Комментарии не загрузились. Обновите страницу или откройте обсуждения на GitHub.';
+  };
+  // Read only messages from this widget, never page content or arbitrary origins.
+  window.addEventListener('message', event => {
+    const frame = host.querySelector('iframe');
+    if (event.origin !== 'https://giscus.app' || event.source !== frame?.contentWindow || !event.data?.giscus) return;
+    if (event.data.giscus.error) {
+      // No thread exists until the first comment; this is an ordinary empty state.
+      if (String(event.data.giscus.error).includes('Discussion not found')) { clearTimeout(timeout); status.hidden = true; }
+      else fail();
+      return;
+    }
+    if (event.data.giscus.resizeHeight || event.data.giscus.discussion || event.data.giscus.discussion === null) {
+      clearTimeout(timeout);
+      status.hidden = true;
+    }
+  });
+  const start = () => {
+    if (started) return;
+    started = true;
+    const script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.async = true;
+    script.crossOrigin = 'anonymous';
+    Object.assign(script.dataset, {
+      repo: config.repo, repoId: config.repoId, category: config.category,
+      categoryId: config.categoryId, mapping: 'pathname', strict: '1',
+      reactionsEnabled: '1', emitMetadata: '1', inputPosition: 'top',
+      theme: 'dark', lang: 'ru', loading: 'lazy'
+    });
+    const selectedHash = location.hash;
+    script.addEventListener('error', fail, {once:true});
+    script.addEventListener('load', () => {
+      // Giscus removes its OAuth query parameter and hash; keep the selected gallery frame.
+      if (selectedHash && !location.hash) {
+        const restored = new URL(location.href); restored.hash = selectedHash;
+        history.replaceState(history.state, '', restored);
+      }
+    }, {once:true});
+    timeout = setTimeout(fail, 20000);
+    box.append(script);
+  };
+  // The compact form stays closed until requested; one iframe survives image changes.
+  box.addEventListener('toggle', () => { if (box.open) start(); });
+  function openForAnchor() {
+    if (['#comments', '#giscus-comments'].includes(location.hash)) box.open = true;
+  }
+  window.addEventListener('hashchange', openForAnchor);
+  openForAnchor();
+  if (new URL(location.href).searchParams.has('giscus')) box.open = true;
 })();

@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "repo": "esannikov/Alive",
+  "repoId": "R_kgDOVCLQyQ",
+  "category": "Comments",
+  "categoryId": "DIC_kwDOVCLQyc4DJpty",
+  "mapping": "pathname",
+  "strict": "1",
+  "reactionsEnabled": "1",
+  "inputPosition": "top",
+  "theme": "dark",
+  "lang": "ru",
+  "loading": "lazy"
+}
