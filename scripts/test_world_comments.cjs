@@ -26,20 +26,21 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   const p=await context.newPage();let errors=[];p.on('pageerror',e=>errors.push(e.message));
   await p.goto(base+'characters/valek/index.html?v=test');
   assert(p.url().endsWith('/characters/valek/?v=test'));
-  assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('#main > #comments').count(),1);
+  assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('#viewer > #comments').count(),1);
   assert.equal(clients,0,'Giscus must wait for scrolling on a long gallery');
-  await p.locator('#comments').scrollIntoViewIfNeeded();await p.waitForFunction(()=>document.querySelector('#comments .comments-status').hidden);
+  await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>document.querySelector('#comments .comments-status').hidden);
   let frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));
   for(const [key,value] of Object.entries({mapping:'pathname',strict:'1',theme:'dark',lang:'ru',inputPosition:'top',reactionsEnabled:'1'}))assert.equal(frame.searchParams.get(key),value);
   const term=frame.searchParams.get('term');assert(term.endsWith('/characters/valek/'));
-  const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek008"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);
+  assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'viewer-caption');
+  const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek008"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek008'));
   await p.addScriptTag({path:path.join(root,'docs/World/site.js')});assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('.giscus-frame').count(),1);
-  await p.goto(base+'index.html');await p.locator('#comments').scrollIntoViewIfNeeded();await p.locator('.giscus-frame').waitFor();frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.notEqual(frame.searchParams.get('term'),term);
-  await p.goto(base+'characters/valek/?giscus=test-session#giscus-comments');await p.locator('#comments').scrollIntoViewIfNeeded();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek008');
+  await p.goto(base+'index.html');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.locator('.giscus-frame').waitFor();frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));assert.notEqual(frame.searchParams.get('term'),term);
+  await p.goto(base+'characters/valek/?giscus=test-session#giscus-comments');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>!location.search.includes('giscus='));assert.equal(new URL(p.url()).hash,'#valek008');
   await p.goto(base+'characters/valek/#comments');await p.locator('#comments').waitFor();assert.equal(new URL(p.url()).hash,'#comments');
-  await p.setViewportSize({width:390,height:844});await p.locator('#comments').scrollIntoViewIfNeeded();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+  await p.setViewportSize({width:390,height:844});await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
   if(process.env.QA_SCREENSHOT)await p.screenshot({path:process.env.QA_SCREENSHOT});
-  fail=true;await p.goto(base+'robots/lon/');await p.locator('#comments').scrollIntoViewIfNeeded();await p.waitForFunction(()=>document.querySelector('.comments-status').textContent.includes('не загрузились'));
+  fail=true;await p.goto(base+'robots/lon/');await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>document.querySelector('.comments-status').textContent.includes('не загрузились'));
   assert.deepEqual(errors,[]);
   // All World routes receive the same integration. Disabled config has no remote widget.
   fail=false;

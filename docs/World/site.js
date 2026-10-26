@@ -224,16 +224,26 @@
     canonical.pathname = canonical.pathname.slice(0, -10);
     history.replaceState(history.state, '', canonical);
   }
-  const box = document.createElement('section');
+  const box = document.createElement('details');
   box.id = 'comments';
   box.className = 'comments';
   box.setAttribute('aria-labelledby', 'comments-heading');
-  const title = document.createElement('h2');
+  const summary = document.createElement('summary');
+  const title = document.createElement('span');
   title.id = 'comments-heading';
   title.textContent = 'Комментарии';
+  const context = document.createElement('span');
+  context.className = 'comments-context';
+  context.textContent = 'Общее обсуждение';
+  const arrow = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  arrow.setAttribute('viewBox', '0 0 24 24'); arrow.setAttribute('aria-hidden', 'true');
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', 'm6 9 6 6 6-6'); arrow.append(path);
+  summary.append(title, context, arrow);
+  const content = document.createElement('div'); content.className = 'comments-content';
   const note = document.createElement('p');
   note.className = 'comments-note';
-  note.textContent = 'Обсуждение этой страницы. Для конкретного варианта укажите его код. Комментарии публичны; для ответа нужен GitHub.';
+  note.textContent = 'Один тред для всей страницы. Для конкретного варианта укажите его код. Комментарии публичны; для ответа нужен GitHub.';
   const fallback = document.createElement('a');
   fallback.className = 'quiet-link comments-link';
   fallback.href = `https://github.com/${config.repo}/discussions/categories/comments`;
@@ -247,8 +257,21 @@
   const host = document.createElement('div');
   host.className = 'giscus';
   host.id = 'giscus-comments';
-  box.append(title, note, fallback, status, host);
-  main.append(box);
+  content.append(note);
+  const viewerCaption = document.querySelector('#viewer .viewer-caption');
+  if (viewerCaption) {
+    box.classList.add('comments--gallery');
+    const code = document.getElementById('hero-code');
+    const copyCode = document.createElement('button');
+    copyCode.type = 'button'; copyCode.className = 'quiet-button comments-copy';
+    const syncCode = () => { copyCode.textContent = 'Копировать код ' + code.textContent; };
+    syncCode(); new MutationObserver(syncCode).observe(code, {childList:true,characterData:true,subtree:true});
+    copyCode.addEventListener('click', () => document.getElementById('copy-code')?.click());
+    content.append(copyCode);
+    viewerCaption.after(box);
+  } else main.append(box);
+  content.append(status, host, fallback);
+  box.append(summary, content);
 
   let started = false;
   let timeout;
@@ -297,11 +320,12 @@
     timeout = setTimeout(fail, 20000);
     box.append(script);
   };
-  // Defer the external script too, so opening a gallery loads its images first.
-  if ('IntersectionObserver' in window) {
-    const observer = new IntersectionObserver(entries => {
-      if (entries.some(entry => entry.isIntersecting)) { observer.disconnect(); start(); }
-    }, {rootMargin:'300px'});
-    observer.observe(box);
-  } else start();
+  // The compact form stays closed until requested; one iframe survives image changes.
+  box.addEventListener('toggle', () => { if (box.open) start(); });
+  function openForAnchor() {
+    if (['#comments', '#giscus-comments'].includes(location.hash)) box.open = true;
+  }
+  window.addEventListener('hashchange', openForAnchor);
+  openForAnchor();
+  if (new URL(location.href).searchParams.has('giscus')) box.open = true;
 })();
