@@ -1,51 +1,51 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T20:09:48.936478+00:00",
+  "generatedAt": "2026-10-26T20:53:29.004618+00:00",
   "items": [
     {
-      "id": "DC_kwDOVCLQyc4BJQam",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T20:09:35Z",
-      "excerpt": "don017 мне чуть на грустную ворону похож. Клюв - прикольный ход. типа там радар какой нить. но сделать бы его более худым и угрожающим, страшным.",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203750"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQZ6",
+      "id": "DC_kwDOVCLQyc4BJQk4",
       "page": "robots/scale/",
       "title": "Роботы · размерный лист",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T20:06:32Z",
-      "excerpt": "да 15 - боевые, они по идее должны быть угрожающие, и вероятно выше 12х. Типа 2,5 метровые?",
-      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203706"
+      "author": "esannikov",
+      "createdAt": "2026-10-26T20:53:25Z",
+      "excerpt": "@ElenaAlive @isto3110-ship-it Проверил описание: на с. 108 романа Дон-15 прямо назван ниже Дона-12; оружие встроено в обе руки, движется он тихими быстрыми шагами. Поэтому предположение о росте выше двенадцатых / около 2,5 м в размерный лист не переносил. Э…",
+      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19204408"
     },
     {
-      "id": "DC_kwDOVCLQyc4BJQZN",
-      "page": "characters/masha/",
-      "title": "Маша",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T20:02:43Z",
-      "excerpt": "masha006",
-      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19203661"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQY2",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T20:01:14Z",
-      "excerpt": "nitka007 - клевая",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203638"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQYo",
+      "id": "DC_kwDOVCLQyc4BJQk2",
       "page": "characters/fedor/",
       "title": "Федор",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T20:00:04Z",
-      "excerpt": "fedor021 - выглядит как мудак-извращенец. А федор типа добрейший и оч смелый парень",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203624"
+      "author": "esannikov",
+      "createdAt": "2026-10-26T20:53:23Z",
+      "excerpt": "@ElenaAlive @isto3110-ship-it По решению Жени fedor021 убран из активной галереи после отрицательной оценки характера. Исходник и код сохранены в архиве; fedor009 остаётся в подборке. Разные оценки fedor021 зафиксированы: просьба ослабить сходство с актёром…",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19204406"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQk1",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "esannikov",
+      "createdAt": "2026-10-26T20:53:20Z",
+      "excerpt": "@isto3110-ship-it По уточнению Жени замечание относится прежде всего к emma002, в меньшей степени — к emma001. Исправлены оба: emma007 вместо emma002 и emma008 вместо emma001. Убрана наивная улыбчивость, взгляд стал более собранным, оценивающим и скептическ…",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19204405"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQkz",
+      "page": "characters/valek/",
+      "title": "Валёк",
+      "author": "esannikov",
+      "createdAt": "2026-10-26T20:53:18Z",
+      "excerpt": "@isto3110-ship-it Внесены правки во все шесть типажей Валька: valek013–valek018. Уже плечи и торс, тоньше руки, меньше атлетичной и постановочной подачи. Сохранены светлые волосы, тёмные брови, голубые глаза, одежда и возраст 20 лет. Книжную привлекательнос…",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19204403"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJQkx",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "esannikov",
+      "createdAt": "2026-10-26T20:53:16Z",
+      "excerpt": "@ElenaAlive @isto3110-ship-it Правки опубликованы. Вместо don017 в текущей подборке — don020: более сухой корпус, компактнее стопы, короче выступ головы, уточнены встроенные оружейные узлы. Добавлены don021 — прицеливание с активированным оружием и, по отде…",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19204401"
     }
   ]
 }
