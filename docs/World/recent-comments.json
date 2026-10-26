@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T20:00:19.329587+00:00",
+  "generatedAt": "2026-10-26T20:01:27.963353+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJQY2",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-26T20:01:14Z",
+      "excerpt": "nitka007 - клевая",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203638"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQYo",
       "page": "characters/fedor/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-26T19:58:20Z",
       "excerpt": "tais006 Ромбовидное лицо",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19203594"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQW8",
-      "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-26T19:51:51Z",
-      "excerpt": "martin004 Linea · скульптурный прикольный",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19203516"
     }
   ]
 }
