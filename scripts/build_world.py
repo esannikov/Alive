@@ -50,6 +50,13 @@ def build():
     bycode = {a['code']: a for a in assets}
     data = {'objects':config['objects'],'assets':assets,'series':config['series'],
             'deletedCodes':registry.get('deleted_codes',[]),'groups':plan['groups'],'tasks':[{'id':t['id'],'title':t['title'],'group':t['group'],'output':t['output']} for t in plan['tasks']]}
+    comments_file = ROOT/'Production/Dashboard/comments.json'
+    if comments_file.exists():
+        comments = json.loads(comments_file.read_text())
+        if comments.get('enabled'):
+            assert comments.get('repoId') and comments.get('categoryId'), 'Giscus IDs are required before activation'
+            assert comments['mapping'] == 'pathname' and comments['strict'] == '1'
+        data['comments'] = comments
     (OUT/'data.js').write_text('window.ALIVE_WORLD='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
 
     def asset_url(a):

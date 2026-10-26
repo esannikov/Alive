@@ -1,4 +1,4 @@
-/* Static ALIVE catalogue. No accounts, writes, approvals, or remote API calls. */
+/* Static ALIVE catalogue. Optional comments use the hosted Giscus service. */
 (() => {
   'use strict';
   const data = window.ALIVE_WORLD;
@@ -151,6 +151,7 @@
   function refreshDialog(){const img=$('#dialog-image');loadPicture(img,active);$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
+    if(code==='comments'){setActive(active?.code||objects[objectId].cover);return;}
     const moved=byCode[code];
     if(moved&&moved.object!==objectId&&moved.previousObjects?.includes(objectId)){location.replace(url(moved.page+'#'+encodeURIComponent(code)));return;}
     if(code&&code!=='gallery'&&!setActive(code)){announce((data.deletedCodes||[]).includes(code)?`Кадр ${code} удалён из галереи.`:'Такой код не найден у этого объекта.');const u=new URL(location.href);u.hash=objects[objectId].cover;history.replaceState(null,'',u);setActive(objects[objectId].cover);}
@@ -197,4 +198,99 @@
   fromHash();
   window.addEventListener('hashchange',fromHash);window.addEventListener('popstate',fromHash);
   document.documentElement.dataset.ready='true';
+})();
+
+/* One discussion per canonical page; selecting an image never changes the thread. */
+(() => {
+  'use strict';
+  const config = window.ALIVE_WORLD?.comments;
+  const main = document.getElementById('main');
+  if (!config?.enabled || !config.repoId || !config.categoryId || !main || document.getElementById('comments')) return;
+
+  // /index.html and / name the same World page. Preserve gallery selection and query parameters.
+  if (location.pathname.endsWith('/index.html')) {
+    const canonical = new URL(location.href);
+    canonical.pathname = canonical.pathname.slice(0, -10);
+    history.replaceState(history.state, '', canonical);
+  }
+  const box = document.createElement('section');
+  box.id = 'comments';
+  box.className = 'comments';
+  box.setAttribute('aria-labelledby', 'comments-heading');
+  const title = document.createElement('h2');
+  title.id = 'comments-heading';
+  title.textContent = 'Комментарии';
+  const note = document.createElement('p');
+  note.className = 'comments-note';
+  note.textContent = 'Обсуждение этой страницы. Для конкретного варианта укажите его код. Комментарии публичны; для ответа нужен GitHub.';
+  const fallback = document.createElement('a');
+  fallback.className = 'quiet-link comments-link';
+  fallback.href = `https://github.com/${config.repo}/discussions/categories/comments`;
+  fallback.target = '_blank';
+  fallback.rel = 'noopener noreferrer';
+  fallback.textContent = 'Обсуждения на GitHub';
+  const status = document.createElement('p');
+  status.className = 'comments-status';
+  status.setAttribute('role', 'status');
+  status.textContent = 'Загрузка комментариев…';
+  const host = document.createElement('div');
+  host.className = 'giscus';
+  host.id = 'giscus-comments';
+  box.append(title, note, fallback, status, host);
+  main.append(box);
+
+  let started = false;
+  let timeout;
+  const fail = () => {
+    clearTimeout(timeout);
+    status.hidden = false;
+    status.textContent = 'Комментарии не загрузились. Обновите страницу или откройте обсуждения на GitHub.';
+  };
+  // Read only messages from this widget, never page content or arbitrary origins.
+  window.addEventListener('message', event => {
+    const frame = host.querySelector('iframe');
+    if (event.origin !== 'https://giscus.app' || event.source !== frame?.contentWindow || !event.data?.giscus) return;
+    if (event.data.giscus.error) {
+      // No thread exists until the first comment; this is an ordinary empty state.
+      if (String(event.data.giscus.error).includes('Discussion not found')) { clearTimeout(timeout); status.hidden = true; }
+      else fail();
+      return;
+    }
+    if (event.data.giscus.resizeHeight || event.data.giscus.discussion || event.data.giscus.discussion === null) {
+      clearTimeout(timeout);
+      status.hidden = true;
+    }
+  });
+  const start = () => {
+    if (started) return;
+    started = true;
+    const script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.async = true;
+    script.crossOrigin = 'anonymous';
+    Object.assign(script.dataset, {
+      repo: config.repo, repoId: config.repoId, category: config.category,
+      categoryId: config.categoryId, mapping: 'pathname', strict: '1',
+      reactionsEnabled: '1', emitMetadata: '1', inputPosition: 'top',
+      theme: 'dark', lang: 'ru', loading: 'lazy'
+    });
+    const selectedHash = location.hash;
+    script.addEventListener('error', fail, {once:true});
+    script.addEventListener('load', () => {
+      // Giscus removes its OAuth query parameter and hash; keep the selected gallery frame.
+      if (selectedHash && !location.hash) {
+        const restored = new URL(location.href); restored.hash = selectedHash;
+        history.replaceState(history.state, '', restored);
+      }
+    }, {once:true});
+    timeout = setTimeout(fail, 20000);
+    box.append(script);
+  };
+  // Defer the external script too, so opening a gallery loads its images first.
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(entries => {
+      if (entries.some(entry => entry.isIntersecting)) { observer.disconnect(); start(); }
+    }, {rootMargin:'300px'});
+    observer.observe(box);
+  } else start();
 })();
