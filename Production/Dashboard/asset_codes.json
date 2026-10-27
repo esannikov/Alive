@@ -25,7 +25,8 @@
     "ilya": 7,
     "sonya": 7,
     "egor": 7,
-    "zhanna": 7
+    "zhanna": 7,
+    "rita": 7
   },
   "assets": [
     {
@@ -5415,6 +5416,144 @@
       ],
       "galleries": [
         "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "rita001",
+      "object": "rita",
+      "caption": "A · удлинённый овал",
+      "sha256": "6bd2433c11fcf7879475f54689c705db5f32e11ee5e73074671f5fe958380a72",
+      "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e",
+      "source_file": "docs/World/characters/rita/images/rita001.png",
+      "aliases": [
+        "docs/World/characters/rita/images/rita001.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "rita002",
+      "object": "rita",
+      "caption": "B · тёплый оливковый типаж",
+      "sha256": "c7a4ea0d331f96b07eb2d8ce5eb2f6328bcce94821fa9c69fbe26856237d29ee",
+      "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e",
+      "source_file": "docs/World/characters/rita/images/rita002.png",
+      "aliases": [
+        "docs/World/characters/rita/images/rita002.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "rita003",
+      "object": "rita",
+      "caption": "C · короткие естественные кудри",
+      "sha256": "b59fddcc6640c9efcf4c8c7b03d04ca2356b864658cb1a2170ac98b434ed3bd2",
+      "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e",
+      "source_file": "docs/World/characters/rita/images/rita003.png",
+      "aliases": [
+        "docs/World/characters/rita/images/rita003.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "rita004",
+      "object": "rita",
+      "caption": "D · прямое каре",
+      "sha256": "f1190d87d4649826edb45d0acc4c7f926b6c98df22bdb9fe1234e9753dfff7a1",
+      "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e",
+      "source_file": "docs/World/characters/rita/images/rita004.png",
+      "aliases": [
+        "docs/World/characters/rita/images/rita004.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "rita005",
+      "object": "rita",
+      "caption": "E · веснушки и выраженный нос",
+      "sha256": "58f25a09a16aea3d864c1abfb8d90c24e3fb46b62b774abc0761242019e5b43b",
+      "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e",
+      "source_file": "docs/World/characters/rita/images/rita005.png",
+      "aliases": [
+        "docs/World/characters/rita/images/rita005.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "rita006",
+      "object": "rita",
+      "caption": "F · тёмные волны и высокие скулы",
+      "sha256": "2b005cfaf6f3fdaeecf2607bf889d2526d9ec40b34417756a49ecde544623793",
+      "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e",
+      "source_file": "docs/World/characters/rita/images/rita006.png",
+      "aliases": [
+        "docs/World/characters/rita/images/rita006.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
       ],
       "kind": "appearance",
       "status": "candidate",
