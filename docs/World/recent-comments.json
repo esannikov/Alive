@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:34:43.022509+00:00",
+  "generatedAt": "2026-10-27T18:44:31.155447+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVnM",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:44:13Z",
+      "excerpt": "nitka009 тоже очень нравится. прямо вариант 2 после nitka010 . на контрасте с Вальком",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19225036"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVkG",
       "page": "characters/emma/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-10-27T18:30:55Z",
       "excerpt": "ну опять улетела Эмма которую я выбрала. ну зачем?(((( Бриджертоны которая. Женя, не удаляй плиз там где спорим мы, мы их на голосование поставим.",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224767"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVhd",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:27:49Z",
-      "excerpt": "nitka007 тоже нравится, но она не будет ли она с Эммой сливаться? nitka006 - не Нитка, но классная, на кого-то перекинем ее",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224669"
     }
   ],
   "discussionNumbers": {
-    "characters/emma/": 57,
     "characters/nitka/": 48,
+    "characters/emma/": 57,
     "characters/fedor/": 52,
     "characters/tais/": 56,
     "characters/kolka/": 59,
@@ -128,10 +128,10 @@
       "last": null
     },
     "characters/nitka/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:27:49Z"
+        "createdAt": "2026-10-27T18:44:13Z"
       }
     },
     "characters/nitka/reference.html": {
