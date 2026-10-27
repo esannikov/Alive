@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:31:26.591148+00:00",
+  "generatedAt": "2026-10-27T11:34:27.964558+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTX7",
+      "page": "characters/masha/",
+      "title": "Маша",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T11:34:14Z",
+      "excerpt": "masha006 - хорошая. Ее в теории можно чуть в латинос еще увести даже",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215867"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTXV",
       "page": "characters/fedor/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-10-26T20:53:25Z",
       "excerpt": "Перепроверил книгу: на с. 108 Дон-15 ниже Дона-12, оружие встроено в обе руки. Поэтому рост пока не увеличивал. Боевой характер усилил в новых вариантах.",
       "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19204408"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQk2",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "esannikov",
-      "createdAt": "2026-10-26T20:53:23Z",
-      "excerpt": "fedor021 убрал, fedor009 оставил. Галерея.",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19204406"
     }
   ],
   "discussionNumbers": {
-    "characters/fedor/": 52,
     "characters/masha/": 50,
+    "characters/fedor/": 52,
     "characters/katya/": 67,
     "robots/scale/": 54,
     "characters/emma/": 57,
@@ -139,10 +139,10 @@
       "last": null
     },
     "characters/masha/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-27T10:29:40Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T11:34:14Z"
       }
     },
     "characters/masha/reference.html": {
