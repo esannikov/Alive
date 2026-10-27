@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-27",
+  "tool": "built-in image_gen",
+  "mode": "generate",
+  "reference_pages": [
+    35,
+    77,
+    169,
+    170,
+    171
+  ],
+  "variants": [
+    {
+      "code": "sonya001",
+      "title": "A · мягкое круглое лицо",
+      "prompt": "A natural cinematic photograph of Sonya, a fictional ten-year-old schoolgirl in a science-fiction story, standing beside her drawing desk in a bright, comfortable spacecraft family cabin. She wears a pale-lilac long-sleeved shirt, an oatmeal cardigan and dark trousers, holding a sketchbook. Two long light copper-red braids have tiny clear glass star beads woven into them. Light-blue eyes, softly round face, a few freckles, curious relaxed expression. Handmade pink and lilac bead bracelets. Soft natural indoor light, realistic family-photo atmosphere, no styling or makeup. Horizontal 16:9 composition, show her complete head with space above and upper figure down to the sketchbook. One person only, no text.",
+      "scene_edit_prompt": "Edit this exact image while preserving Sonya's face, age, hair, braids, clear glass stars, clothes, bracelets, sketchbook, pose, lighting and landscape composition. Replace ONLY the large window and Earth view with a plain built-in pale grey wall panel with a few practical seams, consistent with a windowless spacecraft residential cabin. Keep the room believable and comfortable. Do not change the child or her expression. No view of Earth or outer space.",
+      "initial_generation_file": "exec-33462ba9-2279-468b-8a0f-ea17da1a8309.png",
+      "final_generation_file": "exec-e3adde7d-19be-4be8-a9b4-4c7268232f9f.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/sonya/images/sonya001.png",
+      "sha256": "911575946b7c217e2f82fbf2a2a095a2525ce38f6545279510346be8b220f6a7"
+    },
+    {
+      "code": "sonya002",
+      "title": "B · сердцевидное лицо",
+      "prompt": "A natural cinematic photograph of Sonya, a fictional ten-year-old schoolgirl in a science-fiction story, standing beside her drawing desk in a bright, comfortable WINDOWLESS residential cabin on a spacecraft. Pale grey built-in wall panels and a rounded interior doorway; paper and colored pencils on the desk. No exterior view, no planet, no space window. She wears a pale-lilac long-sleeved shirt, an oatmeal cardigan and dark trousers, holding a small plain sketchbook at waist level. Two long natural copper-red braids have tiny clear glass star beads woven into them. Light-blue eyes and handmade pink and lilac bead bracelets. Soft natural-looking indoor illumination, realistic family-photo atmosphere, relaxed curious expression. Horizontal 16:9 composition, complete head with space above and figure visible to the hips, both forearms and sketchbook visible. One child only, no text.\nFace variation: A heart-shaped face with a broader forehead and small softly tapered chin, slightly prominent ears, pale peach skin, fine ginger brows and a somewhat longer narrow nose. Two long light-copper braids with a little natural wave. Mildly inquisitive expression.",
+      "final_generation_file": "exec-ab7e7fc7-ef15-4f9d-920f-e610b5c21450.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/sonya/images/sonya002.png",
+      "sha256": "35b86032cd074a3131bc83a98c987add0f109c2d86897f8ae5f6fbfae2deb12f"
+    },
+    {
+      "code": "sonya003",
+      "title": "C · широкие скулы",
+      "prompt": "A natural cinematic photograph of Sonya, a fictional ten-year-old schoolgirl in a science-fiction story, standing beside her drawing desk in a bright, comfortable WINDOWLESS residential cabin on a spacecraft. Pale grey built-in wall panels and a rounded interior doorway; paper and colored pencils on the desk. No exterior view, no planet, no space window. She wears a pale-lilac long-sleeved shirt, an oatmeal cardigan and dark trousers, holding a small plain sketchbook at waist level. Two long natural copper-red braids have tiny clear glass star beads woven into them. Light-blue eyes and handmade pink and lilac bead bracelets. Soft natural-looking indoor illumination, realistic family-photo atmosphere, relaxed curious expression. Horizontal 16:9 composition, complete head with space above and figure visible to the hips, both forearms and sketchbook visible. One child only, no text.\nFace variation: A broad softly squared face, softly high cheekbones, warm light-beige skin, straight fine brows, gently almond-shaped light-blue eyes, medium-width nose with a softly rounded bridge. Two long straight copper-red braids. Gentle, individual facial features, calm attentive expression.",
+      "final_generation_file": "exec-3e2f7f27-7896-4d6d-8ee9-add7fe278040.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/sonya/images/sonya003.png",
+      "sha256": "5201c3869bce7521baa48a62991e0c3ec832769576436791862f9133fe8cceb3"
+    },
+    {
+      "code": "sonya004",
+      "title": "D · тёплый тон и кудрявые пряди",
+      "prompt": "A natural cinematic photograph of Sonya, a fictional ten-year-old schoolgirl in a science-fiction story, standing beside her drawing desk in a bright, comfortable WINDOWLESS residential cabin on a spacecraft. Pale grey built-in wall panels and a rounded interior doorway; paper and colored pencils on the desk. No exterior view, no planet, no space window. She wears a pale-lilac long-sleeved shirt, an oatmeal cardigan and dark trousers, holding a small plain sketchbook at waist level. Two long natural copper-red braids have tiny clear glass star beads woven into them. Light-blue eyes and handmade pink and lilac bead bracelets. Soft natural-looking indoor illumination, realistic family-photo atmosphere, relaxed curious expression. Horizontal 16:9 composition, complete head with space above and figure visible to the hips, both forearms and sketchbook visible. One child only, no text.\nFace variation: A compact oval face, warm light-medium tan skin with faint freckles, a slightly wider softly defined nose bridge, fine eyebrows and natural light-blue eyes. Copper-auburn hair braided into two long braids, a few short natural copper curls by her temples. Relaxed curious expression.",
+      "final_generation_file": "exec-273ac5a6-a3ea-413f-b638-8e8909378f69.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/sonya/images/sonya004.png",
+      "sha256": "dedc2322f1df7f107a60826edfe5a8a296f33b9f7c24226b16634766babedad5"
+    },
+    {
+      "code": "sonya005",
+      "title": "E · длинный овал и веснушки",
+      "prompt": "A natural cinematic photograph of Sonya, a fictional ten-year-old schoolgirl in a science-fiction story, standing beside her drawing desk in a bright, comfortable WINDOWLESS residential cabin on a spacecraft. Pale grey built-in wall panels and a rounded interior doorway; paper and colored pencils on the desk. No exterior view, no planet, no space window. She wears a pale-lilac long-sleeved shirt, an oatmeal cardigan and dark trousers, holding a small plain sketchbook at waist level. Two long natural copper-red braids have tiny clear glass star beads woven into them. Light-blue eyes and handmade pink and lilac bead bracelets. Soft natural-looking indoor illumination, realistic family-photo atmosphere, relaxed curious expression. Horizontal 16:9 composition, complete head with space above and figure visible to the hips, both forearms and sketchbook visible. One child only, no text.\nFace variation: An elongated child's oval face with soft cheeks, pale rosy skin and scattered freckles, a longer gently convex nose, straight ginger eyebrows and small mouth. Light-blue eyes, two long straight light-copper braids. Thoughtful curious expression.",
+      "final_generation_file": "exec-70459cee-b688-4c1b-98f5-413ebfe0406c.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/sonya/images/sonya005.png",
+      "sha256": "9066a083e3d07b09501a2ecec73f3740175a142c6f0f75f11bad4bb4f2b3024e"
+    },
+    {
+      "code": "sonya006",
+      "title": "F · угловатый типаж",
+      "prompt": "A natural cinematic photograph of Sonya, a fictional ten-year-old schoolgirl in a science-fiction story, standing beside her drawing desk in a bright, comfortable WINDOWLESS residential cabin on a spacecraft. Pale grey built-in wall panels and a rounded interior doorway; paper and colored pencils on the desk. No exterior view, no planet, no space window. She wears a pale-lilac long-sleeved shirt, an oatmeal cardigan and dark trousers, holding a small plain sketchbook at waist level. Two long natural copper-red braids have tiny clear glass star beads woven into them. Light-blue eyes and handmade pink and lilac bead bracelets. Soft natural-looking indoor illumination, realistic family-photo atmosphere, relaxed curious expression. Horizontal 16:9 composition, complete head with space above and figure visible to the hips, both forearms and sketchbook visible. One child only, no text.\nFace variation: A slightly angular youthful face with soft triangular chin, light olive-neutral skin, wide-set light-blue eyes, low straight fine brows and a small slightly upturned nose. Thicker dark-copper hair in two long braids with little flyaways. A gently asymmetrical natural smile.",
+      "final_generation_file": "exec-3976e392-1105-4de9-8cd6-bc6c8312fdb4.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/sonya/images/sonya006.png",
+      "sha256": "98a921ddf751cf3bb4e4e34bab0d68bbb3a05d97a824585821a98e8a3d46eefd"
+    }
+  ]
+}
