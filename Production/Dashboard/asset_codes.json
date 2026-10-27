@@ -24,7 +24,8 @@
     "katya": 7,
     "ilya": 7,
     "sonya": 7,
-    "egor": 7
+    "egor": 7,
+    "zhanna": 7
   },
   "assets": [
     {
@@ -5276,6 +5277,144 @@
       ],
       "galleries": [
         "World/characters/egor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zhanna001",
+      "object": "zhanna",
+      "caption": "A · длинный овал",
+      "sha256": "f61d82848f62df1067bda2571936489c148228b801b4d8c710c2bfd5cd4a666a",
+      "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
+      "source_file": "docs/World/characters/zhanna/images/zhanna001.png",
+      "aliases": [
+        "docs/World/characters/zhanna/images/zhanna001.png"
+      ],
+      "galleries": [
+        "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zhanna002",
+      "object": "zhanna",
+      "caption": "B · округлые черты",
+      "sha256": "54c75d3b1bc8260c223a7a95a197695c1501e62552cc091efeef56dfbfb53a67",
+      "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
+      "source_file": "docs/World/characters/zhanna/images/zhanna002.png",
+      "aliases": [
+        "docs/World/characters/zhanna/images/zhanna002.png"
+      ],
+      "galleries": [
+        "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zhanna003",
+      "object": "zhanna",
+      "caption": "C · широкие скулы",
+      "sha256": "9f0ab24c0447940995e1dfdd51b3d7acf4f43735769698f89ab1e680ec7be0d1",
+      "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
+      "source_file": "docs/World/characters/zhanna/images/zhanna003.png",
+      "aliases": [
+        "docs/World/characters/zhanna/images/zhanna003.png"
+      ],
+      "galleries": [
+        "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zhanna004",
+      "object": "zhanna",
+      "caption": "D · короткие кудри",
+      "sha256": "7a6eb187ee0cdb0ad718e46f7e4ded09b834e352ed74436055d779251e6371b8",
+      "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
+      "source_file": "docs/World/characters/zhanna/images/zhanna004.png",
+      "aliases": [
+        "docs/World/characters/zhanna/images/zhanna004.png"
+      ],
+      "galleries": [
+        "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zhanna005",
+      "object": "zhanna",
+      "caption": "E · сердцевидное лицо",
+      "sha256": "14c7343f785e7045710dbc8684f3f2296d4ab0b0320c59911f40417dbad506cf",
+      "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
+      "source_file": "docs/World/characters/zhanna/images/zhanna005.png",
+      "aliases": [
+        "docs/World/characters/zhanna/images/zhanna005.png"
+      ],
+      "galleries": [
+        "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zhanna006",
+      "object": "zhanna",
+      "caption": "F · мягкая квадратная форма",
+      "sha256": "7734461e90ea26cd645206ab00b3eda3659b8ec2ef5d44f906ba569871be607a",
+      "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
+      "source_file": "docs/World/characters/zhanna/images/zhanna006.png",
+      "aliases": [
+        "docs/World/characters/zhanna/images/zhanna006.png"
+      ],
+      "galleries": [
+        "World/characters/zhanna"
       ],
       "kind": "appearance",
       "status": "candidate",
