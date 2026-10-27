@@ -33,7 +33,8 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   let frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));
   for(const [key,value] of Object.entries({mapping:'number',strict:'1',theme:'dark',lang:'ru',inputPosition:'bottom',reactionsEnabled:'0'}))assert.equal(frame.searchParams.get(key),value);
   const term=frame.searchParams.get('term');assert.equal(term,'60');
-  assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'viewer-caption');
+  assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.className),'comment-variant');
+  assert.equal(await p.locator('#viewer-rail').count(),1);
   const originalFrame=frame.href;await p.locator('.thumb-link[href="#valek014"]').click();assert.equal(await p.locator('.giscus-frame').getAttribute('src'),originalFrame);assert((await p.locator('.comments-copy').innerText()).includes('valek014'));
   await p.addScriptTag({path:path.join(root,'docs/World/site.js')});assert.equal(await p.locator('#comments').count(),1);assert.equal(await p.locator('.giscus-frame').count(),1);
   await p.goto(base+'index.html');assert.equal(await p.locator('#comments').count(),0);assert.equal(await p.locator('#recent-comments').count(),1);
