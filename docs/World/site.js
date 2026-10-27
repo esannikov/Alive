@@ -299,21 +299,23 @@
   const host = document.createElement('div');
   host.className = 'giscus';
   host.id = 'giscus-comments';
-  const viewerCaption = document.querySelector('#viewer .viewer-caption');
-  if (viewerCaption) {
+  const gallery = document.body.dataset.object && document.getElementById('gallery');
+  if (gallery) {
     box.classList.add('comments--gallery');
     const code = document.getElementById('hero-code');
-    const copyCode = document.createElement('button');
-    copyCode.type = 'button'; copyCode.className = 'quiet-button comments-copy';
-    const syncCode = () => { copyCode.textContent = 'Копировать код ' + code.textContent; };
-    syncCode(); new MutationObserver(syncCode).observe(code, {childList:true,characterData:true,subtree:true});
-    copyCode.addEventListener('click', () => document.getElementById('copy-code')?.click());
-    content.append(copyCode);
-    (document.getElementById('viewer-rail') || viewerCaption).after(box);
     const action=document.createElement('button');action.type='button';action.className='comment-variant';
-    const syncAction=()=>{action.textContent='Комментировать '+code.textContent;};syncAction();new MutationObserver(syncAction).observe(code,{childList:true,characterData:true,subtree:true});
-    action.addEventListener('click',async()=>{box.open=true;let copied=false;try{await navigator.clipboard.writeText(code.textContent);copied=true;}catch(_){const input=document.createElement('textarea');input.value=code.textContent;input.style.cssText='position:fixed;left:-9999px;top:0';document.body.append(input);input.select();try{copied=document.execCommand('copy');}catch(_){}input.remove();}const hint=document.createElement('span');hint.className='comment-copy-hint';hint.textContent=copied?'Код скопирован — вставьте его в комментарий.':'Не удалось скопировать код. Укажите его в комментарии вручную.';content.querySelector('.comment-copy-hint')?.remove();content.prepend(hint);});
-    document.getElementById('viewer-rail').after(action);
+    const syncAction=()=>{action.textContent='Комментировать '+code.textContent;};
+    syncAction();new MutationObserver(syncAction).observe(code,{childList:true,characterData:true,subtree:true});
+    action.addEventListener('click',async()=>{
+      let copied=false;
+      try{await navigator.clipboard.writeText(code.textContent);copied=true;}
+      catch(_){const input=document.createElement('textarea');input.value=code.textContent;input.style.cssText='position:fixed;left:-9999px;top:0';document.body.append(input);input.select();try{copied=document.execCommand('copy');}catch(_){}input.remove();}
+      const hint=document.createElement('span');hint.className='comment-copy-hint';
+      hint.textContent=copied?'Код скопирован — вставьте его в комментарий.':'Не удалось скопировать код. Укажите его в комментарии вручную.';
+      content.querySelector('.comment-copy-hint')?.remove();action.after(hint);
+    });
+    content.append(action);
+    gallery.after(box);
   } else main.append(box);
   content.append(status, host, fallback);
   box.append(summary, content);
@@ -322,7 +324,14 @@
   let boundNumber = null;
   const worldRoot = new URL(document.body.dataset.root || './', location.href);
   const pagePath = location.pathname.slice(worldRoot.pathname.length);
-  const markRead = () => { if (!box.open) return; try { localStorage.setItem('alive-world:discussion-read:'+pagePath,String(Date.now())); } catch (_) {} };
+  let pendingSeenAt = null, hostVisible = false;
+  const markRead = () => {
+    if (!box.open || !hostVisible || !pendingSeenAt) return;
+    try { localStorage.setItem('alive-world:discussion-read:'+pagePath,String(pendingSeenAt)); pendingSeenAt=null; } catch (_) {}
+  };
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(entries=>{hostVisible=entries.some(entry=>entry.isIntersecting);markRead();}).observe(host);
+  } else hostVisible=true;
   const validNumber = n => Number.isSafeInteger(n) && n > 0;
   let timeout;
   const fail = () => {
@@ -344,7 +353,7 @@
     if (event.data.giscus.resizeHeight || event.data.giscus.discussion || event.data.giscus.discussion === null) {
       clearTimeout(timeout);
       if (!host.hidden) status.hidden = true;
-      if (!host.hidden && Object.prototype.hasOwnProperty.call(event.data.giscus,'discussion')) markRead();
+      if (!host.hidden && Object.prototype.hasOwnProperty.call(event.data.giscus,'discussion')) { pendingSeenAt=Date.now(); markRead(); }
     }
   });
   const start = async () => {
@@ -395,8 +404,16 @@
     timeout = setTimeout(fail, 20000);
     box.append(script);
   };
-  // The compact form stays closed until requested; one iframe survives image changes.
-  box.addEventListener('toggle', () => { if (box.open) start(); });
+  // Gallery discussions are expanded below the thumbnails; load near the viewport.
+  // Other World pages keep their existing on-demand discussion.
+  box.addEventListener('toggle', () => { if (box.open && !gallery) start(); });
+  if (gallery) {
+    box.open=true;
+    if ('IntersectionObserver' in window) {
+      const loader=new IntersectionObserver(entries=>{if (entries.some(entry=>entry.isIntersecting)){loader.disconnect();start();}}, {rootMargin:'400px'});
+      loader.observe(box);
+    } else start();
+  }
   function openForAnchor() {
     if (['#comments', '#giscus-comments'].includes(location.hash)) box.open = true;
   }
