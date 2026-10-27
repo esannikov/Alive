@@ -2662,7 +2662,7 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "kolka004",
@@ -2686,7 +2686,7 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "kolka005",
@@ -2734,7 +2734,7 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "lon001",
@@ -3022,7 +3022,7 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "fedor023",
@@ -4791,6 +4791,78 @@
       "renditions": [],
       "task_ids": [
         "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor024",
+      "object": "fedor",
+      "caption": "После fedor021 · уточнённые черты",
+      "sha256": "8fb821df8ed1dd268ea488a252745967713a07e9fb054ccc39dc03ac7d5343d6",
+      "source_commit": "a7435d25f8dbbd96bec7f2531ddcae6e4573a98e",
+      "source_file": "docs/World/characters/fedor/images/fedor024.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor024.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor021",
+      "derivation_kind": "producer_feedback_revision",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor025",
+      "object": "fedor",
+      "caption": "После fedor023 · уточнённые черты",
+      "sha256": "24fabe4f1c01168bb623bee2328db9bacceae9c881a970fc8d2c697fc1b32bcb",
+      "source_commit": "a7435d25f8dbbd96bec7f2531ddcae6e4573a98e",
+      "source_file": "docs/World/characters/fedor/images/fedor025.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor025.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor023",
+      "derivation_kind": "producer_feedback_revision",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor026",
+      "object": "fedor",
+      "caption": "Типаж fedor018 · анфас",
+      "sha256": "8761897cbed44a8df9cd26e1beec5f4c983690eb76f5b84e808a4e96c28bf132",
+      "source_commit": "a7435d25f8dbbd96bec7f2531ddcae6e4573a98e",
+      "source_file": "docs/World/characters/fedor/images/fedor026.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor026.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor018",
+      "derivation_kind": "producer_feedback_revision",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
       ],
       "series": "current",
       "visibility": "active"
