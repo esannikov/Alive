@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:03:16.573757+00:00",
+  "generatedAt": "2026-10-27T14:07:29.897777+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJUAm",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T14:07:07Z",
+      "excerpt": "ну тут баба яга конечно не сильно за тонкие ноги) 25 и 26 не функциональны, наверное. Я за 22ой пока. вот тут кстати собраны какие-то айконик сцены из галактики https://www.youtube.com/watch?v=BM5eLaqtP4U в том числе и боевые. И я хотела показать на 2.25 ка…",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19218470"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTdZ",
       "page": "characters/valek/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T11:45:42Z",
       "excerpt": "kolka003 kolka004 и kolka006 - я бы пока прощалась",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216016"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTaC",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:44:28Z",
-      "excerpt": "у меня Кольки нет пока. Нам нужен красивый все-таки Колька. Это тоже треугольник -Колька - Эмма - Федор. И Эмма в конце выберет его. Стандартный треугольник всегда два классных героя, между которыми не можем выбрать. Федор уже очевидно хороший выходит, Коль…",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216002"
     }
   ],
   "discussionNumbers": {
+    "robots/don15/": 53,
     "characters/valek/": 60,
     "characters/tais/": 56,
     "characters/kolka/": 59,
@@ -57,7 +58,6 @@
     "characters/katya/": 67,
     "robots/scale/": 54,
     "characters/emma/": 57,
-    "robots/don15/": 53,
     "characters/nitka/": 48,
     "ships/moag/": 62,
     "robots/martin/": 61,
@@ -169,10 +169,10 @@
       "last": null
     },
     "robots/don15/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-26T20:53:16Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T14:07:07Z"
       }
     },
     "robots/don15/reference.html": {
