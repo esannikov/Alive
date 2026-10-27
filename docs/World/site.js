@@ -389,7 +389,7 @@
       repo: config.repo, repoId: config.repoId, category: config.category,
       categoryId: config.categoryId, mapping: boundNumber ? 'number' : 'pathname', strict: '1',
       reactionsEnabled: config.reactionsEnabled || '0', emitMetadata: '1', inputPosition: config.inputPosition || 'bottom',
-      theme: 'dark', lang: 'ru', loading: 'lazy'
+      theme: config.theme || 'dark', lang: 'ru', loading: 'lazy'
     });
     if (boundNumber) script.dataset.term = String(boundNumber);
     const selectedHash = location.hash;
