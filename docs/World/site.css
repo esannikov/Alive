@@ -46,3 +46,9 @@ html{scrollbar-gutter:stable}.dialog-toolbar{display:flex;align-items:center;jus
 
 /* The shared discussion follows the complete thumbnail gallery. */
 .comments--gallery{margin:32px 0 20px}.comments--gallery .comments-content{padding-top:0}.comments--gallery .comment-variant{display:inline-flex;align-items:center}.comments--gallery .comment-copy-hint{margin:0 0 8px}
+
+/* One thumbnail rail per gallery; retain the static gallery as a no-JavaScript fallback. */
+html.js #gallery,html.js .gallery-fallback{display:none!important}
+.rail-item{flex-basis:108.8px}
+body[data-object="moag"] .rail-item img{object-fit:contain}
+@media(max-width:680px){.rail-item{flex-basis:94.4px}}

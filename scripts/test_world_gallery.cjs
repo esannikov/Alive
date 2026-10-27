@@ -26,43 +26,48 @@ const byUrl=new Map(data.assets.flatMap(a=>[[a.original,a],[new URL(a.display||a
   assert.equal(await page.locator('.ship-variant').count(),18);
   assert.equal(data.assets.filter(a=>a.object==='moag').length,34);
   assert(!data.assets.some(a=>['moag005','moag009'].includes(a.code)));
-  await page.locator('.ship-variant[data-code="moag013"]').scrollIntoViewIfNeeded();
+  assert(await page.locator('#gallery').isHidden());
+  assert.equal(await page.locator('#viewer-rail .rail-item').count(),34);
+  await page.locator('#viewer-rail [data-code="moag013"]').scrollIntoViewIfNeeded();
   const before=await page.evaluate(()=>scrollY);
-  await page.locator('.ship-variant[data-code="moag013"]>.thumb-link').click();
+  await page.locator('#viewer-rail [data-code="moag013"]').click();
   const loading=await page.evaluate(()=>({y:scrollY,visibility:getComputedStyle(document.querySelector('#hero-image')).visibility,state:document.querySelector('#hero-image').parentElement.dataset.state,message:document.querySelector('#hero-image').parentElement.querySelector('[role="status"]').textContent,code:document.querySelector('#hero-code').textContent}));
   assert(Math.abs(loading.y-before)<2,JSON.stringify({before,loading}));
   assert.equal(loading.visibility,'hidden');assert.equal(loading.state,'loading');assert.equal(loading.code,'moag013');assert(loading.message.includes('moag013'));
-  assert(await page.locator('#image-dialog').isVisible());
-  assert.equal(await page.locator('#dialog-image').evaluate(i=>getComputedStyle(i).visibility),'hidden');
-  await page.locator('#close-image').click();
-  await page.locator('.ship-variant[data-code="moag019"]>.thumb-link').click();
+  assert(await page.locator('#image-dialog').isHidden());
+  await page.locator('#viewer-rail [data-code="moag019"]').click();
   await page.waitForFunction(()=>document.querySelector('#hero-image').parentElement.dataset.state==='ready'&&document.querySelector('#hero-code').textContent==='moag019');
   releaseSlow();
   await page.waitForResponse(r=>r.url().includes('moag013-parallax-front.png'));
   await page.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
   assert.equal(await page.locator('#hero-code').innerText(),'moag019');
   assert((await page.locator('#hero-image').getAttribute('src')).includes('moag019-contour-front.png'));
-  await page.locator('#close-image').click();
-  failures.add('moag021');await page.locator('.ship-variant[data-code="moag021"]>.thumb-link').click();
+  failures.add('moag021');await page.locator('#viewer-rail [data-code="moag021"]').click();
   await page.waitForFunction(()=>document.querySelector('#hero-image').parentElement.dataset.state==='error');
   assert.equal(await page.locator('#hero-image').evaluate(i=>getComputedStyle(i).visibility),'hidden');
-  await page.locator('#close-image').click();
-  failures.delete('moag021');await page.locator('.ship-variant[data-code="moag021"]>.thumb-link').click();
+  failures.delete('moag021');await page.locator('#viewer-rail [data-code="moag021"]').click();
   await page.waitForFunction(()=>document.querySelector('#hero-image').parentElement.dataset.state==='ready');
-  await page.locator('#close-image').click();
   for(const code of ['moag006','moag010']){
-   await page.locator('.ship-variant[data-code="'+code+'"]>.thumb-link').click();
+   await page.locator('#viewer-rail [data-code="'+code+'"]').click();
    assert.equal(await page.locator('[data-angle]:visible').count(),1);
    assert.equal(await page.locator('[data-angle]:visible').innerText(),'Ракурс 2');
-   assert(await page.locator('#dialog-next').isDisabled());
+   await page.locator('#enlarge').click();assert(await page.locator('#image-dialog').isVisible());assert(await page.locator('#dialog-next').isDisabled());
    await page.locator('#close-image').click();
   }
   for(const id of ['tais','fedor','emma','kolka']){
    await page.goto(base+'characters/'+id+'/');
    await page.waitForFunction(()=>document.querySelector('#hero-image').parentElement.dataset.state==='ready');
+   assert(await page.locator('#gallery').isHidden());assert(await page.locator('#comments').evaluate(el=>el.open));
+   const width=await page.locator('#viewer-rail .rail-item img').first().evaluate(el=>el.getBoundingClientRect().width);assert(Math.abs(width-100.8)<1,`desktop thumbnail width ${width}`);
    await page.locator('#next-image').click();
    await page.waitForFunction(()=>document.querySelector('#hero-image').parentElement.dataset.state==='ready');
   }
+  await page.setViewportSize({width:390,height:844});await page.goto(base+'characters/kolka/#kolka003');
+  await page.waitForFunction(()=>document.querySelector('#hero-code')?.textContent==='kolka003');
+  const mobileWidth=await page.locator('#viewer-rail .rail-item img').first().evaluate(el=>el.getBoundingClientRect().width);
+  assert(Math.abs(mobileWidth-86.4)<1,`mobile thumbnail width ${mobileWidth}`);
+  assert(await page.locator('#gallery').isHidden());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+  const nojs=await browser.newContext({javaScriptEnabled:false});const fallback=await nojs.newPage();await fallback.goto(base+'characters/kolka/');assert(await fallback.locator('#gallery').isVisible());assert(await fallback.locator('.gallery-fallback').isVisible());await nojs.close();
   assert.deepEqual(errors,[]);
   console.log(JSON.stringify({status:'PASS',shipFrames:34,shipVariants:18,viewportStable:true,oldImageHiddenDuringLoad:true,lateResponseIgnored:true,errorAndRetry:true,singleViewLabels:true,characterNavigation:true}));
  }finally{await browser.close();}
