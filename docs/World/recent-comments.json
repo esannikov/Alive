@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:44:31.155447+00:00",
+  "generatedAt": "2026-10-27T18:54:07.150735+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVqT",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:53:51Z",
+      "excerpt": "martin002 нравится еще. и вот еще. а мы можем попробовать халат накинуть как у воспитателя на него? я не знаю что это будет, но в этом есть какой-то образ. Доброго дядюшки, который на какой-то момент по сути окажется лицом зла - он проекция Моага (Едем) и к…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19225235"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVnM",
       "page": "characters/nitka/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T18:32:09Z",
       "excerpt": "щас новая emma009 тоже классная. На Тейлор Свифт похожа. кстати можно потом будет поиграть, хотя и так классно. Но пухлая Эмма тоже надо",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224795"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVi_",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:30:55Z",
-      "excerpt": "ну опять улетела Эмма которую я выбрала. ну зачем?(((( Бриджертоны которая. Женя, не удаляй плиз там где спорим мы, мы их на голосование поставим.",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224767"
     }
   ],
   "discussionNumbers": {
+    "robots/martin/": 61,
     "characters/nitka/": 48,
     "characters/emma/": 57,
     "characters/fedor/": 52,
@@ -60,7 +61,6 @@
     "characters/katya/": 67,
     "robots/scale/": 54,
     "ships/moag/": 62,
-    "robots/martin/": 61,
     "robots/lon/": 44
   },
   "discussionStats": {
@@ -204,10 +204,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-26T19:51:51Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T18:53:51Z"
       }
     },
     "robots/martin/reference.html": {
