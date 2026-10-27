@@ -1,0 +1,59 @@
+/* ALIVE World — hosted Giscus theme. Keep native submit, reply and OAuth behavior. */
+@import url("https://giscus.app/themes/dark.css");
+
+html, body { color-scheme: dark; background: #090a0b; color: #f3f3ef; }
+
+main {
+  --color-canvas-default: #090a0b;
+  --color-canvas-subtle: #101214;
+  --color-border-default: #2b3034;
+  --color-accent-fg: #c6ec6a;
+}
+
+.gsc-main, .gsc-comments { gap: 12px; }
+.gsc-timeline { gap: 12px; }
+.gsc-comment-header { padding: 10px 12px 0; }
+.gsc-comment-author-avatar img, .gsc-reply-author-avatar img { width: 24px; height: 24px; }
+.gsc-comment-content { padding: 10px 12px; }
+.gsc-comment-footer { margin-bottom: 8px; }
+.gsc-comment-reactions { margin-left: 12px; }
+.gsc-replies { padding-top: 0; }
+.gsc-reply { padding: 10px 12px 8px; }
+.gsc-reply-header { margin-bottom: 4px; }
+.gsc-reply-content { padding-bottom: 4px; }
+
+/* Reply affordances are small buttons, not another row of text fields. */
+.gsc-reply-box { padding: 4px 12px; background: transparent; }
+.gsc-reply-box > button { width: auto; min-height: 32px; padding: 4px 0; border: 0; background: transparent; cursor: pointer; }
+.gsc-reply-box > button:hover { text-decoration: underline; }
+
+/* Only the active composer is shown. Hidden drafts stay in React's state.
+   Closing/sending a reply restores the main composer; other reply triggers
+   stay unavailable until that reply is closed, preventing multiple editors. */
+.gsc-comments:has(.gsc-timeline .gsc-comment-box) > .gsc-comment-box,
+.gsc-main:has(.gsc-comment-box-is-reply) .gsc-reply-box { display: none; }
+
+.gsc-comment-box:not(.gsc-comment-box-is-reply) { border: 0; background: transparent; }
+.gsc-comment-box-main { margin: 8px 0; }
+.gsc-comment-box-is-reply .gsc-comment-box-main { margin: 8px 12px; }
+.gsc-comment-box-bottom { margin: 6px 0 0; }
+.gsc-comment-box-is-reply .gsc-comment-box-bottom { margin: 6px 12px 10px; }
+/* Keep an escape route if a preview was already open when the theme loaded. */
+.gsc-comment-box:not(:has(.gsc-comment-box-preview)) .gsc-comment-box-tabs,
+.gsc-comment-box-textarea-extras { display: none; }
+.gsc-comment-box-textarea {
+  min-height: 72px;
+  height: 72px;
+  max-height: 240px;
+  padding: 10px 12px;
+  border-bottom-style: solid;
+  border-radius: 4px;
+  line-height: 1.5;
+  resize: vertical;
+}
+.gsc-comment-box-write:focus-within { box-shadow: 0 0 0 1px var(--color-accent-fg); }
+.gsc-comment-box-buttons .btn { min-height: 34px; }
+@media (max-width: 640px) {
+  .gsc-comment-author, .gsc-reply-author { flex-wrap: wrap; row-gap: 2px; }
+  .gsc-comment-box-buttons .btn, .gsc-reply-box > button { min-height: 40px; }
+}

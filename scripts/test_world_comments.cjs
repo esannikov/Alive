@@ -31,7 +31,7 @@ const widget=`<!doctype html><html lang="ru"><head><meta charset="utf-8"></head>
   assert(clients<=1,'At most one shared Giscus widget is started');
   await p.locator('#comments').scrollIntoViewIfNeeded();if(!await p.locator('#comments').evaluate(el=>el.open))await p.locator('#comments > summary').click();await p.waitForFunction(()=>document.querySelector('#comments .comments-status').hidden);
   let frame=new URL(await p.locator('.giscus-frame').getAttribute('src'));
-  for(const [key,value] of Object.entries({mapping:'number',strict:'1',theme:'dark',lang:'ru',inputPosition:'bottom',reactionsEnabled:'0'}))assert.equal(frame.searchParams.get(key),value);
+  for(const [key,value] of Object.entries({mapping:'number',strict:'1',theme:fixture.comments.theme,lang:'ru',inputPosition:'bottom',reactionsEnabled:'0'}))assert.equal(frame.searchParams.get(key),value);
   const term=frame.searchParams.get('term');assert.equal(term,'60');
   assert.equal(await p.locator('#comments').evaluate(el=>el.previousElementSibling.id),'gallery');
   assert.equal(await p.locator('#viewer-rail').count(),1);

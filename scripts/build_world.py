@@ -56,7 +56,8 @@ def build():
         if comments.get('enabled'):
             assert comments.get('repoId') and comments.get('categoryId'), 'Giscus IDs are required before activation'
             assert comments['mapping'] == 'pathname' and comments['strict'] == '1'
-        data['comments'] = comments
+        theme_hash = hashlib.sha256((OUT/'giscus-compact.css').read_bytes()).hexdigest()[:12]
+        data['comments'] = {**comments, 'theme': f'https://esannikov.github.io/Alive/World/giscus-compact.css?v={theme_hash}'}
     (OUT/'data.js').write_text('window.ALIVE_WORLD='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
 
     def asset_url(a):
