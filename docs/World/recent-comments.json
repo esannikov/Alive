@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T22:22:40.606817+00:00",
+  "generatedAt": "2026-10-27T10:29:54.815795+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTIG",
+      "page": "characters/masha/",
+      "title": "Маша",
+      "author": "esannikov",
+      "createdAt": "2026-10-27T10:29:40Z",
+      "excerpt": "мне masha006 тоже очень",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19214854"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJQk4",
       "page": "robots/scale/",
@@ -37,25 +46,16 @@
       "createdAt": "2026-10-26T20:53:18Z",
       "excerpt": "Сделал Валька худее во всех шести вариантах: уже плечи и торс, тоньше руки, меньше модельной подачи. valek013–018.",
       "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19204403"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQkx",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "esannikov",
-      "createdAt": "2026-10-26T20:53:16Z",
-      "excerpt": "Переделал руку: теперь кисть переходит в компактную боевую форму, без пушки поверх неё — don023 и don024. Добавил два птицеобразных варианта на тонких ногах: don025, don026. Головы сделал компактнее, с коротким стилизованным клювом.",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19204401"
     }
   ],
   "discussionNumbers": {
+    "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54,
     "characters/fedor/": 52,
     "characters/emma/": 57,
     "characters/valek/": 60,
     "robots/don15/": 53,
-    "characters/masha/": 50,
     "characters/nitka/": 48,
     "characters/kolka/": 59,
     "characters/tais/": 56,
@@ -139,10 +139,10 @@
       "last": null
     },
     "characters/masha/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-26T20:02:43Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-27T10:29:40Z"
       }
     },
     "characters/masha/reference.html": {
