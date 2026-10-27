@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:01:24.054801+00:00",
+  "generatedAt": "2026-10-27T12:03:16.573757+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTdZ",
+      "page": "characters/valek/",
+      "title": "Валёк",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T12:03:00Z",
+      "excerpt": "Вот valek013 или valek018 - самые удачные мне кажется. и с ними поиграться чуть в Таргариенов еще. Что-то неуловимое такое добавить бы, чтобы считалось?",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19216217"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTdH",
       "page": "characters/valek/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T11:44:28Z",
       "excerpt": "у меня Кольки нет пока. Нам нужен красивый все-таки Колька. Это тоже треугольник -Колька - Эмма - Федор. И Эмма в конце выберет его. Стандартный треугольник всегда два классных героя, между которыми не можем выбрать. Федор уже очевидно хороший выходит, Коль…",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216002"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTYR",
-      "page": "characters/masha/",
-      "title": "Маша",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:36:05Z",
-      "excerpt": "masha003 и masha004 - пока бы от них отказалась",
-      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215889"
     }
   ],
   "discussionNumbers": {
@@ -117,10 +117,10 @@
       "last": null
     },
     "characters/valek/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T12:01:07Z"
+        "createdAt": "2026-10-27T12:03:00Z"
       }
     },
     "characters/valek/reference.html": {
