@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:54:07.150735+00:00",
+  "generatedAt": "2026-10-27T19:22:01.473459+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJV1R",
+      "page": "robots/lon/",
+      "title": "Лон",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T19:21:45Z",
+      "excerpt": "все прикольные, отпустила бы lon003 и lon004. lon010 - у него фигура песочные часы) что как бы женская немного структура что ли. может силуэт поменять? lon001 и lon009 пока нравятся больше всех, но пока пожить бы с ними еще",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19225937"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVqT",
       "page": "robots/martin/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T18:34:08Z",
       "excerpt": "и можно старую версию Emma010. тоже восстановить. у меня они три были в голове, когда я смотрела весь каст. а их взяли и поменяли, оказывается",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224833"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVjb",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:32:09Z",
-      "excerpt": "щас новая emma009 тоже классная. На Тейлор Свифт похожа. кстати можно потом будет поиграть, хотя и так классно. Но пухлая Эмма тоже надо",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224795"
     }
   ],
   "discussionNumbers": {
+    "robots/lon/": 44,
     "robots/martin/": 61,
     "characters/nitka/": 48,
     "characters/emma/": 57,
@@ -60,8 +61,7 @@
     "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54,
-    "ships/moag/": 62,
-    "robots/lon/": 44
+    "ships/moag/": 62
   },
   "discussionStats": {
     "work.html": {
@@ -182,10 +182,10 @@
       "last": null
     },
     "robots/lon/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-26T19:47:26Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T19:21:45Z"
       }
     },
     "robots/lon/reference.html": {
