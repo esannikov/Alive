@@ -2462,7 +2462,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "archived",
+      "visibility": "active",
       "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
@@ -2488,7 +2488,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "archived",
+      "visibility": "active",
       "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
     },
     {
@@ -2540,7 +2540,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active"
     },
     {
       "code": "emma005",
@@ -2565,12 +2565,12 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active"
     },
     {
       "code": "emma006",
-      "object": "base-girls",
-      "caption": "Резерв лица · роль не назначена",
+      "object": "emma",
+      "caption": "Удлинённый профиль",
       "sha256": "f7e1534087493b02bfc523b7418d0a25fd5b6eabe2c929268a80db53e0499c0a",
       "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
       "source_file": "docs/World/characters/emma/images/emma006.png",
@@ -2578,6 +2578,7 @@
         "docs/World/characters/emma/images/emma006.png"
       ],
       "galleries": [
+        "World/characters/emma",
         "World/characters/base-girls"
       ],
       "kind": "appearance",
@@ -2586,13 +2587,15 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
+        "emma",
+        "character-concepts",
         "support"
       ],
       "series": "current",
       "visibility": "active",
       "producer_review_note": "По уточнению пользователя 24.10.2026 перенесён в галерею резерва для девочек с базы. Волосы и глаза не изменялись, конкретный персонаж не назначен. Код emma006 сохранён.",
-      "previous_objects": [
-        "emma"
+      "additional_objects": [
+        "base-girls"
       ]
     },
     {
@@ -4411,7 +4414,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "archived",
+      "visibility": "active",
       "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
     },
     {
@@ -4437,7 +4440,7 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "archived",
+      "visibility": "active",
       "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {

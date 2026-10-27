@@ -46,7 +46,7 @@ def build():
                        'preview':f'previews/{code}-view.webp','thumb':f'previews/{code}-thumb-hq.webp',
                        'original':f'https://raw.githubusercontent.com/esannikov/Alive/{record["source_commit"]}/{record["source_file"]}',
                        'sourceFile':record['source_file'], 'display':os.path.relpath(source,OUT).replace('\\','/'), 'page':object_path(objects[record['object']])+'/',
-                       'status':'Поисковый вариант','kind':record.get('kind','appearance'), 'taskIds':record['task_ids'], 'archived':record.get('visibility')=='archived', 'previousObjects':record.get('previous_objects',[])})
+                       'status':'Поисковый вариант','kind':record.get('kind','appearance'), 'taskIds':record['task_ids'], 'archived':record.get('visibility')=='archived', 'previousObjects':record.get('previous_objects',[]), 'additionalObjects':record.get('additional_objects',[])})
     bycode = {a['code']: a for a in assets}
     data = {'objects':config['objects'],'assets':assets,'series':config['series'],
             'deletedCodes':registry.get('deleted_codes',[]),'groups':plan['groups'],'tasks':[{'id':t['id'],'title':t['title'],'group':t['group'],'output':t['output']} for t in plan['tasks']]}
@@ -115,7 +115,7 @@ def build():
         catalog.append(f'''<details class="catalog-group" id="{g['id']}" {'open' if g['id']=='people' else ''}><summary><span>{g['title']}</span><span class="mono">{len(members)} материалов</span>{ARROW}</summary><ul>{''.join(entries)}</ul></details>''')
     page('catalog.html','Каталог',f'''<div class="page-heading"><h1>Каталог мира</h1><p>Все направления разработки — от первых образов до готовых комплектов.</p></div><div class="catalog-groups">{''.join(catalog)}</div>''')
     for o in config['objects']:
-        aa=[a for a in assets if a['object']==o['id'] and not a['archived']]
+        aa=[a for a in assets if (a['object']==o['id'] or o['id'] in a.get('additionalObjects',[])) and not a['archived']]
         order=o.get('gallery_order',[])
         aa.sort(key=lambda a: order.index(a['code']) if a['code'] in order else len(order))
         current=[a for a in aa if a['series']==o['default_series']];first=bycode[o['cover']]
