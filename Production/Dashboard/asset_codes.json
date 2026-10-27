@@ -22,7 +22,8 @@
     "nitka": 12,
     "masha": 7,
     "katya": 7,
-    "ilya": 7
+    "ilya": 7,
+    "sonya": 7
   },
   "assets": [
     {
@@ -4995,6 +4996,144 @@
       ],
       "galleries": [
         "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "sonya001",
+      "object": "sonya",
+      "caption": "A · мягкое круглое лицо",
+      "sha256": "911575946b7c217e2f82fbf2a2a095a2525ce38f6545279510346be8b220f6a7",
+      "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
+      "source_file": "docs/World/characters/sonya/images/sonya001.png",
+      "aliases": [
+        "docs/World/characters/sonya/images/sonya001.png"
+      ],
+      "galleries": [
+        "World/characters/sonya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "sonya002",
+      "object": "sonya",
+      "caption": "B · сердцевидное лицо",
+      "sha256": "35b86032cd074a3131bc83a98c987add0f109c2d86897f8ae5f6fbfae2deb12f",
+      "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
+      "source_file": "docs/World/characters/sonya/images/sonya002.png",
+      "aliases": [
+        "docs/World/characters/sonya/images/sonya002.png"
+      ],
+      "galleries": [
+        "World/characters/sonya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "sonya003",
+      "object": "sonya",
+      "caption": "C · широкие скулы",
+      "sha256": "5201c3869bce7521baa48a62991e0c3ec832769576436791862f9133fe8cceb3",
+      "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
+      "source_file": "docs/World/characters/sonya/images/sonya003.png",
+      "aliases": [
+        "docs/World/characters/sonya/images/sonya003.png"
+      ],
+      "galleries": [
+        "World/characters/sonya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "sonya004",
+      "object": "sonya",
+      "caption": "D · тёплый тон и кудрявые пряди",
+      "sha256": "dedc2322f1df7f107a60826edfe5a8a296f33b9f7c24226b16634766babedad5",
+      "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
+      "source_file": "docs/World/characters/sonya/images/sonya004.png",
+      "aliases": [
+        "docs/World/characters/sonya/images/sonya004.png"
+      ],
+      "galleries": [
+        "World/characters/sonya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "sonya005",
+      "object": "sonya",
+      "caption": "E · длинный овал и веснушки",
+      "sha256": "9066a083e3d07b09501a2ecec73f3740175a142c6f0f75f11bad4bb4f2b3024e",
+      "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
+      "source_file": "docs/World/characters/sonya/images/sonya005.png",
+      "aliases": [
+        "docs/World/characters/sonya/images/sonya005.png"
+      ],
+      "galleries": [
+        "World/characters/sonya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "sonya006",
+      "object": "sonya",
+      "caption": "F · угловатый типаж",
+      "sha256": "98a921ddf751cf3bb4e4e34bab0d68bbb3a05d97a824585821a98e8a3d46eefd",
+      "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
+      "source_file": "docs/World/characters/sonya/images/sonya006.png",
+      "aliases": [
+        "docs/World/characters/sonya/images/sonya006.png"
+      ],
+      "galleries": [
+        "World/characters/sonya"
       ],
       "kind": "appearance",
       "status": "candidate",
