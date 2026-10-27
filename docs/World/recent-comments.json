@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:31:36.121927+00:00",
+  "generatedAt": "2026-10-27T18:32:24.062241+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVjb",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:32:09Z",
+      "excerpt": "щас новая emma009 тоже классная. На Тейлор Свифт похожа. кстати можно потом будет поиграть, хотя и так классно. Но пухлая Эмма тоже надо",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224795"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVi_",
       "page": "characters/emma/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T14:21:39Z",
       "excerpt": "fedor023 очень классный вышел. пусть пока все побудут, я еще поживу с ними",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218772"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJUDb",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "esannikov",
-      "createdAt": "2026-10-27T14:14:57Z",
-      "excerpt": "Добавил описание внешности из книги в справку. Необычную красоту и контраст с Эммой отметил как направление следующих проб.",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19218651"
     }
   ],
   "discussionNumbers": {
@@ -84,10 +84,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:30:55Z"
+        "createdAt": "2026-10-27T18:32:09Z"
       }
     },
     "characters/emma/reference.html": {
