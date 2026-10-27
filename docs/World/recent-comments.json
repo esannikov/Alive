@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:36:18.274804+00:00",
+  "generatedAt": "2026-10-27T11:44:43.782203+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTaC",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T11:44:28Z",
+      "excerpt": "у меня Кольки нет пока. Нам нужен красивый все-таки Колька. Это тоже треугольник -Колька - Эмма - Федор. И Эмма в конце выберет его. Стандартный треугольник всегда два классных героя, между которыми не можем выбрать. Федор уже очевидно хороший выходит, Коль…",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216002"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTYR",
       "page": "characters/masha/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T11:31:12Z",
       "excerpt": "верните плиз fedor021 + fedor023 тоже хорошо. Но тоже сильно выкручен на актера, можно ли уменьшить схожесть? и родинку убрать нужно обязательно. это актерская, она узнаваемая сильно. fedor022 пока бы убирала тогда. и и fedor18 - не могу понять. а можно его…",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215829"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTUo",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:19:21Z",
-      "excerpt": "секунлочку. а почему 021 убрали? Женечка, нет. а наоборот его выбрала же и просто просила меньше убрать лайкнес с актером. Игорю кажется, что он выглядит как мудак-извращенец, а я и миллионе женщин не согласны",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215656"
     }
   ],
   "discussionNumbers": {
+    "characters/kolka/": 59,
     "characters/masha/": 50,
     "characters/fedor/": 52,
     "characters/katya/": 67,
@@ -57,7 +58,6 @@
     "characters/valek/": 60,
     "robots/don15/": 53,
     "characters/nitka/": 48,
-    "characters/kolka/": 59,
     "characters/tais/": 56,
     "ships/moag/": 62,
     "robots/martin/": 61,
@@ -106,10 +106,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-26T19:58:49Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T11:44:28Z"
       }
     },
     "characters/kolka/reference.html": {
