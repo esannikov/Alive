@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T14:07:29.897777+00:00",
+  "generatedAt": "2026-10-27T14:15:06.194096+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJUDb",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "esannikov",
+      "createdAt": "2026-10-27T14:14:57Z",
+      "excerpt": "Добавил описание внешности из книги в справку. Необычную красоту и контраст с Эммой отметил как направление следующих проб.",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19218651"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJUDV",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "esannikov",
+      "createdAt": "2026-10-27T14:14:51Z",
+      "excerpt": "kolka003, kolka004 и kolka006 убрал. В галерее оставил 001, 002 и 005. Референсы для следующей пробы записал.",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19218645"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJUDT",
+      "page": "characters/fedor/",
+      "title": "Федор",
+      "author": "esannikov",
+      "createdAt": "2026-10-27T14:14:50Z",
+      "excerpt": "fedor021 вернул и оставил рядом с fedor023. Добавил отдельные пробы с изменёнными чертами и без родинки у губы — fedor024 и fedor025. Типаж 018 теперь можно посмотреть анфас — fedor026. fedor022 убрал.",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218643"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJUAm",
       "page": "robots/don15/",
@@ -19,42 +46,15 @@
       "createdAt": "2026-10-27T12:03:00Z",
       "excerpt": "Вот valek013 или valek018 - самые удачные мне кажется. и с ними поиграться чуть в Таргариенов еще. Что-то неуловимое такое добавить бы, чтобы считалось?",
       "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19216217"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTdH",
-      "page": "characters/valek/",
-      "title": "Валёк",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T12:01:07Z",
-      "excerpt": "valek013 нравится. Вообще, что он Альбинос такой нравится. И при этом, холодный психопат. Можно, Женя, с Таргариенами поиграться тут кстати из Дома дракона. Это этот типаж. - https://gameofthrones.fandom.com/wiki/Daemon_Targaryen?file=Daemon_S3_Profile.png",
-      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19216199"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTcQ",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:57:11Z",
-      "excerpt": "нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус. Невысокая — едва достаёт Федору до плеча; худоща…",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19216144"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTaQ",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:45:42Z",
-      "excerpt": "kolka003 kolka004 и kolka006 - я бы пока прощалась",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216016"
     }
   ],
   "discussionNumbers": {
-    "robots/don15/": 53,
-    "characters/valek/": 60,
     "characters/tais/": 56,
     "characters/kolka/": 59,
-    "characters/masha/": 50,
     "characters/fedor/": 52,
+    "robots/don15/": 53,
+    "characters/valek/": 60,
+    "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54,
     "characters/emma/": 57,
@@ -73,10 +73,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:57:11Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-27T14:14:57Z"
       }
     },
     "characters/tais/reference.html": {
@@ -95,10 +95,10 @@
       "last": null
     },
     "characters/fedor/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:31:12Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-27T14:14:50Z"
       }
     },
     "characters/fedor/reference.html": {
@@ -106,10 +106,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:45:42Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-27T14:14:51Z"
       }
     },
     "characters/kolka/reference.html": {
