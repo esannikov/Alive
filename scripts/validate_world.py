@@ -64,6 +64,10 @@ def main():
     for a in data['assets']:
         target=OUT/a.get('page',f'characters/{a["object"]}/')/'index.html'
         assert (a['code'] in parsed[target.resolve()].ids) == (not a.get('archived',False))
+        for object_id in a.get('additionalObjects',[]):
+            shared=next(o for o in data['objects'] if o['id']==object_id)
+            shared_path=OUT/shared.get('path',f'characters/{object_id}')/'index.html'
+            assert (a['code'] in parsed[shared_path.resolve()].ids) == (not a.get('archived',False))
     flow=(ROOT/'docs/ProductionFlow/index.html').read_text()
     mapping=json.loads(re.search(r'const WORLD_LINKS=(.*?);\n',flow)[1])
     assert set(mapping)<=tasks
