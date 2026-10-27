@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:32:24.062241+00:00",
+  "generatedAt": "2026-10-27T18:34:24.134716+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVkB",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:34:08Z",
+      "excerpt": "и можно старую версию Emma010. тоже восстановить. у меня они три были в голове, когда я смотрела весь каст. а их взяли и поменяли, оказывается",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224833"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVjb",
       "page": "characters/emma/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T18:25:43Z",
       "excerpt": "я бы попробовала nitka010 покрутить. тут хороший контраст с альбиносом, в которого она влюблена",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224618"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJUFU",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T14:21:39Z",
-      "excerpt": "fedor023 очень классный вышел. пусть пока все побудут, я еще поживу с ними",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218772"
     }
   ],
   "discussionNumbers": {
@@ -84,10 +84,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:32:09Z"
+        "createdAt": "2026-10-27T18:34:08Z"
       }
     },
     "characters/emma/reference.html": {
