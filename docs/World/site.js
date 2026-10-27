@@ -75,6 +75,27 @@
     field.addEventListener('input', render); $('.search-form').addEventListener('submit',e=>{e.preventDefault();render();}); render();
   }
 
+  document.querySelectorAll('[data-pending]').forEach(button => button.addEventListener('click', () => announce('Пока не подготовлено')));
+  const homeControls = $('#home-controls');
+  if (homeControls) {
+    const grid = homeControls.nextElementSibling, cards = [...grid.children];
+    let stats = null, filter = 'all';
+    const updateFilter = () => cards.forEach(card => { card.hidden = filter !== 'all' && card.dataset.filterKind !== filter; });
+    const sort = () => {
+      const activity = $('#home-sort').value === 'activity';
+      const time = card => Date.parse(stats?.[card.querySelector('[data-discussion-summary]')?.dataset.discussionSummary]?.last?.createdAt) || 0;
+      [...cards].sort((a,b) => activity ? time(b)-time(a) || cards.indexOf(a)-cards.indexOf(b) : cards.indexOf(a)-cards.indexOf(b)).forEach(card => grid.append(card));
+    };
+    homeControls.querySelectorAll('[data-filter]').forEach(button => button.addEventListener('click', () => {
+      filter = button.dataset.filter;
+      homeControls.querySelectorAll('[data-filter]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+      updateFilter();
+    }));
+    $('#home-sort').addEventListener('change', () => { sort(); $('#home-resort').hidden=true; });
+    $('#home-resort').addEventListener('click', () => { sort(); $('#home-resort').hidden=true; });
+    document.addEventListener('world:discussion-stats', e => { const first = !stats; stats = e.detail; if ($('#home-sort').value !== 'activity') return; if (first) sort(); else { const time=card=>Date.parse(stats?.[card.querySelector('[data-discussion-summary]')?.dataset.discussionSummary]?.last?.createdAt)||0; const order=[...grid.children]; $('#home-resort').hidden=order.every((card,i)=>!i || time(order[i-1])>=time(card)); } });
+  }
+
   const objectId = document.body.dataset.object;
   if (!objectId) return;
   const assets = data.assets.filter(a=>a.object===objectId&&!a.archived);
@@ -144,6 +165,7 @@
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
     if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.code]||objects[objectId].variant_notes?.[a.series]||'';
     if (data.comments?.enabled) { try { sessionStorage.setItem(commentsSelectionKey, a.code); } catch (_) {} }
+    document.querySelectorAll('#viewer-rail [data-code]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.code===code)));
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
       const chosen=isShip?el.dataset.series===a.series:el.dataset.code===code;el.classList.toggle('selected',chosen);
@@ -193,15 +215,37 @@
     if(e.target.matches('input,textarea,select')||e.ctrlKey||e.metaKey||e.altKey||comparing)return;
     if(e.key==='ArrowRight'){e.preventDefault();step(1);}if(e.key==='ArrowLeft'){e.preventDefault();step(-1);}
   });
+  let compareSlot = 'left';
+  function updateCompareRail() {
+    document.querySelectorAll('[data-compare-slot]').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.compareSlot===compareSlot)));
+    $('#compare-hint').textContent=compareSlot==='left'?'Выберите первый вариант':'Выберите второй вариант';
+    document.querySelectorAll('#compare-rail [data-code]').forEach(button=>{
+      const left=$('#compare-left').value===button.dataset.code, right=$('#compare-right').value===button.dataset.code;
+      button.setAttribute('aria-pressed',String(compareSlot==='left'?left:right));
+      button.dataset.chosen=left&&right?'both':left?'left':right?'right':'';
+    });
+  }
+  function makeRail(id, callback) {
+    const rail=$(id);
+    assets.forEach(a=>{
+      const button=document.createElement('button');button.type='button';button.className='rail-item';button.dataset.code=a.code;button.setAttribute('aria-label',`Выбрать ${a.code}: ${a.title}`);button.setAttribute('aria-pressed','false');
+      const img=document.createElement('img');img.src=url(a.thumb);img.alt='';img.loading='lazy';
+      const label=document.createElement('span');label.className='mono';label.textContent=a.code;
+      button.append(img,label);button.addEventListener('click',()=>callback(a));button.addEventListener('pointerenter',()=>prefetch(a));rail.append(button);
+    });
+  }
+  makeRail('#viewer-rail',a=>setActive(a.code,true));
+  makeRail('#compare-rail',a=>{ $('#compare-'+compareSlot).value=a.code;updateCompare(compareSlot);compareSlot=compareSlot==='left'?'right':'left';updateCompareRail(); });
+  document.querySelectorAll('[data-compare-slot]').forEach(button=>button.addEventListener('click',()=>{compareSlot=button.dataset.compareSlot;updateCompareRail();}));
   for(const side of ['left','right']){
     const picker=$('#compare-'+side);
     assets.forEach(a=>{const opt=document.createElement('option');opt.value=a.code;opt.textContent=`${a.code} · ${a.title}`;picker.append(opt);});
     picker.addEventListener('change',()=>updateCompare(side));
   }
-  function updateCompare(side){const a=byCode[$('#compare-'+side).value];const img=$('#compare-image-'+side);loadPicture(img,a);$('#compare-caption-'+side).textContent=`${a.code} · ${a.title}`;}
+  function updateCompare(side){const a=byCode[$('#compare-'+side).value];const img=$('#compare-image-'+side);loadPicture(img,a);$('#compare-caption-'+side).textContent=`${a.code} · ${a.title}`;updateCompareRail();}
   $('#compare-toggle').addEventListener('click',()=>{
     comparing=!comparing;$('#compare-toggle').setAttribute('aria-pressed',String(comparing));$('#compare-toggle').textContent=comparing?'Закрыть сравнение':'Сравнить';
-    $('#compare-panel').hidden=!comparing;$('#viewer').hidden=comparing;
+    $('#compare-panel').hidden=!comparing;$('#compare-picker').hidden=!comparing;$('#viewer').hidden=comparing;
     if(comparing){const comparable=assets.includes(active)?active:assets[0];$('#compare-left').value=comparable.code;$('#compare-right').value=assets[(assets.indexOf(comparable)+1)%assets.length].code;updateCompare('left');updateCompare('right');}
   });
   $('#hero-image').addEventListener('error',()=>announce('Изображение не загрузилось. Откройте оригинал по ссылке ниже.'));
@@ -265,7 +309,11 @@
     syncCode(); new MutationObserver(syncCode).observe(code, {childList:true,characterData:true,subtree:true});
     copyCode.addEventListener('click', () => document.getElementById('copy-code')?.click());
     content.append(copyCode);
-    viewerCaption.after(box);
+    (document.getElementById('viewer-rail') || viewerCaption).after(box);
+    const action=document.createElement('button');action.type='button';action.className='comment-variant';
+    const syncAction=()=>{action.textContent='Комментировать '+code.textContent;};syncAction();new MutationObserver(syncAction).observe(code,{childList:true,characterData:true,subtree:true});
+    action.addEventListener('click',async()=>{box.open=true;let copied=false;try{await navigator.clipboard.writeText(code.textContent);copied=true;}catch(_){const input=document.createElement('textarea');input.value=code.textContent;input.style.cssText='position:fixed;left:-9999px;top:0';document.body.append(input);input.select();try{copied=document.execCommand('copy');}catch(_){}input.remove();}const hint=document.createElement('span');hint.className='comment-copy-hint';hint.textContent=copied?'Код скопирован — вставьте его в комментарий.':'Не удалось скопировать код. Укажите его в комментарии вручную.';content.querySelector('.comment-copy-hint')?.remove();content.prepend(hint);});
+    document.getElementById('viewer-rail').after(action);
   } else main.append(box);
   content.append(status, host, fallback);
   box.append(summary, content);
@@ -274,6 +322,7 @@
   let boundNumber = null;
   const worldRoot = new URL(document.body.dataset.root || './', location.href);
   const pagePath = location.pathname.slice(worldRoot.pathname.length);
+  const markRead = () => { if (!box.open) return; try { localStorage.setItem('alive-world:discussion-read:'+pagePath,String(Date.now())); } catch (_) {} };
   const validNumber = n => Number.isSafeInteger(n) && n > 0;
   let timeout;
   const fail = () => {
@@ -295,6 +344,7 @@
     if (event.data.giscus.resizeHeight || event.data.giscus.discussion || event.data.giscus.discussion === null) {
       clearTimeout(timeout);
       if (!host.hidden) status.hidden = true;
+      if (!host.hidden && Object.prototype.hasOwnProperty.call(event.data.giscus,'discussion')) markRead();
     }
   });
   const start = async () => {
@@ -416,6 +466,7 @@
         const author = document.createElement('span');author.className='card-discussion-author';author.textContent=summary.last.author;
         const time = document.createElement('time');time.dateTime=summary.last.createdAt;time.textContent=shortDate.format(new Date(summary.last.createdAt)).replace(',','');
         elements.push(separator(),author,separator(),time);
+        try { const seen=Number(localStorage.getItem('alive-world:discussion-read:'+card.dataset.discussionSummary) || 0); if (Date.parse(summary.last.createdAt)>seen) { const dot=document.createElement('span');dot.className='unread-dot';dot.setAttribute('aria-hidden','true');elements.push(dot);label+=' · Есть новые сообщения в этом браузере'; } } catch (_) {}
         label += ` · Последнее: ${summary.last.author}, ${fullDate.format(new Date(summary.last.createdAt))} (Киев)`;
       }
       card.replaceChildren(...elements);card.dataset.loaded='true';card.title=label;card.setAttribute('aria-label',label+' · Открыть обсуждение');
@@ -430,7 +481,7 @@
       if (!response.ok) throw new Error('Feed unavailable');
       const feed = await response.json();
       if (feed.schemaVersion !== 1 || !Array.isArray(feed.items)) throw new Error('Invalid feed');
-      render(feed.items); renderCards(feed.discussionStats); checked = Date.now();
+      render(feed.items); renderCards(feed.discussionStats); document.dispatchEvent(new CustomEvent('world:discussion-stats',{detail:feed.discussionStats})); checked = Date.now();
     } catch (_) {
       renderCards(null);
       if (status) status.hidden = false;
