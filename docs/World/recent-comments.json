@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:28:08.006317+00:00",
+  "generatedAt": "2026-10-27T18:31:36.121927+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVi_",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:30:55Z",
+      "excerpt": "ну опять улетела Эмма которую я выбрала. ну зачем?(((( Бриджертоны которая. Женя, не удаляй плиз там где спорим мы, мы их на голосование поставим.",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224767"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVhd",
       "page": "characters/nitka/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T14:14:57Z",
       "excerpt": "Добавил описание внешности из книги в справку. Необычную красоту и контраст с Эммой отметил как направление следующих проб.",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19218651"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJUDV",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "esannikov",
-      "createdAt": "2026-10-27T14:14:51Z",
-      "excerpt": "kolka003, kolka004 и kolka006 убрал. В галерее оставил 001, 002 и 005. Референсы для следующей пробы записал.",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19218645"
     }
   ],
   "discussionNumbers": {
+    "characters/emma/": 57,
     "characters/nitka/": 48,
     "characters/fedor/": 52,
     "characters/tais/": 56,
@@ -58,7 +59,6 @@
     "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54,
-    "characters/emma/": 57,
     "ships/moag/": 62,
     "robots/martin/": 61,
     "robots/lon/": 44
@@ -84,10 +84,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-26T20:53:20Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T18:30:55Z"
       }
     },
     "characters/emma/reference.html": {
