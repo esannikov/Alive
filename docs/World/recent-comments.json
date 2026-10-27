@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:19:34.424022+00:00",
+  "generatedAt": "2026-10-27T11:31:26.591148+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTXV",
+      "page": "characters/fedor/",
+      "title": "Федор",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T11:31:12Z",
+      "excerpt": "верните плиз fedor021 + fedor023 тоже хорошо. Но тоже сильно выкручен на актера, можно ли уменьшить схожесть? и родинку убрать нужно обязательно. это актерская, она узнаваемая сильно. fedor022 пока бы убирала тогда. и и fedor18 - не могу понять. а можно его…",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215829"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTUo",
       "page": "characters/fedor/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-26T20:53:23Z",
       "excerpt": "fedor021 убрал, fedor009 оставил. Галерея.",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19204406"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQk1",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "esannikov",
-      "createdAt": "2026-10-26T20:53:20Z",
-      "excerpt": "Ещё уточнил пропорции лица: меньше округлости щёк и детского впечатления от глаз, яснее нижняя часть лица. emma009 и emma010. emma003 оставил как есть.",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19204405"
     }
   ],
   "discussionNumbers": {
@@ -95,10 +95,10 @@
       "last": null
     },
     "characters/fedor/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:19:21Z"
+        "createdAt": "2026-10-27T11:31:12Z"
       }
     },
     "characters/fedor/reference.html": {
