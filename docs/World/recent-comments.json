@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T16:33:56.238633+00:00",
+  "generatedAt": "2026-10-27T18:25:59.367396+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVgq",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:25:43Z",
+      "excerpt": "я бы попробовала nitka010 покрутить. тут хороший контраст с альбиносом, в которого она влюблена",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224618"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJUFU",
       "page": "characters/fedor/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T14:14:50Z",
       "excerpt": "fedor021 вернул и оставил рядом с fedor023. Добавил отдельные пробы с изменёнными чертами и без родинки у губы — fedor024 и fedor025. Типаж 018 теперь можно посмотреть анфас — fedor026. fedor022 убрал.",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218643"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJUAm",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T14:07:07Z",
-      "excerpt": "ну тут баба яга конечно не сильно за тонкие ноги) 25 и 26 не функциональны, наверное. Я за 22ой пока. вот тут кстати собраны какие-то айконик сцены из галактики https://www.youtube.com/watch?v=BM5eLaqtP4U в том числе и боевые. И я хотела показать на 2.25 ка…",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19218470"
     }
   ],
   "discussionNumbers": {
+    "characters/nitka/": 48,
     "characters/fedor/": 52,
     "characters/tais/": 56,
     "characters/kolka/": 59,
@@ -58,7 +59,6 @@
     "characters/katya/": 67,
     "robots/scale/": 54,
     "characters/emma/": 57,
-    "characters/nitka/": 48,
     "ships/moag/": 62,
     "robots/martin/": 61,
     "robots/lon/": 44
@@ -128,10 +128,10 @@
       "last": null
     },
     "characters/nitka/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-26T20:01:14Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T18:25:43Z"
       }
     },
     "characters/nitka/reference.html": {
