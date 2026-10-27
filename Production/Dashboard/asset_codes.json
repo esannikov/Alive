@@ -11,7 +11,7 @@
   ],
   "next_numbers": {
     "tais": 43,
-    "fedor": 24,
+    "fedor": 27,
     "moag": 37,
     "emma": 11,
     "kolka": 7,
@@ -21,7 +21,8 @@
     "valek": 19,
     "nitka": 12,
     "masha": 7,
-    "katya": 7
+    "katya": 7,
+    "ilya": 7
   },
   "assets": [
     {
@@ -4863,6 +4864,144 @@
       "renditions": [],
       "task_ids": [
         "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ilya001",
+      "object": "ilya",
+      "caption": "A · узкий овал",
+      "sha256": "91661a2df376f9c16a02d41f5f55eadfe7e91c9cb2978116cec43d5fa459b55c",
+      "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
+      "source_file": "docs/World/characters/ilya/images/ilya001.png",
+      "aliases": [
+        "docs/World/characters/ilya/images/ilya001.png"
+      ],
+      "galleries": [
+        "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ilya002",
+      "object": "ilya",
+      "caption": "B · широкие скулы",
+      "sha256": "420e30a413fbf532307c61a9fd3e5017f2eb8d5a5fa9445bb9f0d7b5665a3ff0",
+      "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
+      "source_file": "docs/World/characters/ilya/images/ilya002.png",
+      "aliases": [
+        "docs/World/characters/ilya/images/ilya002.png"
+      ],
+      "galleries": [
+        "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ilya003",
+      "object": "ilya",
+      "caption": "C · мягкая геометрия",
+      "sha256": "9cff8714d44ece174e9322b74edc7196a768422ec0cc7e1c5ea656ce920756b3",
+      "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
+      "source_file": "docs/World/characters/ilya/images/ilya003.png",
+      "aliases": [
+        "docs/World/characters/ilya/images/ilya003.png"
+      ],
+      "galleries": [
+        "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ilya004",
+      "object": "ilya",
+      "caption": "D · короткие кудри",
+      "sha256": "4e4f3d013f22d7ef996163b12b739ecf2b4c72f2c471812fda58af72667517ff",
+      "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
+      "source_file": "docs/World/characters/ilya/images/ilya004.png",
+      "aliases": [
+        "docs/World/characters/ilya/images/ilya004.png"
+      ],
+      "galleries": [
+        "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ilya005",
+      "object": "ilya",
+      "caption": "E · веснушки",
+      "sha256": "610f87ff9882534de4ad5f9a402a3408c087d7ccd661fb55f667bc2c2e2076f4",
+      "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
+      "source_file": "docs/World/characters/ilya/images/ilya005.png",
+      "aliases": [
+        "docs/World/characters/ilya/images/ilya005.png"
+      ],
+      "galleries": [
+        "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ilya006",
+      "object": "ilya",
+      "caption": "F · выраженный профиль",
+      "sha256": "0709d7dc7a826a400b25967056e52e709e77e905bc50f3dc8af19d9b30f86184",
+      "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
+      "source_file": "docs/World/characters/ilya/images/ilya006.png",
+      "aliases": [
+        "docs/World/characters/ilya/images/ilya006.png"
+      ],
+      "galleries": [
+        "World/characters/ilya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
       ],
       "series": "current",
       "visibility": "active"
