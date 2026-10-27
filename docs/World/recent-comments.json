@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:25:59.367396+00:00",
+  "generatedAt": "2026-10-27T18:28:08.006317+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVhd",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:27:49Z",
+      "excerpt": "nitka007 тоже нравится, но она не будет ли она с Эммой сливаться? nitka006 - не Нитка, но классная, на кого-то перекинем ее",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224669"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVgq",
       "page": "characters/nitka/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T14:14:51Z",
       "excerpt": "kolka003, kolka004 и kolka006 убрал. В галерее оставил 001, 002 и 005. Референсы для следующей пробы записал.",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19218645"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJUDT",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "esannikov",
-      "createdAt": "2026-10-27T14:14:50Z",
-      "excerpt": "fedor021 вернул и оставил рядом с fedor023. Добавил отдельные пробы с изменёнными чертами и без родинки у губы — fedor024 и fedor025. Типаж 018 теперь можно посмотреть анфас — fedor026. fedor022 убрал.",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218643"
     }
   ],
   "discussionNumbers": {
@@ -128,10 +128,10 @@
       "last": null
     },
     "characters/nitka/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:25:43Z"
+        "createdAt": "2026-10-27T18:27:49Z"
       }
     },
     "characters/nitka/reference.html": {
