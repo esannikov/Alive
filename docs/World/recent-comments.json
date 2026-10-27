@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:34:27.964558+00:00",
+  "generatedAt": "2026-10-27T11:35:36.348101+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTYL",
+      "page": "characters/masha/",
+      "title": "Маша",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T11:35:20Z",
+      "excerpt": "masha001 еще очень нравится",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215883"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTX7",
       "page": "characters/masha/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T10:29:40Z",
       "excerpt": "мне masha006 тоже очень",
       "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19214854"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJQk4",
-      "page": "robots/scale/",
-      "title": "Роботы · размерный лист",
-      "author": "esannikov",
-      "createdAt": "2026-10-26T20:53:25Z",
-      "excerpt": "Перепроверил книгу: на с. 108 Дон-15 ниже Дона-12, оружие встроено в обе руки. Поэтому рост пока не увеличивал. Боевой характер усилил в новых вариантах.",
-      "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19204408"
     }
   ],
   "discussionNumbers": {
@@ -139,10 +139,10 @@
       "last": null
     },
     "characters/masha/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:34:14Z"
+        "createdAt": "2026-10-27T11:35:20Z"
       }
     },
     "characters/masha/reference.html": {
