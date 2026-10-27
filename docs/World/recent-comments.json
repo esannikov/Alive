@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:44:43.782203+00:00",
+  "generatedAt": "2026-10-27T11:45:56.696539+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTaQ",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T11:45:42Z",
+      "excerpt": "kolka003 kolka004 и kolka006 - я бы пока прощалась",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216016"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTaC",
       "page": "characters/kolka/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T11:34:14Z",
       "excerpt": "masha006 - хорошая. Ее в теории можно чуть в латинос еще увести даже",
       "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215867"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTXV",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:31:12Z",
-      "excerpt": "верните плиз fedor021 + fedor023 тоже хорошо. Но тоже сильно выкручен на актера, можно ли уменьшить схожесть? и родинку убрать нужно обязательно. это актерская, она узнаваемая сильно. fedor022 пока бы убирала тогда. и и fedor18 - не могу понять. а можно его…",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215829"
     }
   ],
   "discussionNumbers": {
@@ -106,10 +106,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:44:28Z"
+        "createdAt": "2026-10-27T11:45:42Z"
       }
     },
     "characters/kolka/reference.html": {
