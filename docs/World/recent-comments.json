@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:45:56.696539+00:00",
+  "generatedAt": "2026-10-27T11:57:28.302026+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJTcQ",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T11:57:11Z",
+      "excerpt": "нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус. Невысокая — едва достаёт Федору до плеча; худоща…",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19216144"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJTaQ",
       "page": "characters/kolka/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T11:35:20Z",
       "excerpt": "masha001 еще очень нравится",
       "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215883"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJTX7",
-      "page": "characters/masha/",
-      "title": "Маша",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T11:34:14Z",
-      "excerpt": "masha006 - хорошая. Ее в теории можно чуть в латинос еще увести даже",
-      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215867"
     }
   ],
   "discussionNumbers": {
+    "characters/tais/": 56,
     "characters/kolka/": 59,
     "characters/masha/": 50,
     "characters/fedor/": 52,
@@ -58,7 +59,6 @@
     "characters/valek/": 60,
     "robots/don15/": 53,
     "characters/nitka/": 48,
-    "characters/tais/": 56,
     "ships/moag/": 62,
     "robots/martin/": 61,
     "robots/lon/": 44
@@ -73,10 +73,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-26T19:58:20Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-27T11:57:11Z"
       }
     },
     "characters/tais/reference.html": {
