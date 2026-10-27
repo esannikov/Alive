@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-27",
+  "tool": "built-in image_gen",
+  "mode": "edit",
+  "variants": [
+    {
+      "code": "fedor024",
+      "reference_code": "fedor021",
+      "original_generation_file": "exec-78303981-ee13-469a-9797-3c283167cb4d.png",
+      "output": "docs/World/characters/fedor/images/fedor024.png",
+      "prompt": "Edit this exact provided image as a restrained casting refinement of Fedor, fictional adult man age 19. Preserve the same waist-up medium framing, 16:9 landscape composition, head to body proportions, messy dark-blond hair, grey eyes, worn patchwork grey-blue and dusty mauve denim jacket over black hoodie, pose, industrial corridor, cinematic lighting and detailed photographic texture. Change ONLY facial identity subtly but noticeably: give him a slightly longer straighter nose, less sculpted softer jaw angles, more natural subtly asymmetrical brows and relaxed lips, a calm attentive kind but courageous look. This must read as an original attractive young survivor with less recognizable resemblance to a celebrity, not a famous actor likeness. Completely remove the distinctive mole above/at the lip, keep normal skin pores and minor natural texture elsewhere. No beauty makeup, no polished model look, no smile added, no change to hair, costume, lighting or background. Return one high detail single landscape portrait, no text, no grid."
+    },
+    {
+      "code": "fedor025",
+      "reference_code": "fedor023",
+      "original_generation_file": "exec-a2e930af-7f7d-43ea-9742-9a7a073bc318.png",
+      "output": "docs/World/characters/fedor/images/fedor025.png",
+      "prompt": "Edit the supplied image as a restrained casting refinement of the fictional adult 19-year-old Fedor. Keep this image's exact composition, torso and head proportions, camera angle, messy dark-blond medium hair, grey eyes, dark hoodie, distressed patchwork dusty-pink grey-blue denim jacket, corridor and lighting. Refine ONLY facial structure to reduce direct celebrity recognition while preserving this appealing serious type: slightly widen the nose bridge, soften the extreme jawline, subtly change brow arc and distance between nose and mouth, make upper lip a little thinner and expression attentive and quietly warm rather than disdainful. Retain a lean young face, no added age, beard or muscular bulk. Remove any distinctive mole above/at the lip completely. Natural photographic skin texture, no airbrushing. Same realistic cinema still, 16:9 landscape waist-up portrait. One image, no text or collage."
+    },
+    {
+      "code": "fedor026",
+      "reference_code": "fedor018",
+      "original_generation_file": "exec-b432c713-ae1d-4a7f-b0e5-28e0ad68d0ae.png",
+      "output": "docs/World/characters/fedor/images/fedor026.png",
+      "prompt": "Edit this image to show the SAME fictional adult 19-year-old male character in a true frontal portrait: turn his torso and head naturally to face directly toward the camera, both eyes equally visible, nose centered, ears with plausible symmetry, shoulders facing camera. Preserve his specific facial identity, lean body, youthful natural facial proportions, grey eyes, messy dark-blond hair, subtle stubble, and exactly the same patchwork grey-blue/mauve jacket and black hoodie. Do not redesign the face, beautify, age him, bulk him up or copy the other references. Preserve the industrial corridor environment, soft warm practical side light, cool ambient shadows, lens perspective and photographic realism. Maintain comparable medium waist-up framing in a 16:9 landscape image; the face must be easy to assess frontally. One single high-detail image, no text, no grid."
+    }
+  ]
+}
