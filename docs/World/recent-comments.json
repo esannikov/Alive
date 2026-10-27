@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T18:34:24.134716+00:00",
+  "generatedAt": "2026-10-27T18:34:43.022509+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJVkG",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-27T18:34:28Z",
+      "excerpt": "Новую при этом тоже оставив",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224838"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJVkB",
       "page": "characters/emma/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-27T18:27:49Z",
       "excerpt": "nitka007 тоже нравится, но она не будет ли она с Эммой сливаться? nitka006 - не Нитка, но классная, на кого-то перекинем ее",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224669"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVgq",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:25:43Z",
-      "excerpt": "я бы попробовала nitka010 покрутить. тут хороший контраст с альбиносом, в которого она влюблена",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224618"
     }
   ],
   "discussionNumbers": {
@@ -84,10 +84,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:34:08Z"
+        "createdAt": "2026-10-27T18:34:28Z"
       }
     },
     "characters/emma/reference.html": {
