@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T10:01:16.504853+00:00",
+  "generatedAt": "2026-10-28T10:16:44.362982+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJZG0",
+      "page": "characters/valek/",
+      "title": "Валёк",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-28T10:16:30Z",
+      "excerpt": "да, valek013 или valek018 у меня тоже. Остальных можем тут отпускать пока)",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19239348"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJZDP",
       "page": "ships/moag/",
@@ -37,23 +46,14 @@
       "createdAt": "2026-10-28T08:26:10Z",
       "excerpt": "В моей голове \"станция\" - всегда \"кольцеобразная\". мне moag017 больше всего заходит.",
       "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19237488"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYoQ",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:19:39Z",
-      "excerpt": "don022 - да, самый угрожающий.",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19237392"
     }
   ],
   "discussionNumbers": {
+    "characters/valek/": 60,
     "ships/moag/": 62,
     "robots/don15/": 53,
     "characters/tais/": 56,
     "characters/rita/": 85,
-    "characters/valek/": 60,
     "characters/fedor/": 52,
     "robots/lon/": 44,
     "robots/martin/": 61,
@@ -118,10 +118,10 @@
       "last": null
     },
     "characters/valek/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:11:21Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-28T10:16:30Z"
       }
     },
     "characters/valek/reference.html": {
