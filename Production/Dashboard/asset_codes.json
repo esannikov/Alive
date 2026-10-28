@@ -26,7 +26,8 @@
     "sonya": 7,
     "egor": 7,
     "zhanna": 7,
-    "rita": 7
+    "rita": 7,
+    "krendel": 7
   },
   "assets": [
     {
@@ -5554,6 +5555,144 @@
       ],
       "galleries": [
         "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "krendel001",
+      "object": "krendel",
+      "caption": "Вузький овал",
+      "sha256": "204b80f77c326ca74ae39d73ab9fb73467f0ce2358901f8ec9cfa59e2903b3ef",
+      "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
+      "source_file": "docs/World/characters/krendel/images/krendel001.png",
+      "aliases": [
+        "docs/World/characters/krendel/images/krendel001.png"
+      ],
+      "galleries": [
+        "World/characters/krendel"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "krendel002",
+      "object": "krendel",
+      "caption": "Широкі вилиці",
+      "sha256": "c33025a4248065b3f4b3faae4189e7722ccea90c50b2b9b1eb8f4fe0fb026fdc",
+      "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
+      "source_file": "docs/World/characters/krendel/images/krendel002.png",
+      "aliases": [
+        "docs/World/characters/krendel/images/krendel002.png"
+      ],
+      "galleries": [
+        "World/characters/krendel"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "krendel003",
+      "object": "krendel",
+      "caption": "Короткі кучері",
+      "sha256": "fe75a80ff18d103c14ee4b2ce6cb0bbd70d4b8d3fe9b621c7838bb802988e375",
+      "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
+      "source_file": "docs/World/characters/krendel/images/krendel003.png",
+      "aliases": [
+        "docs/World/characters/krendel/images/krendel003.png"
+      ],
+      "galleries": [
+        "World/characters/krendel"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "krendel004",
+      "object": "krendel",
+      "caption": "Важка надбрівна дуга",
+      "sha256": "bf5ba85d96e2b3b50a528f8ea306cd389c16a59dbf5462b811415fa600b5fbc5",
+      "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
+      "source_file": "docs/World/characters/krendel/images/krendel004.png",
+      "aliases": [
+        "docs/World/characters/krendel/images/krendel004.png"
+      ],
+      "galleries": [
+        "World/characters/krendel"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "krendel005",
+      "object": "krendel",
+      "caption": "Високий лоб",
+      "sha256": "789d4c30f6f8614ec920fc92c187b237ac5e8cb6f173596255951bffeecb5fe4",
+      "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
+      "source_file": "docs/World/characters/krendel/images/krendel005.png",
+      "aliases": [
+        "docs/World/characters/krendel/images/krendel005.png"
+      ],
+      "galleries": [
+        "World/characters/krendel"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "krendel006",
+      "object": "krendel",
+      "caption": "Гострий профіль",
+      "sha256": "055b03fca5b88a5ec8514c0c9f6fe8874152925f1d2c60a304497d0b8f0c1935",
+      "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
+      "source_file": "docs/World/characters/krendel/images/krendel006.png",
+      "aliases": [
+        "docs/World/characters/krendel/images/krendel006.png"
+      ],
+      "galleries": [
+        "World/characters/krendel"
       ],
       "kind": "appearance",
       "status": "candidate",
