@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T18:35:21.924321+00:00",
+  "generatedAt": "2026-10-28T19:36:05.132838+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJcPl",
+      "page": "ships/moag/",
+      "title": "Моаг · корабль",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T19:35:49Z",
+      "excerpt": "Добавил четыре новых варианта с тремя большими уровнями — moag041–044. Маленькие корабли с изображений убрал. https://esannikov.github.io/Alive/World/ships/moag/#moag044",
+      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19252197"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJb4E",
       "page": "ships/moag/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-28T18:16:00Z",
       "excerpt": "Убрал masha003 и masha004 из галереи, добавил пробу masha007. masha001 и masha006 на месте. https://esannikov.github.io/Alive/World/characters/masha/#masha007",
       "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19250219"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbwI",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:14:54Z",
-      "excerpt": "Добавил две пробы Кольки — kolka007 и kolka008. Прежние варианты оставил. https://esannikov.github.io/Alive/World/characters/kolka/#kolka007",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19250184"
     }
   ],
   "discussionNumbers": {
@@ -240,10 +240,10 @@
       "last": null
     },
     "ships/moag/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
         "author": "esannikov",
-        "createdAt": "2026-10-28T18:35:05Z"
+        "createdAt": "2026-10-28T19:35:49Z"
       }
     },
     "ships/moag/reference.html": {
