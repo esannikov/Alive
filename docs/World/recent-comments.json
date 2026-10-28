@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T09:48:44.240899+00:00",
+  "generatedAt": "2026-10-28T10:16:44.362982+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJZG0",
+      "page": "characters/valek/",
+      "title": "Валёк",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-28T10:16:30Z",
+      "excerpt": "да, valek013 или valek018 у меня тоже. Остальных можем тут отпускать пока)",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19239348"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJZDP",
+      "page": "ships/moag/",
+      "title": "Моаг · корабль",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-28T10:01:02Z",
+      "excerpt": "moag017 - она откуда-то прямо... Женя, не помнишь? но тут и переходы и тд красиво будут. moag003 моя прелесть) но наверное надо убирать - разделения на два крыла в целом нам дадут другую схему маршрутов и географию в целом. moag004 тоже. moag0010 тоже, moag…",
+      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19239119"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJZBJ",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-28T09:53:26Z",
+      "excerpt": "Женя, может тогда почистить пока совсем не наших? я своих дам ненужных - don004 и don0013, don0016, ну и don0025 don0026",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19238985"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJZAG",
       "page": "characters/tais/",
@@ -19,41 +46,14 @@
       "createdAt": "2026-10-28T08:26:10Z",
       "excerpt": "В моей голове \"станция\" - всегда \"кольцеобразная\". мне moag017 больше всего заходит.",
       "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19237488"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYoQ",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:19:39Z",
-      "excerpt": "don022 - да, самый угрожающий.",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19237392"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYmi",
-      "page": "characters/valek/",
-      "title": "Валёк",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:11:21Z",
-      "excerpt": "Они все какие то прям ИИ-красавцы( Лена, тебя не смущает? Тот же таргариен он привлекательный, но не \"бред питт\". valek018 - лучше всего мне",
-      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19237282"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYlq",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:07:31Z",
-      "excerpt": "Женщин притягивают персонажи с негативным обаянием, это понятно. просто по книге Федор - прям светлый, надежный персонаж, однолюб и тп.",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19237226"
     }
   ],
   "discussionNumbers": {
-    "characters/tais/": 56,
+    "characters/valek/": 60,
     "ships/moag/": 62,
     "robots/don15/": 53,
+    "characters/tais/": 56,
     "characters/rita/": 85,
-    "characters/valek/": 60,
     "characters/fedor/": 52,
     "robots/lon/": 44,
     "robots/martin/": 61,
@@ -118,10 +118,10 @@
       "last": null
     },
     "characters/valek/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:11:21Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-28T10:16:30Z"
       }
     },
     "characters/valek/reference.html": {
@@ -218,10 +218,10 @@
       "last": null
     },
     "robots/don15/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:19:39Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-28T09:53:26Z"
       }
     },
     "robots/don15/reference.html": {
@@ -240,10 +240,10 @@
       "last": null
     },
     "ships/moag/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:26:10Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-28T10:01:02Z"
       }
     },
     "ships/moag/reference.html": {
