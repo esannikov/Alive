@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T09:48:44.240899+00:00",
+  "generatedAt": "2026-10-28T09:53:44.454581+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJZBJ",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-28T09:53:26Z",
+      "excerpt": "Женя, может тогда почистить пока совсем не наших? я своих дам ненужных - don004 и don0013, don0016, ну и don0025 don0026",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19238985"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJZAG",
       "page": "characters/tais/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-10-28T08:11:21Z",
       "excerpt": "Они все какие то прям ИИ-красавцы( Лена, тебя не смущает? Тот же таргариен он привлекательный, но не \"бред питт\". valek018 - лучше всего мне",
       "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19237282"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYlq",
-      "page": "characters/fedor/",
-      "title": "Федор",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:07:31Z",
-      "excerpt": "Женщин притягивают персонажи с негативным обаянием, это понятно. просто по книге Федор - прям светлый, надежный персонаж, однолюб и тп.",
-      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19237226"
     }
   ],
   "discussionNumbers": {
+    "robots/don15/": 53,
     "characters/tais/": 56,
     "ships/moag/": 62,
-    "robots/don15/": 53,
     "characters/rita/": 85,
     "characters/valek/": 60,
     "characters/fedor/": 52,
@@ -218,10 +218,10 @@
       "last": null
     },
     "robots/don15/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:19:39Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-28T09:53:26Z"
       }
     },
     "robots/don15/reference.html": {
