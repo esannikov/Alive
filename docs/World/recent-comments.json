@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:16:55.309189+00:00",
+  "generatedAt": "2026-10-28T08:19:53.790323+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJYoQ",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-28T08:19:39Z",
+      "excerpt": "don022 - да, самый угрожающий.",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19237392"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJYmi",
       "page": "characters/valek/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T19:21:45Z",
       "excerpt": "все прикольные, отпустила бы lon003 и lon004. lon010 - у него фигура песочные часы) что как бы женская немного структура что ли. может силуэт поменять? lon001 и lon009 пока нравятся больше всех, но пока пожить бы с ними еще",
       "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19225937"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVqT",
-      "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:53:51Z",
-      "excerpt": "martin002 нравится еще. и вот еще. а мы можем попробовать халат накинуть как у воспитателя на него? я не знаю что это будет, но в этом есть какой-то образ. Доброго дядюшки, который на какой-то момент по сути окажется лицом зла - он проекция Моага (Едем) и к…",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19225235"
     }
   ],
   "discussionNumbers": {
+    "robots/don15/": 53,
     "characters/rita/": 85,
     "characters/valek/": 60,
     "characters/fedor/": 52,
@@ -58,7 +59,6 @@
     "characters/nitka/": 48,
     "characters/emma/": 57,
     "characters/kolka/": 59,
-    "robots/don15/": 53,
     "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54,
@@ -210,10 +210,10 @@
       "last": null
     },
     "robots/don15/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T14:07:07Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-28T08:19:39Z"
       }
     },
     "robots/don15/reference.html": {
