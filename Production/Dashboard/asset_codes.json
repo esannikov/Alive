@@ -11,7 +11,7 @@
   ],
   "next_numbers": {
     "tais": 43,
-    "fedor": 27,
+    "fedor": 31,
     "moag": 37,
     "emma": 11,
     "kolka": 7,
@@ -5700,6 +5700,110 @@
       "renditions": [],
       "task_ids": [
         "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor027",
+      "object": "fedor",
+      "caption": "Оригінальність + реалізм · Уважний погляд",
+      "sha256": "db8aa913abe8ce6449ffa902d5b203b8184cc0a048b1572304fd154150d44cfe",
+      "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
+      "source_file": "docs/World/characters/fedor/images/fedor027.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor027.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor",
+        "costume",
+        "acting",
+        "states"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor028",
+      "object": "fedor",
+      "caption": "Оригінальність + реалізм · Прямі риси",
+      "sha256": "59a109e5a62a740de3283243a346e65dfccf3072ee3b696b55228a98b23fc661",
+      "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
+      "source_file": "docs/World/characters/fedor/images/fedor028.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor028.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor",
+        "costume",
+        "acting",
+        "states"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor029",
+      "object": "fedor",
+      "caption": "Оригінальність + реалізм · Спокійний погляд",
+      "sha256": "1f26422541767d97aa0d8b01db4c5d8e030734addcbb309e7fa38192306123f7",
+      "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
+      "source_file": "docs/World/characters/fedor/images/fedor029.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor029.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor",
+        "costume",
+        "acting",
+        "states"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor030",
+      "object": "fedor",
+      "caption": "Оригінальність + реалізм · Легка асиметрія",
+      "sha256": "0170d4ddeeef5f5726fd3b48c2b844a399de06f60aed785a192ccb21b6088383",
+      "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
+      "source_file": "docs/World/characters/fedor/images/fedor030.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor030.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "fedor",
+        "costume",
+        "acting",
+        "states"
       ],
       "series": "current",
       "visibility": "active"
