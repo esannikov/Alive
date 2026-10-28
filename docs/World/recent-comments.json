@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:07:45.908528+00:00",
+  "generatedAt": "2026-10-28T08:11:36.747134+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJYmi",
+      "page": "characters/valek/",
+      "title": "Валёк",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-28T08:11:21Z",
+      "excerpt": "Они все какие то прям ИИ-красавцы( Лена, тебя не смущает? Тот же таргариен он привлекательный, но не \"бред питт\". valek018 - лучше всего мне",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19237282"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJYlq",
       "page": "characters/fedor/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-27T18:53:51Z",
       "excerpt": "martin002 нравится еще. и вот еще. а мы можем попробовать халат накинуть как у воспитателя на него? я не знаю что это будет, но в этом есть какой-то образ. Доброго дядюшки, который на какой-то момент по сути окажется лицом зла - он проекция Моага (Едем) и к…",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19225235"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVnM",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:44:13Z",
-      "excerpt": "nitka009 тоже очень нравится. прямо вариант 2 после nitka010 . на контрасте с Вальком",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19225036"
     }
   ],
   "discussionNumbers": {
+    "characters/valek/": 60,
     "characters/fedor/": 52,
     "characters/tais/": 56,
     "robots/lon/": 44,
@@ -57,7 +58,6 @@
     "characters/emma/": 57,
     "characters/kolka/": 59,
     "robots/don15/": 53,
-    "characters/valek/": 60,
     "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54,
@@ -117,10 +117,10 @@
       "last": null
     },
     "characters/valek/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T12:03:00Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-28T08:11:21Z"
       }
     },
     "characters/valek/reference.html": {
