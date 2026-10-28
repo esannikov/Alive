@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T17:23:11.785800+00:00",
+  "generatedAt": "2026-10-28T18:11:38.680919+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJbuT",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:11:19Z",
+      "excerpt": "Добавил три широкие повязки — tais045–047. Узкие убрал. https://esannikov.github.io/Alive/World/characters/tais/#tais045",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19250067"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJbaS",
       "page": "ships/moag/",
@@ -37,22 +46,13 @@
       "createdAt": "2026-10-28T09:53:26Z",
       "excerpt": "Женя, может тогда почистить пока совсем не наших? я своих дам ненужных - don004 и don0013, don0016, ну и don0025 don0026",
       "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19238985"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJZAG",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-28T09:48:28Z",
-      "excerpt": "возможно, тут дело в бандане и тд. мне лицо очень нравится во всех трех, но tais009 и tais006 больше всего. Tais009 - это микс с Беллой, это очень частая сейчас форма лица. Из-за ротового типа дыхания и узкой челюсти, простите. Как только мы начинаем давать…",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19238918"
     }
   ],
   "discussionNumbers": {
+    "characters/tais/": 56,
     "ships/moag/": 62,
     "characters/valek/": 60,
     "robots/don15/": 53,
-    "characters/tais/": 56,
     "characters/rita/": 85,
     "characters/fedor/": 52,
     "robots/lon/": 44,
@@ -74,10 +74,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-28T09:48:28Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:11:19Z"
       }
     },
     "characters/tais/reference.html": {
