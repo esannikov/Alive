@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T09:39:51.939957+00:00",
+  "generatedAt": "2026-10-28T09:48:44.240899+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJZAG",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-28T09:48:28Z",
+      "excerpt": "возможно, тут дело в бандане и тд. мне лицо очень нравится во всех трех, но tais009 и tais006 больше всего. Tais009 - это микс с Беллой, это очень частая сейчас форма лица. Из-за ротового типа дыхания и узкой челюсти, простите. Как только мы начинаем давать…",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19238918"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJYpw",
       "page": "ships/moag/",
@@ -37,24 +46,15 @@
       "createdAt": "2026-10-28T08:07:31Z",
       "excerpt": "Женщин притягивают персонажи с негативным обаянием, это понятно. просто по книге Федор - прям светлый, надежный персонаж, однолюб и тп.",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19237226"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYkn",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:03:22Z",
-      "excerpt": "\"нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус. \" - бесспорно. Но тут она какая-то кривая вообщ…",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19237159"
     }
   ],
   "discussionNumbers": {
+    "characters/tais/": 56,
     "ships/moag/": 62,
     "robots/don15/": 53,
     "characters/rita/": 85,
     "characters/valek/": 60,
     "characters/fedor/": 52,
-    "characters/tais/": 56,
     "robots/lon/": 44,
     "robots/martin/": 61,
     "characters/nitka/": 48,
@@ -74,10 +74,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:03:22Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-28T09:48:28Z"
       }
     },
     "characters/tais/reference.html": {
