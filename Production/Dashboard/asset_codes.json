@@ -10,17 +10,17 @@
     "Future prefixes are unique per object."
   ],
   "next_numbers": {
-    "tais": 43,
+    "tais": 45,
     "fedor": 31,
     "moag": 37,
     "emma": 11,
-    "kolka": 7,
-    "lon": 11,
-    "don": 27,
-    "martin": 9,
-    "valek": 19,
-    "nitka": 12,
-    "masha": 7,
+    "kolka": 9,
+    "lon": 12,
+    "don": 29,
+    "martin": 11,
+    "valek": 21,
+    "nitka": 14,
+    "masha": 8,
     "katya": 7,
     "ilya": 7,
     "sonya": 7,
@@ -57,8 +57,8 @@
     },
     {
       "code": "tais002",
-      "object": "tais",
-      "caption": "Усиленная версия: Компактное округлое лицо",
+      "object": "base-girls",
+      "caption": "Таис · Усиленная версия: Компактное округлое лицо",
       "sha256": "cc73f854572e15485db6474a04a8d243d026408eece7cc0a14495d6fe98ea79a",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-strong-02.jpg",
@@ -66,23 +66,39 @@
         "docs/TaisBellaStrong/images/tais-strong-02.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Усиленная версия: Компактное округлое лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais003",
-      "object": "tais",
-      "caption": "Усиленная версия: Широкая челюсть",
+      "object": "base-girls",
+      "caption": "Таис · Усиленная версия: Широкая челюсть",
       "sha256": "0d7d9b69b83053a87b82c0c1740fdacab13b666980358a56db058e1304b84a6b",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-strong-03.jpg",
@@ -90,23 +106,39 @@
         "docs/TaisBellaStrong/images/tais-strong-03.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Усиленная версия: Широкая челюсть",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais004",
-      "object": "tais",
-      "caption": "Усиленная версия: Сердцевидное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Усиленная версия: Сердцевидное лицо",
       "sha256": "45069f593e57d5539a9181ae5284ba07bfb160f70e9742fea8c52b97dcd72f62",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-strong-04-v2.png",
@@ -114,23 +146,39 @@
         "docs/TaisBellaStrong/images/tais-strong-04-v2.png"
       ],
       "galleries": [
-        "TaisBellaStrong"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Усиленная версия: Сердцевидное лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais005",
-      "object": "tais",
-      "caption": "Усиленная версия: Овальное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Усиленная версия: Овальное лицо",
       "sha256": "872e265fd32fa38dfdf53e46a90f3fca64c6f7abcd334cd655d55e1bab201287",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-strong-05.jpg",
@@ -138,18 +186,34 @@
         "docs/TaisBellaStrong/images/tais-strong-05.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Усиленная версия: Овальное лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais006",
@@ -178,8 +242,8 @@
     },
     {
       "code": "tais007",
-      "object": "tais",
-      "caption": "Усиленная версия: Широкий мягкий овал",
+      "object": "base-girls",
+      "caption": "Таис · Усиленная версия: Широкий мягкий овал",
       "sha256": "d015134563567cc0bce67398a483b9d6cbce073080314dfba4cf310bdf17eafc",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-strong-07.jpg",
@@ -187,23 +251,39 @@
         "docs/TaisBellaStrong/images/tais-strong-07.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Усиленная версия: Широкий мягкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais008",
-      "object": "tais",
-      "caption": "Усиленная версия: Удлинённый мягкий овал",
+      "object": "base-girls",
+      "caption": "Таис · Усиленная версия: Удлинённый мягкий овал",
       "sha256": "4690e594973fed761aefadbdee0e137fa22fc33694fb9cb8842c49e49a3a45e9",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-strong-08-v2.png",
@@ -211,18 +291,34 @@
         "docs/TaisBellaStrong/images/tais-strong-08-v2.png"
       ],
       "galleries": [
-        "TaisBellaStrong"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Усиленная версия: Удлинённый мягкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais009",
@@ -251,8 +347,8 @@
     },
     {
       "code": "tais010",
-      "object": "tais",
-      "caption": "Мягкое смешение: Узкое угловатое лицо",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Узкое угловатое лицо",
       "sha256": "127cc3f06940317da764d0d7bdfe4c99ca574fa43b05f85429aec371e73379f6",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-01.jpg",
@@ -261,24 +357,40 @@
         "docs/TaisBella/images/tais-bella-01.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Узкое угловатое лицо",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais011",
-      "object": "tais",
-      "caption": "Мягкое смешение: Компактное округлое лицо",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Компактное округлое лицо",
       "sha256": "bbad3b61ccc7bcc8b6c963de625ddff5c4c65bbe7b3219deefcfe15247d9b70c",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-02.jpg",
@@ -287,24 +399,40 @@
         "docs/TaisBella/images/tais-bella-02.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Компактное округлое лицо",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais012",
-      "object": "tais",
-      "caption": "Мягкое смешение: Широкая челюсть",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Широкая челюсть",
       "sha256": "10622eaa3682130bf9be1fa74afd78a3ef2753a8916ef27c5170a8ce8df023e2",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-03.jpg",
@@ -313,24 +441,40 @@
         "docs/TaisBella/images/tais-bella-03.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Широкая челюсть",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais013",
-      "object": "tais",
-      "caption": "Мягкое смешение: Сердцевидное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Сердцевидное лицо",
       "sha256": "83710ca695958c506190c0713e973964f5415bdac8397428e43cfe665bdb7985",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-04.jpg",
@@ -339,24 +483,40 @@
         "docs/TaisBella/images/tais-bella-04.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Сердцевидное лицо",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais014",
-      "object": "tais",
-      "caption": "Мягкое смешение: Овальное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Овальное лицо",
       "sha256": "2d114cb357f164d8ffe7fce604e7a09ff2d7681c3ccca4a331df2447b408e7dc",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-05.jpg",
@@ -365,24 +525,40 @@
         "docs/TaisBella/images/tais-bella-05.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Овальное лицо",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais015",
-      "object": "tais",
-      "caption": "Мягкое смешение: Ромбовидное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Ромбовидное лицо",
       "sha256": "123d36e04c2a866fb8526227a5fc6354861215da8d287c5f38119a9c642f5a63",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-06.jpg",
@@ -391,24 +567,40 @@
         "docs/TaisBella/images/tais-bella-06.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Ромбовидное лицо",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais016",
-      "object": "tais",
-      "caption": "Мягкое смешение: Широкий мягкий овал",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Широкий мягкий овал",
       "sha256": "df5bd5c0e07b2426081ec39ef0a8c1b06887f3a711db0782c7c3550b79a55448",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-07.jpg",
@@ -417,24 +609,40 @@
         "docs/TaisBella/images/tais-bella-07.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Широкий мягкий овал",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais017",
-      "object": "tais",
-      "caption": "Мягкое смешение: Удлинённый мягкий овал",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Удлинённый мягкий овал",
       "sha256": "a1dddf4010d1c93f06f2f8ba0f8441f7757b0bdb2df229bee718971fab4c000e",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-08.jpg",
@@ -443,24 +651,40 @@
         "docs/TaisBella/images/tais-bella-08.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Удлинённый мягкий овал",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais018",
-      "object": "tais",
-      "caption": "Мягкое смешение: Прямоугольное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Мягкое смешение: Прямоугольное лицо",
       "sha256": "333dcd9938d2b0df67fbad5ecfb190b6a4a8efbe7928351b4e68e20401c83fab",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBellaStrong/images/tais-soft-09.jpg",
@@ -469,24 +693,40 @@
         "docs/TaisBella/images/tais-bella-09.jpg"
       ],
       "galleries": [
-        "TaisBellaStrong",
-        "TaisBella"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "soft",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Мягкое смешение: Прямоугольное лицо",
+        "series": "soft",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBellaStrong",
+          "TaisBella"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais019",
-      "object": "tais",
-      "caption": "Исходная Таис: Узкое угловатое лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Узкое угловатое лицо",
       "sha256": "c2e6d1c5376cdc2779a7c0dd89cb03cc412a329a9b566b0d0ac91f2fa973a46e",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-01.jpg",
@@ -495,24 +735,40 @@
         "docs/TaisSeven/images/tais-01.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Узкое угловатое лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais020",
-      "object": "tais",
-      "caption": "Исходная Таис: Компактное округлое лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Компактное округлое лицо",
       "sha256": "bec15f6a38e05fc993f382529b77b3e17bc899b80666b3e8f3a3778bc7aac69c",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-02.jpg",
@@ -521,24 +777,40 @@
         "docs/TaisSeven/images/tais-02.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Компактное округлое лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais021",
-      "object": "tais",
-      "caption": "Исходная Таис: Широкая челюсть",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Широкая челюсть",
       "sha256": "78c6003b00abc4dd568d6454619fae02e0b2a751ac70603059b80c7eea1172ea",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-03.jpg",
@@ -547,24 +819,40 @@
         "docs/TaisSeven/images/tais-03.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Широкая челюсть",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais022",
-      "object": "tais",
-      "caption": "Исходная Таис: Сердцевидное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Сердцевидное лицо",
       "sha256": "386e267b275c322cd5e8a54137a7c77da74e2dd58f1b85f7adf0c0a13caa8f87",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-04.jpg",
@@ -573,24 +861,40 @@
         "docs/TaisSeven/images/tais-04.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Сердцевидное лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais023",
-      "object": "tais",
-      "caption": "Исходная Таис: Овальное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Овальное лицо",
       "sha256": "2f94da3bf90d0eb1a9311cf63457848a99619c4d692ff93769965c3c9f962018",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-05.jpg",
@@ -599,24 +903,40 @@
         "docs/TaisSeven/images/tais-05-v2.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Овальное лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais024",
-      "object": "tais",
-      "caption": "Исходная Таис: Ромбовидное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Ромбовидное лицо",
       "sha256": "e770d884a057f629082991eaf9d99217e533c61555b42abceaa2a99e39e9a062",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-06.jpg",
@@ -625,24 +945,40 @@
         "docs/TaisSeven/images/tais-06.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Ромбовидное лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais025",
-      "object": "tais",
-      "caption": "Исходная Таис: Широкий мягкий овал",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Широкий мягкий овал",
       "sha256": "dd5fbd1556f603e11f28f221a5bd19c24d401588dcf7566b81bf1e3da3b4cdcb",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-07.jpg",
@@ -651,24 +987,40 @@
         "docs/TaisSeven/images/tais-07.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Широкий мягкий овал",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais026",
-      "object": "tais",
-      "caption": "Исходная Таис: Трапециевидное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Трапециевидное лицо",
       "sha256": "5cd59b904acc778874a672b1181c1849bbbe0fcb998f537c1912367312b8095c",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-08.jpg",
@@ -677,24 +1029,40 @@
         "docs/TaisSeven/images/tais-08.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Трапециевидное лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais027",
-      "object": "tais",
-      "caption": "Исходная Таис: Прямоугольное лицо",
+      "object": "base-girls",
+      "caption": "Таис · Исходная Таис: Прямоугольное лицо",
       "sha256": "9858bca019544744a0b227288410b6b3b30a1a3eae53b07124f879ce086597b0",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisBella/images/tais-original-09.jpg",
@@ -703,24 +1071,40 @@
         "docs/TaisSeven/images/tais-09.jpg"
       ],
       "galleries": [
-        "TaisBella",
-        "TaisSeven"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "original",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Исходная Таис: Прямоугольное лицо",
+        "series": "original",
+        "visibility": "archived",
+        "galleries": [
+          "TaisBella",
+          "TaisSeven"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais028",
-      "object": "tais",
-      "caption": "Таис — Nano Banana 2.1: исходный портрет",
+      "object": "base-girls",
+      "caption": "Таис · Таис — Nano Banana 2.1: исходный портрет",
       "sha256": "67a560cf6589ddb8271e0cf8e5b282edf45f305d080dff549c4a9d1cf0f8a343",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/nano-banana-21-portrait.png",
@@ -728,7 +1112,7 @@
         "docs/TaisModels/images/nano-banana-21-portrait.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -740,16 +1124,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — Nano Banana 2.1: исходный портрет",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais029",
-      "object": "tais",
-      "caption": "Таис — Nano Banana 2.1: цитрусовый сад",
+      "object": "base-girls",
+      "caption": "Таис · Таис — Nano Banana 2.1: цитрусовый сад",
       "sha256": "3a8077441d9e176994e1cc42a5b101a579f8f766a423413154f94db0aef1e398",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/nano-banana-21-garden.png",
@@ -757,7 +1157,7 @@
         "docs/TaisModels/images/nano-banana-21-garden.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -769,16 +1169,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — Nano Banana 2.1: цитрусовый сад",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais030",
-      "object": "tais",
-      "caption": "Таис — Nano Banana 2.1: у автомата",
+      "object": "base-girls",
+      "caption": "Таис · Таис — Nano Banana 2.1: у автомата",
       "sha256": "c5813b0d4aa29fcb459ed6a4531e555542cdd3b825ea23c634fb071a0ea5fd69",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/nano-banana-21-bars.png",
@@ -786,7 +1202,7 @@
         "docs/TaisModels/images/nano-banana-21-bars.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -798,16 +1214,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — Nano Banana 2.1: у автомата",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais031",
-      "object": "tais",
-      "caption": "Таис — Seedream 5 Pro: исходный портрет",
+      "object": "base-girls",
+      "caption": "Таис · Таис — Seedream 5 Pro: исходный портрет",
       "sha256": "bfdf938040232ab8be15156daa2b9fba3c4695666cc98a5e95dc985ef716a241",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/seedream-5-pro-portrait.png",
@@ -815,7 +1247,7 @@
         "docs/TaisModels/images/seedream-5-pro-portrait.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -827,16 +1259,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — Seedream 5 Pro: исходный портрет",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais032",
-      "object": "tais",
-      "caption": "Таис — Seedream 5 Pro: цитрусовый сад",
+      "object": "base-girls",
+      "caption": "Таис · Таис — Seedream 5 Pro: цитрусовый сад",
       "sha256": "b4d2263f64c55d731a4966f1c953ac94e8173edba09365f65dcea0ed9a4739cf",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/seedream-5-pro-garden.png",
@@ -844,7 +1292,7 @@
         "docs/TaisModels/images/seedream-5-pro-garden.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -856,16 +1304,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — Seedream 5 Pro: цитрусовый сад",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais033",
-      "object": "tais",
-      "caption": "Таис — Seedream 5 Pro: у автомата",
+      "object": "base-girls",
+      "caption": "Таис · Таис — Seedream 5 Pro: у автомата",
       "sha256": "def38723fe8b038a3f2d4ac10f386082abc32b9738484276e4cf2efea50de307",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/seedream-5-pro-bars.png",
@@ -873,7 +1337,7 @@
         "docs/TaisModels/images/seedream-5-pro-bars.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -885,16 +1349,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — Seedream 5 Pro: у автомата",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais034",
-      "object": "tais",
-      "caption": "Таис — GPT Image 2: исходный портрет",
+      "object": "base-girls",
+      "caption": "Таис · Таис — GPT Image 2: исходный портрет",
       "sha256": "63364650027e42e153110027905d8251da60471acb5a7bf53c8cb152725b4cb3",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/gpt-image-2-portrait.png",
@@ -902,7 +1382,7 @@
         "docs/TaisModels/images/gpt-image-2-portrait.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -914,16 +1394,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — GPT Image 2: исходный портрет",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais035",
-      "object": "tais",
-      "caption": "Таис — GPT Image 2: цитрусовый сад",
+      "object": "base-girls",
+      "caption": "Таис · Таис — GPT Image 2: цитрусовый сад",
       "sha256": "eef3ec4347bf5c40e3b6b13a2c5d6f3022d9b387ded509e528b9170fe0ad02fe",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/gpt-image-2-garden.png",
@@ -931,7 +1427,7 @@
         "docs/TaisModels/images/gpt-image-2-garden.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -943,16 +1439,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — GPT Image 2: цитрусовый сад",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais036",
-      "object": "tais",
-      "caption": "Таис — GPT Image 2: у автомата",
+      "object": "base-girls",
+      "caption": "Таис · Таис — GPT Image 2: у автомата",
       "sha256": "f878e4f02d6e5c73f01659f94e974d9f3e05ac054b66a8edfe205c546b2de34f",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/gpt-image-2-bars.png",
@@ -960,7 +1472,7 @@
         "docs/TaisModels/images/gpt-image-2-bars.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -972,16 +1484,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — GPT Image 2: у автомата",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais037",
-      "object": "tais",
-      "caption": "Таис — GPT Image 2.5 Sunburst: исходный портрет",
+      "object": "base-girls",
+      "caption": "Таис · Таис — GPT Image 2.5 Sunburst: исходный портрет",
       "sha256": "f5d4e32ba9ee758d5bd299654d4496ce5465a2478a3aacb7cb24aed3d609a186",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/gpt-image-25-sunburst-portrait.png",
@@ -989,7 +1517,7 @@
         "docs/TaisModels/images/gpt-image-25-sunburst-portrait.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1001,16 +1529,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — GPT Image 2.5 Sunburst: исходный портрет",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais038",
-      "object": "tais",
-      "caption": "Таис — GPT Image 2.5 Sunburst: цитрусовый сад",
+      "object": "base-girls",
+      "caption": "Таис · Таис — GPT Image 2.5 Sunburst: цитрусовый сад",
       "sha256": "5a3fc1ac84981c55e696b07638474545ad1a5beda673d69433b056b4b82690d6",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/gpt-image-25-sunburst-garden.png",
@@ -1018,7 +1562,7 @@
         "docs/TaisModels/images/gpt-image-25-sunburst-garden.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1030,16 +1574,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — GPT Image 2.5 Sunburst: цитрусовый сад",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais039",
-      "object": "tais",
-      "caption": "Таис — GPT Image 2.5 Sunburst: у автомата",
+      "object": "base-girls",
+      "caption": "Таис · Таис — GPT Image 2.5 Sunburst: у автомата",
       "sha256": "115a3b3b360581a0f8f1144fde37d64ed0f28200e21ed4c900318855fd097ced",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/gpt-image-25-sunburst-bars.png",
@@ -1047,7 +1607,7 @@
         "docs/TaisModels/images/gpt-image-25-sunburst-bars.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1059,16 +1619,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — GPT Image 2.5 Sunburst: у автомата",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais040",
-      "object": "tais",
-      "caption": "Таис — FLUX.2 Max: исходный портрет",
+      "object": "base-girls",
+      "caption": "Таис · Таис — FLUX.2 Max: исходный портрет",
       "sha256": "760a40485effa0c491349ff308a1ad66459a25a16b55d3d6961b78eec24d5fa3",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/flux-2-max-portrait.png",
@@ -1076,7 +1652,7 @@
         "docs/TaisModels/images/flux-2-max-portrait.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1088,16 +1664,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — FLUX.2 Max: исходный портрет",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais041",
-      "object": "tais",
-      "caption": "Таис — FLUX.2 Max: цитрусовый сад",
+      "object": "base-girls",
+      "caption": "Таис · Таис — FLUX.2 Max: цитрусовый сад",
       "sha256": "ce47694611ba0c46571361747629a8fa703484b375671e03558ac1d674511248",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/flux-2-max-garden.png",
@@ -1105,7 +1697,7 @@
         "docs/TaisModels/images/flux-2-max-garden.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1117,16 +1709,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — FLUX.2 Max: цитрусовый сад",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais042",
-      "object": "tais",
-      "caption": "Таис — FLUX.2 Max: у автомата",
+      "object": "base-girls",
+      "caption": "Таис · Таис — FLUX.2 Max: у автомата",
       "sha256": "112a905116f1cf8a85deb3404b9db07050a3d8d8a2013f9fbc9d6c96381acaed",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/TaisModels/images/flux-2-max-bars.png",
@@ -1134,7 +1742,7 @@
         "docs/TaisModels/images/flux-2-max-bars.png"
       ],
       "galleries": [
-        "TaisModels"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1146,16 +1754,32 @@
         }
       ],
       "task_ids": [
-        "tais",
-        "character-concepts"
+        "support"
       ],
-      "series": "models",
-      "visibility": "archived"
+      "series": "current",
+      "visibility": "active",
+      "casting_origin": {
+        "object": "tais",
+        "title": "Таис",
+        "caption": "Таис — FLUX.2 Max: у автомата",
+        "series": "models",
+        "visibility": "archived",
+        "galleries": [
+          "TaisModels"
+        ],
+        "task_ids": [
+          "tais",
+          "character-concepts"
+        ]
+      },
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "fedor001",
-      "object": "fedor",
-      "caption": "Узкое лицо",
+      "object": "base-girls",
+      "caption": "Федор · Узкое лицо",
       "sha256": "b12ab93ae6fe7c4ea49263f0bbb5e845fae327d6fb4d8c81b8e65febbea79fc3",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-01-v2.png",
@@ -1163,22 +1787,38 @@
         "docs/FedorSix/images/fedor-01-v2.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Узкое лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor002",
-      "object": "fedor",
-      "caption": "Широкое лицо",
+      "object": "base-girls",
+      "caption": "Федор · Широкое лицо",
       "sha256": "0bf8a2f282a7444cfe5746a943f6211aec44b2acde87b27211058000e885d87a",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-02-v2.png",
@@ -1186,22 +1826,38 @@
         "docs/FedorSix/images/fedor-02-v2.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Широкое лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor003",
-      "object": "fedor",
-      "caption": "Выраженные скулы",
+      "object": "base-girls",
+      "caption": "Федор · Выраженные скулы",
       "sha256": "aa344cd561564f4bbc75cf9b65ddb440fd2af2dcf46567a98aa1c954b8e0ca4f",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-03-v2.png",
@@ -1209,22 +1865,38 @@
         "docs/FedorSix/images/fedor-03-v2.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Выраженные скулы",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor004",
-      "object": "fedor",
-      "caption": "Мягкое лицо",
+      "object": "base-girls",
+      "caption": "Федор · Мягкое лицо",
       "sha256": "f4d9fb3e1ce7cc2e3bf57b6f4ecdf7e31ab6a1013f344a213e0ef45d4c9a724d",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-04-v2.png",
@@ -1232,22 +1904,38 @@
         "docs/FedorSix/images/fedor-04-v2.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Мягкое лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor005",
-      "object": "fedor",
-      "caption": "Прямоугольное лицо",
+      "object": "base-girls",
+      "caption": "Федор · Прямоугольное лицо",
       "sha256": "8ee380618b6ce7f572c74c4aa9f483b11cfeedb5ebc657177ad26f5cb41cc8ee",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-05-v2.png",
@@ -1255,22 +1943,38 @@
         "docs/FedorSix/images/fedor-05-v2.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Прямоугольное лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor006",
-      "object": "fedor",
-      "caption": "Широкий овал",
+      "object": "base-girls",
+      "caption": "Федор · Широкий овал",
       "sha256": "4347298db70a0ad6cde61bf008cba7fd5f4067d3816b6032d68753034ed4231d",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-06-v2.png",
@@ -1278,22 +1982,38 @@
         "docs/FedorSix/images/fedor-06-v2.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Широкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor007",
-      "object": "fedor",
-      "caption": "Короткое широкое лицо",
+      "object": "base-girls",
+      "caption": "Федор · Короткое широкое лицо",
       "sha256": "6765c891cfcced7cbdc62311390bdba679c841e4faf7404b63973e72fbdd5b2e",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-07.png",
@@ -1301,22 +2021,38 @@
         "docs/FedorSix/images/fedor-07.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Короткое широкое лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor008",
-      "object": "fedor",
-      "caption": "Длинный нос и мягкая челюсть",
+      "object": "base-girls",
+      "caption": "Федор · Длинный нос и мягкая челюсть",
       "sha256": "6f4cf902273758128544396a5ee65e57e5da6f6f43b7245b6b25c031b0c9401c",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-08.png",
@@ -1324,17 +2060,33 @@
         "docs/FedorSix/images/fedor-08.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Длинный нос и мягкая челюсть",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor009",
@@ -1363,8 +2115,8 @@
     },
     {
       "code": "fedor010",
-      "object": "fedor",
-      "caption": "Высокий лоб и мягкие черты",
+      "object": "base-girls",
+      "caption": "Федор · Высокий лоб и мягкие черты",
       "sha256": "81f4276f3d6ea40e00c8f5c8b97cf333e3f65abc190e9161b8d16729e0c389f7",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
       "source_file": "docs/FedorSix/images/fedor-10.png",
@@ -1372,22 +2124,38 @@
         "docs/FedorSix/images/fedor-10.png"
       ],
       "galleries": [
-        "FedorSix"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Высокий лоб и мягкие черты",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorSix"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor011",
-      "object": "fedor",
-      "caption": "Близкая вариация 1",
+      "object": "base-girls",
+      "caption": "Федор · Близкая вариация 1",
       "sha256": "5321525b74855609f29a9639cea836cb40f38b32c85ae1dd7a08f120ffac2cca",
       "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
       "source_file": "docs/FedorRefinement/images/fedor011.png",
@@ -1395,7 +2163,7 @@
         "docs/FedorRefinement/images/fedor011.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1403,15 +2171,31 @@
       "derivation_kind": "reference_edit",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Близкая вариация 1",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor012",
-      "object": "fedor",
-      "caption": "Близкая вариация 2",
+      "object": "base-girls",
+      "caption": "Федор · Близкая вариация 2",
       "sha256": "edbed6b4ae608ef5feb5e3837ccd3058faa7f5ebbde3154fd29116afac311119",
       "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
       "source_file": "docs/FedorRefinement/images/fedor012.png",
@@ -1419,7 +2203,7 @@
         "docs/FedorRefinement/images/fedor012.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1427,15 +2211,31 @@
       "derivation_kind": "reference_edit",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Близкая вариация 2",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor013",
-      "object": "fedor",
-      "caption": "Близкая вариация 3",
+      "object": "base-girls",
+      "caption": "Федор · Близкая вариация 3",
       "sha256": "90e91e987440274dee362974fe5d3c20934cc93aba067f75337f395426bf766a",
       "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
       "source_file": "docs/FedorRefinement/images/fedor013.png",
@@ -1443,7 +2243,7 @@
         "docs/FedorRefinement/images/fedor013.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1451,15 +2251,31 @@
       "derivation_kind": "reference_edit",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Близкая вариация 3",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor014",
-      "object": "fedor",
-      "caption": "Близкая вариация 4",
+      "object": "base-girls",
+      "caption": "Федор · Близкая вариация 4",
       "sha256": "6773fa0e310a8e51cc48f3eb1bd192caf052790abb9b23265274c3ef069761b9",
       "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
       "source_file": "docs/FedorRefinement/images/fedor014.png",
@@ -1467,7 +2283,7 @@
         "docs/FedorRefinement/images/fedor014.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1475,15 +2291,31 @@
       "derivation_kind": "reference_edit",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Близкая вариация 4",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor015",
-      "object": "fedor",
-      "caption": "Близкая вариация 5",
+      "object": "base-girls",
+      "caption": "Федор · Близкая вариация 5",
       "sha256": "0b10ac884a3f6cc93fa1f1bbd86816f336c862a3c8e0fe1c040d451665530822",
       "source_commit": "23a78d35ee00d0dd75aea38c2bc9b007f6416f85",
       "source_file": "docs/FedorRefinement/images/fedor015.png",
@@ -1491,7 +2323,7 @@
         "docs/FedorRefinement/images/fedor015.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1499,15 +2331,31 @@
       "derivation_kind": "reference_edit",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Близкая вариация 5",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor016",
-      "object": "fedor",
-      "caption": "Вытянутое лицо",
+      "object": "base-girls",
+      "caption": "Федор · Вытянутое лицо",
       "sha256": "d5705bfaac69736af38335665d9037a7005f9bfecc2ba4b12389e5635961f199",
       "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
       "source_file": "docs/FedorRefinement/images/fedor016.png",
@@ -1515,7 +2363,7 @@
         "docs/FedorRefinement/images/fedor016.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1523,10 +2371,26 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Вытянутое лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor017",
@@ -1580,8 +2444,8 @@
     },
     {
       "code": "fedor019",
-      "object": "fedor",
-      "caption": "Выраженные скулы",
+      "object": "base-girls",
+      "caption": "Федор · Выраженные скулы",
       "sha256": "bbd496eeab2aad893e7e9bbb27dc252ef13babb08d42d34ca2ec529a509fde95",
       "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
       "source_file": "docs/FedorRefinement/images/fedor019.png",
@@ -1589,7 +2453,7 @@
         "docs/FedorRefinement/images/fedor019.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1597,15 +2461,31 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Выраженные скулы",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor020",
-      "object": "fedor",
-      "caption": "Мягкое овальное лицо",
+      "object": "base-girls",
+      "caption": "Федор · Мягкое овальное лицо",
       "sha256": "5a39ad08c0d6b3c976fb2fbf1e6a7e239eab72ccff6674eae72f78c9c0f50525",
       "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
       "source_file": "docs/FedorRefinement/images/fedor020.png",
@@ -1613,7 +2493,7 @@
         "docs/FedorRefinement/images/fedor020.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -1621,10 +2501,26 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Мягкое овальное лицо",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "moag001",
@@ -2651,8 +3547,8 @@
     },
     {
       "code": "kolka003",
-      "object": "kolka",
-      "caption": "Острые черты",
+      "object": "base-girls",
+      "caption": "Колька · Колючий · Острые черты",
       "sha256": "bd8d8445894f0444b0235c50ed6b4ffc0067126b14046e5f7c75e97bdce87a77",
       "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
       "source_file": "docs/World/characters/kolka/images/kolka003.png",
@@ -2660,7 +3556,7 @@
         "docs/World/characters/kolka/images/kolka003.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -2668,15 +3564,31 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "kolka"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "kolka",
+        "title": "Колька · Колючий",
+        "caption": "Острые черты",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/kolka"
+        ],
+        "task_ids": [
+          "kolka"
+        ]
+      },
+      "previous_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "kolka004",
-      "object": "kolka",
-      "caption": "Выраженная переносица",
+      "object": "base-girls",
+      "caption": "Колька · Колючий · Выраженная переносица",
       "sha256": "73b3cda47cb3302a1b3c523c8afd6c34e18b0ffb1e9e04029165eb99b6020313",
       "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
       "source_file": "docs/World/characters/kolka/images/kolka004.png",
@@ -2684,7 +3596,7 @@
         "docs/World/characters/kolka/images/kolka004.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -2692,10 +3604,26 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "kolka"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "kolka",
+        "title": "Колька · Колючий",
+        "caption": "Выраженная переносица",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/kolka"
+        ],
+        "task_ids": [
+          "kolka"
+        ]
+      },
+      "previous_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "kolka005",
@@ -2723,8 +3651,8 @@
     },
     {
       "code": "kolka006",
-      "object": "kolka",
-      "caption": "Тяжёлый взгляд",
+      "object": "base-girls",
+      "caption": "Колька · Колючий · Тяжёлый взгляд",
       "sha256": "410a8c75c2730875315001cd01f705e643af3e2a0bb5d03d814c0b3d2d21b2bf",
       "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
       "source_file": "docs/World/characters/kolka/images/kolka006.png",
@@ -2732,7 +3660,7 @@
         "docs/World/characters/kolka/images/kolka006.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -2740,10 +3668,26 @@
       "derivation_kind": "casting_direction",
       "renditions": [],
       "task_ids": [
-        "kolka"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "kolka",
+        "title": "Колька · Колючий",
+        "caption": "Тяжёлый взгляд",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/kolka"
+        ],
+        "task_ids": [
+          "kolka"
+        ]
+      },
+      "previous_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "lon001",
@@ -2815,7 +3759,7 @@
         "lon"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "lon004",
@@ -2839,7 +3783,7 @@
         "lon"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "lon005",
@@ -3011,8 +3955,8 @@
     },
     {
       "code": "fedor022",
-      "object": "fedor",
-      "caption": "Конрад · среднее смешение",
+      "object": "base-girls",
+      "caption": "Федор · Конрад · среднее смешение",
       "sha256": "5378f60124d76cb97da59c5e8cf72add0aa796cf4c399ef4750a12519243fece",
       "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
       "source_file": "docs/FedorConrad/images/fedor022.png",
@@ -3020,7 +3964,7 @@
         "docs/FedorConrad/images/fedor022.png"
       ],
       "galleries": [
-        "FedorConrad"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3028,10 +3972,26 @@
       "derivation_kind": "reference_blend",
       "renditions": [],
       "task_ids": [
-        "fedor"
+        "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "title": "Федор",
+        "caption": "Конрад · среднее смешение",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "FedorConrad"
+        ],
+        "task_ids": [
+          "fedor"
+        ]
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor023",
@@ -3103,7 +4063,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don002",
@@ -3199,7 +4159,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don005",
@@ -3295,7 +4255,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don017",
@@ -3563,8 +4523,8 @@
     },
     {
       "code": "valek001",
-      "object": "valek",
-      "caption": "Узкий овал",
+      "object": "base-girls",
+      "caption": "Валёк · Узкий овал",
       "sha256": "dd358beb4f09c58e53d3eab37f556300fb8b0e5c8f8742db695cac37b57022fb",
       "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
       "source_file": "docs/World/characters/valek/images/valek001.png",
@@ -3572,7 +4532,7 @@
         "docs/World/characters/valek/images/valek001.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3583,12 +4543,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Узкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek007",
-      "object": "valek",
-      "caption": "Узкий овал",
+      "object": "base-girls",
+      "caption": "Валёк · Узкий овал",
       "sha256": "4caf50cbd1e15db78dc08f9454833b1bfac7391cc4f9109573c0fecab83aec41",
       "source_commit": "62052eb794a5c31fafd12e4b880de15ace863dfd",
       "source_file": "docs/World/characters/valek/images/valek007.png",
@@ -3596,7 +4572,7 @@
         "docs/World/characters/valek/images/valek007.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3607,12 +4583,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Узкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek002",
-      "object": "valek",
-      "caption": "Широкая челюсть",
+      "object": "base-girls",
+      "caption": "Валёк · Широкая челюсть",
       "sha256": "159adf378062af0fd0e9d13f25609bdb265c506be09fd94f27fe57de2b6c9862",
       "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
       "source_file": "docs/World/characters/valek/images/valek002.png",
@@ -3620,7 +4612,7 @@
         "docs/World/characters/valek/images/valek002.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3631,12 +4623,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Широкая челюсть",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek008",
-      "object": "valek",
-      "caption": "Широкая челюсть",
+      "object": "base-girls",
+      "caption": "Валёк · Широкая челюсть",
       "sha256": "a7d5796fe403416ec63288df9af686a0751d5316df263ced8bdbd8d863662d8b",
       "source_commit": "62052eb794a5c31fafd12e4b880de15ace863dfd",
       "source_file": "docs/World/characters/valek/images/valek008.png",
@@ -3644,7 +4652,7 @@
         "docs/World/characters/valek/images/valek008.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3655,12 +4663,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Широкая челюсть",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek003",
-      "object": "valek",
-      "caption": "Высокие скулы",
+      "object": "base-girls",
+      "caption": "Валёк · Высокие скулы",
       "sha256": "d3c606d5e41ac39b263a072fc51145ec2e479df583a15236ca8c362771f942ac",
       "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
       "source_file": "docs/World/characters/valek/images/valek003.png",
@@ -3668,7 +4692,7 @@
         "docs/World/characters/valek/images/valek003.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3679,12 +4703,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Высокие скулы",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek009",
-      "object": "valek",
-      "caption": "Высокие скулы",
+      "object": "base-girls",
+      "caption": "Валёк · Высокие скулы",
       "sha256": "5b4c2b8d10d21cbe08cb946725c1ba00bec883ef5d641819218aaa692376e69f",
       "source_commit": "62052eb794a5c31fafd12e4b880de15ace863dfd",
       "source_file": "docs/World/characters/valek/images/valek009.png",
@@ -3692,7 +4732,7 @@
         "docs/World/characters/valek/images/valek009.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3703,12 +4743,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Высокие скулы",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek004",
-      "object": "valek",
-      "caption": "Острые черты",
+      "object": "base-girls",
+      "caption": "Валёк · Острые черты",
       "sha256": "7c4e3d7c67fb53a063515cbe2b41ea656f0e171466140c420b73138d2f1904c1",
       "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
       "source_file": "docs/World/characters/valek/images/valek004.png",
@@ -3716,7 +4772,7 @@
         "docs/World/characters/valek/images/valek004.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3727,12 +4783,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Острые черты",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek010",
-      "object": "valek",
-      "caption": "Острые черты",
+      "object": "base-girls",
+      "caption": "Валёк · Острые черты",
       "sha256": "367755c616684de10d4840ea3b15f866b954dd8c59d5d864668626c7ef9462b4",
       "source_commit": "62052eb794a5c31fafd12e4b880de15ace863dfd",
       "source_file": "docs/World/characters/valek/images/valek010.png",
@@ -3740,7 +4812,7 @@
         "docs/World/characters/valek/images/valek010.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3751,12 +4823,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Острые черты",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek005",
-      "object": "valek",
-      "caption": "Мягкий овал",
+      "object": "base-girls",
+      "caption": "Валёк · Мягкий овал",
       "sha256": "332903a3c2aee6b70d1d277fbacfe140c8cd2b711a0c31711d4fdfd079715ec4",
       "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
       "source_file": "docs/World/characters/valek/images/valek005.png",
@@ -3764,7 +4852,7 @@
         "docs/World/characters/valek/images/valek005.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3775,12 +4863,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Мягкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek011",
-      "object": "valek",
-      "caption": "Мягкий овал",
+      "object": "base-girls",
+      "caption": "Валёк · Мягкий овал",
       "sha256": "e0e151194b801233dbc7099aa00464ceb68e91f5f6457ff980a2331b97a95761",
       "source_commit": "62052eb794a5c31fafd12e4b880de15ace863dfd",
       "source_file": "docs/World/characters/valek/images/valek011.png",
@@ -3788,7 +4892,7 @@
         "docs/World/characters/valek/images/valek011.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3799,12 +4903,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Мягкий овал",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek006",
-      "object": "valek",
-      "caption": "Выразительный профиль",
+      "object": "base-girls",
+      "caption": "Валёк · Выразительный профиль",
       "sha256": "0bd792eda036395ef2059fb381f49c16730e6fa43581991be4be16c3d9269a3c",
       "source_commit": "99be33a819bcc8b8062bcc4e68cf2ff7b46ed331",
       "source_file": "docs/World/characters/valek/images/valek006.png",
@@ -3812,7 +4932,7 @@
         "docs/World/characters/valek/images/valek006.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3823,12 +4943,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Выразительный профиль",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek012",
-      "object": "valek",
-      "caption": "Выразительный профиль",
+      "object": "base-girls",
+      "caption": "Валёк · Выразительный профиль",
       "sha256": "8168bd6b5612c39cb17bc96396f1763a021e1d88bbe0ed82b08b05f185e08821",
       "source_commit": "62052eb794a5c31fafd12e4b880de15ace863dfd",
       "source_file": "docs/World/characters/valek/images/valek012.png",
@@ -3836,7 +4972,7 @@
         "docs/World/characters/valek/images/valek012.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3847,12 +4983,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Выразительный профиль",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "nitka001",
-      "object": "nitka",
-      "caption": "A · мягкий типаж",
+      "object": "base-girls",
+      "caption": "Нитка · A · мягкий типаж",
       "sha256": "5c98f37d7094c7d6770ebb29861f46a079d13c07f4145be27845ee6ecc2a15d7",
       "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
       "source_file": "docs/World/characters/nitka/images/nitka001.png",
@@ -3860,7 +5012,7 @@
         "docs/World/characters/nitka/images/nitka001.png"
       ],
       "galleries": [
-        "World/characters/nitka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3870,14 +5022,30 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived",
+      "visibility": "active",
       "derivation_kind": "casting_direction",
-      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026.",
+      "casting_origin": {
+        "object": "nitka",
+        "title": "Нитка",
+        "caption": "A · мягкий типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/nitka"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "nitka"
+      ]
     },
     {
       "code": "nitka002",
-      "object": "nitka",
-      "caption": "B · короткая стрижка",
+      "object": "base-girls",
+      "caption": "Нитка · B · короткая стрижка",
       "sha256": "fe7c827d5e6ca9d285218c6e0d35f79f2c6d84dc623abfd896333fdad3d420d4",
       "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
       "source_file": "docs/World/characters/nitka/images/nitka002.png",
@@ -3885,7 +5053,7 @@
         "docs/World/characters/nitka/images/nitka002.png"
       ],
       "galleries": [
-        "World/characters/nitka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3895,13 +5063,29 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived",
-      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
+      "visibility": "active",
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026.",
+      "casting_origin": {
+        "object": "nitka",
+        "title": "Нитка",
+        "caption": "B · короткая стрижка",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/nitka"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "nitka"
+      ]
     },
     {
       "code": "nitka003",
-      "object": "nitka",
-      "caption": "C · растрёпанные волны",
+      "object": "base-girls",
+      "caption": "Нитка · C · растрёпанные волны",
       "sha256": "3d01c45ca10c8ec7daf9e3b029bf7ed817d1570a1eca1f3de04a62d6dacfd0af",
       "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
       "source_file": "docs/World/characters/nitka/images/nitka003.png",
@@ -3909,7 +5093,7 @@
         "docs/World/characters/nitka/images/nitka003.png"
       ],
       "galleries": [
-        "World/characters/nitka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3919,13 +5103,29 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived",
-      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
+      "visibility": "active",
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026.",
+      "casting_origin": {
+        "object": "nitka",
+        "title": "Нитка",
+        "caption": "C · растрёпанные волны",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/nitka"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "nitka"
+      ]
     },
     {
       "code": "nitka004",
-      "object": "nitka",
-      "caption": "C · за ручным шитьём",
+      "object": "base-girls",
+      "caption": "Нитка · C · за ручным шитьём",
       "sha256": "f9a559d6ff04b25338b6958d5ba44acb2148bf34797fa07b606d14699be18ba8",
       "source_commit": "f846aaeb22f61a6facdacedb42ad5767d4ba894b",
       "source_file": "docs/World/characters/nitka/images/nitka004.png",
@@ -3933,7 +5133,7 @@
         "docs/World/characters/nitka/images/nitka004.png"
       ],
       "galleries": [
-        "World/characters/nitka"
+        "World/characters/base-girls"
       ],
       "kind": "scene",
       "status": "candidate",
@@ -3943,9 +5143,25 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived",
+      "visibility": "active",
       "derivation_kind": "scene_study",
-      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026."
+      "archive_reason": "Вертикальная крупность заменена горизонтальными поясными кадрами по замечанию пользователя 26.10.2026.",
+      "casting_origin": {
+        "object": "nitka",
+        "title": "Нитка",
+        "caption": "C · за ручным шитьём",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/nitka"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "nitka"
+      ]
     },
     {
       "code": "nitka005",
@@ -3973,8 +5189,8 @@
     },
     {
       "code": "nitka006",
-      "object": "nitka",
-      "caption": "B · короткая стрижка",
+      "object": "base-girls",
+      "caption": "Нитка · B · короткая стрижка",
       "sha256": "7928490933d54c25e88318e057466a28a0e0b0f70722e4d40bfb5b6914727684",
       "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
       "source_file": "docs/World/characters/nitka/images/nitka006.png",
@@ -3982,7 +5198,7 @@
         "docs/World/characters/nitka/images/nitka006.png"
       ],
       "galleries": [
-        "World/characters/nitka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3993,7 +5209,23 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derivation_kind": "framing_revision"
+      "derivation_kind": "framing_revision",
+      "casting_origin": {
+        "object": "nitka",
+        "title": "Нитка",
+        "caption": "B · короткая стрижка",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/nitka"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "nitka"
+      ]
     },
     {
       "code": "nitka007",
@@ -4160,8 +5392,8 @@
     },
     {
       "code": "masha003",
-      "object": "masha",
-      "caption": "C · округлое лицо и кудри",
+      "object": "base-girls",
+      "caption": "Маша · C · округлое лицо и кудри",
       "sha256": "45cf64568010347c2316338f119cc3113faa43649fcd77e9260edee70517bf4d",
       "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
       "source_file": "docs/World/characters/masha/images/masha003.png",
@@ -4169,7 +5401,7 @@
         "docs/World/characters/masha/images/masha003.png"
       ],
       "galleries": [
-        "World/characters/masha"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4179,12 +5411,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "masha",
+        "title": "Маша",
+        "caption": "C · округлое лицо и кудри",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/masha"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "masha"
+      ]
     },
     {
       "code": "masha004",
-      "object": "masha",
-      "caption": "D · широкие скулы",
+      "object": "base-girls",
+      "caption": "Маша · D · широкие скулы",
       "sha256": "5d571c7fce5d3bb5da84c82bf99790c1e48de6b27d68c234e29505f24138117a",
       "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
       "source_file": "docs/World/characters/masha/images/masha004.png",
@@ -4192,7 +5440,7 @@
         "docs/World/characters/masha/images/masha004.png"
       ],
       "galleries": [
-        "World/characters/masha"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4202,7 +5450,23 @@
         "support"
       ],
       "series": "current",
-      "visibility": "archived"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "masha",
+        "title": "Маша",
+        "caption": "D · широкие скулы",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World/characters/masha"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "masha"
+      ]
     },
     {
       "code": "masha005",
@@ -4276,8 +5540,8 @@
     },
     {
       "code": "valek014",
-      "object": "valek",
-      "caption": "Широкая челюсть · худой типаж",
+      "object": "base-girls",
+      "caption": "Валёк · Широкая челюсть · худой типаж",
       "sha256": "0490bcb8093ef2305f062498a4e44d596430b20dfc1258e20abed12ee58303ce",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek014.png",
@@ -4285,7 +5549,7 @@
         "docs/World/characters/valek/images/valek014.png"
       ],
       "galleries": [
-        "World"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4296,12 +5560,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Широкая челюсть · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek015",
-      "object": "valek",
-      "caption": "Высокие скулы · худой типаж",
+      "object": "base-girls",
+      "caption": "Валёк · Высокие скулы · худой типаж",
       "sha256": "4a621907cdf1d191f1384056045089865256cf2e67411f4058ba31d071b967ce",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek015.png",
@@ -4309,7 +5589,7 @@
         "docs/World/characters/valek/images/valek015.png"
       ],
       "galleries": [
-        "World"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4320,12 +5600,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Высокие скулы · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek016",
-      "object": "valek",
-      "caption": "Острые черты · худой типаж",
+      "object": "base-girls",
+      "caption": "Валёк · Острые черты · худой типаж",
       "sha256": "5538f98f747f458b80ce8a9f740cad4867119d1dfd24a2ff22988ab3d865bbef",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek016.png",
@@ -4333,7 +5629,7 @@
         "docs/World/characters/valek/images/valek016.png"
       ],
       "galleries": [
-        "World"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4344,12 +5640,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Острые черты · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek017",
-      "object": "valek",
-      "caption": "Мягкий овал · худой типаж",
+      "object": "base-girls",
+      "caption": "Валёк · Мягкий овал · худой типаж",
       "sha256": "6c70fbbfde4cc9d82e3b7c65ca54c96187903669c93244625dfbe64f181ccee1",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek017.png",
@@ -4357,7 +5669,7 @@
         "docs/World/characters/valek/images/valek017.png"
       ],
       "galleries": [
-        "World"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4368,7 +5680,23 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Мягкий овал · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek018",
@@ -4588,7 +5916,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "don026",
@@ -4612,7 +5940,7 @@
         "don15"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "emma009",
@@ -5804,6 +7132,334 @@
         "costume",
         "acting",
         "states"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais043",
+      "object": "tais",
+      "caption": "Пов’язка · вузька стрічка",
+      "sha256": "fae9040a8694850e67b4e2d6a8d8621f05726a66ed89da7ec38b8b760ac37120",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/tais/images/tais043.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais043.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais006",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais044",
+      "object": "tais",
+      "caption": "Пов’язка · плаский вузол",
+      "sha256": "6885922134e29a8bcabac7587a21f1c18239cb7426b1b68ce540197a12fb2648",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/tais/images/tais044.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais044.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais009",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don027",
+      "object": "don15",
+      "caption": "Визор · три світлові стани",
+      "sha256": "8117e84026c8aa95c7d0ac89b4fe7d8da5bb1795398b14143950973351fd6845",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/robots/don15/images/don027.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don027.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don022",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "lighting-study"
+    },
+    {
+      "code": "don028",
+      "object": "don15",
+      "caption": "Рицар · прицілювання",
+      "sha256": "abcf6cefc4c212c812ccd6b70b9863529e6b9ee402b404e7c454856a50bb91aa",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/robots/don15/images/don028.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don028.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don022",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "aiming-pose"
+    },
+    {
+      "code": "lon011",
+      "object": "lon",
+      "caption": "Контур · рівні опори",
+      "sha256": "030b8b068f20d57cadca94306085d12bedbf754d94b860b9ba189e808d692fc6",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/robots/lon/images/lon011.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon011.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon010",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin009",
+      "object": "martin",
+      "caption": "Вихователь · робочий халат",
+      "sha256": "6c1738ef913868c1a504b73984ab21c34da1f9d77e8b56511a5cdcdf62a12588",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/robots/martin/images/martin009.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin009.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "martin002",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin010",
+      "object": "martin",
+      "caption": "Вихователь · геометричний халат",
+      "sha256": "ab1307222a72309af90d7d982bbbbbaed2e54b1aa6d216b157491741ef0f837d",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/robots/martin/images/martin010.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin010.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "martin004",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "nitka012",
+      "object": "nitka",
+      "caption": "Варіант 010 · за шиттям",
+      "sha256": "861e6a29959dd658ec0b2fb37b5db40cb4ec558f4dbfa7af39ac0e95fe8024cc",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/nitka/images/nitka012.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka012.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "nitka010",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "working-pose"
+    },
+    {
+      "code": "nitka013",
+      "object": "nitka",
+      "caption": "Варіант 009 · за шиттям",
+      "sha256": "74a2576dad14e3f7d8a79fde0bdb41c3c15955531757bba7fff6a598880a0607",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/nitka/images/nitka013.png",
+      "aliases": [
+        "docs/World/characters/nitka/images/nitka013.png"
+      ],
+      "galleries": [
+        "World/characters/nitka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "nitka009",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derivation_kind": "working-pose"
+    },
+    {
+      "code": "valek019",
+      "object": "valek",
+      "caption": "Від 018 · індивідуальність і реалізм",
+      "sha256": "a0301e9babb654ff9ff58bdc412a2c8d96966ed6fea6b2fbb54b8379ff2378e2",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/valek/images/valek019.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek019.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek018",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "valek020",
+      "object": "valek",
+      "caption": "Від 013 · стриманий характер",
+      "sha256": "bf008db79bfae923e71e44991c83a994152e93fc7dddf067b15686eef24b4b3e",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/valek/images/valek020.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek020.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek013",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka007",
+      "object": "kolka",
+      "caption": "Живий типаж · зібраний погляд",
+      "sha256": "0d21c935cb7115125ad9b1555adb5015c0a4486e8a3b27d450b968e80e43b41e",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/kolka/images/kolka007.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka007.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka002",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka008",
+      "object": "kolka",
+      "caption": "Кастингова проба · змішані риси",
+      "sha256": "588253a438adb73147509ef7a11475b707e4ce29ddd876460c32a4134b184c9b",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/kolka/images/kolka008.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka008.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka002",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "masha007",
+      "object": "masha",
+      "caption": "Від 006 · теплий кастинговий напрям",
+      "sha256": "88149119738bfccc82a70980b7028ecb543c79bd79f0b1e16875eb455f22848c",
+      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
+      "source_file": "docs/World/characters/masha/images/masha007.png",
+      "aliases": [
+        "docs/World/characters/masha/images/masha007.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "masha006",
+      "renditions": [],
+      "task_ids": [
+        "support"
       ],
       "series": "current",
       "visibility": "active"
