@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T11:57:07.418737+00:00",
+  "generatedAt": "2026-10-28T17:23:11.785800+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJbaS",
+      "page": "ships/moag/",
+      "title": "Моаг · корабль",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-28T17:22:55Z",
+      "excerpt": "moag 003 - это из чужих/прометей https://cults3d.com/en/3d-model/art/ship-juggernaut-of-engineers-from-the-planet-lv-223-prometheus а 25 чуток формой похож на корабль из 5 элемента. @Женя, а можем попытаться плз еще торообразных коралей погенерить? Но так ч…",
+      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19248786"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJZG0",
       "page": "characters/valek/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-10-28T09:48:28Z",
       "excerpt": "возможно, тут дело в бандане и тд. мне лицо очень нравится во всех трех, но tais009 и tais006 больше всего. Tais009 - это микс с Беллой, это очень частая сейчас форма лица. Из-за ротового типа дыхания и узкой челюсти, простите. Как только мы начинаем давать…",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19238918"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJYpw",
-      "page": "ships/moag/",
-      "title": "Моаг · корабль",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T08:26:10Z",
-      "excerpt": "В моей голове \"станция\" - всегда \"кольцеобразная\". мне moag017 больше всего заходит.",
-      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19237488"
     }
   ],
   "discussionNumbers": {
-    "characters/valek/": 60,
     "ships/moag/": 62,
+    "characters/valek/": 60,
     "robots/don15/": 53,
     "characters/tais/": 56,
     "characters/rita/": 85,
@@ -240,10 +240,10 @@
       "last": null
     },
     "ships/moag/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-28T10:01:02Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-28T17:22:55Z"
       }
     },
     "ships/moag/reference.html": {
