@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T18:16:17.042591+00:00",
+  "generatedAt": "2026-10-28T18:35:21.924321+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJb4E",
+      "page": "ships/moag/",
+      "title": "Моаг · корабль",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:35:05Z",
+      "excerpt": "Сделал светлее Двор и Обод: moag037–040. Старые ракурсы оставил для сравнения. https://esannikov.github.io/Alive/World/ships/moag/#moag039",
+      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19250692"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJbwv",
       "page": "characters/fedor/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-28T18:14:54Z",
       "excerpt": "Добавил две пробы Кольки — kolka007 и kolka008. Прежние варианты оставил. https://esannikov.github.io/Alive/World/characters/kolka/#kolka007",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19250184"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbwH",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:14:51Z",
-      "excerpt": "Добавил nitka012 и nitka013 за шитьём. nitka006 перенёс в кастинговый резерв, а 007 оставил. Сделал сравнение с Вальком и Эммой: https://esannikov.github.io/Alive/World/characters/cast-contrast/",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19250183"
     }
   ],
   "discussionNumbers": {
+    "ships/moag/": 62,
     "characters/fedor/": 52,
     "characters/emma/": 57,
     "characters/masha/": 50,
@@ -59,7 +60,6 @@
     "robots/don15/": 53,
     "robots/lon/": 44,
     "characters/tais/": 56,
-    "ships/moag/": 62,
     "characters/rita/": 85,
     "characters/katya/": 67,
     "robots/scale/": 54
@@ -240,10 +240,10 @@
       "last": null
     },
     "ships/moag/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T17:22:55Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:35:05Z"
       }
     },
     "ships/moag/reference.html": {
