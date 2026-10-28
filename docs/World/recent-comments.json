@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T18:13:43.903593+00:00",
+  "generatedAt": "2026-10-28T18:15:06.697453+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJbwI",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:14:54Z",
+      "excerpt": "Добавил две пробы Кольки — kolka007 и kolka008. Прежние варианты оставил. https://esannikov.github.io/Alive/World/characters/kolka/#kolka007",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19250184"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJbwH",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:14:51Z",
+      "excerpt": "Добавил nitka012 и nitka013 за шитьём. nitka006 перенёс в кастинговый резерв, а 007 оставил. Сделал сравнение с Вальком и Эммой: https://esannikov.github.io/Alive/World/characters/cast-contrast/",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19250183"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJbwE",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:14:49Z",
+      "excerpt": "Добавил два варианта халата — martin009 и martin010. У второго сделал более геометричный крой. https://esannikov.github.io/Alive/World/robots/martin/#martin010",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19250180"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJbve",
       "page": "characters/valek/",
@@ -19,36 +46,12 @@
       "createdAt": "2026-10-28T18:13:29Z",
       "excerpt": "Оставил don022, убрал варианты, которые Лена отметила. Добавил состояния визора don027 и прицеливание don028. https://esannikov.github.io/Alive/World/robots/don15/#don027",
       "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19250140"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbva",
-      "page": "robots/lon/",
-      "title": "Лон",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:13:27Z",
-      "excerpt": "Убрал lon003 и lon004. Добавил lon011 с более прямым открытым корпусом. https://esannikov.github.io/Alive/World/robots/lon/#lon011",
-      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19250138"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbuT",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:11:19Z",
-      "excerpt": "Добавил три широкие повязки — tais045–047. Узкие убрал. https://esannikov.github.io/Alive/World/characters/tais/#tais045",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19250067"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbaS",
-      "page": "ships/moag/",
-      "title": "Моаг · корабль",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-28T17:22:55Z",
-      "excerpt": "moag 003 - это из чужих/прометей https://cults3d.com/en/3d-model/art/ship-juggernaut-of-engineers-from-the-planet-lv-223-prometheus а 25 чуток формой похож на корабль из 5 элемента. @Женя, а можем попытаться плз еще торообразных коралей погенерить? Но так ч…",
-      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19248786"
     }
   ],
   "discussionNumbers": {
+    "characters/kolka/": 59,
+    "characters/nitka/": 48,
+    "robots/martin/": 61,
     "characters/valek/": 60,
     "robots/don15/": 53,
     "robots/lon/": 44,
@@ -56,10 +59,7 @@
     "ships/moag/": 62,
     "characters/rita/": 85,
     "characters/fedor/": 52,
-    "robots/martin/": 61,
-    "characters/nitka/": 48,
     "characters/emma/": 57,
-    "characters/kolka/": 59,
     "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54
@@ -107,10 +107,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
         "author": "esannikov",
-        "createdAt": "2026-10-27T14:14:51Z"
+        "createdAt": "2026-10-28T18:14:54Z"
       }
     },
     "characters/kolka/reference.html": {
@@ -129,10 +129,10 @@
       "last": null
     },
     "characters/nitka/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:44:13Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:14:51Z"
       }
     },
     "characters/nitka/reference.html": {
@@ -229,10 +229,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:53:51Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:14:49Z"
       }
     },
     "robots/martin/reference.html": {
