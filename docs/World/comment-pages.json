@@ -197,12 +197,12 @@
   {
     "term": "Alive/World/characters/base-girls/",
     "page": "characters/base-girls/",
-    "title": "Девочки с базы"
+    "title": "Кастинговий резерв"
   },
   {
     "term": "Alive/World/characters/base-girls/reference",
     "page": "characters/base-girls/reference.html",
-    "title": "Девочки с базы · справка"
+    "title": "Кастинговий резерв · справка"
   },
   {
     "term": "Alive/World/search",
@@ -213,5 +213,10 @@
     "term": "Alive/World/robots/scale/",
     "page": "robots/scale/",
     "title": "Роботы · размерный лист"
+  },
+  {
+    "term": "Alive/World/characters/cast-contrast/",
+    "page": "characters/cast-contrast/",
+    "title": "Нитка · Валёк · Эмма"
   }
 ]

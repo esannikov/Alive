@@ -18,7 +18,7 @@ const base=process.env.WORLD_BASE_URL||'http://127.0.0.1:8769/World/';
   }
   await page.goto(base+'characters/emma/#emma006');assert.equal(await page.locator('#hero-code').innerText(),'emma006');assert(page.url().includes('/emma/'));
   await page.goto(base+'characters/base-girls/#emma006');assert.equal(await page.locator('#hero-code').innerText(),'emma006');assert(page.url().includes('/base-girls/'));
-  assert.equal(await page.locator('#viewer-rail .rail-item').count(),1);
+  assert.equal(await page.locator('#viewer-rail .rail-item').count(),84);
   await page.goto(base+'characters/base-girls/?giscus=test-return');assert.equal(await page.locator('#hero-code').innerText(),'emma006');assert(page.url().endsWith('#emma006'));
   await page.goto(base+'search.html?q=emma006');assert.equal(await page.locator('.search-result').count(),1);assert((await page.locator('.search-result').getAttribute('href')).includes('/characters/emma/#emma006'));
   assert.deepEqual(errors,[]);console.log('PASS: all ten Emma originals, comparison, one search result, reserve deep link and OAuth selection');
