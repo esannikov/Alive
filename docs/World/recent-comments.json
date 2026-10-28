@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T18:15:06.697453+00:00",
+  "generatedAt": "2026-10-28T18:16:17.042591+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJbwv",
+      "page": "characters/fedor/",
+      "title": "Федор",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:16:04Z",
+      "excerpt": "Добавил четыре новых типажа Федора — fedor027–030. Все предыдущие варианты, включая 021 и 023, оставил. https://esannikov.github.io/Alive/World/characters/fedor/#fedor027",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19250223"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJbwt",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:16:02Z",
+      "excerpt": "Вернул все варианты Эммы — emma001–010. Новые тоже оставил, можно сравнить и выбрать. https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19250221"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJbwr",
+      "page": "characters/masha/",
+      "title": "Маша",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:16:00Z",
+      "excerpt": "Убрал masha003 и masha004 из галереи, добавил пробу masha007. masha001 и masha006 на месте. https://esannikov.github.io/Alive/World/characters/masha/#masha007",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19250219"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJbwI",
       "page": "characters/kolka/",
@@ -19,36 +46,12 @@
       "createdAt": "2026-10-28T18:14:51Z",
       "excerpt": "Добавил nitka012 и nitka013 за шитьём. nitka006 перенёс в кастинговый резерв, а 007 оставил. Сделал сравнение с Вальком и Эммой: https://esannikov.github.io/Alive/World/characters/cast-contrast/",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19250183"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbwE",
-      "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:14:49Z",
-      "excerpt": "Добавил два варианта халата — martin009 и martin010. У второго сделал более геометричный крой. https://esannikov.github.io/Alive/World/robots/martin/#martin010",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19250180"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbve",
-      "page": "characters/valek/",
-      "title": "Валёк",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:13:32Z",
-      "excerpt": "Оставил valek013 и valek018, остальные отложил в кастинговый резерв. Добавил две более сдержанные пробы — valek019 и valek020. https://esannikov.github.io/Alive/World/characters/valek/#valek019",
-      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19250142"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbvc",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:13:29Z",
-      "excerpt": "Оставил don022, убрал варианты, которые Лена отметила. Добавил состояния визора don027 и прицеливание don028. https://esannikov.github.io/Alive/World/robots/don15/#don027",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19250140"
     }
   ],
   "discussionNumbers": {
+    "characters/fedor/": 52,
+    "characters/emma/": 57,
+    "characters/masha/": 50,
     "characters/kolka/": 59,
     "characters/nitka/": 48,
     "robots/martin/": 61,
@@ -58,9 +61,6 @@
     "characters/tais/": 56,
     "ships/moag/": 62,
     "characters/rita/": 85,
-    "characters/fedor/": 52,
-    "characters/emma/": 57,
-    "characters/masha/": 50,
     "characters/katya/": 67,
     "robots/scale/": 54
   },
@@ -85,10 +85,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T18:34:28Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:16:02Z"
       }
     },
     "characters/emma/reference.html": {
@@ -96,10 +96,10 @@
       "last": null
     },
     "characters/fedor/": {
-      "messageCount": 10,
+      "messageCount": 11,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-28T08:07:31Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:16:04Z"
       }
     },
     "characters/fedor/reference.html": {
@@ -140,10 +140,10 @@
       "last": null
     },
     "characters/masha/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T11:36:05Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:16:00Z"
       }
     },
     "characters/masha/reference.html": {
