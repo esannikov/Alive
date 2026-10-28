@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:03:37.908701+00:00",
+  "generatedAt": "2026-10-28T08:07:45.908528+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJYlq",
+      "page": "characters/fedor/",
+      "title": "Федор",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-28T08:07:31Z",
+      "excerpt": "Женщин притягивают персонажи с негативным обаянием, это понятно. просто по книге Федор - прям светлый, надежный персонаж, однолюб и тп.",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19237226"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJYkn",
       "page": "characters/tais/",
@@ -37,24 +46,15 @@
       "createdAt": "2026-10-27T18:44:13Z",
       "excerpt": "nitka009 тоже очень нравится. прямо вариант 2 после nitka010 . на контрасте с Вальком",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19225036"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJVkG",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-27T18:34:28Z",
-      "excerpt": "Новую при этом тоже оставив",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224838"
     }
   ],
   "discussionNumbers": {
+    "characters/fedor/": 52,
     "characters/tais/": 56,
     "robots/lon/": 44,
     "robots/martin/": 61,
     "characters/nitka/": 48,
     "characters/emma/": 57,
-    "characters/fedor/": 52,
     "characters/kolka/": 59,
     "robots/don15/": 53,
     "characters/valek/": 60,
@@ -95,10 +95,10 @@
       "last": null
     },
     "characters/fedor/": {
-      "messageCount": 9,
+      "messageCount": 10,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T14:21:39Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-28T08:07:31Z"
       }
     },
     "characters/fedor/reference.html": {
