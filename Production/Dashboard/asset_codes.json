@@ -10,7 +10,7 @@
     "Future prefixes are unique per object."
   ],
   "next_numbers": {
-    "tais": 45,
+    "tais": 48,
     "fedor": 31,
     "moag": 37,
     "emma": 11,
@@ -7137,54 +7137,6 @@
       "visibility": "active"
     },
     {
-      "code": "tais043",
-      "object": "tais",
-      "caption": "Пов’язка · вузька стрічка",
-      "sha256": "fae9040a8694850e67b4e2d6a8d8621f05726a66ed89da7ec38b8b760ac37120",
-      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
-      "source_file": "docs/World/characters/tais/images/tais043.png",
-      "aliases": [
-        "docs/World/characters/tais/images/tais043.png"
-      ],
-      "galleries": [
-        "World/characters/tais"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "tais006",
-      "renditions": [],
-      "task_ids": [
-        "tais",
-        "character-concepts"
-      ],
-      "series": "current",
-      "visibility": "active"
-    },
-    {
-      "code": "tais044",
-      "object": "tais",
-      "caption": "Пов’язка · плаский вузол",
-      "sha256": "6885922134e29a8bcabac7587a21f1c18239cb7426b1b68ce540197a12fb2648",
-      "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
-      "source_file": "docs/World/characters/tais/images/tais044.png",
-      "aliases": [
-        "docs/World/characters/tais/images/tais044.png"
-      ],
-      "galleries": [
-        "World/characters/tais"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "tais009",
-      "renditions": [],
-      "task_ids": [
-        "tais",
-        "character-concepts"
-      ],
-      "series": "current",
-      "visibility": "active"
-    },
-    {
       "code": "don027",
       "object": "don15",
       "caption": "Визор · три світлові стани",
@@ -7463,10 +7415,84 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "tais045",
+      "object": "tais",
+      "caption": "Широка пов’язка · чорна м’яка",
+      "sha256": "b414d445770ea367bebe440c07d73b1ba343db3df41f013e05e1c06a9524c6f5",
+      "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
+      "source_file": "docs/World/characters/tais/images/tais045.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais045.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais006",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais046",
+      "object": "tais",
+      "caption": "Широка пов’язка · графітова",
+      "sha256": "0074b3a2abeab4119936729940506c050d7dd0eb7496743269a6115f4ccf59d6",
+      "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
+      "source_file": "docs/World/characters/tais/images/tais046.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais046.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais009",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais047",
+      "object": "tais",
+      "caption": "Широка пов’язка · чорно-біла",
+      "sha256": "ca626f9e3a917bba166ea73fe7f38ed8c60334e3d53890f28b469ab9b7c1e5c6",
+      "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
+      "source_file": "docs/World/characters/tais/images/tais047.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais047.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais006",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
     "moag005",
-    "moag009"
+    "moag009",
+    "tais043",
+    "tais044"
   ]
 }
