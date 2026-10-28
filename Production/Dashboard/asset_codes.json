@@ -12,7 +12,7 @@
   "next_numbers": {
     "tais": 48,
     "fedor": 31,
-    "moag": 41,
+    "moag": 45,
     "emma": 11,
     "kolka": 9,
     "lon": 12,
@@ -7578,6 +7578,98 @@
         "hull"
       ],
       "series": "moag-annulus-light",
+      "visibility": "active"
+    },
+    {
+      "code": "moag041",
+      "object": "moag",
+      "caption": "Едем · велике коло",
+      "sha256": "68ccf88187068c0f00d6706680a0054ebf60434c6f8d2af7c5eb3440c7e6c421",
+      "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
+      "source_file": "docs/World/ships/moag/images/moag041.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag041.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-city-circle",
+      "visibility": "active"
+    },
+    {
+      "code": "moag042",
+      "object": "moag",
+      "caption": "Едем · монументальний овал",
+      "sha256": "d393939adbe09d0b713fbca6f0decaadfb07f5b6afc81d1859a96c5bb524270e",
+      "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
+      "source_file": "docs/World/ships/moag/images/moag042.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag042.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-city-oval",
+      "visibility": "active"
+    },
+    {
+      "code": "moag043",
+      "object": "moag",
+      "caption": "Едем · витягнутий еліпс",
+      "sha256": "e8e49382c0d832eb6bc4471a52647b7baf2d47bd9bbd35335b70daa97bd8e775",
+      "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
+      "source_file": "docs/World/ships/moag/images/moag043.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag043.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-city-ellipse",
+      "visibility": "active"
+    },
+    {
+      "code": "moag044",
+      "object": "moag",
+      "caption": "Едем · складний радіальний",
+      "sha256": "e0bb086e5e274cdbc35677abe742a860d02b92d1f887e5d1f42082a04508c0d2",
+      "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
+      "source_file": "docs/World/ships/moag/images/moag044.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag044.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-city-radial",
       "visibility": "active"
     }
   ],
