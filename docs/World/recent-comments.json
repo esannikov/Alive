@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T18:11:38.680919+00:00",
+  "generatedAt": "2026-10-28T18:13:43.903593+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJbve",
+      "page": "characters/valek/",
+      "title": "Валёк",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:13:32Z",
+      "excerpt": "Оставил valek013 и valek018, остальные отложил в кастинговый резерв. Добавил две более сдержанные пробы — valek019 и valek020. https://esannikov.github.io/Alive/World/characters/valek/#valek019",
+      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19250142"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJbvc",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:13:29Z",
+      "excerpt": "Оставил don022, убрал варианты, которые Лена отметила. Добавил состояния визора don027 и прицеливание don028. https://esannikov.github.io/Alive/World/robots/don15/#don027",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19250140"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJbva",
+      "page": "robots/lon/",
+      "title": "Лон",
+      "author": "esannikov",
+      "createdAt": "2026-10-28T18:13:27Z",
+      "excerpt": "Убрал lon003 и lon004. Добавил lon011 с более прямым открытым корпусом. https://esannikov.github.io/Alive/World/robots/lon/#lon011",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19250138"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJbuT",
       "page": "characters/tais/",
@@ -19,43 +46,16 @@
       "createdAt": "2026-10-28T17:22:55Z",
       "excerpt": "moag 003 - это из чужих/прометей https://cults3d.com/en/3d-model/art/ship-juggernaut-of-engineers-from-the-planet-lv-223-prometheus а 25 чуток формой похож на корабль из 5 элемента. @Женя, а можем попытаться плз еще торообразных коралей погенерить? Но так ч…",
       "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19248786"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJZG0",
-      "page": "characters/valek/",
-      "title": "Валёк",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-28T10:16:30Z",
-      "excerpt": "да, valek013 или valek018 у меня тоже. Остальных можем тут отпускать пока)",
-      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19239348"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJZDP",
-      "page": "ships/moag/",
-      "title": "Моаг · корабль",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-28T10:01:02Z",
-      "excerpt": "moag017 - она откуда-то прямо... Женя, не помнишь? но тут и переходы и тд красиво будут. moag003 моя прелесть) но наверное надо убирать - разделения на два крыла в целом нам дадут другую схему маршрутов и географию в целом. moag004 тоже. moag0010 тоже, moag…",
-      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19239119"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJZBJ",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-28T09:53:26Z",
-      "excerpt": "Женя, может тогда почистить пока совсем не наших? я своих дам ненужных - don004 и don0013, don0016, ну и don0025 don0026",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19238985"
     }
   ],
   "discussionNumbers": {
-    "characters/tais/": 56,
-    "ships/moag/": 62,
     "characters/valek/": 60,
     "robots/don15/": 53,
+    "robots/lon/": 44,
+    "characters/tais/": 56,
+    "ships/moag/": 62,
     "characters/rita/": 85,
     "characters/fedor/": 52,
-    "robots/lon/": 44,
     "robots/martin/": 61,
     "characters/nitka/": 48,
     "characters/emma/": 57,
@@ -118,10 +118,10 @@
       "last": null
     },
     "characters/valek/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-28T10:16:30Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:13:32Z"
       }
     },
     "characters/valek/reference.html": {
@@ -207,10 +207,10 @@
       "last": null
     },
     "robots/lon/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-27T19:21:45Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:13:27Z"
       }
     },
     "robots/lon/reference.html": {
@@ -218,10 +218,10 @@
       "last": null
     },
     "robots/don15/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-28T09:53:26Z"
+        "author": "esannikov",
+        "createdAt": "2026-10-28T18:13:29Z"
       }
     },
     "robots/don15/reference.html": {
