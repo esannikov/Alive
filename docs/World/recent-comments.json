@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:11:36.747134+00:00",
+  "generatedAt": "2026-10-28T08:16:55.309189+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BJYmi",
@@ -49,6 +49,7 @@
     }
   ],
   "discussionNumbers": {
+    "characters/rita/": 85,
     "characters/valek/": 60,
     "characters/fedor/": 52,
     "characters/tais/": 56,
