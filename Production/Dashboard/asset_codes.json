@@ -12,7 +12,7 @@
   "next_numbers": {
     "tais": 48,
     "fedor": 31,
-    "moag": 37,
+    "moag": 41,
     "emma": 11,
     "kolka": 9,
     "lon": 12,
@@ -7486,6 +7486,98 @@
         "character-concepts"
       ],
       "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "moag037",
+      "object": "moag",
+      "caption": "Двор · світлий корпус · ракурс 1",
+      "sha256": "78b64c1b08dfa7b177893e788a39c054ff72cd090d51431d33927fb04367c558",
+      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
+      "source_file": "docs/World/ships/moag/images/moag037.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag037.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "moag007",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-courtyard-light",
+      "visibility": "active"
+    },
+    {
+      "code": "moag038",
+      "object": "moag",
+      "caption": "Двор · світлий корпус · ракурс 2",
+      "sha256": "64a9a884a8d3a94ebc2822168a221639568aaa260c5344faa13b74876d531e3a",
+      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
+      "source_file": "docs/World/ships/moag/images/moag038.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag038.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "moag008",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-courtyard-light",
+      "visibility": "active"
+    },
+    {
+      "code": "moag039",
+      "object": "moag",
+      "caption": "Обод · Едем · ракурс 1",
+      "sha256": "2e8cefdb91ef37d614a09ca91a20195b8ba3b16cdc1ecfb982bad3d76c9de56e",
+      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
+      "source_file": "docs/World/ships/moag/images/moag039.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag039.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "moag017",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-annulus-light",
+      "visibility": "active"
+    },
+    {
+      "code": "moag040",
+      "object": "moag",
+      "caption": "Обод · Едем · ракурс 2",
+      "sha256": "592fd91aa5b8d9e187a63397596a97ae3f265f18c80f073d899d5b5ff82285e1",
+      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
+      "source_file": "docs/World/ships/moag/images/moag040.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag040.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "moag018",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-annulus-light",
       "visibility": "active"
     }
   ],
