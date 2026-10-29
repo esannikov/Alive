@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:30:55.446160+00:00",
+  "generatedAt": "2026-10-29T13:31:35.264988+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJgI_",
+      "page": "characters/katya/",
+      "title": "Катя",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T13:31:19Z",
+      "excerpt": "katya003 - огинь.",
+      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19268159"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJgIy",
       "page": "characters/masha/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-29T12:24:56Z",
       "excerpt": "ой, ну очень красивые новые. moag042 очень очень. moag043 и moag044 тоже. moag038 и moag038 тоже. Они у нас на орбите крутятся, может быть в теории кадр, как мы попадаем внутрь с панорамы, влетая куда-то через какой-то трюм или хз",
       "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19267029"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJfhO",
-      "page": "characters/valek/",
-      "title": "Валёк",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T10:57:26Z",
-      "excerpt": "ну мне кажется, тут нашли. valek013 и valek020 уходят домой. И остаются два варианта valek018 и valek019, которые по сути один.",
-      "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19265614"
     }
   ],
   "discussionNumbers": {
+    "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/tais/": 56,
     "characters/nitka/": 48,
@@ -61,7 +62,6 @@
     "robots/don15/": 53,
     "robots/lon/": 44,
     "characters/rita/": 85,
-    "characters/katya/": 67,
     "robots/scale/": 54
   },
   "discussionStats": {
@@ -151,8 +151,11 @@
       "last": null
     },
     "characters/katya/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:31:19Z"
+      }
     },
     "characters/katya/reference.html": {
       "messageCount": 0,
