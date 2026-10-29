@@ -27,7 +27,8 @@
     "egor": 7,
     "zhanna": 7,
     "rita": 7,
-    "krendel": 7
+    "krendel": 7,
+    "vovik": 7
   },
   "assets": [
     {
@@ -6970,6 +6971,150 @@
         "hull"
       ],
       "series": "moag-city-radial",
+      "visibility": "active"
+    },
+    {
+      "code": "vovik001",
+      "object": "vovik",
+      "caption": "Узкое лицо · русый",
+      "sha256": "5b36d4e8523cb5ee659b79579b6279fb152637d2472c2c44fbfbccf1e7159295",
+      "source_commit": "ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a",
+      "source_file": "docs/World/characters/vovik/images/vovik001.png",
+      "aliases": [
+        "docs/World/characters/vovik/images/vovik001.png"
+      ],
+      "galleries": [
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_concept",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vovik002",
+      "object": "vovik",
+      "caption": "Широкие скулы · тёмный",
+      "sha256": "31b4bf79e9a4df3d24091367b83f90e5eeecdd92f53a6b701de94e7d08b05fdf",
+      "source_commit": "ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a",
+      "source_file": "docs/World/characters/vovik/images/vovik002.png",
+      "aliases": [
+        "docs/World/characters/vovik/images/vovik002.png"
+      ],
+      "galleries": [
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_concept",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vovik003",
+      "object": "vovik",
+      "caption": "Прямые волосы · миндалевидные глаза",
+      "sha256": "3d692f6354a53092e84c2958f1f5b0561c64cb288d4222a3fff81bac38a2769e",
+      "source_commit": "ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a",
+      "source_file": "docs/World/characters/vovik/images/vovik003.png",
+      "aliases": [
+        "docs/World/characters/vovik/images/vovik003.png"
+      ],
+      "galleries": [
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_concept",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vovik004",
+      "object": "vovik",
+      "caption": "Короткие кудри · тёплый тон",
+      "sha256": "ef33a53f6d5e79c1d65b48973ec8729ed1be5c3a45870790776dcab0ae9afe79",
+      "source_commit": "ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a",
+      "source_file": "docs/World/characters/vovik/images/vovik004.png",
+      "aliases": [
+        "docs/World/characters/vovik/images/vovik004.png"
+      ],
+      "galleries": [
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_concept",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vovik005",
+      "object": "vovik",
+      "caption": "Светлый · редкие веснушки",
+      "sha256": "83d3a3c732b0ddbdf905a43f3310783b92719ac3f93f9fa90ae123976fb1fccd",
+      "source_commit": "ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a",
+      "source_file": "docs/World/characters/vovik/images/vovik005.png",
+      "aliases": [
+        "docs/World/characters/vovik/images/vovik005.png"
+      ],
+      "galleries": [
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_concept",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vovik006",
+      "object": "vovik",
+      "caption": "Тёмные волны · мягкий квадрат",
+      "sha256": "954574e9627931531e9fb18dc311f6d1894d44fbae69c6dd683e9f93814a64d5",
+      "source_commit": "ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a",
+      "source_file": "docs/World/characters/vovik/images/vovik006.png",
+      "aliases": [
+        "docs/World/characters/vovik/images/vovik006.png"
+      ],
+      "galleries": [
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "casting_concept",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
       "visibility": "active"
     }
   ],
