@@ -4,9 +4,9 @@
  if(!viewer||!codeNode||!data?.comments?.enabled)return;
  const root=new URL(document.body.dataset.root||'./',location.href), cfg=data.comments;
  const box=document.createElement('section');box.className='variant-votes';box.setAttribute('aria-label','Голосование по варианту');
- const widget=document.createElement('div'),status=document.createElement('div'),hint=document.createElement('small');
- status.className='vote-summary';status.setAttribute('aria-live','polite');hint.className='vote-hint';hint.textContent='Женя, Лена ×2, Игорь · сводка обновляется в 09:00 и 21:00 по Киеву. При смене выбора учитывается последний из активных голосов.';
- box.append(widget,status,hint);viewer.querySelector('.viewer-caption').after(box);
+ const widget=document.createElement('div'),status=document.createElement('div');
+ status.className='vote-summary';status.setAttribute('aria-live','polite');
+ box.append(widget,status);viewer.querySelector('.viewer-caption').after(box);
  let current='',frame=null,feed=null,failed=false;
  const labels={esannikov:'Женя',elenaalive:'Лена', 'isto3110-ship-it':'Игорь'};
  function render(){status.replaceChildren();const v=feed?.variants?.[current];

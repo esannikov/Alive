@@ -9,6 +9,7 @@ import base64
 import datetime as dt
 import hashlib
 import json
+import os
 import re
 import subprocess
 from zoneinfo import ZoneInfo
@@ -262,7 +263,7 @@ def main():
     discussion_stats = {}
     items = collect(pages, config['categoryId'], discussion_numbers, discussion_stats)
     feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items, 'discussionNumbers': discussion_numbers, 'discussionStats': discussion_stats}
-    votes = collect_votes(pages, config) if config.get('voting') and (not args.publish or args.refresh_votes or votes_due()) else None
+    votes = collect_votes(pages, config) if config.get('voting') and (not args.publish or args.refresh_votes or os.environ.get('GITHUB_EVENT_NAME') == 'workflow_dispatch' or votes_due()) else None
     if votes is not None: votes['refreshSlot'] = vote_refresh_slot()
     if args.publish:
         publish(feed)
