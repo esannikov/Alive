@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:33:21.584394+00:00",
+  "generatedAt": "2026-10-29T13:34:47.004699+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJgKD",
+      "page": "characters/ilya/",
+      "title": "Илья",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T13:34:33Z",
+      "excerpt": "ilya001 наверное пока лидер. Они все прямо очень классные вышли.",
+      "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19268227"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJgJi",
       "page": "characters/katya/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-29T13:28:50Z",
       "excerpt": "не могу понять. мне все равно все три нравятся. по повязкам тут вопрос - а мы волосы, челку все время на лицо оставляем - по какой-то причине? может открыть лицо? И второй вопрос - там вчера набрасывали мы варианты еще Зендея https://www.empireonline.com/mo…",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19268111"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgHw",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:27:01Z",
-      "excerpt": "у меня пока nitka013 и она же nitka009 - лидер",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19268080"
     }
   ],
   "discussionNumbers": {
+    "characters/ilya/": 94,
     "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/tais/": 56,
@@ -162,8 +163,11 @@
       "last": null
     },
     "characters/ilya/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:34:33Z"
+      }
     },
     "characters/ilya/reference.html": {
       "messageCount": 0,
