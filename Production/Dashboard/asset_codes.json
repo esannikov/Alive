@@ -2419,8 +2419,8 @@
     },
     {
       "code": "fedor018",
-      "object": "fedor",
-      "caption": "Треугольное лицо",
+      "object": "base-girls",
+      "caption": "Федор · Треугольное лицо",
       "sha256": "8e8437862b8cc52854f2add864e8e6b65dbce4a975e0c01665acdbfdc27c0767",
       "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
       "source_file": "docs/FedorRefinement/images/fedor018.png",
@@ -2428,7 +2428,7 @@
         "docs/FedorRefinement/images/fedor018.png"
       ],
       "galleries": [
-        "FedorRefinement"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -2440,7 +2440,23 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет.",
+      "casting_origin": {
+        "object": "fedor",
+        "caption": "Треугольное лицо",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "FedorRefinement"
+        ],
+        "task_ids": [
+          "fedor"
+        ],
+        "title": "Федор"
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor019",
@@ -2592,7 +2608,7 @@
         "hull"
       ],
       "series": "moag-fork",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "moag004",
@@ -2616,7 +2632,7 @@
         "hull"
       ],
       "series": "moag-fork",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "moag006",
@@ -2643,54 +2659,6 @@
       "visibility": "active"
     },
     {
-      "code": "moag007",
-      "object": "moag",
-      "caption": "Двор · ракурс 1",
-      "sha256": "bf370f74c02e9b239005d26adad5b9f1d9ff60353141429e7c46271bc859732f",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag007-courtyard-front.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag007-courtyard-front.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-courtyard",
-      "visibility": "active"
-    },
-    {
-      "code": "moag008",
-      "object": "moag",
-      "caption": "Двор · ракурс 2",
-      "sha256": "e442477db66157d79a2f57bdf00e2863736dde0b1fce4b02914f92451918d56a",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag008-courtyard-rear.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag008-courtyard-rear.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": "moag007",
-      "derivation_kind": "alternate_view",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-courtyard",
-      "visibility": "active"
-    },
-    {
       "code": "moag010",
       "object": "moag",
       "caption": "Перекрёсток · ракурс 2",
@@ -2712,7 +2680,7 @@
         "hull"
       ],
       "series": "moag-crossroads",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "moag011",
@@ -2784,7 +2752,7 @@
         "hull"
       ],
       "series": "moag-parallax",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "moag014",
@@ -2808,7 +2776,7 @@
         "hull"
       ],
       "series": "moag-parallax",
-      "visibility": "active"
+      "visibility": "archived"
     },
     {
       "code": "moag015",
@@ -2856,54 +2824,6 @@
         "hull"
       ],
       "series": "moag-combine",
-      "visibility": "active"
-    },
-    {
-      "code": "moag017",
-      "object": "moag",
-      "caption": "Обод · ракурс 1",
-      "sha256": "bcb497d4de33f1bb5237ce2f4c846bf4fb0133a1b83751b8294bff6457cce3e0",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag017-annulus-front.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag017-annulus-front.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-annulus",
-      "visibility": "active"
-    },
-    {
-      "code": "moag018",
-      "object": "moag",
-      "caption": "Обод · ракурс 2",
-      "sha256": "8dc88b8693048d20adb2c43cd2acd2b81c2e6703b0956d40e6083a65001bdf32",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag018-annulus-rear.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag018-annulus-rear.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": "moag017",
-      "derivation_kind": "alternate_view",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-annulus",
       "visibility": "active"
     },
     {
@@ -3418,8 +3338,8 @@
     },
     {
       "code": "emma004",
-      "object": "emma",
-      "caption": "Твёрдый характер",
+      "object": "base-girls",
+      "caption": "Эмма · Твёрдый характер",
       "sha256": "ecc276ac5bb5a5e998bcc3037ac17430c546a7a7baee6eefad9d318a9ba8ba5b",
       "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
       "source_file": "docs/World/characters/emma/images/emma004.png",
@@ -3427,7 +3347,7 @@
         "docs/World/characters/emma/images/emma004.png"
       ],
       "galleries": [
-        "World/characters/emma"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3439,7 +3359,24 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "emma",
+        "caption": "Твёрдый характер",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/emma"
+        ],
+        "task_ids": [
+          "emma",
+          "character-concepts"
+        ],
+        "title": "Эмма"
+      },
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "emma005",
@@ -3468,8 +3405,8 @@
     },
     {
       "code": "emma006",
-      "object": "emma",
-      "caption": "Удлинённый профиль",
+      "object": "base-girls",
+      "caption": "Эмма · Удлинённый профиль",
       "sha256": "f7e1534087493b02bfc523b7418d0a25fd5b6eabe2c929268a80db53e0499c0a",
       "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
       "source_file": "docs/World/characters/emma/images/emma006.png",
@@ -3477,7 +3414,6 @@
         "docs/World/characters/emma/images/emma006.png"
       ],
       "galleries": [
-        "World/characters/emma",
         "World/characters/base-girls"
       ],
       "kind": "appearance",
@@ -3493,14 +3429,30 @@
       "series": "current",
       "visibility": "active",
       "producer_review_note": "По уточнению пользователя 24.10.2026 перенесён в галерею резерва для девочек с базы. Волосы и глаза не изменялись, конкретный персонаж не назначен. Код emma006 сохранён.",
-      "additional_objects": [
-        "base-girls"
+      "casting_origin": {
+        "object": "emma",
+        "caption": "Удлинённый профиль",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/emma",
+          "World/characters/base-girls"
+        ],
+        "task_ids": [
+          "emma",
+          "character-concepts",
+          "support"
+        ],
+        "title": "Эмма"
+      },
+      "previous_objects": [
+        "emma"
       ]
     },
     {
       "code": "kolka001",
-      "object": "kolka",
-      "caption": "Узкое лицо",
+      "object": "base-girls",
+      "caption": "Колька · Колючий · Узкое лицо",
       "sha256": "e28327a25763c3f7004c673be20ab54a71cf23e0cc274a60bca4a5e3bb5bca27",
       "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
       "source_file": "docs/World/characters/kolka/images/kolka001.png",
@@ -3508,7 +3460,7 @@
         "docs/World/characters/kolka/images/kolka001.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3519,7 +3471,23 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "kolka",
+        "caption": "Узкое лицо",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/kolka"
+        ],
+        "task_ids": [
+          "kolka"
+        ],
+        "title": "Колька · Колючий"
+      },
+      "previous_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "kolka002",
@@ -3627,8 +3595,8 @@
     },
     {
       "code": "kolka005",
-      "object": "kolka",
-      "caption": "Мягче по характеру",
+      "object": "base-girls",
+      "caption": "Колька · Колючий · Мягче по характеру",
       "sha256": "452081c71a5d26882436752be717f3fbd9bfb614c2a7daf62f13047ea7aeb51d",
       "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
       "source_file": "docs/World/characters/kolka/images/kolka005.png",
@@ -3636,7 +3604,7 @@
         "docs/World/characters/kolka/images/kolka005.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3647,7 +3615,23 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "kolka",
+        "caption": "Мягче по характеру",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/kolka"
+        ],
+        "task_ids": [
+          "kolka"
+        ],
+        "title": "Колька · Колючий"
+      },
+      "previous_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "kolka006",
@@ -5548,8 +5532,8 @@
     },
     {
       "code": "valek013",
-      "object": "valek",
-      "caption": "Узкий овал · худой типаж",
+      "object": "base-girls",
+      "caption": "Валёк · Узкий овал · худой типаж",
       "sha256": "0b2421d0ee53e81ae7169d4c29530e6d9eff01e97a4c92ff27b4949a50fa1c64",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek013.png",
@@ -5557,7 +5541,7 @@
         "docs/World/characters/valek/images/valek013.png"
       ],
       "galleries": [
-        "World"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5568,12 +5552,28 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "caption": "Узкий овал · худой типаж",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ],
+        "title": "Валёк"
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "valek014",
-      "object": "base-girls",
-      "caption": "Валёк · Широкая челюсть · худой типаж",
+      "object": "valek",
+      "caption": "Широкая челюсть · худой типаж",
       "sha256": "0490bcb8093ef2305f062498a4e44d596430b20dfc1258e20abed12ee58303ce",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek014.png",
@@ -5581,7 +5581,7 @@
         "docs/World/characters/valek/images/valek014.png"
       ],
       "galleries": [
-        "World/characters/base-girls"
+        "World/characters/valek"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5592,7 +5592,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "casting_origin": {
         "object": "valek",
         "title": "Валёк",
@@ -5607,13 +5607,13 @@
         ]
       },
       "previous_objects": [
-        "valek"
+        "base-girls"
       ]
     },
     {
       "code": "valek015",
-      "object": "base-girls",
-      "caption": "Валёк · Высокие скулы · худой типаж",
+      "object": "valek",
+      "caption": "Высокие скулы · худой типаж",
       "sha256": "4a621907cdf1d191f1384056045089865256cf2e67411f4058ba31d071b967ce",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek015.png",
@@ -5621,7 +5621,7 @@
         "docs/World/characters/valek/images/valek015.png"
       ],
       "galleries": [
-        "World/characters/base-girls"
+        "World/characters/valek"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5632,7 +5632,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "casting_origin": {
         "object": "valek",
         "title": "Валёк",
@@ -5647,13 +5647,13 @@
         ]
       },
       "previous_objects": [
-        "valek"
+        "base-girls"
       ]
     },
     {
       "code": "valek016",
-      "object": "base-girls",
-      "caption": "Валёк · Острые черты · худой типаж",
+      "object": "valek",
+      "caption": "Острые черты · худой типаж",
       "sha256": "5538f98f747f458b80ce8a9f740cad4867119d1dfd24a2ff22988ab3d865bbef",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek016.png",
@@ -5661,7 +5661,7 @@
         "docs/World/characters/valek/images/valek016.png"
       ],
       "galleries": [
-        "World/characters/base-girls"
+        "World/characters/valek"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5672,7 +5672,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "casting_origin": {
         "object": "valek",
         "title": "Валёк",
@@ -5687,13 +5687,13 @@
         ]
       },
       "previous_objects": [
-        "valek"
+        "base-girls"
       ]
     },
     {
       "code": "valek017",
-      "object": "base-girls",
-      "caption": "Валёк · Мягкий овал · худой типаж",
+      "object": "valek",
+      "caption": "Мягкий овал · худой типаж",
       "sha256": "6c70fbbfde4cc9d82e3b7c65ca54c96187903669c93244625dfbe64f181ccee1",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
       "source_file": "docs/World/characters/valek/images/valek017.png",
@@ -5701,7 +5701,7 @@
         "docs/World/characters/valek/images/valek017.png"
       ],
       "galleries": [
-        "World/characters/base-girls"
+        "World/characters/valek"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5712,7 +5712,7 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "casting_origin": {
         "object": "valek",
         "title": "Валёк",
@@ -5727,7 +5727,7 @@
         ]
       },
       "previous_objects": [
-        "valek"
+        "base-girls"
       ]
     },
     {
@@ -6214,8 +6214,8 @@
     },
     {
       "code": "fedor026",
-      "object": "fedor",
-      "caption": "Типаж fedor018 · анфас",
+      "object": "base-girls",
+      "caption": "Федор · Типаж fedor018 · анфас",
       "sha256": "8761897cbed44a8df9cd26e1beec5f4c983690eb76f5b84e808a4e96c28bf132",
       "source_commit": "a7435d25f8dbbd96bec7f2531ddcae6e4573a98e",
       "source_file": "docs/World/characters/fedor/images/fedor026.png",
@@ -6223,7 +6223,7 @@
         "docs/World/characters/fedor/images/fedor026.png"
       ],
       "galleries": [
-        "World/characters/fedor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6234,7 +6234,23 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "caption": "Типаж fedor018 · анфас",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/fedor"
+        ],
+        "task_ids": [
+          "fedor"
+        ],
+        "title": "Федор"
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "ilya001",
@@ -6284,8 +6300,8 @@
     },
     {
       "code": "ilya003",
-      "object": "ilya",
-      "caption": "C · мягкая геометрия",
+      "object": "egor",
+      "caption": "Проба на Егора · C · мягкая геометрия",
       "sha256": "9cff8714d44ece174e9322b74edc7196a768422ec0cc7e1c5ea656ce920756b3",
       "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
       "source_file": "docs/World/characters/ilya/images/ilya003.png",
@@ -6293,7 +6309,7 @@
         "docs/World/characters/ilya/images/ilya003.png"
       ],
       "galleries": [
-        "World/characters/ilya"
+        "World/characters/egor"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6303,7 +6319,23 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "ilya",
+        "caption": "C · мягкая геометрия",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/ilya"
+        ],
+        "task_ids": [
+          "support"
+        ],
+        "title": "Илья"
+      },
+      "previous_objects": [
+        "ilya"
+      ]
     },
     {
       "code": "ilya004",
@@ -7101,7 +7133,8 @@
         "docs/World/characters/fedor/images/fedor028.png"
       ],
       "galleries": [
-        "World/characters/fedor"
+        "World/characters/fedor",
+        "World/characters/kolka"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -7111,10 +7144,14 @@
         "fedor",
         "costume",
         "acting",
-        "states"
+        "states",
+        "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "additional_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "fedor029",
@@ -7144,8 +7181,8 @@
     },
     {
       "code": "fedor030",
-      "object": "fedor",
-      "caption": "Оригинальность + реализм · Лёгкая асимметрия",
+      "object": "base-girls",
+      "caption": "Федор · Оригинальность + реализм · Лёгкая асимметрия",
       "sha256": "0170d4ddeeef5f5726fd3b48c2b844a399de06f60aed785a192ccb21b6088383",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
       "source_file": "docs/World/characters/fedor/images/fedor030.png",
@@ -7153,7 +7190,7 @@
         "docs/World/characters/fedor/images/fedor030.png"
       ],
       "galleries": [
-        "World/characters/fedor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -7166,7 +7203,26 @@
         "states"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "fedor",
+        "caption": "Оригинальность + реализм · Лёгкая асимметрия",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/fedor"
+        ],
+        "task_ids": [
+          "fedor",
+          "costume",
+          "acting",
+          "states"
+        ],
+        "title": "Федор"
+      },
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "don027",
@@ -7358,8 +7414,8 @@
     },
     {
       "code": "valek020",
-      "object": "valek",
-      "caption": "От 013 · сдержанный характер",
+      "object": "base-girls",
+      "caption": "Валёк · От 013 · сдержанный характер",
       "sha256": "bf008db79bfae923e71e44991c83a994152e93fc7dddf067b15686eef24b4b3e",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/valek/images/valek020.png",
@@ -7367,7 +7423,7 @@
         "docs/World/characters/valek/images/valek020.png"
       ],
       "galleries": [
-        "World/characters/valek"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -7377,7 +7433,23 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "valek",
+        "caption": "От 013 · сдержанный характер",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/valek"
+        ],
+        "task_ids": [
+          "support"
+        ],
+        "title": "Валёк"
+      },
+      "previous_objects": [
+        "valek"
+      ]
     },
     {
       "code": "kolka007",
@@ -7521,98 +7593,6 @@
       "visibility": "active"
     },
     {
-      "code": "moag037",
-      "object": "moag",
-      "caption": "Двор · светлый корпус · ракурс 1",
-      "sha256": "78b64c1b08dfa7b177893e788a39c054ff72cd090d51431d33927fb04367c558",
-      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
-      "source_file": "docs/World/ships/moag/images/moag037.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag037.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "moag007",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-courtyard-light",
-      "visibility": "active"
-    },
-    {
-      "code": "moag038",
-      "object": "moag",
-      "caption": "Двор · светлый корпус · ракурс 2",
-      "sha256": "64a9a884a8d3a94ebc2822168a221639568aaa260c5344faa13b74876d531e3a",
-      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
-      "source_file": "docs/World/ships/moag/images/moag038.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag038.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "moag008",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-courtyard-light",
-      "visibility": "active"
-    },
-    {
-      "code": "moag039",
-      "object": "moag",
-      "caption": "Обод · Эдем · ракурс 1",
-      "sha256": "2e8cefdb91ef37d614a09ca91a20195b8ba3b16cdc1ecfb982bad3d76c9de56e",
-      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
-      "source_file": "docs/World/ships/moag/images/moag039.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag039.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "moag017",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-annulus-light",
-      "visibility": "active"
-    },
-    {
-      "code": "moag040",
-      "object": "moag",
-      "caption": "Обод · Эдем · ракурс 2",
-      "sha256": "592fd91aa5b8d9e187a63397596a97ae3f265f18c80f073d899d5b5ff82285e1",
-      "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
-      "source_file": "docs/World/ships/moag/images/moag040.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag040.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "moag018",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-annulus-light",
-      "visibility": "active"
-    },
-    {
       "code": "moag041",
       "object": "moag",
       "caption": "Эдем · большой круг",
@@ -7709,6 +7689,14 @@
     "moag005",
     "moag009",
     "tais043",
-    "tais044"
+    "tais044",
+    "moag007",
+    "moag008",
+    "moag017",
+    "moag018",
+    "moag037",
+    "moag038",
+    "moag039",
+    "moag040"
   ]
 }

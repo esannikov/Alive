@@ -44,9 +44,7 @@
       "emma001",
       "emma002",
       "emma003",
-      "emma004",
       "emma005",
-      "emma006",
       "emma007",
       "emma008",
       "emma009",
@@ -66,16 +64,13 @@
     "variantCodes": [
       "fedor009",
       "fedor017",
-      "fedor018",
       "fedor021",
       "fedor023",
       "fedor024",
       "fedor025",
-      "fedor026",
       "fedor027",
       "fedor028",
-      "fedor029",
-      "fedor030"
+      "fedor029"
     ]
   },
   {
@@ -89,9 +84,8 @@
     "page": "characters/kolka/",
     "title": "Колька · Колючий",
     "variantCodes": [
-      "kolka001",
       "kolka002",
-      "kolka005",
+      "fedor028",
       "kolka007",
       "kolka008"
     ]
@@ -107,10 +101,12 @@
     "page": "characters/valek/",
     "title": "Валёк",
     "variantCodes": [
-      "valek013",
+      "valek014",
+      "valek015",
+      "valek016",
+      "valek017",
       "valek018",
-      "valek019",
-      "valek020"
+      "valek019"
     ]
   },
   {
@@ -146,8 +142,6 @@
     "title": "Маша",
     "variantCodes": [
       "masha001",
-      "masha002",
-      "masha005",
       "masha006",
       "masha007"
     ]
@@ -184,7 +178,6 @@
     "variantCodes": [
       "ilya001",
       "ilya002",
-      "ilya003",
       "ilya004",
       "ilya005",
       "ilya006"
@@ -220,6 +213,7 @@
     "page": "characters/egor/",
     "title": "Егор",
     "variantCodes": [
+      "ilya003",
       "egor001",
       "egor002",
       "egor003",
@@ -383,8 +377,6 @@
       "moag003",
       "moag004",
       "moag006",
-      "moag007",
-      "moag008",
       "moag010",
       "moag011",
       "moag012",
@@ -392,8 +384,6 @@
       "moag014",
       "moag015",
       "moag016",
-      "moag017",
-      "moag018",
       "moag019",
       "moag020",
       "moag021",
@@ -412,10 +402,6 @@
       "moag034",
       "moag035",
       "moag036",
-      "moag037",
-      "moag038",
-      "moag039",
-      "moag040",
       "moag041",
       "moag042",
       "moag043",
@@ -487,11 +473,15 @@
       "fedor014",
       "fedor015",
       "fedor016",
+      "fedor018",
       "fedor019",
       "fedor020",
+      "emma004",
       "emma006",
+      "kolka001",
       "kolka003",
       "kolka004",
+      "kolka005",
       "kolka006",
       "fedor022",
       "valek001",
@@ -511,12 +501,14 @@
       "nitka003",
       "nitka004",
       "nitka006",
+      "masha002",
       "masha003",
       "masha004",
-      "valek014",
-      "valek015",
-      "valek016",
-      "valek017"
+      "masha005",
+      "valek013",
+      "fedor026",
+      "fedor030",
+      "valek020"
     ]
   },
   {
