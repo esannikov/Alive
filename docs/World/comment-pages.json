@@ -397,15 +397,33 @@
       "moag041",
       "moag042",
       "moag043",
-      "moag044",
-      "moag045",
-      "moag046"
+      "moag044"
     ]
   },
   {
     "term": "Alive/World/ships/moag/reference",
     "page": "ships/moag/reference.html",
     "title": "Моаг · корабль · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/locations/main-square/",
+    "page": "locations/main-square/",
+    "title": "Главная Площадь",
+    "variantCodes": [
+      "moag045",
+      "moag046",
+      "square001",
+      "square002",
+      "square003",
+      "square004",
+      "square005"
+    ]
+  },
+  {
+    "term": "Alive/World/locations/main-square/reference",
+    "page": "locations/main-square/reference.html",
+    "title": "Главная Площадь · справка",
     "variantCodes": []
   },
   {
