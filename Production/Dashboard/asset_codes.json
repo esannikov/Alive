@@ -12,7 +12,7 @@
   "next_numbers": {
     "tais": 48,
     "fedor": 31,
-    "moag": 45,
+    "moag": 46,
     "emma": 11,
     "kolka": 9,
     "lon": 12,
@@ -7115,6 +7115,30 @@
         "support"
       ],
       "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "moag045",
+      "object": "moag",
+      "caption": "Жилые острова · внутри тора",
+      "sha256": "5611052e8207928f916f4144cd914166e6d73af779161a544c26bf2fee659fed",
+      "source_commit": "001ee1c055c81c6fe6b99374476c727ff9cc5e57",
+      "source_file": "docs/World/ships/moag/images/moag045.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag045.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "moag-interior-islands",
       "visibility": "active"
     }
   ],
