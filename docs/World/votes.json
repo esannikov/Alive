@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T14:22:24.224396+00:00",
+  "generatedAt": "2026-10-29T20:27:28.502028+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -9,32 +9,6 @@
   "minimumAgainstPeople": 2,
   "automaticRemoval": false,
   "variants": {
-    "don001": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don002": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "don003": {
       "votes": [],
       "scores": {
@@ -48,46 +22,7 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "don004": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don005": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "don006": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don013": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -126,32 +61,6 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "don016": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don017": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "don018": {
       "votes": [],
       "scores": {
@@ -166,32 +75,6 @@
       "automaticRemoval": false
     },
     "don019": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don020": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don021": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -231,32 +114,6 @@
       "automaticRemoval": false
     },
     "don024": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don025": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "don026": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -439,17 +296,27 @@
       "automaticRemoval": false
     },
     "emma006": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T16:51:24Z",
+          "reactionId": "REA_lAXOVCLQyc4Aqpd7zgAs258"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 112,
+      "url": "https://github.com/esannikov/Alive/discussions/112"
     },
     "emma007": {
       "votes": [],
@@ -465,30 +332,50 @@
       "automaticRemoval": false
     },
     "emma008": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T16:51:54Z",
+          "reactionId": "REA_lAXOVCLQyc4Aqpd_zgAs26I"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 114,
+      "url": "https://github.com/esannikov/Alive/discussions/114"
     },
     "emma009": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T16:51:36Z",
+          "reactionId": "REA_lAXOVCLQyc4Aqpd8zgAs26E"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 113,
+      "url": "https://github.com/esannikov/Alive/discussions/113"
     },
     "emma010": {
       "votes": [],
@@ -894,17 +781,27 @@
       "automaticRemoval": false
     },
     "ilya001": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-10-29T16:45:11Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpdPzgAs25I"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 109,
+      "url": "https://github.com/esannikov/Alive/discussions/109"
     },
     "ilya002": {
       "votes": [],
@@ -920,17 +817,27 @@
       "automaticRemoval": false
     },
     "ilya003": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-10-29T16:48:08Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpdRzgAs25g"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 110,
+      "url": "https://github.com/esannikov/Alive/discussions/110"
     },
     "ilya004": {
       "votes": [],
@@ -1257,72 +1164,7 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "lon003": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "lon004": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "lon005": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "lon006": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "lon007": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "lon008": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -1426,33 +1268,7 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "martin005": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "martin006": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "martin007": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -1596,97 +1412,52 @@
       "automaticRemoval": false
     },
     "moag001": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "against",
+          "weight": 1,
+          "createdAt": "2026-10-29T15:01:16Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpPSzgAs2uM"
+        }
+      ],
       "scores": {
         "for": 0,
-        "against": 0
+        "against": 1
       },
       "people": {
         "for": 0,
-        "against": 0
+        "against": 1
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "against_pending",
+      "automaticRemoval": false,
+      "discussionNumber": 104,
+      "url": "https://github.com/esannikov/Alive/discussions/104"
     },
     "moag002": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "against",
+          "weight": 1,
+          "createdAt": "2026-10-29T15:01:29Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpPTzgAs2uc"
+        }
+      ],
       "scores": {
         "for": 0,
-        "against": 0
+        "against": 1
       },
       "people": {
         "for": 0,
-        "against": 0
+        "against": 1
       },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag003": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag004": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "against_pending",
+      "automaticRemoval": false,
+      "discussionNumber": 105,
+      "url": "https://github.com/esannikov/Alive/discussions/105"
     },
     "moag006": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag007": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag008": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag010": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -1725,32 +1496,6 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "moag013": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag014": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "moag015": {
       "votes": [],
       "scores": {
@@ -1765,32 +1510,6 @@
       "automaticRemoval": false
     },
     "moag016": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag017": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag018": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -2037,58 +1756,6 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "moag037": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag038": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag039": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "moag040": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "moag041": {
       "votes": [],
       "scores": {
@@ -2103,43 +1770,73 @@
       "automaticRemoval": false
     },
     "moag042": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T14:58:04Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpO1zgAs2ts"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 101,
+      "url": "https://github.com/esannikov/Alive/discussions/101"
     },
     "moag043": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T14:59:20Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpO6zgAs2uA"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 102,
+      "url": "https://github.com/esannikov/Alive/discussions/102"
     },
     "moag044": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T14:59:04Z",
+          "reactionId": "REA_lAXOVCLQyc4AqpPBzgAs2t8"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 103,
+      "url": "https://github.com/esannikov/Alive/discussions/103"
     },
     "nitka001": {
       "votes": [],
@@ -3039,17 +2736,27 @@
       "automaticRemoval": false
     },
     "tais047": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-10-29T16:50:37Z",
+          "reactionId": "REA_lAXOVCLQyc4Aqpd3zgAs25w"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 111,
+      "url": "https://github.com/esannikov/Alive/discussions/111"
     },
     "valek001": {
       "votes": [],
@@ -3220,58 +2927,6 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "valek014": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "valek015": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "valek016": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "valek017": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
     "valek018": {
       "votes": [],
       "scores": {
@@ -3299,6 +2954,84 @@
       "automaticRemoval": false
     },
     "valek020": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vovik001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vovik002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vovik003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vovik004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vovik005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vovik006": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -3390,5 +3123,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-10-29T09"
+  "refreshSlot": "2026-10-29T21"
 }
