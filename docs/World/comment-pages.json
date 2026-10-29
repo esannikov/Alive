@@ -101,10 +101,6 @@
     "page": "characters/valek/",
     "title": "Валёк",
     "variantCodes": [
-      "valek014",
-      "valek015",
-      "valek016",
-      "valek017",
       "valek018",
       "valek019"
     ]
@@ -292,12 +288,7 @@
     "variantCodes": [
       "lon001",
       "lon002",
-      "lon003",
-      "lon004",
-      "lon005",
-      "lon006",
       "lon007",
-      "lon008",
       "lon009",
       "lon010",
       "lon011"
@@ -314,26 +305,15 @@
     "page": "robots/don15/",
     "title": "Дон-15",
     "variantCodes": [
-      "don001",
-      "don013",
-      "don002",
       "don014",
       "don003",
-      "don004",
-      "don005",
       "don015",
       "don006",
-      "don016",
-      "don017",
       "don018",
       "don019",
-      "don020",
-      "don021",
       "don022",
       "don023",
       "don024",
-      "don025",
-      "don026",
       "don027",
       "don028"
     ]
@@ -353,9 +333,7 @@
       "martin002",
       "martin003",
       "martin004",
-      "martin005",
       "martin006",
-      "martin007",
       "martin008",
       "martin009",
       "martin010"
@@ -374,14 +352,9 @@
     "variantCodes": [
       "moag001",
       "moag002",
-      "moag003",
-      "moag004",
       "moag006",
-      "moag010",
       "moag011",
       "moag012",
-      "moag013",
-      "moag014",
       "moag015",
       "moag016",
       "moag019",
