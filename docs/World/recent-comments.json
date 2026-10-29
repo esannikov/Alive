@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T10:48:44.748259+00:00",
+  "generatedAt": "2026-10-29T10:52:10.186584+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJfgD",
+      "page": "characters/fedor/",
+      "title": "Федор",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T10:51:54Z",
+      "excerpt": "Какие новые интерсные. Я бы отпустила fedor026 и fedor018 и fedor030.",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19265539"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJffV",
       "page": "characters/emma/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-10-28T18:16:04Z",
       "excerpt": "Добавил четыре новых типажа Федора — fedor027–030. Все предыдущие варианты, включая 021 и 023, оставил. https://esannikov.github.io/Alive/World/characters/fedor/#fedor027",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19250223"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbwt",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:16:02Z",
-      "excerpt": "Вернул все варианты Эммы — emma001–010. Новые тоже оставил, можно сравнить и выбрать. https://esannikov.github.io/Alive/World/characters/emma/",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19250221"
     }
   ],
   "discussionNumbers": {
+    "characters/fedor/": 52,
     "characters/emma/": 57,
     "ships/moag/": 62,
-    "characters/fedor/": 52,
     "characters/masha/": 50,
     "characters/kolka/": 59,
     "characters/nitka/": 48,
@@ -96,10 +96,10 @@
       "last": null
     },
     "characters/fedor/": {
-      "messageCount": 11,
+      "messageCount": 12,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-28T18:16:04Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T10:51:54Z"
       }
     },
     "characters/fedor/reference.html": {
