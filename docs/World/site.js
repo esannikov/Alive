@@ -343,7 +343,14 @@
   // Read only messages from this widget, never page content or arbitrary origins.
   window.addEventListener('message', event => {
     const frame = host.querySelector('iframe');
-    if (event.origin !== 'https://giscus.app' || event.source !== frame?.contentWindow || !event.data?.giscus) return;
+    if (event.origin !== 'https://giscus.app' || !event.data?.giscus) return;
+    if (event.source !== frame?.contentWindow) {
+      // The upstream client has a global resize handler: restore this frame's
+      // own height after a separate voting iframe emits metadata.
+      if (frame && host.dataset.frameHeight) requestAnimationFrame(() => { frame.style.height=host.dataset.frameHeight+'px'; });
+      return;
+    }
+    if (Number.isFinite(event.data.giscus.resizeHeight)) host.dataset.frameHeight=String(event.data.giscus.resizeHeight);
     if (event.data.giscus.error) {
       // No thread exists until the first comment; this is an ordinary empty state.
       if (String(event.data.giscus.error).includes('Discussion not found') && !boundNumber) { clearTimeout(timeout); status.hidden = true; }

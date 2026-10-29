@@ -11,6 +11,7 @@ import hashlib
 import json
 import re
 import subprocess
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -219,12 +220,25 @@ def collect_votes(pages, config):
             'members':members,'minimumAgainstPeople':2,'automaticRemoval':False,'variants':result}
 
 
+def vote_refresh_slot(now=None):
+    local=(now or dt.datetime.now(dt.timezone.utc)).astimezone(ZoneInfo('Europe/Kyiv'))
+    if local.hour>=21: return local.strftime('%Y-%m-%d')+'T21'
+    if local.hour>=9: return local.strftime('%Y-%m-%d')+'T09'
+    return (local-dt.timedelta(days=1)).strftime('%Y-%m-%d')+'T21'
+
+
+def votes_due():
+    response=gh_api(f'repos/{REPO}/contents/docs/World/votes.json?ref={BRANCH}')
+    previous=json.loads(base64.b64decode(response['content']))
+    return previous.get('refreshSlot') != vote_refresh_slot()
+
+
 def publish_votes(data):
     endpoint=f'repos/{REPO}/contents/docs/World/votes.json'
     for attempt in range(3):
         current=gh_api(endpoint+'?ref='+BRANCH)
         old=json.loads(base64.b64decode(current['content']))
-        if old.get('variants')==data['variants'] and old.get('generatedAt'):
+        if old.get('variants')==data['variants'] and old.get('refreshSlot')==data.get('refreshSlot'):
             return
         try:
             gh_api(endpoint,{'message':'Update World vote status','branch':BRANCH,'sha':current['sha'],
@@ -237,6 +251,7 @@ def publish_votes(data):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--publish', action='store_true')
+    parser.add_argument('--refresh-votes', action='store_true', help='Refresh vote data now for a requested review')
     parser.add_argument('--output', type=Path, default=ROOT/TARGET)
     args = parser.parse_args()
     config = json.loads((ROOT/'Production/Dashboard/comments.json').read_text())
@@ -247,7 +262,8 @@ def main():
     discussion_stats = {}
     items = collect(pages, config['categoryId'], discussion_numbers, discussion_stats)
     feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items, 'discussionNumbers': discussion_numbers, 'discussionStats': discussion_stats}
-    votes = collect_votes(pages, config) if config.get('voting') else None
+    votes = collect_votes(pages, config) if config.get('voting') and (not args.publish or args.refresh_votes or votes_due()) else None
+    if votes is not None: votes['refreshSlot'] = vote_refresh_slot()
     if args.publish:
         publish(feed)
         if votes is not None: publish_votes(votes)
