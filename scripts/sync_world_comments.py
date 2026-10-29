@@ -170,6 +170,70 @@ def publish(feed):
                 raise
 
 
+VOTE_REACTIONS = """query($id:ID!,$cursor:String) {
+ node(id:$id) { ... on Discussion { reactions(first:100,after:$cursor) {
+  nodes { id content createdAt user { login } }
+  pageInfo { hasNextPage endCursor }
+ } } }
+}"""
+
+
+def summarize_votes(reactions, members):
+    weights = {k.lower(): v for k, v in members.items()}
+    latest = {}
+    for reaction in reactions:
+        login = (reaction.get('user') or {}).get('login', '')
+        key = login.lower()
+        if key not in weights or reaction['content'] not in ('THUMBS_UP','THUMBS_DOWN'):
+            continue
+        if key not in latest or (reaction['createdAt'],reaction['id']) > (latest[key]['createdAt'],latest[key]['id']):
+            latest[key] = reaction
+    votes = [{'login': r['user']['login'], 'choice': 'for' if r['content']=='THUMBS_UP' else 'against',
+              'weight': weights[k], 'createdAt':r['createdAt'], 'reactionId':r['id']}
+             for k,r in sorted(latest.items())]
+    scores = {s:sum(v['weight'] for v in votes if v['choice']==s) for s in ('for','against')}
+    counts = {s:sum(v['choice']==s for v in votes) for s in ('for','against')}
+    status = ('unanimous_against' if counts['against']>=2 and counts['for']==0 else
+              'mixed' if counts['against'] and counts['for'] else 'for' if counts['for'] else
+              'against_pending' if counts['against'] else 'unvoted')
+    return {'votes':votes,'scores':scores,'people':counts,'status':status,'automaticRemoval':False}
+
+
+def collect_votes(pages, config):
+    members=config['voting']['members']
+    codes={code for p in pages for code in p.get('variantCodes',[])}
+    result={code:summarize_votes([],members) for code in sorted(codes)}
+    selected={}
+    for d in paginated(DISCUSSIONS,lambda x:x['repository']['discussions'],category=config['categoryId']):
+        if not d['title'].startswith('ALIVE vote v1 '): continue
+        code=d['title'].removeprefix('ALIVE vote v1 ')
+        if code not in codes: continue
+        digest=hashlib.sha1(d['title'].encode()).hexdigest()
+        if f'<!-- sha1: {digest} -->' not in d['body']: continue
+        if code not in selected or d['number']<selected[code]['number']: selected[code]=d
+    for code,d in selected.items():
+        reactions=list(paginated(VOTE_REACTIONS,lambda x:x['node']['reactions'],id=d['id']))
+        result[code]=summarize_votes(reactions,members)
+        result[code].update({'discussionNumber':d['number'],'url':f"https://github.com/{REPO}/discussions/{d['number']}"})
+    return {'schemaVersion':1,'generatedAt':dt.datetime.now(dt.timezone.utc).isoformat(),
+            'members':members,'minimumAgainstPeople':2,'automaticRemoval':False,'variants':result}
+
+
+def publish_votes(data):
+    endpoint=f'repos/{REPO}/contents/docs/World/votes.json'
+    for attempt in range(3):
+        current=gh_api(endpoint+'?ref='+BRANCH)
+        old=json.loads(base64.b64decode(current['content']))
+        if old.get('variants')==data['variants'] and old.get('generatedAt'):
+            return
+        try:
+            gh_api(endpoint,{'message':'Update World vote status','branch':BRANCH,'sha':current['sha'],
+                'content':base64.b64encode((json.dumps(data,ensure_ascii=False,indent=2)+'\n').encode()).decode()},method='PUT')
+            return
+        except subprocess.CalledProcessError as error:
+            if attempt==2 or not any(code in error.stderr for code in ('409','422')): raise
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--publish', action='store_true')
@@ -183,10 +247,13 @@ def main():
     discussion_stats = {}
     items = collect(pages, config['categoryId'], discussion_numbers, discussion_stats)
     feed = {'schemaVersion': 1, 'generatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'items': items, 'discussionNumbers': discussion_numbers, 'discussionStats': discussion_stats}
+    votes = collect_votes(pages, config) if config.get('voting') else None
     if args.publish:
         publish(feed)
+        if votes is not None: publish_votes(votes)
     else:
         args.output.write_text(json.dumps(feed, ensure_ascii=False, indent=2)+'\n')
+        if votes is not None: (ROOT/'docs/World/votes.json').write_text(json.dumps(votes,ensure_ascii=False,indent=2)+'\n')
         print(f'Collected {len(items)} comments')
 
 

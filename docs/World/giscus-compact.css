@@ -57,3 +57,7 @@ main {
   .gsc-comment-author, .gsc-reply-author { flex-wrap: wrap; row-gap: 2px; }
   .gsc-comment-box-buttons .btn, .gsc-reply-box > button { min-height: 40px; }
 }
+
+/* One heading is supplied by the gallery. Keep errors visible. */
+.gsc-left-header:has(a[href*="/discussions/"]){display:none}
+.gsc-right-header{margin-left:auto}
