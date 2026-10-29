@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:31:35.264988+00:00",
+  "generatedAt": "2026-10-29T13:33:21.584394+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJgJi",
+      "page": "characters/katya/",
+      "title": "Катя",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T13:33:06Z",
+      "excerpt": "katya001 еще тоже. там в целом она же вялая плакса такая. katya003 очень нравится, но может ее чуть субтильнее и более какой-то нескладной растяпой сделать? Эмма же ее за это и прессует.",
+      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19268194"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJgI_",
       "page": "characters/katya/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-29T13:27:01Z",
       "excerpt": "у меня пока nitka013 и она же nitka009 - лидер",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19268080"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJf3V",
-      "page": "ships/moag/",
-      "title": "Моаг · корабль",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T12:24:56Z",
-      "excerpt": "ой, ну очень красивые новые. moag042 очень очень. moag043 и moag044 тоже. moag038 и moag038 тоже. Они у нас на орбите крутятся, может быть в теории кадр, как мы попадаем внутрь с панорамы, влетая куда-то через какой-то трюм или хз",
-      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19267029"
     }
   ],
   "discussionNumbers": {
@@ -151,10 +151,10 @@
       "last": null
     },
     "characters/katya/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-29T13:31:19Z"
+        "createdAt": "2026-10-29T13:33:06Z"
       }
     },
     "characters/katya/reference.html": {
