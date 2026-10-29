@@ -23,13 +23,6 @@
       "second_revision": 4
     },
     {
-      "id": "courtyard",
-      "front": "moag007",
-      "second_view": "moag008",
-      "front_revision": 4,
-      "second_revision": 4
-    },
-    {
       "id": "crossroads",
       "second_view": "moag010",
       "second_revision": 4
@@ -53,13 +46,6 @@
       "front": "moag015",
       "second_view": "moag016",
       "front_revision": 4,
-      "second_revision": 5
-    },
-    {
-      "id": "annulus",
-      "front": "moag017",
-      "second_view": "moag018",
-      "front_revision": 5,
       "second_revision": 5
     },
     {
@@ -129,5 +115,15 @@
   "removed_codes": [
     "moag005",
     "moag009"
+  ],
+  "deleted_codes": [
+    "moag007",
+    "moag008",
+    "moag017",
+    "moag018",
+    "moag037",
+    "moag038",
+    "moag039",
+    "moag040"
   ]
 }

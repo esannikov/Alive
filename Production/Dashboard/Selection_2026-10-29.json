@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-29",
+  "authority": "Прямое поручение пользователя после списка комментариев Елены",
+  "base_commit": "9d3b4eaf5ffd98b986aa60172eb0d5e4f2326953",
+  "to_reserve": [
+    "emma004",
+    "emma006",
+    "fedor018",
+    "fedor026",
+    "fedor030",
+    "kolka001",
+    "kolka005",
+    "valek013",
+    "valek020"
+  ],
+  "to_archive": [
+    "valek014",
+    "valek015",
+    "valek016",
+    "valek017",
+    "moag003",
+    "moag004",
+    "moag010",
+    "moag013",
+    "moag014"
+  ],
+  "transfer": {
+    "ilya003": {
+      "from": "ilya",
+      "to": "egor"
+    }
+  },
+  "shared": {
+    "fedor028": [
+      "fedor",
+      "kolka"
+    ]
+  },
+  "deleted_codes": [
+    "moag007",
+    "moag008",
+    "moag017",
+    "moag018",
+    "moag037",
+    "moag038",
+    "moag039",
+    "moag040"
+  ],
+  "deleted_files": [
+    "docs/World/previews/moag007-thumb-hq.webp",
+    "docs/World/previews/moag007-thumb.webp",
+    "docs/World/previews/moag007-view.webp",
+    "docs/World/ships/moag/images/moag007-courtyard-front.png",
+    "docs/World/previews/moag008-thumb-hq.webp",
+    "docs/World/previews/moag008-thumb.webp",
+    "docs/World/previews/moag008-view.webp",
+    "docs/World/ships/moag/images/moag008-courtyard-rear.png",
+    "docs/World/previews/moag017-thumb-hq.webp",
+    "docs/World/previews/moag017-thumb.webp",
+    "docs/World/previews/moag017-view.webp",
+    "docs/World/ships/moag/images/moag017-annulus-front.png",
+    "docs/World/previews/moag018-thumb-hq.webp",
+    "docs/World/previews/moag018-thumb.webp",
+    "docs/World/previews/moag018-view.webp",
+    "docs/World/ships/moag/images/moag018-annulus-rear.png",
+    "docs/World/previews/moag037-thumb-hq.webp",
+    "docs/World/previews/moag037-view.webp",
+    "docs/World/ships/moag/images/moag037.png",
+    "docs/World/previews/moag038-thumb-hq.webp",
+    "docs/World/previews/moag038-view.webp",
+    "docs/World/ships/moag/images/moag038.png",
+    "docs/World/previews/moag039-thumb-hq.webp",
+    "docs/World/previews/moag039-view.webp",
+    "docs/World/ships/moag/images/moag039.png",
+    "docs/World/previews/moag040-thumb-hq.webp",
+    "docs/World/previews/moag040-view.webp",
+    "docs/World/ships/moag/images/moag040.png"
+  ],
+  "unchanged_selected": [
+    "fedor021",
+    "moag025",
+    "moag026",
+    "moag041",
+    "moag042",
+    "moag043",
+    "moag044"
+  ],
+  "active_counts": {
+    "emma": 8,
+    "fedor": 9,
+    "kolka": 4,
+    "valek": 2,
+    "ilya": 5,
+    "egor": 7,
+    "base-girls": 90,
+    "moag": 29
+  },
+  "contrast_replacement": {
+    "from": "valek020",
+    "to": "valek018"
+  }
+}

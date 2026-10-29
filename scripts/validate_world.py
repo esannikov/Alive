@@ -17,6 +17,14 @@ class Links(HTMLParser):
 def main():
     registry=json.loads((ROOT/'Production/Dashboard/asset_codes.json').read_text())
     data=json.loads((OUT/'data.js').read_text().removeprefix('window.ALIVE_WORLD=').strip().removesuffix(';'))
+    config=json.loads((ROOT/'Production/Dashboard/objects.json').read_text())
+    assert data['objects']==config['objects'], 'Published objects diverged from source config'
+    projected={a['code']:a for a in data['assets']}
+    for record in registry['assets']:
+        item=projected[record['code']]
+        assert item['object']==record['object'] and item['archived']==(record.get('visibility')=='archived'), record['code']
+        assert item.get('additionalObjects',[])==record.get('additional_objects',[]), record['code']
+        assert item.get('previousObjects',[])==record.get('previous_objects',[]), record['code']
     codes=[a['code'] for a in registry['assets']]
     assert len(codes)==len(set(codes)) and codes
     assert not set(codes).intersection(registry.get('deleted_codes',[])), 'Deleted code was reused'
