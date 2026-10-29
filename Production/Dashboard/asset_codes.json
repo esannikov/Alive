@@ -28,7 +28,8 @@
     "zhanna": 7,
     "rita": 7,
     "krendel": 7,
-    "vovik": 7
+    "vovik": 7,
+    "square": 6
   },
   "assets": [
     {
@@ -7119,7 +7120,7 @@
     },
     {
       "code": "moag045",
-      "object": "moag",
+      "object": "main-square",
       "caption": "Жилые острова · внутри тора",
       "sha256": "5611052e8207928f916f4144cd914166e6d73af779161a544c26bf2fee659fed",
       "source_commit": "001ee1c055c81c6fe6b99374476c727ff9cc5e57",
@@ -7128,7 +7129,7 @@
         "docs/World/ships/moag/images/moag045.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/locations/main-square"
       ],
       "kind": "interior",
       "status": "candidate",
@@ -7138,12 +7139,15 @@
         "public",
         "everyday"
       ],
-      "series": "moag-interior-islands",
-      "visibility": "archived"
+      "series": "main-square-concepts",
+      "visibility": "archived",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag046",
-      "object": "moag",
+      "object": "main-square",
       "caption": "Жилые острова · детский город",
       "sha256": "25c543682349926f7dbea1b0af9f48b27143abc958faa4105f268bab2038de32",
       "source_commit": "9e50d9eec318ab436a5a98c2396420c58b083dcd",
@@ -7152,7 +7156,7 @@
         "docs/World/ships/moag/images/moag046.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/locations/main-square"
       ],
       "kind": "interior",
       "status": "candidate",
@@ -7162,7 +7166,130 @@
         "public",
         "everyday"
       ],
-      "series": "moag-interior-childrens-city",
+      "series": "main-square-concepts",
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
+    },
+    {
+      "code": "square001",
+      "object": "main-square",
+      "caption": "Обитаемый мост над озером",
+      "sha256": "3064e244649f018cf9b50d350d6bcddab83b313688ed52053a8383ab9f6471b2",
+      "source_commit": "dd4c1d42928f075cb3b93d20849ab0c67305a837",
+      "source_file": "docs/World/locations/main-square/images/square001.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square001.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-concepts",
+      "visibility": "active"
+    },
+    {
+      "code": "square002",
+      "object": "main-square",
+      "caption": "Зелёная площадь",
+      "sha256": "4de72c8eabfdbbdaa1ddc75a352538cb26a15b1eee62b6e7d443033f211e9049",
+      "source_commit": "dd4c1d42928f075cb3b93d20849ab0c67305a837",
+      "source_file": "docs/World/locations/main-square/images/square002.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square002.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-concepts",
+      "visibility": "active"
+    },
+    {
+      "code": "square003",
+      "object": "main-square",
+      "caption": "Жилые облака",
+      "sha256": "1a8e7147cbe0d50aacd8c94f8bd95ac8d64e1bcaab5650796822ed7568c00aaf",
+      "source_commit": "dd4c1d42928f075cb3b93d20849ab0c67305a837",
+      "source_file": "docs/World/locations/main-square/images/square003.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square003.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-concepts",
+      "visibility": "active"
+    },
+    {
+      "code": "square004",
+      "object": "main-square",
+      "caption": "Жилой амфитеатр",
+      "sha256": "1f0151325876a25371075d257fb948d0a1d13c9044a01040454affcce251e330",
+      "source_commit": "dd4c1d42928f075cb3b93d20849ab0c67305a837",
+      "source_file": "docs/World/locations/main-square/images/square004.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square004.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-concepts",
+      "visibility": "active"
+    },
+    {
+      "code": "square005",
+      "object": "main-square",
+      "caption": "Силовой каркас",
+      "sha256": "4efdd1316fb9a8f67b95e98e039eac66dd6516fbe6ea1484a8d7c759556561c5",
+      "source_commit": "dd4c1d42928f075cb3b93d20849ab0c67305a837",
+      "source_file": "docs/World/locations/main-square/images/square005.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square005.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-concepts",
       "visibility": "active"
     }
   ],
