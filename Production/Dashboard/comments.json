@@ -24,5 +24,14 @@
     "ships/moag/": 62,
     "robots/martin/": 61,
     "robots/lon/": 44
+  },
+  "voting": {
+    "members": {
+      "esannikov": 1,
+      "ElenaAlive": 2,
+      "isto3110-ship-it": 1
+    },
+    "minimumAgainstPeople": 2,
+    "automaticRemoval": false
   }
 }

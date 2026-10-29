@@ -2,221 +2,545 @@
   {
     "term": "Alive/World/",
     "page": "",
-    "title": "Обзор"
+    "title": "Обзор",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/work",
     "page": "work.html",
-    "title": "В разработке"
+    "title": "В разработке",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/catalog",
     "page": "catalog.html",
-    "title": "Каталог"
+    "title": "Каталог",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/tais/",
     "page": "characters/tais/",
-    "title": "Таис"
+    "title": "Таис",
+    "variantCodes": [
+      "tais001",
+      "tais006",
+      "tais009",
+      "tais045",
+      "tais046",
+      "tais047"
+    ]
   },
   {
     "term": "Alive/World/characters/tais/reference",
     "page": "characters/tais/reference.html",
-    "title": "Таис · справка"
+    "title": "Таис · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/emma/",
     "page": "characters/emma/",
-    "title": "Эмма"
+    "title": "Эмма",
+    "variantCodes": [
+      "emma001",
+      "emma002",
+      "emma003",
+      "emma004",
+      "emma005",
+      "emma006",
+      "emma007",
+      "emma008",
+      "emma009",
+      "emma010"
+    ]
   },
   {
     "term": "Alive/World/characters/emma/reference",
     "page": "characters/emma/reference.html",
-    "title": "Эмма · справка"
+    "title": "Эмма · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/fedor/",
     "page": "characters/fedor/",
-    "title": "Федор"
+    "title": "Федор",
+    "variantCodes": [
+      "fedor009",
+      "fedor017",
+      "fedor018",
+      "fedor021",
+      "fedor023",
+      "fedor024",
+      "fedor025",
+      "fedor026",
+      "fedor027",
+      "fedor028",
+      "fedor029",
+      "fedor030"
+    ]
   },
   {
     "term": "Alive/World/characters/fedor/reference",
     "page": "characters/fedor/reference.html",
-    "title": "Федор · справка"
+    "title": "Федор · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/kolka/",
     "page": "characters/kolka/",
-    "title": "Колька · Колючий"
+    "title": "Колька · Колючий",
+    "variantCodes": [
+      "kolka001",
+      "kolka002",
+      "kolka005",
+      "kolka007",
+      "kolka008"
+    ]
   },
   {
     "term": "Alive/World/characters/kolka/reference",
     "page": "characters/kolka/reference.html",
-    "title": "Колька · Колючий · справка"
+    "title": "Колька · Колючий · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/valek/",
     "page": "characters/valek/",
-    "title": "Валёк"
+    "title": "Валёк",
+    "variantCodes": [
+      "valek013",
+      "valek018",
+      "valek019",
+      "valek020"
+    ]
   },
   {
     "term": "Alive/World/characters/valek/reference",
     "page": "characters/valek/reference.html",
-    "title": "Валёк · справка"
+    "title": "Валёк · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/nitka/",
     "page": "characters/nitka/",
-    "title": "Нитка"
+    "title": "Нитка",
+    "variantCodes": [
+      "nitka005",
+      "nitka007",
+      "nitka008",
+      "nitka009",
+      "nitka010",
+      "nitka011",
+      "nitka012",
+      "nitka013"
+    ]
   },
   {
     "term": "Alive/World/characters/nitka/reference",
     "page": "characters/nitka/reference.html",
-    "title": "Нитка · справка"
+    "title": "Нитка · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/masha/",
     "page": "characters/masha/",
-    "title": "Маша"
+    "title": "Маша",
+    "variantCodes": [
+      "masha001",
+      "masha006",
+      "masha007"
+    ]
   },
   {
     "term": "Alive/World/characters/masha/reference",
     "page": "characters/masha/reference.html",
-    "title": "Маша · справка"
+    "title": "Маша · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/katya/",
     "page": "characters/katya/",
-    "title": "Катя"
+    "title": "Катя",
+    "variantCodes": [
+      "katya001",
+      "katya002",
+      "katya003",
+      "katya004",
+      "katya005",
+      "katya006"
+    ]
   },
   {
     "term": "Alive/World/characters/katya/reference",
     "page": "characters/katya/reference.html",
-    "title": "Катя · справка"
+    "title": "Катя · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/ilya/",
     "page": "characters/ilya/",
-    "title": "Илья"
+    "title": "Илья",
+    "variantCodes": [
+      "ilya001",
+      "ilya002",
+      "ilya003",
+      "ilya004",
+      "ilya005",
+      "ilya006"
+    ]
   },
   {
     "term": "Alive/World/characters/ilya/reference",
     "page": "characters/ilya/reference.html",
-    "title": "Илья · справка"
+    "title": "Илья · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/sonya/",
     "page": "characters/sonya/",
-    "title": "Соня"
+    "title": "Соня",
+    "variantCodes": [
+      "sonya001",
+      "sonya002",
+      "sonya003",
+      "sonya004",
+      "sonya005",
+      "sonya006"
+    ]
   },
   {
     "term": "Alive/World/characters/sonya/reference",
     "page": "characters/sonya/reference.html",
-    "title": "Соня · справка"
+    "title": "Соня · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/egor/",
     "page": "characters/egor/",
-    "title": "Егор"
+    "title": "Егор",
+    "variantCodes": [
+      "egor001",
+      "egor002",
+      "egor003",
+      "egor004",
+      "egor005",
+      "egor006"
+    ]
   },
   {
     "term": "Alive/World/characters/egor/reference",
     "page": "characters/egor/reference.html",
-    "title": "Егор · справка"
+    "title": "Егор · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/zhanna/",
     "page": "characters/zhanna/",
-    "title": "Жанна"
+    "title": "Жанна",
+    "variantCodes": [
+      "zhanna001",
+      "zhanna002",
+      "zhanna003",
+      "zhanna004",
+      "zhanna005",
+      "zhanna006"
+    ]
   },
   {
     "term": "Alive/World/characters/zhanna/reference",
     "page": "characters/zhanna/reference.html",
-    "title": "Жанна · справка"
+    "title": "Жанна · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/rita/",
     "page": "characters/rita/",
-    "title": "Рита"
+    "title": "Рита",
+    "variantCodes": [
+      "rita001",
+      "rita002",
+      "rita003",
+      "rita004",
+      "rita005",
+      "rita006"
+    ]
   },
   {
     "term": "Alive/World/characters/rita/reference",
     "page": "characters/rita/reference.html",
-    "title": "Рита · справка"
+    "title": "Рита · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/krendel/",
     "page": "characters/krendel/",
-    "title": "Крендель"
+    "title": "Крендель",
+    "variantCodes": [
+      "krendel001",
+      "krendel002",
+      "krendel003",
+      "krendel004",
+      "krendel005",
+      "krendel006"
+    ]
   },
   {
     "term": "Alive/World/characters/krendel/reference",
     "page": "characters/krendel/reference.html",
-    "title": "Крендель · справка"
+    "title": "Крендель · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/robots/lon/",
     "page": "robots/lon/",
-    "title": "Лон"
+    "title": "Лон",
+    "variantCodes": [
+      "lon001",
+      "lon002",
+      "lon003",
+      "lon004",
+      "lon005",
+      "lon006",
+      "lon007",
+      "lon008",
+      "lon009",
+      "lon010",
+      "lon011"
+    ]
   },
   {
     "term": "Alive/World/robots/lon/reference",
     "page": "robots/lon/reference.html",
-    "title": "Лон · справка"
+    "title": "Лон · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/robots/don15/",
     "page": "robots/don15/",
-    "title": "Дон-15"
+    "title": "Дон-15",
+    "variantCodes": [
+      "don001",
+      "don013",
+      "don002",
+      "don014",
+      "don003",
+      "don004",
+      "don005",
+      "don015",
+      "don006",
+      "don016",
+      "don017",
+      "don018",
+      "don019",
+      "don020",
+      "don021",
+      "don022",
+      "don023",
+      "don024",
+      "don025",
+      "don026",
+      "don027",
+      "don028"
+    ]
   },
   {
     "term": "Alive/World/robots/don15/reference",
     "page": "robots/don15/reference.html",
-    "title": "Дон-15 · справка"
+    "title": "Дон-15 · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/robots/martin/",
     "page": "robots/martin/",
-    "title": "Мартин · Дон-12"
+    "title": "Мартин · Дон-12",
+    "variantCodes": [
+      "martin001",
+      "martin002",
+      "martin003",
+      "martin004",
+      "martin005",
+      "martin006",
+      "martin007",
+      "martin008",
+      "martin009",
+      "martin010"
+    ]
   },
   {
     "term": "Alive/World/robots/martin/reference",
     "page": "robots/martin/reference.html",
-    "title": "Мартин · Дон-12 · справка"
+    "title": "Мартин · Дон-12 · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/ships/moag/",
     "page": "ships/moag/",
-    "title": "Моаг · корабль"
+    "title": "Моаг · корабль",
+    "variantCodes": [
+      "moag001",
+      "moag002",
+      "moag003",
+      "moag004",
+      "moag006",
+      "moag007",
+      "moag008",
+      "moag010",
+      "moag011",
+      "moag012",
+      "moag013",
+      "moag014",
+      "moag015",
+      "moag016",
+      "moag017",
+      "moag018",
+      "moag019",
+      "moag020",
+      "moag021",
+      "moag022",
+      "moag023",
+      "moag024",
+      "moag025",
+      "moag026",
+      "moag027",
+      "moag028",
+      "moag029",
+      "moag030",
+      "moag031",
+      "moag032",
+      "moag033",
+      "moag034",
+      "moag035",
+      "moag036",
+      "moag037",
+      "moag038",
+      "moag039",
+      "moag040",
+      "moag041",
+      "moag042",
+      "moag043",
+      "moag044"
+    ]
   },
   {
     "term": "Alive/World/ships/moag/reference",
     "page": "ships/moag/reference.html",
-    "title": "Моаг · корабль · справка"
+    "title": "Моаг · корабль · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/base-girls/",
     "page": "characters/base-girls/",
-    "title": "Кастинговый резерв"
+    "title": "Кастинговый резерв",
+    "variantCodes": [
+      "tais002",
+      "tais003",
+      "tais004",
+      "tais005",
+      "tais007",
+      "tais008",
+      "tais010",
+      "tais011",
+      "tais012",
+      "tais013",
+      "tais014",
+      "tais015",
+      "tais016",
+      "tais017",
+      "tais018",
+      "tais019",
+      "tais020",
+      "tais021",
+      "tais022",
+      "tais023",
+      "tais024",
+      "tais025",
+      "tais026",
+      "tais027",
+      "tais028",
+      "tais029",
+      "tais030",
+      "tais031",
+      "tais032",
+      "tais033",
+      "tais034",
+      "tais035",
+      "tais036",
+      "tais037",
+      "tais038",
+      "tais039",
+      "tais040",
+      "tais041",
+      "tais042",
+      "fedor001",
+      "fedor002",
+      "fedor003",
+      "fedor004",
+      "fedor005",
+      "fedor006",
+      "fedor007",
+      "fedor008",
+      "fedor010",
+      "fedor011",
+      "fedor012",
+      "fedor013",
+      "fedor014",
+      "fedor015",
+      "fedor016",
+      "fedor019",
+      "fedor020",
+      "emma006",
+      "kolka003",
+      "kolka004",
+      "kolka006",
+      "fedor022",
+      "valek001",
+      "valek007",
+      "valek002",
+      "valek008",
+      "valek003",
+      "valek009",
+      "valek004",
+      "valek010",
+      "valek005",
+      "valek011",
+      "valek006",
+      "valek012",
+      "nitka001",
+      "nitka002",
+      "nitka003",
+      "nitka004",
+      "nitka006",
+      "masha002",
+      "masha003",
+      "masha004",
+      "masha005",
+      "valek014",
+      "valek015",
+      "valek016",
+      "valek017"
+    ]
   },
   {
     "term": "Alive/World/characters/base-girls/reference",
     "page": "characters/base-girls/reference.html",
-    "title": "Кастинговый резерв · справка"
+    "title": "Кастинговый резерв · справка",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/search",
     "page": "search.html",
-    "title": "Поиск"
+    "title": "Поиск",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/robots/scale/",
     "page": "robots/scale/",
-    "title": "Роботы · размерный лист"
+    "title": "Роботы · размерный лист",
+    "variantCodes": []
   },
   {
     "term": "Alive/World/characters/cast-contrast/",
     "page": "characters/cast-contrast/",
-    "title": "Нитка · Валёк · Эмма"
+    "title": "Нитка · Валёк · Эмма",
+    "variantCodes": []
   }
 ]

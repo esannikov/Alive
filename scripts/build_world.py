@@ -57,7 +57,7 @@ def build():
             assert comments.get('repoId') and comments.get('categoryId'), 'Giscus IDs are required before activation'
             assert comments['mapping'] == 'pathname' and comments['strict'] == '1'
         theme_hash = hashlib.sha256((OUT/'giscus-compact.css').read_bytes()).hexdigest()[:12]
-        data['comments'] = {**comments, 'theme': f'https://esannikov.github.io/Alive/World/giscus-compact.css?v={theme_hash}'}
+        data['comments'] = {**comments, 'voteTheme': 'https://esannikov.github.io/Alive/World/giscus-votes.css?v='+hashlib.sha256((OUT/'giscus-votes.css').read_bytes()).hexdigest()[:12], 'theme': f'https://esannikov.github.io/Alive/World/giscus-compact.css?v={theme_hash}'}
     (OUT/'data.js').write_text('window.ALIVE_WORLD='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
 
     def asset_url(a):
@@ -77,14 +77,14 @@ def build():
 
     def page(path, title, body, active='catalog', category='', obj=None):
         canonical = path.removesuffix('index.html') if path.endswith('index.html') else path
-        comment_pages.append({'term': 'Alive/World/' + re.sub(r'\.\w+$', '', canonical), 'page': canonical, 'title': title})
+        comment_pages.append({'term': 'Alive/World/' + re.sub(r'\.\w+$', '', canonical), 'page': canonical, 'title': title, 'variantCodes': [a['code'] for a in assets if obj and (a['object']==obj or obj in a.get('additionalObjects',[]))]})
         target = OUT/path
         target.parent.mkdir(parents=True,exist_ok=True)
         prefix = os.path.relpath(OUT,target.parent).replace('\\','/')
         prefix = '' if prefix=='.' else prefix+'/'
         # All authored body paths are relative to the World root.
         body = body.replace('@ROOT@',prefix)
-        scripts = f'<script defer src="{prefix}{asset_version("data.js")}"></script><script defer src="{prefix}{asset_version("site.js")}" id="world-script"></script>'
+        scripts = f'<script defer src="{prefix}{asset_version("data.js")}"></script><script defer src="{prefix}{asset_version("site.js")}" id="world-script"></script><script defer src="{prefix}{asset_version('votes.js')}"></script>'
         metadata = f'data-root="{prefix}" data-page="{esc(active)}"'+(f' data-object="{obj}"' if obj else '')
         target.write_text(f'''<!doctype html>
 <html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><title>{esc(title)} · ALIVE</title><meta name="description" content="Визуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений."><link rel="stylesheet" href="{prefix}{asset_version("site.css")}"><link rel="preload" href="{prefix}fonts/Onest-Variable.ttf" as="font" type="font/ttf" crossorigin>{scripts}</head><body {metadata}><a class="skip-link" href="#main">К содержимому</a><header class="mobile-bar"><a href="{prefix}index.html">ALIVE</a><button id="menu-toggle" aria-controls="navigation" aria-expanded="false">Разделы</button></header><noscript><nav class="fallback-navigation"><a href="{prefix}index.html">Обзор</a><a href="{prefix}catalog.html">Каталог</a><a href="{prefix}../ProductionFlow/">План</a></nav></noscript>{sidebar(prefix,active,category)}<div class="page"><header class="utility"><div class="breadcrumbs"><a href="{prefix}index.html">ALIVE</a><span>/</span><span>{esc(title)}</span></div><form class="search-form" role="search" action="{prefix}search.html">{SEARCH}<input name="q" id="global-search" type="search" placeholder="Имя, код, предмет…" aria-label="Поиск по миру" autocomplete="off"><button type="submit" aria-label="Найти">{ARROW}</button></form></header><main id="main" tabindex="-1">{body}</main><footer class="page-footer mono"><span>ALIVE / визуальная разработка</span><a href="{prefix}../ProductionFlow/">Карта работ {EXTERNAL}</a></footer></div><div id="notice" class="notice mono" role="status" aria-live="polite"></div></body></html>''')
