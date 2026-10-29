@@ -2587,54 +2587,6 @@
       "visibility": "active"
     },
     {
-      "code": "moag003",
-      "object": "moag",
-      "caption": "Камертон · ракурс 1",
-      "sha256": "2377fcaa5a5203b7ebdc1fa68a2d9d5a830e71507ca0192f91c5b5201a86e8cb",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag003-fork-front.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag003-fork-front.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-fork",
-      "visibility": "archived"
-    },
-    {
-      "code": "moag004",
-      "object": "moag",
-      "caption": "Камертон · ракурс 2",
-      "sha256": "8694f01e1861a8bdf16b552c0bd979976d71732ab3229ae7c563f6091b4de0fd",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag004-fork-rear.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag004-fork-rear.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": "moag003",
-      "derivation_kind": "alternate_view",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-fork",
-      "visibility": "archived"
-    },
-    {
       "code": "moag006",
       "object": "moag",
       "caption": "Каскад · ракурс 2",
@@ -2657,30 +2609,6 @@
       ],
       "series": "moag-cascade",
       "visibility": "active"
-    },
-    {
-      "code": "moag010",
-      "object": "moag",
-      "caption": "Перекрёсток · ракурс 2",
-      "sha256": "6cc0ebd562b70de80451a90983cbabab998efa63791b514d5a11e32e24e7f36b",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag010-crossroads-rear.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag010-crossroads-rear.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": "moag009",
-      "derivation_kind": "alternate_view",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-crossroads",
-      "visibility": "archived"
     },
     {
       "code": "moag011",
@@ -2729,54 +2657,6 @@
       ],
       "series": "moag-wedge",
       "visibility": "active"
-    },
-    {
-      "code": "moag013",
-      "object": "moag",
-      "caption": "Параллакс · ракурс 1",
-      "sha256": "867329328a2957690382698ca151d6a0b95a3f62e95922740045a8c8005fd968",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag013-parallax-front.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag013-parallax-front.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-parallax",
-      "visibility": "archived"
-    },
-    {
-      "code": "moag014",
-      "object": "moag",
-      "caption": "Параллакс · ракурс 2",
-      "sha256": "6f1657530a131218d557064d9940eee8f93c0ae062fdb376e96d3e32e3e598f3",
-      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
-      "source_file": "docs/World/ships/moag/images/moag014-parallax-rear.png",
-      "aliases": [
-        "docs/World/ships/moag/images/moag014-parallax-rear.png"
-      ],
-      "galleries": [
-        "World/ships/moag"
-      ],
-      "kind": "exterior",
-      "status": "candidate",
-      "derived_from": "moag013",
-      "derivation_kind": "alternate_view",
-      "renditions": [],
-      "task_ids": [
-        "hull"
-      ],
-      "series": "moag-parallax",
-      "visibility": "archived"
     },
     {
       "code": "moag015",
@@ -3722,102 +3602,6 @@
       "visibility": "active"
     },
     {
-      "code": "lon003",
-      "object": "lon",
-      "caption": "Linea · итальянский дизайн",
-      "sha256": "d777e24efc477a0a1a82766b3d830a1806f464a302b42f1a90becf3412080d59",
-      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
-      "source_file": "docs/World/robots/lon/images/lon003.png",
-      "aliases": [
-        "docs/World/robots/lon/images/lon003.png"
-      ],
-      "galleries": [
-        "World/robots/lon"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "lon"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "lon004",
-      "object": "lon",
-      "caption": "Док · индустриальный Alien",
-      "sha256": "f347123812d025c614b469ec1c83f5ec629858dca5726e37d1231aa4a8244fbc",
-      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
-      "source_file": "docs/World/robots/lon/images/lon004.png",
-      "aliases": [
-        "docs/World/robots/lon/images/lon004.png"
-      ],
-      "galleries": [
-        "World/robots/lon"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "lon"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "lon005",
-      "object": "lon",
-      "caption": "Сборщик · Star Wars",
-      "sha256": "19d2a225f39bb3701fb707ad0e61ba472609772ab48dfdf87138c32ac454df12",
-      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
-      "source_file": "docs/World/robots/lon/images/lon005.png",
-      "aliases": [
-        "docs/World/robots/lon/images/lon005.png"
-      ],
-      "galleries": [
-        "World/robots/lon"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "lon"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "lon006",
-      "object": "lon",
-      "caption": "Атриум · Dune",
-      "sha256": "e5cd3481e455e111d322a7cf2a876779d4aa2895860d4beffeace399655bc0c1",
-      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
-      "source_file": "docs/World/robots/lon/images/lon006.png",
-      "aliases": [
-        "docs/World/robots/lon/images/lon006.png"
-      ],
-      "galleries": [
-        "World/robots/lon"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "lon"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
       "code": "lon007",
       "object": "lon",
       "caption": "Арка · скульптурная конструкция",
@@ -3840,30 +3624,6 @@
       ],
       "series": "current",
       "visibility": "active"
-    },
-    {
-      "code": "lon008",
-      "object": "lon",
-      "caption": "Каракури · механический слуга",
-      "sha256": "b318a6eeaa1050995bbcdfbf3a41c94dbf27afece70ba547d50d11dce6c2b72f",
-      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
-      "source_file": "docs/World/robots/lon/images/lon008.png",
-      "aliases": [
-        "docs/World/robots/lon/images/lon008.png"
-      ],
-      "galleries": [
-        "World/robots/lon"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "lon006",
-      "derivation_kind": "design_revision",
-      "renditions": [],
-      "task_ids": [
-        "lon"
-      ],
-      "series": "current",
-      "visibility": "archived"
     },
     {
       "code": "lon009",
@@ -4002,78 +3762,6 @@
       "visibility": "active"
     },
     {
-      "code": "don001",
-      "object": "don15",
-      "caption": "Бастион · бронетанковый",
-      "sha256": "486e31c99dd24df0a9c5f60288b9cb8d08766f66ce87cf4549c4f96c8610e012",
-      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
-      "source_file": "docs/World/robots/don15/images/don001.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don001.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "don013",
-      "object": "don15",
-      "caption": "Бастион · точные белые вставки",
-      "sha256": "a513df75813339e1be5e80443ef7c1e28046885102092807afd6818d5e351ab6",
-      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
-      "source_file": "docs/World/robots/don15/images/don013.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don013.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "don001",
-      "derivation_kind": "color_revision",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "don002",
-      "object": "don15",
-      "caption": "Клин · стелс",
-      "sha256": "a281132e971e9ca7715d0347edee53757cf0caea394783f41dddc122bbc1978f",
-      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
-      "source_file": "docs/World/robots/don15/images/don002.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don002.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
       "code": "don014",
       "object": "don15",
       "caption": "Клин · точные белые вставки",
@@ -4122,54 +3810,6 @@
       "visibility": "active"
     },
     {
-      "code": "don004",
-      "object": "don15",
-      "caption": "Караул · монументальный",
-      "sha256": "eaa0c8bfa02584b57ebd8146bc5ad526c10ae4b1c304f01df34f2932532f136b",
-      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
-      "source_file": "docs/World/robots/don15/images/don004.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don004.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "don005",
-      "object": "don15",
-      "caption": "Сухожилие · механический",
-      "sha256": "d589ad91c1653f0bb66da0ec6e0f736156db234c101147652d184fdcef2fee52",
-      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
-      "source_file": "docs/World/robots/don15/images/don005.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don005.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
       "code": "don015",
       "object": "don15",
       "caption": "Сухожилие · точные белые вставки",
@@ -4216,54 +3856,6 @@
       ],
       "series": "current",
       "visibility": "active"
-    },
-    {
-      "code": "don016",
-      "object": "don15",
-      "caption": "Готика · европейская пластика",
-      "sha256": "31ec4bd822eb955018a673f58525a35701445796d3f5a8b960aa939a38690e3d",
-      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
-      "source_file": "docs/World/robots/don15/images/don016.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don016.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "don017",
-      "object": "don15",
-      "caption": "Клюв · бацинет",
-      "sha256": "5ddca88c34e7365db0016de671130dcdcc2015e90a70a9850629ae52e209ce18",
-      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
-      "source_file": "docs/World/robots/don15/images/don017.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don017.png"
-      ],
-      "galleries": [
-        "World/robots/don15"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
     },
     {
       "code": "don018",
@@ -4410,30 +4002,6 @@
       "visibility": "active"
     },
     {
-      "code": "martin005",
-      "object": "martin",
-      "caption": "Реле · ретрофутуризм",
-      "sha256": "aecf335257bf0efa38e3a5ada452f36149a2b2d2a52fb60417c207d262a25dc5",
-      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
-      "source_file": "docs/World/robots/martin/images/martin005.png",
-      "aliases": [
-        "docs/World/robots/martin/images/martin005.png"
-      ],
-      "galleries": [
-        "World/robots/martin"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": null,
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "robotfamilies"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
       "code": "martin006",
       "object": "martin",
       "caption": "Каркас · открытая архитектура",
@@ -4456,30 +4024,6 @@
       ],
       "series": "current",
       "visibility": "active"
-    },
-    {
-      "code": "martin007",
-      "object": "martin",
-      "caption": "Облако · розовый и голубой",
-      "sha256": "20323b1d7b371eaa971343dc415b7ab1dda5f7c43adf8c563bd2fb7a52b709b2",
-      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
-      "source_file": "docs/World/robots/martin/images/martin007.png",
-      "aliases": [
-        "docs/World/robots/martin/images/martin007.png"
-      ],
-      "galleries": [
-        "World/robots/martin"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "martin005",
-      "derivation_kind": "design_revision",
-      "renditions": [],
-      "task_ids": [
-        "robotfamilies"
-      ],
-      "series": "current",
-      "visibility": "archived"
     },
     {
       "code": "martin008",
@@ -5571,166 +5115,6 @@
       ]
     },
     {
-      "code": "valek014",
-      "object": "valek",
-      "caption": "Широкая челюсть · худой типаж",
-      "sha256": "0490bcb8093ef2305f062498a4e44d596430b20dfc1258e20abed12ee58303ce",
-      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
-      "source_file": "docs/World/characters/valek/images/valek014.png",
-      "aliases": [
-        "docs/World/characters/valek/images/valek014.png"
-      ],
-      "galleries": [
-        "World/characters/valek"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "valek008",
-      "derivation_kind": "proportion_revision",
-      "renditions": [],
-      "task_ids": [
-        "support"
-      ],
-      "series": "current",
-      "visibility": "archived",
-      "casting_origin": {
-        "object": "valek",
-        "title": "Валёк",
-        "caption": "Широкая челюсть · худой типаж",
-        "series": "current",
-        "visibility": "archived",
-        "galleries": [
-          "World"
-        ],
-        "task_ids": [
-          "support"
-        ]
-      },
-      "previous_objects": [
-        "base-girls"
-      ]
-    },
-    {
-      "code": "valek015",
-      "object": "valek",
-      "caption": "Высокие скулы · худой типаж",
-      "sha256": "4a621907cdf1d191f1384056045089865256cf2e67411f4058ba31d071b967ce",
-      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
-      "source_file": "docs/World/characters/valek/images/valek015.png",
-      "aliases": [
-        "docs/World/characters/valek/images/valek015.png"
-      ],
-      "galleries": [
-        "World/characters/valek"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "valek009",
-      "derivation_kind": "proportion_revision",
-      "renditions": [],
-      "task_ids": [
-        "support"
-      ],
-      "series": "current",
-      "visibility": "archived",
-      "casting_origin": {
-        "object": "valek",
-        "title": "Валёк",
-        "caption": "Высокие скулы · худой типаж",
-        "series": "current",
-        "visibility": "archived",
-        "galleries": [
-          "World"
-        ],
-        "task_ids": [
-          "support"
-        ]
-      },
-      "previous_objects": [
-        "base-girls"
-      ]
-    },
-    {
-      "code": "valek016",
-      "object": "valek",
-      "caption": "Острые черты · худой типаж",
-      "sha256": "5538f98f747f458b80ce8a9f740cad4867119d1dfd24a2ff22988ab3d865bbef",
-      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
-      "source_file": "docs/World/characters/valek/images/valek016.png",
-      "aliases": [
-        "docs/World/characters/valek/images/valek016.png"
-      ],
-      "galleries": [
-        "World/characters/valek"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "valek010",
-      "derivation_kind": "proportion_revision",
-      "renditions": [],
-      "task_ids": [
-        "support"
-      ],
-      "series": "current",
-      "visibility": "archived",
-      "casting_origin": {
-        "object": "valek",
-        "title": "Валёк",
-        "caption": "Острые черты · худой типаж",
-        "series": "current",
-        "visibility": "archived",
-        "galleries": [
-          "World"
-        ],
-        "task_ids": [
-          "support"
-        ]
-      },
-      "previous_objects": [
-        "base-girls"
-      ]
-    },
-    {
-      "code": "valek017",
-      "object": "valek",
-      "caption": "Мягкий овал · худой типаж",
-      "sha256": "6c70fbbfde4cc9d82e3b7c65ca54c96187903669c93244625dfbe64f181ccee1",
-      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
-      "source_file": "docs/World/characters/valek/images/valek017.png",
-      "aliases": [
-        "docs/World/characters/valek/images/valek017.png"
-      ],
-      "galleries": [
-        "World/characters/valek"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "valek011",
-      "derivation_kind": "proportion_revision",
-      "renditions": [],
-      "task_ids": [
-        "support"
-      ],
-      "series": "current",
-      "visibility": "archived",
-      "casting_origin": {
-        "object": "valek",
-        "title": "Валёк",
-        "caption": "Мягкий овал · худой типаж",
-        "series": "current",
-        "visibility": "archived",
-        "galleries": [
-          "World"
-        ],
-        "task_ids": [
-          "support"
-        ]
-      },
-      "previous_objects": [
-        "base-girls"
-      ]
-    },
-    {
       "code": "valek018",
       "object": "valek",
       "caption": "Выразительный профиль · худой типаж",
@@ -5807,54 +5191,6 @@
       "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
     },
     {
-      "code": "don020",
-      "object": "don15",
-      "caption": "Клюв · сухой силуэт",
-      "sha256": "10c069ab8ce393707887f18b31f40595e18b8f5973733eee82d5186edb28e410",
-      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
-      "source_file": "docs/World/robots/don15/images/don020.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don020.png"
-      ],
-      "galleries": [
-        "World"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "don017",
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "don021",
-      "object": "don15",
-      "caption": "Клюв · прицеливание",
-      "sha256": "25e75ed6518e0d6f74b1d482a7e7f56f08d5a7ea174b623bc2f05b380822c91c",
-      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
-      "source_file": "docs/World/robots/don15/images/don021.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don021.png"
-      ],
-      "galleries": [
-        "World"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "don020",
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
       "code": "don022",
       "object": "don15",
       "caption": "Рыцарь · щелевой визор (адаптация)",
@@ -5925,54 +5261,6 @@
       ],
       "series": "current",
       "visibility": "active"
-    },
-    {
-      "code": "don025",
-      "object": "don15",
-      "caption": "Птица · вертикальный силуэт",
-      "sha256": "7bd3fa73b3e80c68474a10067f3d80bf0d2d25d0b6b2edaeca01184e57d32e5e",
-      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
-      "source_file": "docs/World/robots/don15/images/don025.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don025.png"
-      ],
-      "galleries": [
-        "World"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "don020",
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
-    },
-    {
-      "code": "don026",
-      "object": "don15",
-      "caption": "Птица · хищная стойка",
-      "sha256": "ab3893655562e0ea7d95c977f84c31d93d0ccfc84d8f7f3eff55179552eb1e3a",
-      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
-      "source_file": "docs/World/robots/don15/images/don026.png",
-      "aliases": [
-        "docs/World/robots/don15/images/don026.png"
-      ],
-      "galleries": [
-        "World"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "derived_from": "don020",
-      "derivation_kind": "design_concept",
-      "renditions": [],
-      "task_ids": [
-        "don15"
-      ],
-      "series": "current",
-      "visibility": "archived"
     },
     {
       "code": "emma009",
@@ -7686,17 +6974,44 @@
     }
   ],
   "deleted_codes": [
+    "don001",
+    "don002",
+    "don004",
+    "don005",
+    "don013",
+    "don016",
+    "don017",
+    "don020",
+    "don021",
+    "don025",
+    "don026",
+    "lon003",
+    "lon004",
+    "lon005",
+    "lon006",
+    "lon008",
+    "martin005",
+    "martin007",
+    "moag003",
+    "moag004",
     "moag005",
-    "moag009",
-    "tais043",
-    "tais044",
     "moag007",
     "moag008",
+    "moag009",
+    "moag010",
+    "moag013",
+    "moag014",
     "moag017",
     "moag018",
     "moag037",
     "moag038",
     "moag039",
-    "moag040"
+    "moag040",
+    "tais043",
+    "tais044",
+    "valek014",
+    "valek015",
+    "valek016",
+    "valek017"
   ]
 }
