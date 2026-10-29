@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:25:14.049808+00:00",
+  "generatedAt": "2026-10-29T13:27:16.673846+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJgHw",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T13:27:01Z",
+      "excerpt": "у меня пока nitka013 и она же nitka009 - лидер",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19268080"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJf3V",
       "page": "ships/moag/",
@@ -37,25 +46,16 @@
       "createdAt": "2026-10-29T10:51:54Z",
       "excerpt": "Какие новые интерсные. Я бы отпустила fedor026 и fedor018 и fedor030.",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19265539"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJffV",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T10:48:26Z",
-      "excerpt": "Класс, спасибо. Я бы тогда отпустила бы точно emma006 и emma004. а остальные пока все пусть поживут",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19265493"
     }
   ],
   "discussionNumbers": {
+    "characters/nitka/": 48,
     "ships/moag/": 62,
     "characters/valek/": 60,
     "characters/kolka/": 59,
     "characters/fedor/": 52,
     "characters/emma/": 57,
     "characters/masha/": 50,
-    "characters/nitka/": 48,
     "robots/martin/": 61,
     "robots/don15/": 53,
     "robots/lon/": 44,
@@ -129,10 +129,10 @@
       "last": null
     },
     "characters/nitka/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-28T18:14:51Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:27:01Z"
       }
     },
     "characters/nitka/reference.html": {
