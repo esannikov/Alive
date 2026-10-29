@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:42:45.335447+00:00",
+  "generatedAt": "2026-10-29T13:44:50.818356+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJgNN",
+      "page": "characters/krendel/",
+      "title": "Крендель",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T13:44:34Z",
+      "excerpt": "krendel006 или krendel004 . с него можно брать)) https://www.instagram.com/p/Dbd2kmZOAO-/",
+      "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19268429"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJgMp",
       "page": "characters/egor/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-29T13:33:06Z",
       "excerpt": "katya001 еще тоже. там в целом она же вялая плакса такая. katya003 очень нравится, но может ее чуть субтильнее и более какой-то нескладной растяпой сделать? Эмма же ее за это и прессует.",
       "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19268194"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgI_",
-      "page": "characters/katya/",
-      "title": "Катя",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:31:19Z",
-      "excerpt": "katya003 - огинь.",
-      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19268159"
     }
   ],
   "discussionNumbers": {
+    "characters/krendel/": 96,
     "characters/egor/": 95,
     "characters/ilya/": 94,
     "characters/katya/": 67,
@@ -210,8 +211,11 @@
       "last": null
     },
     "characters/krendel/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:44:34Z"
+      }
     },
     "characters/krendel/reference.html": {
       "messageCount": 0,
