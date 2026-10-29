@@ -12,7 +12,7 @@
   "next_numbers": {
     "tais": 48,
     "fedor": 31,
-    "moag": 46,
+    "moag": 47,
     "emma": 11,
     "kolka": 9,
     "lon": 12,
@@ -7139,6 +7139,30 @@
         "everyday"
       ],
       "series": "moag-interior-islands",
+      "visibility": "archived"
+    },
+    {
+      "code": "moag046",
+      "object": "moag",
+      "caption": "Жилые острова · детский город",
+      "sha256": "25c543682349926f7dbea1b0af9f48b27143abc958faa4105f268bab2038de32",
+      "source_commit": "9e50d9eec318ab436a5a98c2396420c58b083dcd",
+      "source_file": "docs/World/ships/moag/images/moag046.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag046.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "moag045",
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "moag-interior-childrens-city",
       "visibility": "active"
     }
   ],
