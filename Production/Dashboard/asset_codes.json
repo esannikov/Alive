@@ -6897,7 +6897,7 @@
     {
       "code": "krendel001",
       "object": "krendel",
-      "caption": "Вузький овал",
+      "caption": "Узкий овал",
       "sha256": "204b80f77c326ca74ae39d73ab9fb73467f0ce2358901f8ec9cfa59e2903b3ef",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
       "source_file": "docs/World/characters/krendel/images/krendel001.png",
@@ -6920,7 +6920,7 @@
     {
       "code": "krendel002",
       "object": "krendel",
-      "caption": "Широкі вилиці",
+      "caption": "Широкие скулы",
       "sha256": "c33025a4248065b3f4b3faae4189e7722ccea90c50b2b9b1eb8f4fe0fb026fdc",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
       "source_file": "docs/World/characters/krendel/images/krendel002.png",
@@ -6943,7 +6943,7 @@
     {
       "code": "krendel003",
       "object": "krendel",
-      "caption": "Короткі кучері",
+      "caption": "Короткие кудри",
       "sha256": "fe75a80ff18d103c14ee4b2ce6cb0bbd70d4b8d3fe9b621c7838bb802988e375",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
       "source_file": "docs/World/characters/krendel/images/krendel003.png",
@@ -6966,7 +6966,7 @@
     {
       "code": "krendel004",
       "object": "krendel",
-      "caption": "Важка надбрівна дуга",
+      "caption": "Выраженные надбровные дуги",
       "sha256": "bf5ba85d96e2b3b50a528f8ea306cd389c16a59dbf5462b811415fa600b5fbc5",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
       "source_file": "docs/World/characters/krendel/images/krendel004.png",
@@ -6989,7 +6989,7 @@
     {
       "code": "krendel005",
       "object": "krendel",
-      "caption": "Високий лоб",
+      "caption": "Высокий лоб",
       "sha256": "789d4c30f6f8614ec920fc92c187b237ac5e8cb6f173596255951bffeecb5fe4",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
       "source_file": "docs/World/characters/krendel/images/krendel005.png",
@@ -7012,7 +7012,7 @@
     {
       "code": "krendel006",
       "object": "krendel",
-      "caption": "Гострий профіль",
+      "caption": "Острый профиль",
       "sha256": "055b03fca5b88a5ec8514c0c9f6fe8874152925f1d2c60a304497d0b8f0c1935",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
       "source_file": "docs/World/characters/krendel/images/krendel006.png",
@@ -7035,7 +7035,7 @@
     {
       "code": "fedor027",
       "object": "fedor",
-      "caption": "Оригінальність + реалізм · Уважний погляд",
+      "caption": "Оригинальность + реализм · Внимательный взгляд",
       "sha256": "db8aa913abe8ce6449ffa902d5b203b8184cc0a048b1572304fd154150d44cfe",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
       "source_file": "docs/World/characters/fedor/images/fedor027.png",
@@ -7061,7 +7061,7 @@
     {
       "code": "fedor028",
       "object": "fedor",
-      "caption": "Оригінальність + реалізм · Прямі риси",
+      "caption": "Оригинальность + реализм · Прямые черты",
       "sha256": "59a109e5a62a740de3283243a346e65dfccf3072ee3b696b55228a98b23fc661",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
       "source_file": "docs/World/characters/fedor/images/fedor028.png",
@@ -7087,7 +7087,7 @@
     {
       "code": "fedor029",
       "object": "fedor",
-      "caption": "Оригінальність + реалізм · Спокійний погляд",
+      "caption": "Оригинальность + реализм · Спокойный взгляд",
       "sha256": "1f26422541767d97aa0d8b01db4c5d8e030734addcbb309e7fa38192306123f7",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
       "source_file": "docs/World/characters/fedor/images/fedor029.png",
@@ -7113,7 +7113,7 @@
     {
       "code": "fedor030",
       "object": "fedor",
-      "caption": "Оригінальність + реалізм · Легка асиметрія",
+      "caption": "Оригинальность + реализм · Лёгкая асимметрия",
       "sha256": "0170d4ddeeef5f5726fd3b48c2b844a399de06f60aed785a192ccb21b6088383",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
       "source_file": "docs/World/characters/fedor/images/fedor030.png",
@@ -7139,7 +7139,7 @@
     {
       "code": "don027",
       "object": "don15",
-      "caption": "Визор · три світлові стани",
+      "caption": "Визор · три световых состояния",
       "sha256": "8117e84026c8aa95c7d0ac89b4fe7d8da5bb1795398b14143950973351fd6845",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/robots/don15/images/don027.png",
@@ -7163,7 +7163,7 @@
     {
       "code": "don028",
       "object": "don15",
-      "caption": "Рицар · прицілювання",
+      "caption": "Рыцарь · прицеливание",
       "sha256": "abcf6cefc4c212c812ccd6b70b9863529e6b9ee402b404e7c454856a50bb91aa",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/robots/don15/images/don028.png",
@@ -7187,7 +7187,7 @@
     {
       "code": "lon011",
       "object": "lon",
-      "caption": "Контур · рівні опори",
+      "caption": "Контур · прямые опоры",
       "sha256": "030b8b068f20d57cadca94306085d12bedbf754d94b860b9ba189e808d692fc6",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/robots/lon/images/lon011.png",
@@ -7210,7 +7210,7 @@
     {
       "code": "martin009",
       "object": "martin",
-      "caption": "Вихователь · робочий халат",
+      "caption": "Воспитатель · рабочий халат",
       "sha256": "6c1738ef913868c1a504b73984ab21c34da1f9d77e8b56511a5cdcdf62a12588",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/robots/martin/images/martin009.png",
@@ -7233,7 +7233,7 @@
     {
       "code": "martin010",
       "object": "martin",
-      "caption": "Вихователь · геометричний халат",
+      "caption": "Воспитатель · геометричный халат",
       "sha256": "ab1307222a72309af90d7d982bbbbbaed2e54b1aa6d216b157491741ef0f837d",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/robots/martin/images/martin010.png",
@@ -7256,7 +7256,7 @@
     {
       "code": "nitka012",
       "object": "nitka",
-      "caption": "Варіант 010 · за шиттям",
+      "caption": "Вариант 010 · за шитьём",
       "sha256": "861e6a29959dd658ec0b2fb37b5db40cb4ec558f4dbfa7af39ac0e95fe8024cc",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/nitka/images/nitka012.png",
@@ -7280,7 +7280,7 @@
     {
       "code": "nitka013",
       "object": "nitka",
-      "caption": "Варіант 009 · за шиттям",
+      "caption": "Вариант 009 · за шитьём",
       "sha256": "74a2576dad14e3f7d8a79fde0bdb41c3c15955531757bba7fff6a598880a0607",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/nitka/images/nitka013.png",
@@ -7304,7 +7304,7 @@
     {
       "code": "valek019",
       "object": "valek",
-      "caption": "Від 018 · індивідуальність і реалізм",
+      "caption": "От 018 · индивидуальность и реализм",
       "sha256": "a0301e9babb654ff9ff58bdc412a2c8d96966ed6fea6b2fbb54b8379ff2378e2",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/valek/images/valek019.png",
@@ -7327,7 +7327,7 @@
     {
       "code": "valek020",
       "object": "valek",
-      "caption": "Від 013 · стриманий характер",
+      "caption": "От 013 · сдержанный характер",
       "sha256": "bf008db79bfae923e71e44991c83a994152e93fc7dddf067b15686eef24b4b3e",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/valek/images/valek020.png",
@@ -7350,7 +7350,7 @@
     {
       "code": "kolka007",
       "object": "kolka",
-      "caption": "Живий типаж · зібраний погляд",
+      "caption": "Живой типаж · внимательный взгляд",
       "sha256": "0d21c935cb7115125ad9b1555adb5015c0a4486e8a3b27d450b968e80e43b41e",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/kolka/images/kolka007.png",
@@ -7373,7 +7373,7 @@
     {
       "code": "kolka008",
       "object": "kolka",
-      "caption": "Кастингова проба · змішані риси",
+      "caption": "Кастинговая проба · смешанные черты",
       "sha256": "588253a438adb73147509ef7a11475b707e4ce29ddd876460c32a4134b184c9b",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/kolka/images/kolka008.png",
@@ -7396,7 +7396,7 @@
     {
       "code": "masha007",
       "object": "masha",
-      "caption": "Від 006 · теплий кастинговий напрям",
+      "caption": "От 006 · тёплый кастинговый вариант",
       "sha256": "88149119738bfccc82a70980b7028ecb543c79bd79f0b1e16875eb455f22848c",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
       "source_file": "docs/World/characters/masha/images/masha007.png",
@@ -7419,7 +7419,7 @@
     {
       "code": "tais045",
       "object": "tais",
-      "caption": "Широка пов’язка · чорна м’яка",
+      "caption": "Широкая повязка · мягкая чёрная",
       "sha256": "b414d445770ea367bebe440c07d73b1ba343db3df41f013e05e1c06a9524c6f5",
       "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
       "source_file": "docs/World/characters/tais/images/tais045.png",
@@ -7443,7 +7443,7 @@
     {
       "code": "tais046",
       "object": "tais",
-      "caption": "Широка пов’язка · графітова",
+      "caption": "Широкая повязка · графитовая",
       "sha256": "0074b3a2abeab4119936729940506c050d7dd0eb7496743269a6115f4ccf59d6",
       "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
       "source_file": "docs/World/characters/tais/images/tais046.png",
@@ -7467,7 +7467,7 @@
     {
       "code": "tais047",
       "object": "tais",
-      "caption": "Широка пов’язка · чорно-біла",
+      "caption": "Широкая повязка · чёрно-белая",
       "sha256": "ca626f9e3a917bba166ea73fe7f38ed8c60334e3d53890f28b469ab9b7c1e5c6",
       "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
       "source_file": "docs/World/characters/tais/images/tais047.png",
@@ -7491,7 +7491,7 @@
     {
       "code": "moag037",
       "object": "moag",
-      "caption": "Двор · світлий корпус · ракурс 1",
+      "caption": "Двор · светлый корпус · ракурс 1",
       "sha256": "78b64c1b08dfa7b177893e788a39c054ff72cd090d51431d33927fb04367c558",
       "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
       "source_file": "docs/World/ships/moag/images/moag037.png",
@@ -7514,7 +7514,7 @@
     {
       "code": "moag038",
       "object": "moag",
-      "caption": "Двор · світлий корпус · ракурс 2",
+      "caption": "Двор · светлый корпус · ракурс 2",
       "sha256": "64a9a884a8d3a94ebc2822168a221639568aaa260c5344faa13b74876d531e3a",
       "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
       "source_file": "docs/World/ships/moag/images/moag038.png",
@@ -7537,7 +7537,7 @@
     {
       "code": "moag039",
       "object": "moag",
-      "caption": "Обод · Едем · ракурс 1",
+      "caption": "Обод · Эдем · ракурс 1",
       "sha256": "2e8cefdb91ef37d614a09ca91a20195b8ba3b16cdc1ecfb982bad3d76c9de56e",
       "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
       "source_file": "docs/World/ships/moag/images/moag039.png",
@@ -7560,7 +7560,7 @@
     {
       "code": "moag040",
       "object": "moag",
-      "caption": "Обод · Едем · ракурс 2",
+      "caption": "Обод · Эдем · ракурс 2",
       "sha256": "592fd91aa5b8d9e187a63397596a97ae3f265f18c80f073d899d5b5ff82285e1",
       "source_commit": "d1ad77a3037e084c3f50cd48417afb9e51b62a48",
       "source_file": "docs/World/ships/moag/images/moag040.png",
@@ -7583,7 +7583,7 @@
     {
       "code": "moag041",
       "object": "moag",
-      "caption": "Едем · велике коло",
+      "caption": "Эдем · большой круг",
       "sha256": "68ccf88187068c0f00d6706680a0054ebf60434c6f8d2af7c5eb3440c7e6c421",
       "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
       "source_file": "docs/World/ships/moag/images/moag041.png",
@@ -7606,7 +7606,7 @@
     {
       "code": "moag042",
       "object": "moag",
-      "caption": "Едем · монументальний овал",
+      "caption": "Эдем · монументальный овал",
       "sha256": "d393939adbe09d0b713fbca6f0decaadfb07f5b6afc81d1859a96c5bb524270e",
       "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
       "source_file": "docs/World/ships/moag/images/moag042.png",
@@ -7629,7 +7629,7 @@
     {
       "code": "moag043",
       "object": "moag",
-      "caption": "Едем · витягнутий еліпс",
+      "caption": "Эдем · вытянутый эллипс",
       "sha256": "e8e49382c0d832eb6bc4471a52647b7baf2d47bd9bbd35335b70daa97bd8e775",
       "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
       "source_file": "docs/World/ships/moag/images/moag043.png",
@@ -7652,7 +7652,7 @@
     {
       "code": "moag044",
       "object": "moag",
-      "caption": "Едем · складний радіальний",
+      "caption": "Эдем · сложная радиальная форма",
       "sha256": "e0bb086e5e274cdbc35677abe742a860d02b92d1f887e5d1f42082a04508c0d2",
       "source_commit": "4ee6a6eafcad5c8200b580eafce2339802de75f1",
       "source_file": "docs/World/ships/moag/images/moag044.png",
