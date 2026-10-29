@@ -282,6 +282,25 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/characters/vovik/",
+    "page": "characters/vovik/",
+    "title": "Вовик",
+    "variantCodes": [
+      "vovik001",
+      "vovik002",
+      "vovik003",
+      "vovik004",
+      "vovik005",
+      "vovik006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/vovik/reference",
+    "page": "characters/vovik/reference.html",
+    "title": "Вовик · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/robots/lon/",
     "page": "robots/lon/",
     "title": "Лон",
