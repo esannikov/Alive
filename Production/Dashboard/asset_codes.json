@@ -5369,8 +5369,8 @@
     },
     {
       "code": "masha002",
-      "object": "masha",
-      "caption": "B · угловатый типаж",
+      "object": "base-girls",
+      "caption": "Маша · B · угловатый типаж",
       "sha256": "b1ef7427641007ed49e660da90a7c0eafd1e96528f8da55c30ec99b5c32dcee7",
       "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
       "source_file": "docs/World/characters/masha/images/masha002.png",
@@ -5378,7 +5378,7 @@
         "docs/World/characters/masha/images/masha002.png"
       ],
       "galleries": [
-        "World/characters/masha"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5388,7 +5388,23 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "masha",
+        "caption": "B · угловатый типаж",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/masha"
+        ],
+        "task_ids": [
+          "support"
+        ],
+        "title": "Маша"
+      },
+      "previous_objects": [
+        "masha"
+      ]
     },
     {
       "code": "masha003",
@@ -5470,8 +5486,8 @@
     },
     {
       "code": "masha005",
-      "object": "masha",
-      "caption": "E · выраженный профиль",
+      "object": "base-girls",
+      "caption": "Маша · E · выраженный профиль",
       "sha256": "eeed90ec856c1ac30716f33c8775c426836e332873ea92f97582835528a0c292",
       "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
       "source_file": "docs/World/characters/masha/images/masha005.png",
@@ -5479,7 +5495,7 @@
         "docs/World/characters/masha/images/masha005.png"
       ],
       "galleries": [
-        "World/characters/masha"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5489,7 +5505,23 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "casting_origin": {
+        "object": "masha",
+        "caption": "E · выраженный профиль",
+        "series": "current",
+        "visibility": "active",
+        "galleries": [
+          "World/characters/masha"
+        ],
+        "task_ids": [
+          "support"
+        ],
+        "title": "Маша"
+      },
+      "previous_objects": [
+        "masha"
+      ]
     },
     {
       "code": "masha006",
