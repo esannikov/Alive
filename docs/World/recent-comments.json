@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T19:36:05.132838+00:00",
+  "generatedAt": "2026-10-29T10:48:44.748259+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJffV",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-29T10:48:26Z",
+      "excerpt": "Класс, спасибо. Я бы тогда отпустила бы точно emma006 и emma004. а остальные пока все пусть поживут",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19265493"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJcPl",
       "page": "ships/moag/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-10-28T18:16:02Z",
       "excerpt": "Вернул все варианты Эммы — emma001–010. Новые тоже оставил, можно сравнить и выбрать. https://esannikov.github.io/Alive/World/characters/emma/",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19250221"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJbwr",
-      "page": "characters/masha/",
-      "title": "Маша",
-      "author": "esannikov",
-      "createdAt": "2026-10-28T18:16:00Z",
-      "excerpt": "Убрал masha003 и masha004 из галереи, добавил пробу masha007. masha001 и masha006 на месте. https://esannikov.github.io/Alive/World/characters/masha/#masha007",
-      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19250219"
     }
   ],
   "discussionNumbers": {
+    "characters/emma/": 57,
     "ships/moag/": 62,
     "characters/fedor/": 52,
-    "characters/emma/": 57,
     "characters/masha/": 50,
     "characters/kolka/": 59,
     "characters/nitka/": 48,
@@ -85,10 +85,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 8,
+      "messageCount": 9,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-28T18:16:02Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T10:48:26Z"
       }
     },
     "characters/emma/reference.html": {
