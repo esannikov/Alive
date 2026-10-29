@@ -285,7 +285,7 @@
   arrow.setAttribute('viewBox', '0 0 24 24'); arrow.setAttribute('aria-hidden', 'true');
   const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
   path.setAttribute('d', 'm6 9 6 6 6-6'); arrow.append(path);
-  summary.append(title, context, arrow);
+  summary.append(title, arrow);
   const content = document.createElement('div'); content.className = 'comments-content';
   const fallback = document.createElement('a');
   fallback.className = 'quiet-link comments-link';
@@ -396,6 +396,7 @@
     const selectedHash = location.hash;
     script.addEventListener('error', fail, {once:true});
     script.addEventListener('load', () => {
+      const frame=host.querySelector('iframe'); if(frame){frame.removeAttribute('title');frame.setAttribute('aria-label','Обсуждение');}
       // Giscus removes its OAuth query parameter and hash; keep the selected gallery frame.
       if (selectedHash && !location.hash) {
         const restored = new URL(location.href); restored.hash = selectedHash;

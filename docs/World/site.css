@@ -52,3 +52,6 @@ html.js #gallery,html.js .gallery-fallback{display:none!important}
 .rail-item{flex-basis:108.8px}
 body[data-object="moag"] .rail-item img{object-fit:contain}
 @media(max-width:680px){.rail-item{flex-basis:94.4px}}
+
+.comment-variant{background:var(--accent);color:#090a0b;border:1px solid var(--accent);border-radius:5px;padding:9px 14px;font-weight:600}.comment-variant:hover{background:#dbfa91;color:#090a0b}.comment-variant:focus-visible{outline:2px solid var(--text);outline-offset:3px}
+.variant-votes{margin:8px 0 14px;max-width:720px}.vote-summary{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--muted)}.vote-hint{display:block;font-size:11px;color:var(--muted);margin-top:4px}.vote-against{color:#e8a5a5}
