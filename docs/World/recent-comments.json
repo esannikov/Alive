@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:04:34.800325+00:00",
+  "generatedAt": "2026-10-30T17:56:56.102228+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJnxE",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T17:56:39Z",
+      "excerpt": "Да, я бы тоже. Может есть смысл тут сразу тогда отойти от книги и воспитателей этих из яслей как-то визуально отделить от остальных 12ых.",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299396"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJniS",
       "page": "robots/martin/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-30T16:52:58Z",
       "excerpt": "что-то пока не то. Мне очень нравится Мартин в презе нашей. Он спиной и там какой-то же халат на нем с названием Эдем. И я вот все думаю, а может он вообще будет с лицом человека будто? прикрученным на тело киборга. это в разрез с книгой, но в этом есть лог…",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298281"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnei",
-      "page": "robots/lon/",
-      "title": "Лон",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-30T16:48:25Z",
-      "excerpt": "led экран с эмоцией/имоджи?",
-      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298210"
     }
   ],
   "discussionNumbers": {
@@ -257,10 +257,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-30T17:04:17Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T17:56:39Z"
       }
     },
     "robots/martin/reference.html": {
