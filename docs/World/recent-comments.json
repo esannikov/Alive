@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T10:14:14.648878+00:00",
+  "generatedAt": "2026-10-30T10:20:36.813640+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJlsL",
+      "page": "ships/moag/",
+      "title": "Моаг · корабль",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T10:20:15Z",
+      "excerpt": "Предлагаю тогда пока все в резерв, кроме этой 4ки- moag041–044.",
+      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19290891"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJlpx",
       "page": "locations/main-square/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-10-30T09:22:26Z",
       "excerpt": "41 и 44 - топ! 41 изящнее и более классическая станция, 44 - типа супер-город. если бы выбирал из 2х - наверное 41",
       "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19289640"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgNN",
-      "page": "characters/krendel/",
-      "title": "Крендель",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:44:34Z",
-      "excerpt": "krendel006 или krendel004 . с него можно брать)) https://www.instagram.com/p/Dbd2kmZOAO-/",
-      "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19268429"
     }
   ],
   "discussionNumbers": {
+    "ships/moag/": 62,
     "locations/main-square/": 125,
     "characters/kolka/": 59,
-    "ships/moag/": 62,
     "characters/krendel/": 96,
     "characters/egor/": 95,
     "characters/ilya/": 94,
@@ -264,10 +264,10 @@
       "last": null
     },
     "ships/moag/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-30T09:22:26Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T10:20:15Z"
       }
     },
     "ships/moag/reference.html": {
