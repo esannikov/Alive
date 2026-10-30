@@ -27,7 +27,11 @@
       "tais009",
       "tais045",
       "tais046",
-      "tais047"
+      "tais047",
+      "tais048",
+      "tais049",
+      "tais050",
+      "tais051"
     ]
   },
   {
@@ -70,7 +74,9 @@
       "fedor025",
       "fedor027",
       "fedor028",
-      "fedor029"
+      "fedor029",
+      "fedor031",
+      "fedor032"
     ]
   },
   {
@@ -87,7 +93,8 @@
       "kolka002",
       "fedor028",
       "kolka007",
-      "kolka008"
+      "kolka008",
+      "kolka009"
     ]
   },
   {
@@ -158,7 +165,8 @@
       "katya003",
       "katya004",
       "katya005",
-      "katya006"
+      "katya006",
+      "katya007"
     ]
   },
   {
@@ -215,7 +223,8 @@
       "egor003",
       "egor004",
       "egor005",
-      "egor006"
+      "egor006",
+      "egor007"
     ]
   },
   {
@@ -310,7 +319,8 @@
       "lon007",
       "lon009",
       "lon010",
-      "lon011"
+      "lon011",
+      "lon012"
     ]
   },
   {
@@ -325,7 +335,6 @@
     "title": "Дон-15",
     "variantCodes": [
       "don014",
-      "don003",
       "don015",
       "don006",
       "don018",
@@ -334,7 +343,9 @@
       "don023",
       "don024",
       "don027",
-      "don028"
+      "don028",
+      "don029",
+      "don030"
     ]
   },
   {
@@ -344,9 +355,41 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/robots/reserve/",
+    "page": "robots/reserve/",
+    "title": "Роботы · резерв",
+    "variantCodes": [
+      "don003"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/reserve/reference",
+    "page": "robots/reserve/reference.html",
+    "title": "Роботы · резерв · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/robots/martin/",
     "page": "robots/martin/",
-    "title": "Мартин · Дон-12",
+    "title": "Мартин",
+    "variantCodes": [
+      "martin009",
+      "martin010",
+      "martin011",
+      "martin012",
+      "martin013"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/martin/reference",
+    "page": "robots/martin/reference.html",
+    "title": "Мартин · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/robots/don12/",
+    "page": "robots/don12/",
+    "title": "Дон-12 · воспитатель",
     "variantCodes": [
       "martin001",
       "martin002",
@@ -354,20 +397,36 @@
       "martin004",
       "martin006",
       "martin008",
-      "martin009",
-      "martin010"
+      "donteacher001"
     ]
   },
   {
-    "term": "Alive/World/robots/martin/reference",
-    "page": "robots/martin/reference.html",
-    "title": "Мартин · Дон-12 · справка",
+    "term": "Alive/World/robots/don12/reference",
+    "page": "robots/don12/reference.html",
+    "title": "Дон-12 · воспитатель · справка",
     "variantCodes": []
   },
   {
     "term": "Alive/World/ships/moag/",
     "page": "ships/moag/",
     "title": "Моаг · корабль",
+    "variantCodes": [
+      "moag041",
+      "moag042",
+      "moag043",
+      "moag044"
+    ]
+  },
+  {
+    "term": "Alive/World/ships/moag/reference",
+    "page": "ships/moag/reference.html",
+    "title": "Моаг · корабль · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/ships/reserve/",
+    "page": "ships/reserve/",
+    "title": "Моаг · резерв",
     "variantCodes": [
       "moag001",
       "moag002",
@@ -393,17 +452,13 @@
       "moag033",
       "moag034",
       "moag035",
-      "moag036",
-      "moag041",
-      "moag042",
-      "moag043",
-      "moag044"
+      "moag036"
     ]
   },
   {
-    "term": "Alive/World/ships/moag/reference",
-    "page": "ships/moag/reference.html",
-    "title": "Моаг · корабль · справка",
+    "term": "Alive/World/ships/reserve/reference",
+    "page": "ships/reserve/reference.html",
+    "title": "Моаг · резерв · справка",
     "variantCodes": []
   },
   {

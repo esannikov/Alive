@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T18:03:25.877974+00:00",
+  "generatedAt": "2026-10-30T18:56:37.022461+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BJnzK",
       "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
+      "title": "Мартин",
       "author": "ElenaAlive",
       "createdAt": "2026-10-30T18:03:07Z",
       "excerpt": "я бы разделила этих Донов 12 на три группы условные - 1) Воспитатели (ясли и тд) - какие-то мягкие более и теплые и лица ближе к людям. Там зеркальные нейроны же. Понятно, что Варвара об этом не думала, но младенцам важно разделять мимику человека и тд. Не…",
@@ -14,7 +14,7 @@
     {
       "id": "DC_kwDOVCLQyc4BJnxb",
       "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
+      "title": "Мартин",
       "author": "ElenaAlive",
       "createdAt": "2026-10-30T17:58:04Z",
       "excerpt": "и есть Мартин - Мартин. Дон-12, главный робот всего детского сада и непосредственный руководитель первого младенческого отделения. Единственный робот Второго Уровня с собственным именем. Распоряжается работой, наблюдает за здоровьем малышей, сам берёт их на…",
@@ -23,7 +23,7 @@
     {
       "id": "DC_kwDOVCLQyc4BJnxJ",
       "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
+      "title": "Мартин",
       "author": "ElenaAlive",
       "createdAt": "2026-10-30T17:56:50Z",
       "excerpt": "у нас есть Доны - Доны. Класс роботов-учителей и наставников. Высокие андроиды с длинными ногами, выпученными неподвижными глазами и блестящими деталями корпуса. Не умеют улыбаться; доброжелательность передают мягкой интонацией, в которой иногда слышатся тр…",
@@ -32,7 +32,7 @@
     {
       "id": "DC_kwDOVCLQyc4BJnxE",
       "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
+      "title": "Мартин",
       "author": "ElenaAlive",
       "createdAt": "2026-10-30T17:56:39Z",
       "excerpt": "Да, я бы тоже. Может есть смысл тут сразу тогда отойти от книги и воспитателей этих из яслей как-то визуально отделить от остальных 12ых.",
@@ -41,7 +41,7 @@
     {
       "id": "DC_kwDOVCLQyc4BJniS",
       "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
+      "title": "Мартин",
       "author": "isto3110-ship-it",
       "createdAt": "2026-10-30T17:04:17Z",
       "excerpt": "Кстати, если бы я делал роботов, которые воспитывают детей, я бы делал их (роботов) теплыми и мягкими.",
@@ -256,6 +256,14 @@
       "messageCount": 0,
       "last": null
     },
+    "robots/reserve/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/reserve/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
     "robots/martin/": {
       "messageCount": 10,
       "last": {
@@ -267,6 +275,14 @@
       "messageCount": 0,
       "last": null
     },
+    "robots/don12/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don12/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
     "ships/moag/": {
       "messageCount": 8,
       "last": {
@@ -275,6 +291,14 @@
       }
     },
     "ships/moag/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/reserve/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/reserve/reference.html": {
       "messageCount": 0,
       "last": null
     },

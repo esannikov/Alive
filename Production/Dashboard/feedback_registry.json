@@ -1,0 +1,605 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-30",
+  "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
+  "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
+  "statusMeaning": {
+    "queued": "В очереди",
+    "generated": "Изображение создано, интеграция и публикация ещё не завершены",
+    "implemented": "Правка реализована и связана с артефактом; творческий выбор не подразумевается",
+    "published": "Опубликовано и проверено на сайте",
+    "already_done": "Выполнено в предыдущем пакете",
+    "excluded_by_user": "Исключено из этого пакета пользователем",
+    "partial": "Выполнена часть задания; оставшееся явно указано"
+  },
+  "items": [
+    {
+      "id": "ship-shortlist",
+      "request": "Оставить moag041–044, остальные 25 внешних изображений перенести в резерв",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19290891"
+      ],
+      "assetCodes": [
+        "moag001",
+        "moag002",
+        "moag006",
+        "moag011",
+        "moag012",
+        "moag015",
+        "moag016",
+        "moag019",
+        "moag020",
+        "moag021",
+        "moag022",
+        "moag023",
+        "moag024",
+        "moag025",
+        "moag026",
+        "moag027",
+        "moag028",
+        "moag029",
+        "moag030",
+        "moag031",
+        "moag032",
+        "moag033",
+        "moag034",
+        "moag035",
+        "moag036"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19290891",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "don003-reserve",
+      "request": "Перенести don003 в резерв роботов",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19290953"
+      ],
+      "assetCodes": [
+        "don003"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19290953",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "martin-don12-separation",
+      "request": "Разделить персонального Мартина и серийную модель Дон-12",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19298346"
+      ],
+      "assetCodes": [
+        "martin001",
+        "martin002",
+        "martin003",
+        "martin004",
+        "martin006",
+        "martin008",
+        "martin009",
+        "martin010"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298346",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "kolka-hair",
+      "request": "Колька от лица fedor028 с короткими чёрными волосами иголками",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19290658"
+      ],
+      "assetCodes": [
+        "kolka009"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19290658",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "don-hand-shroud",
+      "request": "Фазы раскрытия кожуха вокруг сохранённой кисти",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19291667"
+      ],
+      "assetCodes": [
+        "don029"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19291667",
+          "author": "isto3110-ship-it"
+        }
+      ]
+    },
+    {
+      "id": "don-external-module",
+      "request": "Фазы наружного модуля при свободной кисти",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19291667"
+      ],
+      "assetCodes": [
+        "don030"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19291667",
+          "author": "isto3110-ship-it"
+        }
+      ]
+    },
+    {
+      "id": "tais-open-face",
+      "request": "Три пробы с открытым лицом от tais045–047",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19268111"
+      ],
+      "assetCodes": [
+        "tais048",
+        "tais049",
+        "tais050"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19268111",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "tais-casting-reference",
+      "request": "Отдельная кастинговая проба по направлению референса Зендеи",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19268111"
+      ],
+      "assetCodes": [
+        "tais051"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19268111",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "katya-subtle",
+      "request": "Субтильность и неуверенная пластика katya003",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19268194"
+      ],
+      "assetCodes": [
+        "katya007"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19268194",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "egor-hair",
+      "request": "Тёмно-русые волосы в хвост от ilya003",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19268393"
+      ],
+      "assetCodes": [
+        "egor007"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19268393",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "egor-light",
+      "request": "Убрать выбеленность и плоскость освещения, сохранить лицо и причёску",
+      "status": "implemented",
+      "sourceCommentIds": [],
+      "assetCodes": [
+        "egor007"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": []
+    },
+    {
+      "id": "lon-emotions",
+      "request": "Четыре состояния экранной индикации Лона",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19298210",
+        "19298289"
+      ],
+      "assetCodes": [
+        "lon012"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298210",
+          "author": "isto3110-ship-it"
+        },
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298289",
+          "author": "ElenaAlive"
+        }
+      ]
+    },
+    {
+      "id": "martin-humanized",
+      "request": "Два направления Мартина на основе полученного референса халата EDEM",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19298281"
+      ],
+      "assetCodes": [
+        "martin011",
+        "martin012",
+        "martin013"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298281",
+          "author": "ElenaAlive"
+        }
+      ],
+      "userDirection": "Пользователь выделил вариант martin011 и попросил геометрически интересные стыки; они выполнены в martin013. Одежда из референса читается как плащ и в романе не задана."
+    },
+    {
+      "id": "don12-soft-contact",
+      "request": "Материальная проба тёплых мягких пальцев и контакта с ребёнком",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19298450"
+      ],
+      "assetCodes": [
+        "donteacher001"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298450",
+          "author": "isto3110-ship-it"
+        }
+      ]
+    },
+    {
+      "id": "fedor-action-proof",
+      "request": "Проверка двух обсуждаемых типажей в заботе и опасной ситуации",
+      "status": "partial",
+      "sourceCommentIds": [
+        "19215656",
+        "19237226"
+      ],
+      "assetCodes": [
+        "fedor031",
+        "fedor032"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215656",
+          "author": "ElenaAlive"
+        },
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19237226",
+          "author": "isto3110-ship-it"
+        }
+      ],
+      "remaining": "Сюжетные пробы заботы и опасности не получены: генератор отклонил результаты. Сделаны нейтральные портретные состояния внимания и решимости."
+    },
+    {
+      "id": "preferences-record",
+      "request": "Записать предпочтения Лены и Игоря отдельно от окончательного выбора",
+      "status": "implemented",
+      "sourceCommentIds": [],
+      "assetCodes": [],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "not_selected",
+      "sources": []
+    },
+    {
+      "id": "main-square-scheme",
+      "request": "Схема Главной Площади и пространственные изменения",
+      "status": "excluded_by_user",
+      "sourceCommentIds": [
+        "19290737"
+      ],
+      "assetCodes": [],
+      "evidence": [],
+      "designAcceptance": "not_selected"
+    },
+    {
+      "id": "martin-geometric-seams",
+      "request": "Добавить несколько намеренных геометрических лицевых стыков на выбранную пробу",
+      "status": "implemented",
+      "source": "Прямая правка пользователя 30.10.2026",
+      "assetCodes": [
+        "martin013"
+      ],
+      "evidence": [
+        "Feedback_Fixes_2026-10-30_prompts.json"
+      ],
+      "designAcceptance": "direction_favoured_not_final"
+    }
+  ],
+  "previouslyCompleted": [
+    {
+      "request": "Перемещения Эммы, Федора, Кольки, Маши и Валька по решениям 29 октября",
+      "status": "already_done",
+      "evidence": [
+        "Selection_2026-10-29.json"
+      ]
+    },
+    {
+      "request": "ilya003 доступен у Егора; fedor028 доступен также у Кольки",
+      "status": "already_done",
+      "evidence": [
+        "asset_codes.json"
+      ]
+    }
+  ],
+  "notes": [
+    "Референс Мартина получен от пользователя в этом чате 30.10.2026.",
+    "Главная Площадь: объект, изображения, порядок и содержательные подписи сохраняются.",
+    "Генерация и публикация не означают окончательного творческого выбора."
+  ],
+  "preferences": [
+    {
+      "object": "don15",
+      "codes": [
+        "don022"
+      ],
+      "by": [
+        "ElenaAlive",
+        "isto3110-ship-it"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "valek",
+      "codes": [
+        "valek018"
+      ],
+      "by": [
+        "ElenaAlive",
+        "isto3110-ship-it"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "valek",
+      "codes": [
+        "valek019"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "shortlisted_not_final"
+    },
+    {
+      "object": "sonya",
+      "codes": [
+        "sonya002"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "nitka",
+      "codes": [
+        "nitka009",
+        "nitka013"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "katya",
+      "codes": [
+        "katya003",
+        "katya001"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "ilya",
+      "codes": [
+        "ilya001"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "krendel",
+      "codes": [
+        "krendel004",
+        "krendel006"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "shortlisted_not_final"
+    },
+    {
+      "object": "fedor",
+      "codes": [
+        "fedor021",
+        "fedor023"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "disputed_preserved"
+    },
+    {
+      "object": "fedor",
+      "codes": [
+        "fedor009"
+      ],
+      "by": [
+        "isto3110-ship-it"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "moag",
+      "codes": [
+        "moag041",
+        "moag044"
+      ],
+      "by": [
+        "isto3110-ship-it"
+      ],
+      "status": "preferred_not_final"
+    },
+    {
+      "object": "moag",
+      "codes": [
+        "moag042"
+      ],
+      "by": [
+        "ElenaAlive"
+      ],
+      "status": "preferred_not_final"
+    }
+  ],
+  "delivery": {
+    "branch": "codex/producer-feedback-20261030",
+    "base": "94eea181b7eb594f851238bfcdf76bf9dcbaa7b9",
+    "asset_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+    "new_images": 16,
+    "mainSquareContentUnchanged": true
+  },
+  "verification": {
+    "catalogue": "PASS — 54 pages, 254 codes, 253 active images",
+    "sources": "PASS — immutable sources and all previous image bytes preserved",
+    "mainSquare": "PASS — object, assets and semantic page content unchanged",
+    "redirects": "PASS — old Martin / Don / ship links lead to the appropriate current gallery",
+    "phaseSheets": "Generated and visually reviewed; no engineering validation claimed"
+  }
+}

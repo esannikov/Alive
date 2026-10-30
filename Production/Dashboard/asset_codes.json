@@ -10,26 +10,27 @@
     "Future prefixes are unique per object."
   ],
   "next_numbers": {
-    "tais": 48,
-    "fedor": 31,
+    "tais": 52,
+    "fedor": 33,
     "moag": 47,
     "emma": 11,
-    "kolka": 9,
-    "lon": 12,
-    "don": 29,
-    "martin": 11,
+    "kolka": 10,
+    "lon": 13,
+    "don": 31,
+    "martin": 14,
     "valek": 21,
     "nitka": 14,
     "masha": 8,
-    "katya": 7,
+    "katya": 8,
     "ilya": 7,
     "sonya": 7,
-    "egor": 7,
+    "egor": 8,
     "zhanna": 7,
     "rita": 7,
     "krendel": 7,
     "vovik": 7,
-    "square": 6
+    "square": 6,
+    "donteacher": 2
   },
   "assets": [
     {
@@ -2542,7 +2543,7 @@
     },
     {
       "code": "moag001",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Бастион · ракурс 1",
       "sha256": "33be88b85e1140b2d26c889f63ecdb6d357d74e954b42cee09584aba3c51b5a5",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2551,7 +2552,7 @@
         "docs/World/ships/moag/images/moag001-bastion-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2562,11 +2563,14 @@
         "hull"
       ],
       "series": "moag-bastion",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag002",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Бастион · ракурс 2",
       "sha256": "9af5ab75bfc14368aff1cebd86810d12c8068b695f4d8250742cc98d1a38b6f3",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2575,7 +2579,7 @@
         "docs/World/ships/moag/images/moag002-bastion-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2586,11 +2590,14 @@
         "hull"
       ],
       "series": "moag-bastion",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag006",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Каскад · ракурс 2",
       "sha256": "c2d9674fa5bc5e5440a0b91ed3ca9958d284420d3179a1a78e230999380baf9a",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2599,7 +2606,7 @@
         "docs/World/ships/moag/images/moag006-cascade-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2610,11 +2617,14 @@
         "hull"
       ],
       "series": "moag-cascade",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag011",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Клин · ракурс 1",
       "sha256": "54f0c487c2dca36a93af1a54dac0192b27e25b4ade917a2bcd47205937ee225d",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2623,7 +2633,7 @@
         "docs/World/ships/moag/images/moag011-wedge-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2634,11 +2644,14 @@
         "hull"
       ],
       "series": "moag-wedge",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag012",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Клин · ракурс 2",
       "sha256": "965a2e89d9a7f0084bcd43251fd2063bb862249d5fcd5a405e3d399e11bb91df",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2647,7 +2660,7 @@
         "docs/World/ships/moag/images/moag012-wedge-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2658,11 +2671,14 @@
         "hull"
       ],
       "series": "moag-wedge",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag015",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Комбинат · ракурс 1",
       "sha256": "d2ef2a2382163994dea6496fc3a3caa121785f5fc6a1586e90fe5fe10f22ec08",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2671,7 +2687,7 @@
         "docs/World/ships/moag/images/moag015-combine-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2682,11 +2698,14 @@
         "hull"
       ],
       "series": "moag-combine",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag016",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Комбинат · ракурс 2",
       "sha256": "3b95b25a5bdc67f1f2d54705958ba274e626eb1904f5d96eec7e663da59af338",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2695,7 +2714,7 @@
         "docs/World/ships/moag/images/moag016-combine-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2706,11 +2725,14 @@
         "hull"
       ],
       "series": "moag-combine",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag019",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Контур · ракурс 1",
       "sha256": "83a0f8ae057dc47596f6446b7f0688d3dd344ac871ffccaeb50e2432cbf1746a",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2719,7 +2741,7 @@
         "docs/World/ships/moag/images/moag019-contour-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2730,11 +2752,14 @@
         "hull"
       ],
       "series": "moag-contour",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag020",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Контур · ракурс 2",
       "sha256": "3dc1bea65a14d9ac54c38c4025cf4ae2a98854358f94522db283578af20c1ae7",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2743,7 +2768,7 @@
         "docs/World/ships/moag/images/moag020-contour-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2754,11 +2779,14 @@
         "hull"
       ],
       "series": "moag-contour",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag021",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Монолит · ракурс 1",
       "sha256": "1413b7526379ad9273aae55ba6f294403ce70a693188e8979295d13d8d7acf16",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2767,7 +2795,7 @@
         "docs/World/ships/moag/images/moag021-monolith-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2778,11 +2806,14 @@
         "hull"
       ],
       "series": "moag-monolith",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag022",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Монолит · ракурс 2",
       "sha256": "e3864768ba62ccd102abe92b4c9d8c4134729e3df1b7d3cbea3690e0e14d7ee5",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2791,7 +2822,7 @@
         "docs/World/ships/moag/images/moag022-monolith-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2802,11 +2833,14 @@
         "hull"
       ],
       "series": "moag-monolith",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag023",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Аркада · ракурс 1",
       "sha256": "b8b3ff688e65589181408ef7273fce654e4afb0874f6e8cdf3bfc722a6f5abf6",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2815,7 +2849,7 @@
         "docs/World/ships/moag/images/moag023-arcade-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2826,11 +2860,14 @@
         "hull"
       ],
       "series": "moag-arcade",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag024",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Аркада · ракурс 2",
       "sha256": "f60a67732312e1a1d27a366b594ecebb2093b939bcfd8f80ac93d12d28ece5a9",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2839,7 +2876,7 @@
         "docs/World/ships/moag/images/moag024-arcade-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2850,11 +2887,14 @@
         "hull"
       ],
       "series": "moag-arcade",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag025",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Пелагос A · ракурс 1",
       "sha256": "3cf8b7b699601d5c9ca3efbb1989d047ac564ee38846037502c6a4c864be6b14",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2863,7 +2903,7 @@
         "docs/World/ships/moag/images/moag025-pelagos-a-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2874,11 +2914,14 @@
         "hull"
       ],
       "series": "moag-pelagos-a",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag026",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Пелагос A · ракурс 2",
       "sha256": "24112d005754418b40a54142eb490c63f4e7f7a20c3cab7b7bb6220f05b0c8c2",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2887,7 +2930,7 @@
         "docs/World/ships/moag/images/moag026-pelagos-a-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2898,11 +2941,14 @@
         "hull"
       ],
       "series": "moag-pelagos-a",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag027",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Пелагос B · ракурс 1",
       "sha256": "c44afb4b91b6405733f8707639c3cad488503b90f572555477c72a4ae9a4726a",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2911,7 +2957,7 @@
         "docs/World/ships/moag/images/moag027-pelagos-b-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2922,11 +2968,14 @@
         "hull"
       ],
       "series": "moag-pelagos-b",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag028",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Пелагос B · ракурс 2",
       "sha256": "38781d18eb8a688ff9e6d4b7acf7987018b456b164d042c44b7b6ab9b2721420",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2935,7 +2984,7 @@
         "docs/World/ships/moag/images/moag028-pelagos-b-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2946,11 +2995,14 @@
         "hull"
       ],
       "series": "moag-pelagos-b",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag029",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Ковчег · ракурс 1",
       "sha256": "46e6472b1e3486b3584a391d1451656c64924110dcbd4f5dd826fb20d3b110df",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2959,7 +3011,7 @@
         "docs/World/ships/moag/images/moag029-kovcheg-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2970,11 +3022,14 @@
         "hull"
       ],
       "series": "moag-kovcheg",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag030",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Ковчег · ракурс 2",
       "sha256": "971401e5e44061d543b95ff0198c8c28c8630c99eacd1e0adbdc74e78a6365b2",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -2983,7 +3038,7 @@
         "docs/World/ships/moag/images/moag030-kovcheg-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -2994,11 +3049,14 @@
         "hull"
       ],
       "series": "moag-kovcheg",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag031",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Ось · ракурс 1",
       "sha256": "7b24e17e294bf0d0425512191b6b2e9ac0c7a6faef113723d157009587b42fe1",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -3007,7 +3065,7 @@
         "docs/World/ships/moag/images/moag031-axis-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -3018,11 +3076,14 @@
         "hull"
       ],
       "series": "moag-axis",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag032",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Ось · ракурс 2",
       "sha256": "fbc277a4e35479c2719e5b283110067fe49304634b6182a7fde1f15402b1feae",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -3031,7 +3092,7 @@
         "docs/World/ships/moag/images/moag032-axis-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -3042,11 +3103,14 @@
         "hull"
       ],
       "series": "moag-axis",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag033",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Гавань · ракурс 1",
       "sha256": "8048683516bf186233de8bfc1e172299286a7c3ee4c1ec94ce0b4045c804a39f",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -3055,7 +3119,7 @@
         "docs/World/ships/moag/images/moag033-harbor-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -3066,11 +3130,14 @@
         "hull"
       ],
       "series": "moag-harbor",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag034",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Гавань · ракурс 2",
       "sha256": "a1075b8eb164cf5dd44dfdd6d2b6d022b3ef795b6617cb02af72bfa62278262c",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -3079,7 +3146,7 @@
         "docs/World/ships/moag/images/moag034-harbor-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -3090,11 +3157,14 @@
         "hull"
       ],
       "series": "moag-harbor",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag035",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Пласты · ракурс 1",
       "sha256": "421f3262f3bfb78db52859913dbae8c5fd4b59f9dd6a7759488e7c88bb780a3a",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -3103,7 +3173,7 @@
         "docs/World/ships/moag/images/moag035-strata-front.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -3114,11 +3184,14 @@
         "hull"
       ],
       "series": "moag-strata",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "moag036",
-      "object": "moag",
+      "object": "ship-reserve",
       "caption": "Пласты · ракурс 2",
       "sha256": "7423752efdbcd37e9bfdf546ff99a8a0efe9f49144f78c46f45722744f4524f3",
       "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
@@ -3127,7 +3200,7 @@
         "docs/World/ships/moag/images/moag036-strata-rear.png"
       ],
       "galleries": [
-        "World/ships/moag"
+        "World/ships/reserve"
       ],
       "kind": "exterior",
       "status": "candidate",
@@ -3138,7 +3211,10 @@
         "hull"
       ],
       "series": "moag-strata",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "moag"
+      ]
     },
     {
       "code": "emma001",
@@ -3789,7 +3865,7 @@
     },
     {
       "code": "don003",
-      "object": "don15",
+      "object": "robot-reserve",
       "caption": "Пресс · индустриальный",
       "sha256": "63af1b14040902613a94513ae93671e5cb7c79d3ce42f22dd981baba7137e2ec",
       "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
@@ -3798,7 +3874,7 @@
         "docs/World/robots/don15/images/don003.png"
       ],
       "galleries": [
-        "World/robots/don15"
+        "World/robots/reserve"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3808,8 +3884,11 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
-      "visibility": "active"
+      "series": "robot-reserve",
+      "visibility": "active",
+      "previous_objects": [
+        "don15"
+      ]
     },
     {
       "code": "don015",
@@ -3909,7 +3988,7 @@
     },
     {
       "code": "martin001",
-      "object": "martin",
+      "object": "don12",
       "caption": "Наставник · тёплый гуманизм",
       "sha256": "6da4a78f4e853bd0edfeb30ab0b9ffe1f6d37f9c515a2ef277bccface980fd8f",
       "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
@@ -3918,7 +3997,7 @@
         "docs/World/robots/martin/images/martin001.png"
       ],
       "galleries": [
-        "World/robots/martin"
+        "World/robots/don12"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3929,11 +4008,14 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "martin002",
-      "object": "martin",
+      "object": "don12",
       "caption": "Куратор · строгая вертикаль",
       "sha256": "d8a0ecc86f2032958ca23b2f2ec2f6882b2abf246eac49e766670a83cbde7f66",
       "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
@@ -3942,7 +4024,7 @@
         "docs/World/robots/martin/images/martin002.png"
       ],
       "galleries": [
-        "World/robots/martin"
+        "World/robots/don12"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3953,11 +4035,14 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "martin003",
-      "object": "martin",
+      "object": "don12",
       "caption": "Клиника · мягкая конструкция",
       "sha256": "27a566b5ea0b22539406aaf79d01c5ea9abe4ea302d949f84803be4f9f6aee65",
       "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
@@ -3966,7 +4051,7 @@
         "docs/World/robots/martin/images/martin003.png"
       ],
       "galleries": [
-        "World/robots/martin"
+        "World/robots/don12"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3977,11 +4062,14 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "martin004",
-      "object": "martin",
+      "object": "don12",
       "caption": "Linea · скульптурный",
       "sha256": "e265f125660a6a3de09691473bcac49b5fd6329e1fb09ac51c032b50060e8c67",
       "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
@@ -3990,7 +4078,7 @@
         "docs/World/robots/martin/images/martin004.png"
       ],
       "galleries": [
-        "World/robots/martin"
+        "World/robots/don12"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4001,11 +4089,14 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "martin006",
-      "object": "martin",
+      "object": "don12",
       "caption": "Каркас · открытая архитектура",
       "sha256": "202358f5526fc52447bdb3622048459e9b0be04e695bd4f508077487be0ad78c",
       "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
@@ -4014,7 +4105,7 @@
         "docs/World/robots/martin/images/martin006.png"
       ],
       "galleries": [
-        "World/robots/martin"
+        "World/robots/don12"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4025,11 +4116,14 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "martin008",
-      "object": "martin",
+      "object": "don12",
       "caption": "Rosa · итальянская пластика",
       "sha256": "379e166b5b20a4ffe10c94b9c158ff0490e2c1975d0eb218d97b6a00b0c3ebf5",
       "source_commit": "5f2e6e0f638f5f3dde3d390035101559e897db04",
@@ -4038,7 +4132,7 @@
         "docs/World/robots/martin/images/martin008.png"
       ],
       "galleries": [
-        "World/robots/martin"
+        "World/robots/don12"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -4049,7 +4143,10 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "valek001",
@@ -7290,6 +7387,374 @@
         "everyday"
       ],
       "series": "main-square-concepts",
+      "visibility": "active"
+    },
+    {
+      "code": "don029",
+      "object": "don15",
+      "caption": "Кожух вокруг кисти · четыре фазы",
+      "sha256": "762d495601d1ca01dfd062d66f1c7cc48a5fe7fd68dcbf9e04c67c743ccca14f",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/don15/images/don029.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don029.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "mechanism",
+      "status": "candidate",
+      "derived_from": "don022",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "don030",
+      "object": "don15",
+      "caption": "Модуль на предплечье · четыре фазы",
+      "sha256": "32574d4a3c30b9e7459cb4f4ccbaa47381d97e3616db0884ea0eab32d5acebfe",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/don15/images/don030.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don030.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "mechanism",
+      "status": "candidate",
+      "derived_from": "don022",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka009",
+      "object": "kolka",
+      "caption": "От fedor028 · короткие чёрные иголки",
+      "sha256": "fef7c038bbffa00fdeb1737c3b6049f6b71409c7682eff75e686f979ccb0b0cf",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/kolka/images/kolka009.png",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka009.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "fedor028",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "katya007",
+      "object": "katya",
+      "caption": "От katya003 · субтильность и неуверенность",
+      "sha256": "25ed7496b30069a37a0d9dc030edd763020156e5d81d4e437ec68c6470f8b82c",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/katya/images/katya007.png",
+      "aliases": [
+        "docs/World/characters/katya/images/katya007.png"
+      ],
+      "galleries": [
+        "World/characters/katya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "katya003",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "egor007",
+      "object": "egor",
+      "caption": "От ilya003 · тёмно-русый хвост и объёмный свет",
+      "sha256": "c81cd230110bc9a1c084321f32734fa7bad3246d112aa25117be9d83c7cf4839",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/egor/images/egor007.png",
+      "aliases": [
+        "docs/World/characters/egor/images/egor007.png"
+      ],
+      "galleries": [
+        "World/characters/egor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "ilya003",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon012",
+      "object": "lon",
+      "caption": "Экранная индикация · четыре состояния",
+      "sha256": "e7dcef7f75d5ae063d69d1002fa2ab7fa12d5f76cb8f5d7b180584d477d95a7f",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/lon/images/lon012.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon012.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "expression-study",
+      "status": "candidate",
+      "derived_from": "lon001",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais048",
+      "object": "tais",
+      "caption": "Открытое лицо · мягкая чёрная повязка",
+      "sha256": "f6b5d093673bdca0179aed0dded7de913ce7911bfb129dd891accce1c7ff8c3b",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/tais/images/tais048.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais048.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais045",
+      "renditions": [],
+      "task_ids": [
+        "tais"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais049",
+      "object": "tais",
+      "caption": "Открытое лицо · графитовая повязка",
+      "sha256": "aa32fd395d083255268ea4b48659b6b67d5497dc574414f1219078dcdcae9c01",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/tais/images/tais049.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais049.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais046",
+      "renditions": [],
+      "task_ids": [
+        "tais"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais050",
+      "object": "tais",
+      "caption": "Открытое лицо · чёрно-белая повязка",
+      "sha256": "052703cd95bbe446e0e66993902323373583a2c9bf4391e5429448d838b6a0e9",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/tais/images/tais050.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais050.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "tais047",
+      "renditions": [],
+      "task_ids": [
+        "tais"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais051",
+      "object": "tais",
+      "caption": "Кастинговая проба · новое направление",
+      "sha256": "055e9a3280dc49175ac0dbc6caa9033ecf6cf74057e442be6f6b580a5bf33024",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/tais/images/tais051.png",
+      "aliases": [
+        "docs/World/characters/tais/images/tais051.png"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "casting-study",
+      "status": "candidate",
+      "derived_from": "tais046",
+      "renditions": [],
+      "task_ids": [
+        "tais"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin011",
+      "object": "martin",
+      "caption": "По референсу · искусственное человеческое лицо",
+      "sha256": "dffe42e87e9f09a70005cb03f9b21c4e4cbe1b465cbc87fd21bc83282894fd12",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/martin/images/martin011.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin011.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin012",
+      "object": "martin",
+      "caption": "По референсу · антропоморфный воспитатель",
+      "sha256": "0c65c1d0ce66e2d0eef73a6c99852943850ec6626c05403cec47a5df01586ffc",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/martin/images/martin012.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin012.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin013",
+      "object": "martin",
+      "caption": "Геометрия лицевых стыков",
+      "sha256": "179e719159c15eba5874bbeb1688331934d2cf7dc50fc7996bf3b31a8e5102d8",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/martin/images/martin013.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin013.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": "martin011",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "donteacher001",
+      "object": "don12",
+      "caption": "Тёплая резина · контакт с ребёнком",
+      "sha256": "b28825103a0307bc16db1b69edd0fbf332fe50ecc3bcbee754a2f861a0b8d6ad",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/robots/don12/images/donteacher001.png",
+      "aliases": [
+        "docs/World/robots/don12/images/donteacher001.png"
+      ],
+      "galleries": [
+        "World/robots/don12"
+      ],
+      "kind": "material-study",
+      "status": "candidate",
+      "derived_from": "martin002",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor031",
+      "object": "fedor",
+      "caption": "От fedor009 · внимание и решимость",
+      "sha256": "2e4776372a743f3525e3567be42399c0a783213e2746d6f97829ea64b4700d98",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/fedor/images/fedor031.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor031.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "acting-study",
+      "status": "candidate",
+      "derived_from": "fedor009",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "fedor032",
+      "object": "fedor",
+      "caption": "От fedor021 · внимание и решимость",
+      "sha256": "1b98ac3f04e31748bb9ce03da2393e552730da2924467d6d585dcd29c6af2cf9",
+      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
+      "source_file": "docs/World/characters/fedor/images/fedor032.png",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor032.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "acting-study",
+      "status": "candidate",
+      "derived_from": "fedor021",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
       "visibility": "active"
     }
   ],
