@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:53:15.614090+00:00",
+  "generatedAt": "2026-10-30T16:54:09.049518+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJnfx",
+      "page": "robots/lon/",
+      "title": "Лон",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T16:53:48Z",
+      "excerpt": "у Лона кстати да. прикольно)",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298289"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJnfp",
       "page": "robots/martin/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-10-30T16:17:43Z",
       "excerpt": "я вот подумала, что раз у нас Доны отражают эмоции, то Лон в теории может тоже может?",
       "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19297689"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJl4T",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-30T11:04:51Z",
-      "excerpt": "don028 - а куда у него кисть девается, когда он стреляет? Может, лучше куда то на внешнюю сторону предплечья излучатель?",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19291667"
     }
   ],
   "discussionNumbers": {
-    "robots/martin/": 61,
     "robots/lon/": 44,
+    "robots/martin/": 61,
     "characters/sonya/": 145,
     "robots/don15/": 53,
     "ships/moag/": 62,
@@ -235,10 +235,10 @@
       "last": null
     },
     "robots/lon/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-30T16:48:25Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T16:53:48Z"
       }
     },
     "robots/lon/reference.html": {
