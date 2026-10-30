@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:48:44.324656+00:00",
+  "generatedAt": "2026-10-30T16:53:15.614090+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJnfp",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T16:52:58Z",
+      "excerpt": "что-то пока не то. Мне очень нравится Мартин в презе нашей. Он спиной и там какой-то же халат на нем с названием Эдем. И я вот все думаю, а может он вообще будет с лицом человека будто? прикрученным на тело киборга. это в разрез с книгой, но в этом есть лог…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298281"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJnei",
       "page": "robots/lon/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-30T11:04:51Z",
       "excerpt": "don028 - а куда у него кисть девается, когда он стреляет? Может, лучше куда то на внешнюю сторону предплечья излучатель?",
       "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19291667"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJltJ",
-      "page": "robots/don15/",
-      "title": "Дон-15",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T10:23:02Z",
-      "excerpt": "don003 давайте в резерв отпустим",
-      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19290953"
     }
   ],
   "discussionNumbers": {
+    "robots/martin/": 61,
     "robots/lon/": 44,
     "characters/sonya/": 145,
     "robots/don15/": 53,
@@ -65,7 +66,6 @@
     "characters/valek/": 60,
     "characters/fedor/": 52,
     "characters/emma/": 57,
-    "robots/martin/": 61,
     "characters/rita/": 85,
     "robots/scale/": 54
   },
@@ -257,10 +257,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-28T18:14:49Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T16:52:58Z"
       }
     },
     "robots/martin/reference.html": {
