@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:57:48.695316+00:00",
+  "generatedAt": "2026-10-30T17:04:34.800325+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJniS",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-30T17:04:17Z",
+      "excerpt": "Кстати, если бы я делал роботов, которые воспитывают детей, я бы делал их (роботов) теплыми и мягкими.",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298450"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJngq",
       "page": "robots/martin/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-30T16:48:25Z",
       "excerpt": "led экран с эмоцией/имоджи?",
       "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298210"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnXi",
-      "page": "characters/sonya/",
-      "title": "Соня",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T16:21:44Z",
-      "excerpt": "я за ушастика) sonya002",
-      "url": "https://github.com/esannikov/Alive/discussions/145#discussioncomment-19297762"
     }
   ],
   "discussionNumbers": {
@@ -257,10 +257,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 5,
+      "messageCount": 6,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-30T16:57:31Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-30T17:04:17Z"
       }
     },
     "robots/martin/reference.html": {
