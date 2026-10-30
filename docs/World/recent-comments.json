@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:56:56.102228+00:00",
+  "generatedAt": "2026-10-30T17:58:09.086496+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJnxJ",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T17:56:50Z",
+      "excerpt": "у нас есть Доны - Доны. Класс роботов-учителей и наставников. Высокие андроиды с длинными ногами, выпученными неподвижными глазами и блестящими деталями корпуса. Не умеют улыбаться; доброжелательность передают мягкой интонацией, в которой иногда слышатся тр…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299401"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJnxE",
       "page": "robots/martin/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-30T16:53:48Z",
       "excerpt": "у Лона кстати да. прикольно)",
       "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298289"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnfp",
-      "page": "robots/martin/",
-      "title": "Мартин · Дон-12",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T16:52:58Z",
-      "excerpt": "что-то пока не то. Мне очень нравится Мартин в презе нашей. Он спиной и там какой-то же халат на нем с названием Эдем. И я вот все думаю, а может он вообще будет с лицом человека будто? прикрученным на тело киборга. это в разрез с книгой, но в этом есть лог…",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298281"
     }
   ],
   "discussionNumbers": {
@@ -257,10 +257,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-30T17:56:39Z"
+        "createdAt": "2026-10-30T17:56:50Z"
       }
     },
     "robots/martin/reference.html": {
