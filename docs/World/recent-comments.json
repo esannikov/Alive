@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T09:25:01.037374+00:00",
+  "generatedAt": "2026-10-30T10:11:09.403803+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJloi",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T10:10:50Z",
+      "excerpt": "fedor028 в роли Кольки - можно прическу поменять под Кольку плиз?",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19290658"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJlZP",
       "page": "locations/main-square/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-29T13:42:29Z",
       "excerpt": "а, вот Егор. Можно сюда ilya003 попробовать? И в целом, предлагаю Егора не делать таким рыжим - у нас рыжие все семейство Эммы. будет сбивать. Давайте его темно русым может? И с хвостиком? длинные волосы в хвост https://www.instagram.com/p/DSNaXy_CBMF/ ну б…",
       "url": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19268393"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgK6",
-      "page": "characters/ilya/",
-      "title": "Илья",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:36:58Z",
-      "excerpt": "ilya003 - нам его надо на Егора. У нас там будет Егор, который будет важным персонажем когда рубилово начнется. Вот тут хороший прямо очень вариант. там только цвет волос кажется чуть другой",
-      "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19268282"
     }
   ],
   "discussionNumbers": {
+    "characters/kolka/": 59,
     "locations/main-square/": 125,
     "ships/moag/": 62,
     "characters/krendel/": 96,
@@ -59,7 +60,6 @@
     "characters/tais/": 56,
     "characters/nitka/": 48,
     "characters/valek/": 60,
-    "characters/kolka/": 59,
     "characters/fedor/": 52,
     "characters/emma/": 57,
     "robots/martin/": 61,
@@ -111,10 +111,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-29T10:55:37Z"
+        "createdAt": "2026-10-30T10:10:50Z"
       }
     },
     "characters/kolka/reference.html": {
