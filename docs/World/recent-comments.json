@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T10:11:09.403803+00:00",
+  "generatedAt": "2026-10-30T10:14:14.648878+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJlpx",
+      "page": "locations/main-square/",
+      "title": "Главная Площадь",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T10:13:58Z",
+      "excerpt": "сказка все. Не знаю как выбрать. Но в целом - это типа центральная часть у нас, да? и получается, что Школа и все остальное где-то тут? а жилые блоки?",
+      "url": "https://github.com/esannikov/Alive/discussions/125#discussioncomment-19290737"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJloi",
       "page": "characters/kolka/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-10-29T13:44:34Z",
       "excerpt": "krendel006 или krendel004 . с него можно брать)) https://www.instagram.com/p/Dbd2kmZOAO-/",
       "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19268429"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgMp",
-      "page": "characters/egor/",
-      "title": "Егор",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:42:29Z",
-      "excerpt": "а, вот Егор. Можно сюда ilya003 попробовать? И в целом, предлагаю Егора не делать таким рыжим - у нас рыжие все семейство Эммы. будет сбивать. Давайте его темно русым может? И с хвостиком? длинные волосы в хвост https://www.instagram.com/p/DSNaXy_CBMF/ ну б…",
-      "url": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19268393"
     }
   ],
   "discussionNumbers": {
-    "characters/kolka/": 59,
     "locations/main-square/": 125,
+    "characters/kolka/": 59,
     "ships/moag/": 62,
     "characters/krendel/": 96,
     "characters/egor/": 95,
@@ -275,10 +275,10 @@
       "last": null
     },
     "locations/main-square/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-10-30T09:24:35Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T10:13:58Z"
       }
     },
     "locations/main-square/reference.html": {
