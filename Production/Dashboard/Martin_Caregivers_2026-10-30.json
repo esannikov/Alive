@@ -44,7 +44,7 @@
     }
   ],
   "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
-  "expressionDecision": "Книжное ограничение принято агентом как рабочее допущение после вопроса пользователя о неспособности Мартина улыбаться; отдельного ответа на выбор адаптации ещё нет.",
+  "expressionDecision": "Пользователь подтвердил 30.10.2026 сохранение книжного ограничения: неподвижный рот, дружелюбие через взгляд и жесты.",
   "humanDesignAccepted": false,
   "expression_edit_prompt": "Precise expression-only edit of this fictional caretaker android concept sheet. Preserve the EXACT face identity, apparent age, hair, skin/synthetic material, engineered seams, eye colour and shape, lighting, three-view layout, body, clothing, EDEM emblem, caption and open welcoming hand gestures. This character's mouth cannot smile in the novel. Change the expression consistently in the central face close-up and left full-body view: a relaxed STILL NEUTRAL CLOSED MOUTH, corners neither raised nor drooping, no smile crease or lifted cheeks. Keep the character maximally kind and approachable through the SAME warm attentive eye contact, relaxed brow, slight listening head inclination, soft rounded face shapes and welcoming posture. He must not look angry, stern, sad or emotionally vacant. The difference should be subtle but clear: calm benevolent attention without smiling. Do not alter anything else or whiten the face. 16:9, same photoreal rendering and typography.",
   "expression_source_pages": [
@@ -67,5 +67,6 @@
     "deleted_link": "martin012 reports deletion and opens cover",
     "comparison": "martin015 and martin016 loaded together",
     "other_objects": "unchanged"
-  }
+  },
+  "publicationAuthorization": "Явно разрешены PR и обновление сайта 30.10.2026."
 }

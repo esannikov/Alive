@@ -461,7 +461,7 @@
         "Martin_Caregivers_2026-10-30.json"
       ],
       "designAcceptance": "not_selected",
-      "expressionHandling": "Рот в martin015/016 возвращён в нейтральное состояние по рабочему допущению о сохранении книжного ограничения; пользовательский выбор изменения канона не зафиксирован.",
+      "expressionHandling": "Пользователь подтвердил 30.10.2026: неподвижный рот, дружелюбие через взгляд и жесты.",
       "verification": {
         "source_attachment_bytes": "exact match",
         "images": "all three loaded at 1671×941",
@@ -479,7 +479,12 @@
         "other_objects": "unchanged"
       },
       "releaseBranch": "codex/martin-caregivers-20261030",
-      "assetCommit": "82d9869061057bb5514a0f303bc926f81825d85f"
+      "assetCommit": "82d9869061057bb5514a0f303bc926f81825d85f",
+      "publicationAuthorization": {
+        "date": "2026-10-30",
+        "scope": "Открыть PR и обновить сайт подготовленным пакетом Мартина",
+        "confirmed": true
+      }
     }
   ],
   "previouslyCompleted": [
