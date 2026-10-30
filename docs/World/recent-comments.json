@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:18:03.245528+00:00",
+  "generatedAt": "2026-10-30T16:22:00.240809+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJnXi",
+      "page": "characters/sonya/",
+      "title": "Соня",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T16:21:44Z",
+      "excerpt": "я за ушастика) sonya002",
+      "url": "https://github.com/esannikov/Alive/discussions/145#discussioncomment-19297762"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJnWZ",
       "page": "robots/lon/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-30T10:22:03Z",
       "excerpt": "круть какая",
       "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19290932"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJlsL",
-      "page": "ships/moag/",
-      "title": "Моаг · корабль",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T10:20:15Z",
-      "excerpt": "Предлагаю тогда пока все в резерв, кроме этой 4ки- moag041–044.",
-      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19290891"
     }
   ],
   "discussionNumbers": {
+    "characters/sonya/": 145,
     "robots/lon/": 44,
     "robots/don15/": 53,
     "ships/moag/": 62,
@@ -177,8 +178,11 @@
       "last": null
     },
     "characters/sonya/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T16:21:44Z"
+      }
     },
     "characters/sonya/reference.html": {
       "messageCount": 0,
