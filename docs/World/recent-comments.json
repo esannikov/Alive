@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T09:22:45.059861+00:00",
+  "generatedAt": "2026-10-30T09:25:01.037374+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJlZP",
+      "page": "locations/main-square/",
+      "title": "Главная Площадь",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-30T09:24:35Z",
+      "excerpt": "Все ОЧЕНЬ красиво",
+      "url": "https://github.com/esannikov/Alive/discussions/125#discussioncomment-19289679"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJlYo",
       "page": "ships/moag/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-29T13:36:58Z",
       "excerpt": "ilya003 - нам его надо на Егора. У нас там будет Егор, который будет важным персонажем когда рубилово начнется. Вот тут хороший прямо очень вариант. там только цвет волос кажется чуть другой",
       "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19268282"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgKD",
-      "page": "characters/ilya/",
-      "title": "Илья",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:34:33Z",
-      "excerpt": "ilya001 наверное пока лидер. Они все прямо очень классные вышли.",
-      "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19268227"
     }
   ],
   "discussionNumbers": {
+    "locations/main-square/": 125,
     "ships/moag/": 62,
     "characters/krendel/": 96,
     "characters/egor/": 95,
@@ -274,8 +275,11 @@
       "last": null
     },
     "locations/main-square/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-30T09:24:35Z"
+      }
     },
     "locations/main-square/reference.html": {
       "messageCount": 0,
