@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T20:09:52.335316+00:00",
+  "generatedAt": "2026-10-30T20:33:53.386201+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1652,7 +1652,7 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "martin012": {
+    "martin013": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -1665,7 +1665,33 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
-    "martin013": {
+    "martin014": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "martin015": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "martin016": {
       "votes": [],
       "scores": {
         "for": 0,

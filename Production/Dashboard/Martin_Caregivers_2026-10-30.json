@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-30",
+  "tool": "built-in ImageGen",
+  "replacement": {
+    "retired": "martin013",
+    "current": "martin014",
+    "source": "exact user attachment, unchanged bytes"
+  },
+  "deleted": {
+    "code": "martin012",
+    "paths": [
+      "docs/World/robots/martin/images/martin012.png",
+      "docs/World/previews/martin012-view.webp",
+      "docs/World/previews/martin012-thumb-hq.webp"
+    ],
+    "gitHistoryPreserved": true
+  },
+  "newConcepts": [
+    {
+      "code": "martin014",
+      "id": "martin-user-replacement",
+      "title": "Искусственная оболочка · вариант пользователя",
+      "derived_from": null,
+      "file": "docs/World/robots/martin/images/martin014.png",
+      "sha256": "991619e187b274af2050cb6154740dca98132d4ada1dbd4e0ad20eacdfdef885"
+    },
+    {
+      "code": "martin015",
+      "id": "martin-friendly-mentor",
+      "title": "Мартин · тёплый наставник",
+      "prompt": "Create a new original ALIVE caretaker android concept, using the attached Martin sheet only as the world/material and clean presentation reference. The user asks for MAXIMALLY FRIENDLY ANTHROPOMORPHIC ROBOT EDUCATORS, clearly distinct from the cold handsome mannequin in the reference. This is a new design alternative, not a strict identity-preserving edit. The result must immediately feel warm, trustworthy, approachable and designed to look after children, while remaining CLEARLY A ROBOT with humanlike body proportions. Three-view 16:9 cinematic concept sheet: full-body three-quarter front on left, large inviting face close-up in middle, smaller matching back view on right. All views show the same coherent robot. Clean warm-grey background, softly directional light with real form and controlled shadows, no flat washed-out lighting. No children or other people in the frame. Practical knee-length soft WORK COAT with large usable pockets, relaxed straight fit and open soft collar, modest small EDEM emblem on upper back. Avoid an ankle-length ceremonial overcoat, high military collar, fashion-model pose, sharp sinister cheekbones, hollow black eyes, excessive cables, chrome armour, weaponry, uncanny damaged skin or horror. Warmth comes from the face, stance, open hands and soft materials. This is an adaptation proposal, not a claimed literal illustration of the novel. Variant A, THE WARM MENTOR: a mature male-presenting android with an apparent kindly age of about 50–60, broad softly rounded face, full cheeks, gentle lifted brows, open hazel optical eyes with warm catchlights and a small relaxed closed-mouth smile. Short salt-and-pepper manufactured hair, no beard. The facial shell is a warm matte light-beige silicone-like synthetic surface with subtle intentional panel joints beside the temples and jaw, clearly engineered ears and a visible refined neck joint; do not make it simply a real man in a coat. The robot has a comfortable moderately broad build, rounded shoulders, slightly bent elbows, welcoming open soft five-finger hands. Its off-white work coat has slightly rolled sleeves over a soft sand-coloured inner layer; hands have tactile warm-rubber coverings, mechanical wrist rings remain clear. Humanlike but unmistakably manufactured, with the calm patience of an excellent nursery educator. Restrained design details, premium realistic materials. Small caption «Мартин · тёплый наставник». No watermark.",
+      "derived_from": "martin014",
+      "file": "docs/World/robots/martin/images/martin015.png",
+      "sha256": "c495c08fae0c4c8773afaa80c4080735496cb3dcc89110bce297ab896659d9ee"
+    },
+    {
+      "code": "martin016",
+      "id": "martin-friendly-companion",
+      "title": "Мартин · открытый воспитатель",
+      "prompt": "Create a new original ALIVE caretaker android concept, using the attached Martin sheet only as the world/material and clean presentation reference. The user asks for MAXIMALLY FRIENDLY ANTHROPOMORPHIC ROBOT EDUCATORS, clearly distinct from the cold handsome mannequin in the reference. This is a new design alternative, not a strict identity-preserving edit. The result must immediately feel warm, trustworthy, approachable and designed to look after children, while remaining CLEARLY A ROBOT with humanlike body proportions. Three-view 16:9 cinematic concept sheet: full-body three-quarter front on left, large inviting face close-up in middle, smaller matching back view on right. All views show the same coherent robot. Clean warm-grey background, softly directional light with real form and controlled shadows, no flat washed-out lighting. No children or other people in the frame. Practical knee-length soft WORK COAT with large usable pockets, relaxed straight fit and open soft collar, modest small EDEM emblem on upper back. Avoid an ankle-length ceremonial overcoat, high military collar, fashion-model pose, sharp sinister cheekbones, hollow black eyes, excessive cables, chrome armour, weaponry, uncanny damaged skin or horror. Warmth comes from the face, stance, open hands and soft materials. This is an adaptation proposal, not a claimed literal illustration of the novel. Variant B, THE OPEN COMPANION: a distinctly different younger male-presenting android, apparent age 30–35, softly rounded oval face, modest broad nose, friendly rounded jaw, expressive large but anatomically plausible brown optical eyes, lifted relaxed brows and a subtle cheerful closed-mouth smile. Short dark softly curled synthetic hair. The face is recognisably a warm ivory manufactured shell, with large elegant softly chamfered panel segments and visible fine joints; lips and cheeks have subtly warmer matte elastomer inserts, not realistic human skin pores. Engineered neck and finger articulation must be evident. Normal slender but sturdy proportions, no model-like severity. One palm turned openly upward as if inviting a conversation, a slight forward inclination of the torso that feels attentive at a child's eye level. A short off-white knee-length educator's work coat with pale muted sage trim at cuffs and pocket edges, practical uncluttered detailing, comfortable shoes integrated with the robot feet. Rounded, approachable, energetic yet reassuring; no literal cartoon emoji face or giant toy proportions. Small caption «Мартин · открытый воспитатель». No watermark.",
+      "derived_from": "martin014",
+      "file": "docs/World/robots/martin/images/martin016.png",
+      "sha256": "4ff3c5a6f0739a56abdb80f837f1dcf23afe805d73457d27f2bb355bc36eb08e"
+    }
+  ],
+  "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
+  "expressionDecision": "Пользователь подтвердил 30.10.2026 сохранение книжного ограничения: неподвижный рот, дружелюбие через взгляд и жесты.",
+  "humanDesignAccepted": false,
+  "expression_edit_prompt": "Precise expression-only edit of this fictional caretaker android concept sheet. Preserve the EXACT face identity, apparent age, hair, skin/synthetic material, engineered seams, eye colour and shape, lighting, three-view layout, body, clothing, EDEM emblem, caption and open welcoming hand gestures. This character's mouth cannot smile in the novel. Change the expression consistently in the central face close-up and left full-body view: a relaxed STILL NEUTRAL CLOSED MOUTH, corners neither raised nor drooping, no smile crease or lifted cheeks. Keep the character maximally kind and approachable through the SAME warm attentive eye contact, relaxed brow, slight listening head inclination, soft rounded face shapes and welcoming posture. He must not look angry, stern, sad or emotionally vacant. The difference should be subtle but clear: calm benevolent attention without smiling. Do not alter anything else or whiten the face. 16:9, same photoreal rendering and typography.",
+  "expression_source_pages": [
+    116,
+    129
+  ],
+  "initialSmilingVersions": "Сохранены как локальные промежуточные генерации; в опубликованный набор не включаются.",
+  "verification": {
+    "source_attachment_bytes": "exact match",
+    "images": "all three loaded at 1671×941",
+    "active_gallery_codes": [
+      "martin014",
+      "martin015",
+      "martin016",
+      "martin011",
+      "martin009",
+      "martin010"
+    ],
+    "replacement_link": "martin013 redirects to martin014",
+    "deleted_link": "martin012 reports deletion and opens cover",
+    "comparison": "martin015 and martin016 loaded together",
+    "other_objects": "unchanged"
+  },
+  "publicationAuthorization": "Явно разрешены PR и обновление сайта 30.10.2026."
+}

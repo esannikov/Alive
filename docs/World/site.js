@@ -187,6 +187,8 @@
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
     if(code==='comments'||code==='giscus-comments'){setActive(active?.code||objects[objectId].cover);return;}
     const moved=byCode[code];
+    const replacement=byCode[moved?.replacedBy];
+    if(moved?.archived&&replacement&&!replacement.archived){location.replace(url(replacement.page+'#'+encodeURIComponent(replacement.code)));return;}
     if(moved&&!belongsTo(moved,objectId)&&moved.previousObjects?.includes(objectId)){location.replace(url(moved.page+'#'+encodeURIComponent(code)));return;}
     if(code&&code!=='gallery'&&!setActive(code)){announce((data.deletedCodes||[]).includes(code)?`Кадр ${code} удалён из галереи.`:'Такой код не найден у этого объекта.');const u=new URL(location.href);u.hash=objects[objectId].cover;history.replaceState(null,'',u);setActive(objects[objectId].cover);}
     if(!code){if(select)select.value=objects[objectId].default_series;setActive(objects[objectId].cover);} else if(code==='gallery'){if(select&&isShip)select.value='all';showSeries();}
