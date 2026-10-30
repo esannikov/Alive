@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T10:20:36.813640+00:00",
+  "generatedAt": "2026-10-30T10:22:16.461593+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJls0",
+      "page": "robots/don15/",
+      "title": "Дон-15",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T10:22:03Z",
+      "excerpt": "круть какая",
+      "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19290932"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJlsL",
       "page": "ships/moag/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-30T09:24:35Z",
       "excerpt": "Все ОЧЕНЬ красиво",
       "url": "https://github.com/esannikov/Alive/discussions/125#discussioncomment-19289679"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJlYo",
-      "page": "ships/moag/",
-      "title": "Моаг · корабль",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-10-30T09:22:26Z",
-      "excerpt": "41 и 44 - топ! 41 изящнее и более классическая станция, 44 - типа супер-город. если бы выбирал из 2х - наверное 41",
-      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19289640"
     }
   ],
   "discussionNumbers": {
+    "robots/don15/": 53,
     "ships/moag/": 62,
     "locations/main-square/": 125,
     "characters/kolka/": 59,
@@ -63,7 +64,6 @@
     "characters/fedor/": 52,
     "characters/emma/": 57,
     "robots/martin/": 61,
-    "robots/don15/": 53,
     "robots/lon/": 44,
     "characters/rita/": 85,
     "robots/scale/": 54
@@ -242,10 +242,10 @@
       "last": null
     },
     "robots/don15/": {
-      "messageCount": 8,
+      "messageCount": 9,
       "last": {
-        "author": "esannikov",
-        "createdAt": "2026-10-28T18:13:29Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T10:22:03Z"
       }
     },
     "robots/don15/reference.html": {
