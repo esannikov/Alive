@@ -477,7 +477,9 @@
         "deleted_link": "martin012 reports deletion and opens cover",
         "comparison": "martin015 and martin016 loaded together",
         "other_objects": "unchanged"
-      }
+      },
+      "releaseBranch": "codex/martin-caregivers-20261030",
+      "assetCommit": "82d9869061057bb5514a0f303bc926f81825d85f"
     }
   ],
   "previouslyCompleted": [
