@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:58:09.086496+00:00",
+  "generatedAt": "2026-10-30T17:58:36.105537+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJnxb",
+      "page": "robots/martin/",
+      "title": "Мартин · Дон-12",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T17:58:04Z",
+      "excerpt": "и есть Мартин - Мартин. Дон-12, главный робот всего детского сада и непосредственный руководитель первого младенческого отделения. Единственный робот Второго Уровня с собственным именем. Распоряжается работой, наблюдает за здоровьем малышей, сам берёт их на…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299419"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJnxJ",
       "page": "robots/martin/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-30T16:57:31Z",
       "excerpt": "и мне кажется, нам нужно разделить Мартина и Донов 12. понятно, что модель одна, поэтому их тут вместе собрали, но все-таки Мартин явно другой",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19298346"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnfx",
-      "page": "robots/lon/",
-      "title": "Лон",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T16:53:48Z",
-      "excerpt": "у Лона кстати да. прикольно)",
-      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19298289"
     }
   ],
   "discussionNumbers": {
@@ -257,10 +257,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 8,
+      "messageCount": 9,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-30T17:56:50Z"
+        "createdAt": "2026-10-30T17:58:04Z"
       }
     },
     "robots/martin/reference.html": {
