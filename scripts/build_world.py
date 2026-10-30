@@ -47,6 +47,9 @@ def build():
                        'original':f'https://raw.githubusercontent.com/esannikov/Alive/{record["source_commit"]}/{record["source_file"]}',
                        'sourceFile':record['source_file'], 'display':os.path.relpath(source,OUT).replace('\\','/'), 'page':object_path(objects[record['object']])+'/',
                        'status':'Поисковый вариант','kind':record.get('kind','appearance'), 'taskIds':record['task_ids'], 'archived':record.get('visibility')=='archived', 'previousObjects':record.get('previous_objects',[]), 'additionalObjects':record.get('additional_objects',[])})
+    for record, asset in zip(registry['assets'], assets):
+        if record.get('replaced_by'):
+            asset['replacedBy'] = record['replaced_by']
     bycode = {a['code']: a for a in assets}
     data = {'objects':config['objects'],'assets':assets,'series':config['series'],
             'deletedCodes':registry.get('deleted_codes',[]),'groups':plan['groups'],'tasks':[{'id':t['id'],'title':t['title'],'group':t['group'],'output':t['output']} for t in plan['tasks']]}

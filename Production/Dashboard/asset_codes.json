@@ -17,7 +17,7 @@
     "kolka": 10,
     "lon": 13,
     "don": 31,
-    "martin": 14,
+    "martin": 17,
     "valek": 21,
     "nitka": 14,
     "masha": 8,
@@ -7643,29 +7643,6 @@
       "visibility": "active"
     },
     {
-      "code": "martin012",
-      "object": "martin",
-      "caption": "По референсу · антропоморфный воспитатель",
-      "sha256": "0c65c1d0ce66e2d0eef73a6c99852943850ec6626c05403cec47a5df01586ffc",
-      "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
-      "source_file": "docs/World/robots/martin/images/martin012.png",
-      "aliases": [
-        "docs/World/robots/martin/images/martin012.png"
-      ],
-      "galleries": [
-        "World/robots/martin"
-      ],
-      "kind": "design-study",
-      "status": "candidate",
-      "derived_from": null,
-      "renditions": [],
-      "task_ids": [
-        "robotfamilies"
-      ],
-      "series": "current",
-      "visibility": "active"
-    },
-    {
       "code": "martin013",
       "object": "martin",
       "caption": "Геометрия лицевых стыков",
@@ -7686,7 +7663,8 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "replaced_by": "martin014"
     },
     {
       "code": "donteacher001",
@@ -7756,6 +7734,75 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "martin014",
+      "object": "martin",
+      "caption": "Искусственная оболочка · вариант пользователя",
+      "sha256": "991619e187b274af2050cb6154740dca98132d4ada1dbd4e0ad20eacdfdef885",
+      "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
+      "source_file": "docs/World/robots/martin/images/martin014.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin014.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin015",
+      "object": "martin",
+      "caption": "Мартин · тёплый наставник",
+      "sha256": "c495c08fae0c4c8773afaa80c4080735496cb3dcc89110bce297ab896659d9ee",
+      "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
+      "source_file": "docs/World/robots/martin/images/martin015.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin015.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": "martin014",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin016",
+      "object": "martin",
+      "caption": "Мартин · открытый воспитатель",
+      "sha256": "4ff3c5a6f0739a56abdb80f837f1dcf23afe805d73457d27f2bb355bc36eb08e",
+      "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
+      "source_file": "docs/World/robots/martin/images/martin016.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin016.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": "martin014",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
@@ -7797,6 +7844,7 @@
     "valek014",
     "valek015",
     "valek016",
-    "valek017"
+    "valek017",
+    "martin012"
   ]
 }

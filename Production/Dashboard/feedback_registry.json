@@ -435,7 +435,49 @@
       "evidence": [
         "Feedback_Fixes_2026-10-30_prompts.json"
       ],
-      "designAcceptance": "direction_favoured_not_final"
+      "designAcceptance": "direction_favoured_not_final",
+      "supersededBy": "martin014",
+      "currentVisibility": "archived"
+    },
+    {
+      "id": "martin-caregivers-curation-20261030",
+      "request": "Вместо martin013 поставить присланный вариант; martin012 удалить; создать два максимально дружелюбных антропоморфных воспитателя",
+      "status": "implemented",
+      "source": "Прямое поручение пользователя 30.10.2026",
+      "assetCodes": [
+        "martin014",
+        "martin015",
+        "martin016"
+      ],
+      "removedCodes": [
+        "martin012"
+      ],
+      "supersededCodes": [
+        "martin013"
+      ],
+      "evidence": [
+        "asset_codes.json",
+        "objects.json",
+        "Martin_Caregivers_2026-10-30.json"
+      ],
+      "designAcceptance": "not_selected",
+      "expressionHandling": "Рот в martin015/016 возвращён в нейтральное состояние по рабочему допущению о сохранении книжного ограничения; пользовательский выбор изменения канона не зафиксирован.",
+      "verification": {
+        "source_attachment_bytes": "exact match",
+        "images": "all three loaded at 1671×941",
+        "active_gallery_codes": [
+          "martin014",
+          "martin015",
+          "martin016",
+          "martin011",
+          "martin009",
+          "martin010"
+        ],
+        "replacement_link": "martin013 redirects to martin014",
+        "deleted_link": "martin012 reports deletion and opens cover",
+        "comparison": "martin015 and martin016 loaded together",
+        "other_objects": "unchanged"
+      }
     }
   ],
   "previouslyCompleted": [
