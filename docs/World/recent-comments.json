@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T22:59:45.637035+00:00",
+  "generatedAt": "2026-10-30T09:22:45.059861+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJlYo",
+      "page": "ships/moag/",
+      "title": "Моаг · корабль",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-10-30T09:22:26Z",
+      "excerpt": "41 и 44 - топ! 41 изящнее и более классическая станция, 44 - типа супер-город. если бы выбирал из 2х - наверное 41",
+      "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19289640"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJgNN",
       "page": "characters/krendel/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-10-29T13:34:33Z",
       "excerpt": "ilya001 наверное пока лидер. Они все прямо очень классные вышли.",
       "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19268227"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJgJi",
-      "page": "characters/katya/",
-      "title": "Катя",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-29T13:33:06Z",
-      "excerpt": "katya001 еще тоже. там в целом она же вялая плакса такая. katya003 очень нравится, но может ее чуть субтильнее и более какой-то нескладной растяпой сделать? Эмма же ее за это и прессует.",
-      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19268194"
     }
   ],
   "discussionNumbers": {
+    "ships/moag/": 62,
     "characters/krendel/": 96,
     "characters/egor/": 95,
     "characters/ilya/": 94,
@@ -56,7 +57,6 @@
     "characters/masha/": 50,
     "characters/tais/": 56,
     "characters/nitka/": 48,
-    "ships/moag/": 62,
     "characters/valek/": 60,
     "characters/kolka/": 59,
     "characters/fedor/": 52,
@@ -263,10 +263,10 @@
       "last": null
     },
     "ships/moag/": {
-      "messageCount": 6,
+      "messageCount": 7,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-10-29T12:24:56Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-30T09:22:26Z"
       }
     },
     "ships/moag/reference.html": {
