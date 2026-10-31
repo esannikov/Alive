@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T20:22:13.437841+00:00",
+  "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJtGf",
+      "page": "locations/main-square/",
+      "title": "Главная Площадь",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-31T20:21:55Z",
+      "excerpt": "\"сад с фонтанами, лимонными и апельсиновыми деревьями\" читаю книгу сейчас, увидела строку. в теории можно деревья разнообразить и фонтаны добавить аккуратно. но это вообще не критичное",
+      "url": "https://github.com/esannikov/Alive/discussions/125#discussioncomment-19321247"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJtFu",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-31T20:18:13Z",
+      "excerpt": "martin015 - как круто, Женя... все новые крутые. Но это с сединой наверное самое правильное тут",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19321198"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJnzK",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T18:03:07Z",
+      "excerpt": "я бы разделила этих Донов 12 на три группы условные - 1) Воспитатели (ясли и тд) - какие-то мягкие более и теплые и лица ближе к людям. Там зеркальные нейроны же. Понятно, что Варвара об этом не думала, но младенцам важно разделять мимику человека и тд. Не…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299530"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJnxb",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T17:58:04Z",
+      "excerpt": "и есть Мартин - Мартин. Дон-12, главный робот всего детского сада и непосредственный руководитель первого младенческого отделения. Единственный робот Второго Уровня с собственным именем. Распоряжается работой, наблюдает за здоровьем малышей, сам берёт их на…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299419"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJnxJ",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-30T17:56:50Z",
+      "excerpt": "у нас есть Доны - Доны. Класс роботов-учителей и наставников. Высокие андроиды с длинными ногами, выпученными неподвижными глазами и блестящими деталями корпуса. Не умеют улыбаться; доброжелательность передают мягкой интонацией, в которой иногда слышатся тр…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299401"
+    }
+  ],
+  "discussionNumbers": {
+    "locations/main-square/": 125,
+    "robots/martin/": 61,
+    "robots/lon/": 44,
+    "characters/sonya/": 145,
+    "robots/don15/": 53,
+    "ships/moag/": 62,
+    "characters/kolka/": 59,
+    "characters/krendel/": 96,
+    "characters/egor/": 95,
+    "characters/ilya/": 94,
+    "characters/katya/": 67,
+    "characters/masha/": 50,
+    "characters/tais/": 56,
+    "characters/nitka/": 48,
+    "characters/valek/": 60,
+    "characters/fedor/": 52,
+    "characters/emma/": 57,
+    "characters/rita/": 85,
+    "robots/scale/": 54
+  },
+  "discussionStats": {
+    "work.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "catalog.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/tais/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:28:50Z"
+      }
+    },
+    "characters/tais/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/emma/": {
+      "messageCount": 9,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T10:48:26Z"
+      }
+    },
+    "characters/emma/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/fedor/": {
+      "messageCount": 12,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T10:51:54Z"
+      }
+    },
+    "characters/fedor/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kolka/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T10:10:50Z"
+      }
+    },
+    "characters/kolka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/valek/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T10:57:26Z"
+      }
+    },
+    "characters/valek/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/nitka/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:27:01Z"
+      }
+    },
+    "characters/nitka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/masha/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:30:41Z"
+      }
+    },
+    "characters/masha/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/katya/": {
+      "messageCount": 2,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:33:06Z"
+      }
+    },
+    "characters/katya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/ilya/": {
+      "messageCount": 2,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:36:58Z"
+      }
+    },
+    "characters/ilya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/sonya/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T16:21:44Z"
+      }
+    },
+    "characters/sonya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/egor/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:42:29Z"
+      }
+    },
+    "characters/egor/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/zhanna/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/zhanna/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/rita/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/rita/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/krendel/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:44:34Z"
+      }
+    },
+    "characters/krendel/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/vovik/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/vovik/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/lon/": {
+      "messageCount": 7,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T16:53:48Z"
+      }
+    },
+    "robots/lon/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don15/": {
+      "messageCount": 11,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-30T11:04:51Z"
+      }
+    },
+    "robots/don15/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/reserve/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/reserve/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/martin/": {
+      "messageCount": 11,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-31T20:18:13Z"
+      }
+    },
+    "robots/martin/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don12/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don12/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/moag/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T10:20:15Z"
+      }
+    },
+    "ships/moag/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/reserve/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/reserve/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "locations/main-square/": {
+      "messageCount": 3,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-31T20:21:55Z"
+      }
+    },
+    "locations/main-square/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/base-girls/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/base-girls/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "search.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/scale/": {
+      "messageCount": 3,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:25Z"
+      }
+    },
+    "characters/cast-contrast/": {
+      "messageCount": 0,
+      "last": null
+    }
+  }
+}
