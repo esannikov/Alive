@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T20:18:28.930187+00:00",
+  "generatedAt": "2026-10-31T20:22:13.437841+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJtGf",
+      "page": "locations/main-square/",
+      "title": "Главная Площадь",
+      "author": "ElenaAlive",
+      "createdAt": "2026-10-31T20:21:55Z",
+      "excerpt": "\"сад с фонтанами, лимонными и апельсиновыми деревьями\" читаю книгу сейчас, увидела строку. в теории можно деревья разнообразить и фонтаны добавить аккуратно. но это вообще не критичное",
+      "url": "https://github.com/esannikov/Alive/discussions/125#discussioncomment-19321247"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJtFu",
       "page": "robots/martin/",
@@ -37,24 +46,15 @@
       "createdAt": "2026-10-30T17:56:50Z",
       "excerpt": "у нас есть Доны - Доны. Класс роботов-учителей и наставников. Высокие андроиды с длинными ногами, выпученными неподвижными глазами и блестящими деталями корпуса. Не умеют улыбаться; доброжелательность передают мягкой интонацией, в которой иногда слышатся тр…",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299401"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnxE",
-      "page": "robots/martin/",
-      "title": "Мартин",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T17:56:39Z",
-      "excerpt": "Да, я бы тоже. Может есть смысл тут сразу тогда отойти от книги и воспитателей этих из яслей как-то визуально отделить от остальных 12ых.",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299396"
     }
   ],
   "discussionNumbers": {
+    "locations/main-square/": 125,
     "robots/martin/": 61,
     "robots/lon/": 44,
     "characters/sonya/": 145,
     "robots/don15/": 53,
     "ships/moag/": 62,
-    "locations/main-square/": 125,
     "characters/kolka/": 59,
     "characters/krendel/": 96,
     "characters/egor/": 95,
@@ -303,10 +303,10 @@
       "last": null
     },
     "locations/main-square/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-30T10:13:58Z"
+        "createdAt": "2026-10-31T20:21:55Z"
       }
     },
     "locations/main-square/reference.html": {
