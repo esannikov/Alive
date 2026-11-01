@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T11:29:17.512798+00:00",
+  "generatedAt": "2026-11-01T11:34:42.598611+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJvrp",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-01T11:34:27Z",
+      "excerpt": "кстати, я не права. Варвара и об этом подумала - Главная задача Эммы и ее одноклассников Ильи и Кати — это разговаривать с малышами. Роботы тоже много говорят, но дети должны видеть человеческие лица каждый день, должны получать человеческое тепло, уметь ра…",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19331817"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJvq0",
       "page": "robots/lon/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-10-30T18:03:07Z",
       "excerpt": "я бы разделила этих Донов 12 на три группы условные - 1) Воспитатели (ясли и тд) - какие-то мягкие более и теплые и лица ближе к людям. Там зеркальные нейроны же. Понятно, что Варвара об этом не думала, но младенцам важно разделять мимику человека и тд. Не…",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299530"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnxb",
-      "page": "robots/martin/",
-      "title": "Мартин",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T17:58:04Z",
-      "excerpt": "и есть Мартин - Мартин. Дон-12, главный робот всего детского сада и непосредственный руководитель первого младенческого отделения. Единственный робот Второго Уровня с собственным именем. Распоряжается работой, наблюдает за здоровьем малышей, сам берёт их на…",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299419"
     }
   ],
   "discussionNumbers": {
+    "robots/martin/": 61,
     "robots/lon/": 44,
     "locations/main-square/": 125,
-    "robots/martin/": 61,
     "characters/sonya/": 145,
     "robots/don15/": 53,
     "ships/moag/": 62,
@@ -265,10 +265,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 11,
+      "messageCount": 12,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-31T20:18:13Z"
+        "createdAt": "2026-11-01T11:34:27Z"
       }
     },
     "robots/martin/reference.html": {
