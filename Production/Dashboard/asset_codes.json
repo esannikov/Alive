@@ -17,7 +17,7 @@
     "kolka": 10,
     "lon": 13,
     "don": 31,
-    "martin": 17,
+    "martin": 20,
     "valek": 21,
     "nitka": 14,
     "masha": 8,
@@ -7790,6 +7790,75 @@
       "source_file": "docs/World/robots/martin/images/martin016.png",
       "aliases": [
         "docs/World/robots/martin/images/martin016.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": "martin014",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin017",
+      "object": "martin",
+      "caption": "Сашуля перед сном · martin015",
+      "sha256": "32db93878eb8a509484130e954d66c63ccdfe46ec48e4447946ae17a49854dd4",
+      "source_commit": "67c607fa83ed549a5cef60d0d05e62125b23ffac",
+      "source_file": "docs/World/robots/martin/images/martin017.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin017.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": "martin015",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin018",
+      "object": "martin",
+      "caption": "Ещё один кубик · martin016",
+      "sha256": "8134a337f4e1926962b5c60a750f265c176d6c98310f56f94e8406c9028effd9",
+      "source_commit": "67c607fa83ed549a5cef60d0d05e62125b23ffac",
+      "source_file": "docs/World/robots/martin/images/martin018.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin018.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "derived_from": "martin016",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin019",
+      "object": "martin",
+      "caption": "Знакомство с новенькими · martin014",
+      "sha256": "269b48fc07c10ea4f702ea5f513ae04422e69296f1c89b74f3cc54a4d0c61489",
+      "source_commit": "67c607fa83ed549a5cef60d0d05e62125b23ffac",
+      "source_file": "docs/World/robots/martin/images/martin019.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin019.png"
       ],
       "galleries": [
         "World/robots/martin"
