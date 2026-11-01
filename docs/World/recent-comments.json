@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T20:22:13.437841+00:00",
+  "generatedAt": "2026-11-01T11:29:17.512798+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJvq0",
+      "page": "robots/lon/",
+      "title": "Лон",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-01T11:29:00Z",
+      "excerpt": "в продолжение темы роботов. Лоны то тоже - это класс. в дет саду они тоже есть - малышей отдавали к роботам-помощникам класса Лон, они помоют и переоденут. Может нам нашего Лона тоже как-то отделить? в теории, Эмма могла ему какую-то розовую повязку нацепит…",
+      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19331764"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJtGf",
       "page": "locations/main-square/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-10-30T17:58:04Z",
       "excerpt": "и есть Мартин - Мартин. Дон-12, главный робот всего детского сада и непосредственный руководитель первого младенческого отделения. Единственный робот Второго Уровня с собственным именем. Распоряжается работой, наблюдает за здоровьем малышей, сам берёт их на…",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299419"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnxJ",
-      "page": "robots/martin/",
-      "title": "Мартин",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T17:56:50Z",
-      "excerpt": "у нас есть Доны - Доны. Класс роботов-учителей и наставников. Высокие андроиды с длинными ногами, выпученными неподвижными глазами и блестящими деталями корпуса. Не умеют улыбаться; доброжелательность передают мягкой интонацией, в которой иногда слышатся тр…",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299401"
     }
   ],
   "discussionNumbers": {
+    "robots/lon/": 44,
     "locations/main-square/": 125,
     "robots/martin/": 61,
-    "robots/lon/": 44,
     "characters/sonya/": 145,
     "robots/don15/": 53,
     "ships/moag/": 62,
@@ -235,10 +235,10 @@
       "last": null
     },
     "robots/lon/": {
-      "messageCount": 7,
+      "messageCount": 8,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-30T16:53:48Z"
+        "createdAt": "2026-11-01T11:29:00Z"
       }
     },
     "robots/lon/reference.html": {
