@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T19:20:24.064144+00:00",
+  "generatedAt": "2026-11-01T07:59:26.666755+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1679,17 +1679,27 @@
       "automaticRemoval": false
     },
     "martin015": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-10-31T20:16:40Z",
+          "reactionId": "REA_lAXOVCLQyc4AqtcHzgAs64s"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 153,
+      "url": "https://github.com/esannikov/Alive/discussions/153"
     },
     "martin016": {
       "votes": [],
@@ -3774,5 +3784,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-10-31T21"
+  "refreshSlot": "2026-11-01T09"
 }
