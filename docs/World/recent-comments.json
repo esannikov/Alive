@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T11:34:42.598611+00:00",
+  "generatedAt": "2026-11-01T11:35:51.816950+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJvrx",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-01T11:35:36Z",
+      "excerpt": "Но. Может сделаем ему верх человека, а низ таки как у роботов всех 12ых? В пассажирах был этот бармен - верх человек, низ - моноколесо) Кентавр",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19331825"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJvrp",
       "page": "robots/martin/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-10-31T20:18:13Z",
       "excerpt": "martin015 - как круто, Женя... все новые крутые. Но это с сединой наверное самое правильное тут",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19321198"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJnzK",
-      "page": "robots/martin/",
-      "title": "Мартин",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-30T18:03:07Z",
-      "excerpt": "я бы разделила этих Донов 12 на три группы условные - 1) Воспитатели (ясли и тд) - какие-то мягкие более и теплые и лица ближе к людям. Там зеркальные нейроны же. Понятно, что Варвара об этом не думала, но младенцам важно разделять мимику человека и тд. Не…",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19299530"
     }
   ],
   "discussionNumbers": {
@@ -265,10 +265,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 12,
+      "messageCount": 13,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-01T11:34:27Z"
+        "createdAt": "2026-11-01T11:35:36Z"
       }
     },
     "robots/martin/reference.html": {
