@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T07:59:26.666755+00:00",
+  "generatedAt": "2026-11-01T19:27:33.607484+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1702,6 +1702,45 @@
       "url": "https://github.com/esannikov/Alive/discussions/153"
     },
     "martin016": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "martin017": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "martin018": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "martin019": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -3784,5 +3823,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-01T09"
+  "refreshSlot": "2026-11-01T21"
 }
