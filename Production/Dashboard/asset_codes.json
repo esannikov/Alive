@@ -8105,16 +8105,21 @@
         "docs/World/styles/alc-04/images/alc011.png"
       ],
       "galleries": [
-        "World/styles/alc-04"
+        "World/styles/alc-04",
+        "World/robots/martin"
       ],
       "kind": "design-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
-        "style"
+        "style",
+        "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "additional_objects": [
+        "martin"
+      ]
     },
     {
       "code": "alc012",
