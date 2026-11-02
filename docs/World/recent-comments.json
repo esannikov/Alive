@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T09:27:21.770790+00:00",
+  "generatedAt": "2026-11-02T11:28:42.525973+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJz_6",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-11-02T11:28:14Z",
+      "excerpt": "красиво. Но я бы седому мартину все таки каких то черт робота подкрутил. Слишком уж он человекообразный",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19349498"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJzdJ",
       "page": "characters/emma/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-11-01T11:29:00Z",
       "excerpt": "в продолжение темы роботов. Лоны то тоже - это класс. в дет саду они тоже есть - малышей отдавали к роботам-помощникам класса Лон, они помоют и переоденут. Может нам нашего Лона тоже как-то отделить? в теории, Эмма могла ему какую-то розовую повязку нацепит…",
       "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19331764"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJtGf",
-      "page": "locations/main-square/",
-      "title": "Главная Площадь",
-      "author": "ElenaAlive",
-      "createdAt": "2026-10-31T20:21:55Z",
-      "excerpt": "\"сад с фонтанами, лимонными и апельсиновыми деревьями\" читаю книгу сейчас, увидела строку. в теории можно деревья разнообразить и фонтаны добавить аккуратно. но это вообще не критичное",
-      "url": "https://github.com/esannikov/Alive/discussions/125#discussioncomment-19321247"
     }
   ],
   "discussionNumbers": {
-    "characters/emma/": 57,
     "robots/martin/": 61,
+    "characters/emma/": 57,
     "robots/lon/": 44,
     "locations/main-square/": 125,
     "characters/sonya/": 145,
@@ -265,10 +265,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 13,
+      "messageCount": 14,
       "last": {
-        "author": "ElenaAlive",
-        "createdAt": "2026-11-01T11:35:36Z"
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-11-02T11:28:14Z"
       }
     },
     "robots/martin/reference.html": {
