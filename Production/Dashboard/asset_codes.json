@@ -31,7 +31,7 @@
     "vovik": 7,
     "square": 6,
     "donteacher": 2,
-    "alc": 22
+    "alc": 23
   },
   "assets": [
     {
@@ -8326,6 +8326,28 @@
       ],
       "galleries": [
         "World/styles/alc-09"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc022",
+      "object": "alc-04",
+      "caption": "Узкий проход · Начало охоты",
+      "sha256": "6bea02ba31307327317b69460eaa3d59bf198ae91b623ffc58f1eb78cc05f9a6",
+      "source_commit": "086a522dca7718714d8c43900e85b6bc324248ba",
+      "source_file": "docs/World/styles/alc-04/images/alc022.png",
+      "aliases": [
+        "docs/World/styles/alc-04/images/alc022.png"
+      ],
+      "galleries": [
+        "World/styles/alc-04"
       ],
       "kind": "design-study",
       "status": "candidate",
