@@ -590,6 +590,105 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/styles/alc-01/",
+    "page": "styles/alc-01/",
+    "title": "ALC-01 · Ясная линия",
+    "variantCodes": [
+      "alc001",
+      "alc002",
+      "alc003",
+      "alc004"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-01/reference",
+    "page": "styles/alc-01/reference.html",
+    "title": "ALC-01 · Ясная линия · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/styles/alc-02/",
+    "page": "styles/alc-02/",
+    "title": "ALC-02 · Огненный контур",
+    "variantCodes": [
+      "alc005",
+      "alc006",
+      "alc007",
+      "alc008"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-02/reference",
+    "page": "styles/alc-02/reference.html",
+    "title": "ALC-02 · Огненный контур · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/styles/alc-04/",
+    "page": "styles/alc-04/",
+    "title": "ALC-04 · Три такта",
+    "variantCodes": [
+      "alc009",
+      "alc010",
+      "alc011",
+      "alc012"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-04/reference",
+    "page": "styles/alc-04/reference.html",
+    "title": "ALC-04 · Три такта · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/styles/alc-05/",
+    "page": "styles/alc-05/",
+    "title": "ALC-05 · Цех в четыре краски",
+    "variantCodes": [
+      "alc013"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-05/reference",
+    "page": "styles/alc-05/reference.html",
+    "title": "ALC-05 · Цех в четыре краски · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/styles/alc-07/",
+    "page": "styles/alc-07/",
+    "title": "ALC-07 · Индустриальный ретродрук",
+    "variantCodes": [
+      "alc014",
+      "alc015",
+      "alc016"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-07/reference",
+    "page": "styles/alc-07/reference.html",
+    "title": "ALC-07 · Индустриальный ретродрук · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/styles/alc-09/",
+    "page": "styles/alc-09/",
+    "title": "ALC-09 · Индустриальное cel-аниме",
+    "variantCodes": [
+      "alc017",
+      "alc018",
+      "alc019",
+      "alc020",
+      "alc021"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-09/reference",
+    "page": "styles/alc-09/reference.html",
+    "title": "ALC-09 · Индустриальное cel-аниме · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",

@@ -30,7 +30,8 @@
     "krendel": 7,
     "vovik": 7,
     "square": 6,
-    "donteacher": 2
+    "donteacher": 2,
+    "alc": 22
   },
   "assets": [
     {
@@ -7869,6 +7870,468 @@
       "renditions": [],
       "task_ids": [
         "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc001",
+      "object": "alc-01",
+      "caption": "Атриум",
+      "sha256": "442dfbf1a9e302462a016bc77500b9f076491afe1b8fcdc787c947969e1a93b5",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-01/images/alc001.png",
+      "aliases": [
+        "docs/World/styles/alc-01/images/alc001.png"
+      ],
+      "galleries": [
+        "World/styles/alc-01"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc002",
+      "object": "alc-01",
+      "caption": "Мостик в оранжерее",
+      "sha256": "acc6ab91eaee285b315a374f5d80df37ec29104349a4fe7b483ad1ad61a6b0b9",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-01/images/alc002.png",
+      "aliases": [
+        "docs/World/styles/alc-01/images/alc002.png"
+      ],
+      "galleries": [
+        "World/styles/alc-01"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc003",
+      "object": "alc-01",
+      "caption": "Сбитая орбита",
+      "sha256": "9889640ee4dbfb32d3314641b106fe62fc91316bc824d66b82f3248b4e021370",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-01/images/alc003.png",
+      "aliases": [
+        "docs/World/styles/alc-01/images/alc003.png"
+      ],
+      "galleries": [
+        "World/styles/alc-01"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc004",
+      "object": "alc-01",
+      "caption": "Зеркало на повороте",
+      "sha256": "81fb0e65d47d5607c6796782e85452fd91d2c03e116e05559759c4591a412683",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-01/images/alc004.png",
+      "aliases": [
+        "docs/World/styles/alc-01/images/alc004.png"
+      ],
+      "galleries": [
+        "World/styles/alc-01"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc005",
+      "object": "alc-02",
+      "caption": "Верхний фланг",
+      "sha256": "6e0a826dcdadd48ff05da8d6cd29b675740aae655f09712c5b4f248bb2b35e3e",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-02/images/alc005.png",
+      "aliases": [
+        "docs/World/styles/alc-02/images/alc005.png"
+      ],
+      "galleries": [
+        "World/styles/alc-02"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc006",
+      "object": "alc-02",
+      "caption": "На подножке",
+      "sha256": "326579cb07113362abc6ff383de786b62561c251f5a7e54a77ca779873efd0b5",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-02/images/alc006.png",
+      "aliases": [
+        "docs/World/styles/alc-02/images/alc006.png"
+      ],
+      "galleries": [
+        "World/styles/alc-02"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc007",
+      "object": "alc-02",
+      "caption": "Водосброс",
+      "sha256": "59655b6aa5a9b6850798ab381d1f4ddaae1751bbdda5b3dee3df7eef98fc7e1a",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-02/images/alc007.png",
+      "aliases": [
+        "docs/World/styles/alc-02/images/alc007.png"
+      ],
+      "galleries": [
+        "World/styles/alc-02"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc008",
+      "object": "alc-02",
+      "caption": "Захват в тесноте",
+      "sha256": "a52ae69f9851c27ef9608ed698174102e16107a41839b3b31c9922cd64bf3ab4",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-02/images/alc008.png",
+      "aliases": [
+        "docs/World/styles/alc-02/images/alc008.png"
+      ],
+      "galleries": [
+        "World/styles/alc-02"
+      ],
+      "kind": "design-study",
+      "status": "approved",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc009",
+      "object": "alc-04",
+      "caption": "След муки",
+      "sha256": "6b32890e6167744eabc7cbd7d29b791b7dff0fcfbac436b4a03a9555ea5d03c2",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-04/images/alc009.png",
+      "aliases": [
+        "docs/World/styles/alc-04/images/alc009.png"
+      ],
+      "galleries": [
+        "World/styles/alc-04"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc010",
+      "object": "alc-04",
+      "caption": "Заводная птица",
+      "sha256": "818ce8554246a8b85bedda5e5db7f2e5361064e3f5e6dc947101fe984a6dbbcd",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-04/images/alc010.png",
+      "aliases": [
+        "docs/World/styles/alc-04/images/alc010.png"
+      ],
+      "galleries": [
+        "World/styles/alc-04"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc011",
+      "object": "alc-04",
+      "caption": "Мартин укладывает Сашу",
+      "sha256": "633e7356035fc1fd1dcc28d3a8723d79bda097ad4be76d4c4930a29a2e8ac5e5",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-04/images/alc011.png",
+      "aliases": [
+        "docs/World/styles/alc-04/images/alc011.png"
+      ],
+      "galleries": [
+        "World/styles/alc-04"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc012",
+      "object": "alc-04",
+      "caption": "Тень на полотне",
+      "sha256": "1e3729accd08ef7ff93cd7354704f3693ef8d914e91eac0677a410ea9d3a375a",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-04/images/alc012.png",
+      "aliases": [
+        "docs/World/styles/alc-04/images/alc012.png"
+      ],
+      "galleries": [
+        "World/styles/alc-04"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc013",
+      "object": "alc-05",
+      "caption": "Растровый сплеш",
+      "sha256": "b076bd7ba8bc7ce255ec7481560c1fe305cd8876584594ff0b737c755ffa644e",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-05/images/alc013.png",
+      "aliases": [
+        "docs/World/styles/alc-05/images/alc013.png"
+      ],
+      "galleries": [
+        "World/styles/alc-05"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc014",
+      "object": "alc-07",
+      "caption": "Заслон",
+      "sha256": "212ec89d5fd5d4bdafd0155f13b75e87d7f1f3150966b4e0c4dc31f1f66f788e",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-07/images/alc014.png",
+      "aliases": [
+        "docs/World/styles/alc-07/images/alc014.png"
+      ],
+      "galleries": [
+        "World/styles/alc-07"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc015",
+      "object": "alc-07",
+      "caption": "Заслон · Мост и затвор",
+      "sha256": "2a4bfe53a91a23c3447b5a35b33781e602e7bad8a65f4ccd14b28dd7f0b804e2",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-07/images/alc015.png",
+      "aliases": [
+        "docs/World/styles/alc-07/images/alc015.png"
+      ],
+      "galleries": [
+        "World/styles/alc-07"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc016",
+      "object": "alc-07",
+      "caption": "Последняя вагонетка",
+      "sha256": "210dbfd4ec475f4d84e68c825fbf07f4b80f13d0cbdd69b40793f9ba304b9d61",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-07/images/alc016.png",
+      "aliases": [
+        "docs/World/styles/alc-07/images/alc016.png"
+      ],
+      "galleries": [
+        "World/styles/alc-07"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc017",
+      "object": "alc-09",
+      "caption": "За стеклом",
+      "sha256": "a3e459c89442952e37406aca093301b92c495ab038e3531147687b61dede3693",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-09/images/alc017.png",
+      "aliases": [
+        "docs/World/styles/alc-09/images/alc017.png"
+      ],
+      "galleries": [
+        "World/styles/alc-09"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc018",
+      "object": "alc-09",
+      "caption": "Рука над провалом",
+      "sha256": "6bf0170fe521e23b5b58adf70f2fcd4088de10560fc30bf631669f2fadf0e296",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-09/images/alc018.png",
+      "aliases": [
+        "docs/World/styles/alc-09/images/alc018.png"
+      ],
+      "galleries": [
+        "World/styles/alc-09"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc019",
+      "object": "alc-09",
+      "caption": "Между лопастями",
+      "sha256": "ae7081e439746b3abc7aa21fde2bc787fb805d247299d59ae7a102106ed152da",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-09/images/alc019.png",
+      "aliases": [
+        "docs/World/styles/alc-09/images/alc019.png"
+      ],
+      "galleries": [
+        "World/styles/alc-09"
+      ],
+      "kind": "design-study",
+      "status": "approved",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc020",
+      "object": "alc-09",
+      "caption": "Стрелочный пост",
+      "sha256": "0d4058094f6c89524bbd0f4e9a0ede581894a246848931c69f998acd1b29daf3",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-09/images/alc020.png",
+      "aliases": [
+        "docs/World/styles/alc-09/images/alc020.png"
+      ],
+      "galleries": [
+        "World/styles/alc-09"
+      ],
+      "kind": "design-study",
+      "status": "approved",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc021",
+      "object": "alc-09",
+      "caption": "Стальной рулон · Аварийный тормоз",
+      "sha256": "9cd096fa2489ca2f8b2ec249e02b1a3df03e6b5b560ead5689274aa4a9a02b78",
+      "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
+      "source_file": "docs/World/styles/alc-09/images/alc021.png",
+      "aliases": [
+        "docs/World/styles/alc-09/images/alc021.png"
+      ],
+      "galleries": [
+        "World/styles/alc-09"
+      ],
+      "kind": "design-study",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
       ],
       "series": "current",
       "visibility": "active"

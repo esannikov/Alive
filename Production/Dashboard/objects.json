@@ -1370,6 +1370,220 @@
         "nitka003",
         "nitka004"
       ]
+    },
+    {
+      "id": "alc-01",
+      "title": "ALC-01 · Ясная линия",
+      "group": "style",
+      "kind": "animation-style",
+      "path": "styles/alc-01",
+      "cover": "alc001",
+      "default_series": "current",
+      "summary": "4 работы",
+      "subtitle": "Анимационные стили · Ясная линия",
+      "task_ids": [
+        "style"
+      ],
+      "source_pages": [],
+      "evidence": "Визуальная разработка",
+      "source_doc": "Bible/Visual_Development.md",
+      "source_heading": "О направлении",
+      "source_label": "Визуальная разработка ALIVE",
+      "source_summary": "Франко-бельгийская ligne claire. Тонкий тёмно-бирюзовый контур, ровная заливка, одна тень на форму, светлая глубокая архитектура.",
+      "source_note": "Постановочные пробы для экранизации.",
+      "reading_note": "Выберите миниатюру для просмотра оригинала.",
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Сцены"
+        }
+      ],
+      "gallery_order": [
+        "alc001",
+        "alc002",
+        "alc003",
+        "alc004"
+      ],
+      "variant_notes": {}
+    },
+    {
+      "id": "alc-02",
+      "title": "ALC-02 · Огненный контур",
+      "group": "style",
+      "kind": "animation-style",
+      "path": "styles/alc-02",
+      "cover": "alc005",
+      "default_series": "current",
+      "summary": "4 работы",
+      "subtitle": "Анимационные стили · Огненный контур",
+      "task_ids": [
+        "style"
+      ],
+      "source_pages": [],
+      "evidence": "Визуальная разработка",
+      "source_doc": "Bible/Visual_Development.md",
+      "source_heading": "О направлении",
+      "source_label": "Визуальная разработка ALIVE",
+      "source_summary": "Цветная экшн-манга. Цельная панорама, разная толщина линии, индиго и киноварь, локальные штрихи в точке отталкивания.",
+      "source_note": "Постановочные пробы для экранизации.",
+      "reading_note": "Выберите миниатюру для просмотра оригинала.",
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Сцены"
+        }
+      ],
+      "gallery_order": [
+        "alc005",
+        "alc006",
+        "alc007",
+        "alc008"
+      ],
+      "variant_notes": {
+        "alc008": "Утверждено автором"
+      }
+    },
+    {
+      "id": "alc-04",
+      "title": "ALC-04 · Три такта",
+      "group": "style",
+      "kind": "animation-style",
+      "path": "styles/alc-04",
+      "cover": "alc009",
+      "default_series": "current",
+      "summary": "4 работы",
+      "subtitle": "Анимационные стили · Три такта",
+      "task_ids": [
+        "style"
+      ],
+      "source_pages": [
+        126
+      ],
+      "evidence": "Визуальная разработка",
+      "source_doc": "Bible/Visual_Development.md",
+      "source_heading": "О направлении",
+      "source_label": "Визуальная разработка ALIVE",
+      "source_summary": "Световой экшн-вебтун. Вертикальный монтаж от детали к действию и к телесному последствию. Выбран кадр с мешком и раскрытой кистью.",
+      "source_note": "Мартин берёт Сашу на руки и даёт ему чистую соску, пока Эмма укачивает Юльку (с. 126). Остальные страницы — постановочные пробы.",
+      "reading_note": "Выберите миниатюру для просмотра оригинала.",
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Сцены"
+        }
+      ],
+      "gallery_order": [
+        "alc009",
+        "alc010",
+        "alc011",
+        "alc012"
+      ],
+      "variant_notes": {}
+    },
+    {
+      "id": "alc-05",
+      "title": "ALC-05 · Цех в четыре краски",
+      "group": "style",
+      "kind": "animation-style",
+      "path": "styles/alc-05",
+      "cover": "alc013",
+      "default_series": "current",
+      "summary": "1 работа",
+      "subtitle": "Анимационные стили · Цех в четыре краски",
+      "task_ids": [
+        "style"
+      ],
+      "source_pages": [],
+      "evidence": "Визуальная разработка",
+      "source_doc": "Bible/Visual_Development.md",
+      "source_heading": "О направлении",
+      "source_label": "Визуальная разработка ALIVE",
+      "source_summary": "Большая панель и пять вставок. Ровный цветной растр на коже и стали, отдельная чёрная линия, просветы матовой бумаги.",
+      "source_note": "Постановочные пробы для экранизации.",
+      "reading_note": "Выберите миниатюру для просмотра оригинала.",
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Сцены"
+        }
+      ],
+      "gallery_order": [
+        "alc013"
+      ],
+      "variant_notes": {}
+    },
+    {
+      "id": "alc-07",
+      "title": "ALC-07 · Индустриальный ретродрук",
+      "group": "style",
+      "kind": "animation-style",
+      "path": "styles/alc-07",
+      "cover": "alc014",
+      "default_series": "current",
+      "summary": "3 работы",
+      "subtitle": "Анимационные стили · Индустриальный ретродрук",
+      "task_ids": [
+        "style"
+      ],
+      "source_pages": [],
+      "evidence": "Визуальная разработка",
+      "source_doc": "Bible/Visual_Development.md",
+      "source_heading": "О направлении",
+      "source_label": "Визуальная разработка ALIVE",
+      "source_summary": "Ретрофантастика с драматургией масштаба. Общий план с высоты, затем механизм в действии и последствие с другой дистанции. Сохранить угольную тушь и приглушённую краску.",
+      "source_note": "Постановочные пробы для экранизации.",
+      "reading_note": "Выберите миниатюру для просмотра оригинала.",
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Сцены"
+        }
+      ],
+      "gallery_order": [
+        "alc014",
+        "alc015",
+        "alc016"
+      ],
+      "variant_notes": {}
+    },
+    {
+      "id": "alc-09",
+      "title": "ALC-09 · Индустриальное cel-аниме",
+      "group": "style",
+      "kind": "animation-style",
+      "path": "styles/alc-09",
+      "cover": "alc017",
+      "default_series": "current",
+      "summary": "5 работ",
+      "subtitle": "Анимационные стили · Индустриальное cel-аниме",
+      "task_ids": [
+        "style"
+      ],
+      "source_pages": [],
+      "evidence": "Визуальная разработка",
+      "source_doc": "Bible/Visual_Development.md",
+      "source_heading": "О направлении",
+      "source_label": "Визуальная разработка ALIVE",
+      "source_summary": "Рисованная промышленная фантастика. Контур, две ступени тени и живописный фон цеха.",
+      "source_note": "Постановочные пробы для экранизации.",
+      "reading_note": "Выберите миниатюру для просмотра оригинала.",
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Сцены"
+        }
+      ],
+      "gallery_order": [
+        "alc017",
+        "alc018",
+        "alc019",
+        "alc020",
+        "alc021"
+      ],
+      "variant_notes": {
+        "alc019": "Утверждено автором",
+        "alc020": "Утверждено автором"
+      }
     }
   ],
   "derivatives": [
