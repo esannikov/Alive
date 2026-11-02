@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T12:40:48.954433+00:00",
+  "generatedAt": "2026-11-02T12:47:41.571873+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ0YA",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-02T12:47:20Z",
+      "excerpt": "меня смущает, что она стандартно обычная выходит. Женя, может оставим tais051, tais009, tais047, tais049 и tais001. И аккуратно шрам на бровь одну?",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19351040"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ0WT",
       "page": "robots/martin/",
@@ -37,20 +46,11 @@
       "createdAt": "2026-11-02T11:28:14Z",
       "excerpt": "красиво. Но я бы седому мартину все таки каких то черт робота подкрутил. Слишком уж он человекообразный",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19349498"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJzdJ",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-02T09:27:03Z",
-      "excerpt": "я еще вспомнила что у всех детей есть свой номер. Там по базам потом они его ищут и мне кажется у детей на втором уровне он вообще на видном месте. Может с этими номерами вообще поиграться?",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19347273"
     }
   ],
   "discussionNumbers": {
-    "robots/martin/": 61,
     "characters/tais/": 56,
+    "robots/martin/": 61,
     "robots/lon/": 44,
     "characters/emma/": 57,
     "locations/main-square/": 125,
@@ -79,10 +79,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 9,
+      "messageCount": 10,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-11-02T11:30:57Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-02T12:47:20Z"
       }
     },
     "characters/tais/reference.html": {
