@@ -1382,7 +1382,7 @@
       "path": "styles/alc-01",
       "cover": "alc001",
       "default_series": "current",
-      "summary": "4 работы",
+      "summary": "ALC-01 · 4 работы",
       "subtitle": "Бельгийская школа Эрже и «Приключения Тинтина».",
       "task_ids": [
         "style"
@@ -1417,7 +1417,7 @@
       "path": "styles/alc-02",
       "cover": "alc005",
       "default_series": "current",
-      "summary": "4 работы",
+      "summary": "ALC-02 · 4 работы",
       "subtitle": "Японская боевая манга в цветной интерпретации.",
       "task_ids": [
         "style"
@@ -1454,7 +1454,7 @@
       "path": "styles/alc-04",
       "cover": "alc009",
       "default_series": "current",
-      "summary": "5 работ",
+      "summary": "ALC-04 · 5 работ",
       "subtitle": "Южнокорейская традиция цифровой манхвы с вертикальной прокруткой.",
       "task_ids": [
         "style"
@@ -1493,7 +1493,7 @@
       "path": "styles/alc-05",
       "cover": "alc013",
       "default_series": "current",
-      "summary": "1 работа",
+      "summary": "ALC-05 · 1 работа",
       "subtitle": "США, 1970-е. Ориентир — «Вечные» Джека Кирби (1976).",
       "task_ids": [
         "style"
@@ -1525,7 +1525,7 @@
       "path": "styles/alc-07",
       "cover": "alc014",
       "default_series": "current",
-      "summary": "3 работы",
+      "summary": "ALC-07 · 3 работы",
       "subtitle": "Американская журнальная фантастика 1970-х в четырёхкрасочной печати.",
       "task_ids": [
         "style"
@@ -1559,7 +1559,7 @@
       "path": "styles/alc-09",
       "cover": "alc017",
       "default_series": "current",
-      "summary": "5 работ",
+      "summary": "ALC-09 · 5 работ",
       "subtitle": "Японская рисованная видеоанимация конца 1980-х (OVA).",
       "task_ids": [
         "style"
