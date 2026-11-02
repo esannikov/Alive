@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T11:31:23.718528+00:00",
+  "generatedAt": "2026-11-02T12:40:48.954433+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ0WT",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-02T12:40:28Z",
+      "excerpt": "Тогда, martin009 и martin010 уходят в резерв. martin015 берем за основу пока и каких то черт робота подкрутить бы + корпус нижняя часть от робота",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19350931"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ0Aj",
       "page": "characters/tais/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-11-02T09:27:03Z",
       "excerpt": "я еще вспомнила что у всех детей есть свой номер. Там по базам потом они его ищут и мне кажется у детей на втором уровне он вообще на видном месте. Может с этими номерами вообще поиграться?",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19347273"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJvrx",
-      "page": "robots/martin/",
-      "title": "Мартин",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-01T11:35:36Z",
-      "excerpt": "Но. Может сделаем ему верх человека, а низ таки как у роботов всех 12ых? В пассажирах был этот бармен - верх человек, низ - моноколесо) Кентавр",
-      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19331825"
     }
   ],
   "discussionNumbers": {
+    "robots/martin/": 61,
     "characters/tais/": 56,
     "robots/lon/": 44,
-    "robots/martin/": 61,
     "characters/emma/": 57,
     "locations/main-square/": 125,
     "characters/sonya/": 145,
@@ -265,10 +265,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 14,
+      "messageCount": 15,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-11-02T11:28:14Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-02T12:40:28Z"
       }
     },
     "robots/martin/reference.html": {
