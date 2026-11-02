@@ -7965,7 +7965,7 @@
     {
       "code": "alc005",
       "object": "alc-02",
-      "caption": "Верхний фланг",
+      "caption": "Прыжок с контейнера",
       "sha256": "6e0a826dcdadd48ff05da8d6cd29b675740aae655f09712c5b4f248bb2b35e3e",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-02/images/alc005.png",
@@ -8031,7 +8031,7 @@
     {
       "code": "alc008",
       "object": "alc-02",
-      "caption": "Захват в тесноте",
+      "caption": "Захват",
       "sha256": "a52ae69f9851c27ef9608ed698174102e16107a41839b3b31c9922cd64bf3ab4",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-02/images/alc008.png",
@@ -8053,7 +8053,7 @@
     {
       "code": "alc009",
       "object": "alc-04",
-      "caption": "След муки",
+      "caption": "Рассыпанная мука",
       "sha256": "6b32890e6167744eabc7cbd7d29b791b7dff0fcfbac436b4a03a9555ea5d03c2",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-04/images/alc009.png",
@@ -8146,7 +8146,7 @@
     {
       "code": "alc013",
       "object": "alc-05",
-      "caption": "Растровый сплеш",
+      "caption": "Бой в цехе",
       "sha256": "b076bd7ba8bc7ce255ec7481560c1fe305cd8876584594ff0b737c755ffa644e",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-05/images/alc013.png",
@@ -8190,7 +8190,7 @@
     {
       "code": "alc015",
       "object": "alc-07",
-      "caption": "Заслон · Мост и затвор",
+      "caption": "Решётка на мосту",
       "sha256": "2a4bfe53a91a23c3447b5a35b33781e602e7bad8a65f4ccd14b28dd7f0b804e2",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-07/images/alc015.png",
@@ -8256,7 +8256,7 @@
     {
       "code": "alc018",
       "object": "alc-09",
-      "caption": "Рука над провалом",
+      "caption": "Спасение на лестнице",
       "sha256": "6bf0170fe521e23b5b58adf70f2fcd4088de10560fc30bf631669f2fadf0e296",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-09/images/alc018.png",
@@ -8322,7 +8322,7 @@
     {
       "code": "alc021",
       "object": "alc-09",
-      "caption": "Стальной рулон · Аварийный тормоз",
+      "caption": "Аварийный тормоз",
       "sha256": "9cd096fa2489ca2f8b2ec249e02b1a3df03e6b5b560ead5689274aa4a9a02b78",
       "source_commit": "8c176fbdeca3610e5838474522d32ddd10229723",
       "source_file": "docs/World/styles/alc-09/images/alc021.png",
@@ -8344,7 +8344,7 @@
     {
       "code": "alc022",
       "object": "alc-04",
-      "caption": "Узкий проход · Начало охоты",
+      "caption": "Узкий проход",
       "sha256": "6bea02ba31307327317b69460eaa3d59bf198ae91b623ffc58f1eb78cc05f9a6",
       "source_commit": "086a522dca7718714d8c43900e85b6bc324248ba",
       "source_file": "docs/World/styles/alc-04/images/alc022.png",

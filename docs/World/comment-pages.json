@@ -593,7 +593,7 @@
   {
     "term": "Alive/World/styles/alc-01/",
     "page": "styles/alc-01/",
-    "title": "ALC-01 · Ясная линия",
+    "title": "Франко-бельгийская ясная линия",
     "variantCodes": [
       "alc001",
       "alc002",
@@ -604,13 +604,13 @@
   {
     "term": "Alive/World/styles/alc-01/reference",
     "page": "styles/alc-01/reference.html",
-    "title": "ALC-01 · Ясная линия · справка",
+    "title": "Франко-бельгийская ясная линия · справка",
     "variantCodes": []
   },
   {
     "term": "Alive/World/styles/alc-02/",
     "page": "styles/alc-02/",
-    "title": "ALC-02 · Огненный контур",
+    "title": "Японская экшн-манга",
     "variantCodes": [
       "alc005",
       "alc006",
@@ -621,13 +621,13 @@
   {
     "term": "Alive/World/styles/alc-02/reference",
     "page": "styles/alc-02/reference.html",
-    "title": "ALC-02 · Огненный контур · справка",
+    "title": "Японская экшн-манга · справка",
     "variantCodes": []
   },
   {
     "term": "Alive/World/styles/alc-04/",
     "page": "styles/alc-04/",
-    "title": "ALC-04 · Три такта",
+    "title": "Корейский вебтун",
     "variantCodes": [
       "alc009",
       "alc010",
@@ -639,13 +639,13 @@
   {
     "term": "Alive/World/styles/alc-04/reference",
     "page": "styles/alc-04/reference.html",
-    "title": "ALC-04 · Три такта · справка",
+    "title": "Корейский вебтун · справка",
     "variantCodes": []
   },
   {
     "term": "Alive/World/styles/alc-05/",
     "page": "styles/alc-05/",
-    "title": "ALC-05 · Цех в четыре краски",
+    "title": "Американский космический комикс",
     "variantCodes": [
       "alc013"
     ]
@@ -653,13 +653,13 @@
   {
     "term": "Alive/World/styles/alc-05/reference",
     "page": "styles/alc-05/reference.html",
-    "title": "ALC-05 · Цех в четыре краски · справка",
+    "title": "Американский космический комикс · справка",
     "variantCodes": []
   },
   {
     "term": "Alive/World/styles/alc-07/",
     "page": "styles/alc-07/",
-    "title": "ALC-07 · Индустриальный ретродрук",
+    "title": "Американский приключенческий комикс",
     "variantCodes": [
       "alc014",
       "alc015",
@@ -669,13 +669,13 @@
   {
     "term": "Alive/World/styles/alc-07/reference",
     "page": "styles/alc-07/reference.html",
-    "title": "ALC-07 · Индустриальный ретродрук · справка",
+    "title": "Американский приключенческий комикс · справка",
     "variantCodes": []
   },
   {
     "term": "Alive/World/styles/alc-09/",
     "page": "styles/alc-09/",
-    "title": "ALC-09 · Индустриальное cel-аниме",
+    "title": "Японское научно-фантастическое аниме",
     "variantCodes": [
       "alc017",
       "alc018",
@@ -687,7 +687,7 @@
   {
     "term": "Alive/World/styles/alc-09/reference",
     "page": "styles/alc-09/reference.html",
-    "title": "ALC-09 · Индустриальное cel-аниме · справка",
+    "title": "Японское научно-фантастическое аниме · справка",
     "variantCodes": []
   },
   {
