@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T09:36:45.520891+00:00",
+  "generatedAt": "2026-11-03T10:01:20.940139+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ5Rx",
+      "page": "characters/fedor/",
+      "title": "Федор",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-03T10:00:59Z",
+      "excerpt": "я вот на него смотрю и думаю - fedor032. может его таки на Кольку?",
+      "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19371121"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ5KV",
       "page": "styles/alc-04/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-03T09:28:54Z",
       "excerpt": "alc010 - ♥️",
       "url": "https://github.com/esannikov/Alive/discussions/165#discussioncomment-19370528"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ5IG",
-      "page": "styles/alc-04/",
-      "title": "Цветной вебтун в три такта",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-03T09:26:36Z",
-      "excerpt": "как круууто) alc022",
-      "url": "https://github.com/esannikov/Alive/discussions/165#discussioncomment-19370502"
     }
   ],
   "discussionNumbers": {
+    "characters/fedor/": 52,
     "styles/alc-04/": 165,
     "styles/alc-05/": 167,
     "styles/alc-02/": 166,
@@ -68,7 +69,6 @@
     "characters/masha/": 50,
     "characters/nitka/": 48,
     "characters/valek/": 60,
-    "characters/fedor/": 52,
     "characters/rita/": 85,
     "robots/scale/": 54
   },
@@ -104,10 +104,10 @@
       "last": null
     },
     "characters/fedor/": {
-      "messageCount": 12,
+      "messageCount": 13,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-29T10:51:54Z"
+        "createdAt": "2026-11-03T10:00:59Z"
       }
     },
     "characters/fedor/reference.html": {
