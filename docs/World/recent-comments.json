@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T09:32:08.913327+00:00",
+  "generatedAt": "2026-11-03T09:36:45.520891+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ5KV",
+      "page": "styles/alc-04/",
+      "title": "Цветной вебтун в три такта",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-03T09:36:22Z",
+      "excerpt": "я вот еще смотрю на зверюшек этих наших и таки думаю, что их надо больше в животных, Щас они как люди немного первобытные. Я понимаю, что это не тут нужно обсуждать, тут мы смотрим другое. Я просто пока помню пишу. Оно тоже прикольно работает, но наверное э…",
+      "url": "https://github.com/esannikov/Alive/discussions/165#discussioncomment-19370645"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ5JV",
       "page": "styles/alc-05/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-11-03T09:26:36Z",
       "excerpt": "как круууто) alc022",
       "url": "https://github.com/esannikov/Alive/discussions/165#discussioncomment-19370502"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ0YA",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-02T12:47:20Z",
-      "excerpt": "меня смущает, что она стандартно обычная выходит. Женя, может оставим tais051, tais009, tais047, tais049 и tais001. И аккуратно шрам на бровь одну?",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19351040"
     }
   ],
   "discussionNumbers": {
+    "styles/alc-04/": 165,
     "styles/alc-05/": 167,
     "styles/alc-02/": 166,
-    "styles/alc-04/": 165,
     "characters/tais/": 56,
     "robots/martin/": 61,
     "robots/lon/": 44,
@@ -344,10 +344,10 @@
       "last": null
     },
     "styles/alc-04/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-03T09:28:54Z"
+        "createdAt": "2026-11-03T09:36:22Z"
       }
     },
     "styles/alc-04/reference.html": {
