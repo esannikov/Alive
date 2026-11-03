@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T19:44:05.378208+00:00",
+  "generatedAt": "2026-11-03T08:38:45.301909+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -9,6 +9,292 @@
   "minimumAgainstPeople": 2,
   "automaticRemoval": false,
   "variants": {
+    "alc001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc006": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc007": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc008": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc009": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc010": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc011": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc012": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc013": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc014": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc015": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc016": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc017": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc018": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc019": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc020": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc021": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "alc022": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
     "don003": {
       "votes": [],
       "scores": {
@@ -3985,5 +4271,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-02T21"
+  "refreshSlot": "2026-11-03T09"
 }
