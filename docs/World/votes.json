@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T08:38:45.301909+00:00",
+  "generatedAt": "2026-11-03T22:04:24.310774+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1002,17 +1002,27 @@
       "automaticRemoval": false
     },
     "fedor009": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-03T13:34:34Z",
+          "reactionId": "REA_lAXOVCLQyc4AqyQjzgAs_XA"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 168,
+      "url": "https://github.com/esannikov/Alive/discussions/168"
     },
     "fedor010": {
       "votes": [],
@@ -4271,5 +4281,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-03T09"
+  "refreshSlot": "2026-11-03T21"
 }
