@@ -33,7 +33,7 @@
     "donteacher": 2,
     "alc": 23,
     "kir": 7,
-    "push": 10
+    "push": 12
   },
   "assets": [
     {
@@ -8854,6 +8854,50 @@
       "renditions": [],
       "task_ids": [
         "kolka"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push010",
+      "object": "push",
+      "caption": "Рывок через порог",
+      "source_file": "docs/World/creatures/pushistik/images/push010.webp",
+      "source_commit": "b1d7e8a7614a406ab7f6e5d562efe3b3c8be5f84",
+      "sha256": "51f036685dba872ca472f18ddc3b981b04235788905f831ae1a0472f99876f7d",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push010.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push011",
+      "object": "push",
+      "caption": "Бросок с опорой на ладонь",
+      "source_file": "docs/World/creatures/pushistik/images/push011.webp",
+      "source_commit": "b1d7e8a7614a406ab7f6e5d562efe3b3c8be5f84",
+      "sha256": "d99da10d9740dafcacf4a3ba2c186512ee51bff6e77551a3e9758d40c452b846",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push011.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
       ],
       "series": "current",
       "visibility": "active"
