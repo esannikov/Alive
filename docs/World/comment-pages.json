@@ -717,7 +717,7 @@
   {
     "term": "Alive/World/creatures/pushistik/",
     "page": "creatures/pushistik/",
-    "title": "Пушистик и стая",
+    "title": "Пушистик",
     "variantCodes": [
       "push001",
       "push002",
@@ -725,17 +725,34 @@
       "push004",
       "push005",
       "push006",
-      "push007",
-      "push008",
-      "push009",
-      "push010",
-      "push011"
+      "push009"
     ]
   },
   {
     "term": "Alive/World/creatures/pushistik/reference",
     "page": "creatures/pushistik/reference.html",
-    "title": "Пушистик и стая · справка",
+    "title": "Пушистик · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/creatures/friki/",
+    "page": "creatures/friki/",
+    "title": "Фрики",
+    "variantCodes": [
+      "push007",
+      "frik001",
+      "frik002",
+      "frik003",
+      "frik004",
+      "frik005",
+      "frik006",
+      "frik007"
+    ]
+  },
+  {
+    "term": "Alive/World/creatures/friki/reference",
+    "page": "creatures/friki/reference.html",
+    "title": "Фрики · справка",
     "variantCodes": []
   },
   {

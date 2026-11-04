@@ -1624,17 +1624,16 @@
     },
     {
       "id": "push",
-      "title": "Пушистик и стая",
+      "title": "Пушистик",
       "group": "life",
       "path": "creatures/pushistik",
       "cover": "push001",
       "default_series": "current",
-      "summary": "6 вариантов Пушистика и 5 сцен",
+      "summary": "6 вариантов детёныша и сцена с Таис",
       "task_ids": [
         "character-concepts"
       ],
       "source_pages": [
-        389,
         516,
         520,
         521,
@@ -1650,16 +1649,40 @@
         "push004",
         "push005",
         "push006",
-        "push007",
-        "push008",
-        "push009",
-        "push010",
-        "push011"
+        "push009"
+      ]
+    },
+    {
+      "id": "friki",
+      "title": "Фрики",
+      "group": "life",
+      "path": "creatures/friki",
+      "cover": "frik001",
+      "default_series": "current",
+      "summary": "8 кадров · взрослые особи стаи",
+      "task_ids": [
+        "character-concepts"
       ],
-      "variant_notes": {
-        "push010": "Одобрено для публикации",
-        "push011": "Одобрено для публикации"
-      }
+      "source_pages": [
+        355,
+        380,
+        389,
+        471,
+        520
+      ],
+      "evidence": "Роман",
+      "source_summary": "Эмма видит выступающие рёбра под редкой шерстью, округлые головы, чуть выдвинутые челюсти и большие уши. У особей стаи длинные цепкие пальцы. Таис называет найденного зверька детёнышем фриков.",
+      "source_note": "Типажи и постановочные сцены для обсуждения.",
+      "gallery_order": [
+        "frik001",
+        "frik002",
+        "frik003",
+        "frik004",
+        "frik005",
+        "frik006",
+        "frik007",
+        "push007"
+      ]
     }
   ],
   "derivatives": [

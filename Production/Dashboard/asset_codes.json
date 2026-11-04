@@ -33,7 +33,8 @@
     "donteacher": 2,
     "alc": 23,
     "kir": 7,
-    "push": 12
+    "push": 12,
+    "frik": 8
   },
   "assets": [
     {
@@ -8679,16 +8680,17 @@
     },
     {
       "code": "push007",
-      "object": "push",
+      "object": "friki",
       "caption": "Взрослая особь и детёныш",
-      "source_file": "docs/World/creatures/pushistik/images/push007.webp",
-      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
-      "sha256": "ed2163e3bd4af9ee951d18baae06a9a37fa2df1ddfb0176828acb940a408031a",
+      "source_file": "docs/World/creatures/friki/images/push007.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "875511fca4da4d855fbf1a2299b98f55eff07682b19aa59e1f5ed2df9d9be78a",
       "aliases": [
+        "docs/World/creatures/friki/images/push007.webp",
         "docs/World/creatures/pushistik/images/push007.webp"
       ],
       "galleries": [
-        "World/creatures/pushistik"
+        "World/creatures/friki"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -8697,29 +8699,10 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
-    },
-    {
-      "code": "push008",
-      "object": "push",
-      "caption": "Встреча с Доном",
-      "source_file": "docs/World/creatures/pushistik/images/push008.webp",
-      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
-      "sha256": "5014faaa2b5925230d1792d33bb8608715a7aa2cfe8b3e00f569fb9017104be1",
-      "aliases": [
-        "docs/World/creatures/pushistik/images/push008.webp"
-      ],
-      "galleries": [
-        "World/creatures/pushistik"
-      ],
-      "kind": "appearance",
-      "status": "candidate",
-      "renditions": [],
-      "task_ids": [
-        "character-concepts"
-      ],
-      "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "push"
+      ]
     },
     {
       "code": "push009",
@@ -8859,17 +8842,17 @@
       "visibility": "active"
     },
     {
-      "code": "push010",
-      "object": "push",
-      "caption": "Рывок через порог",
-      "source_file": "docs/World/creatures/pushistik/images/push010.webp",
-      "source_commit": "b1d7e8a7614a406ab7f6e5d562efe3b3c8be5f84",
-      "sha256": "51f036685dba872ca472f18ddc3b981b04235788905f831ae1a0472f99876f7d",
+      "code": "frik001",
+      "object": "friki",
+      "caption": "Выступающие лопатки",
+      "source_file": "docs/World/creatures/friki/images/frik001.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "2e2869156ba07222ee89f91b65db9f400fd42a678ace3f24255bbebdc25d3453",
       "aliases": [
-        "docs/World/creatures/pushistik/images/push010.webp"
+        "docs/World/creatures/friki/images/frik001.webp"
       ],
       "galleries": [
-        "World/creatures/pushistik"
+        "World/creatures/friki"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -8881,17 +8864,127 @@
       "visibility": "active"
     },
     {
-      "code": "push011",
-      "object": "push",
-      "caption": "Бросок с опорой на ладонь",
-      "source_file": "docs/World/creatures/pushistik/images/push011.webp",
-      "source_commit": "b1d7e8a7614a406ab7f6e5d562efe3b3c8be5f84",
-      "sha256": "d99da10d9740dafcacf4a3ba2c186512ee51bff6e77551a3e9758d40c452b846",
+      "code": "frik002",
+      "object": "friki",
+      "caption": "Рывок в машинном отсеке",
+      "source_file": "docs/World/creatures/friki/images/frik002.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "ccc584b8e1b80c7572c4a83d243622f28b08f1f7dde4a08f46b65a5d42c284c9",
       "aliases": [
-        "docs/World/creatures/pushistik/images/push011.webp"
+        "docs/World/creatures/friki/images/frik002.webp"
       ],
       "galleries": [
-        "World/creatures/pushistik"
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik003",
+      "object": "friki",
+      "caption": "В насосной",
+      "source_file": "docs/World/creatures/friki/images/frik003.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "e489eb7101b56cf00e12af93980bc2f87eb679bed1c55c4f9171fca782f16369",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik003.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik004",
+      "object": "friki",
+      "caption": "Белёсая шерсть",
+      "source_file": "docs/World/creatures/friki/images/frik004.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "03d5818542e0ee5fec04091885a2934cc3d4b5517aa6c3f9f154a4ca82d05115",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik004.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik005",
+      "object": "friki",
+      "caption": "На лестнице",
+      "source_file": "docs/World/creatures/friki/images/frik005.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "7267f61d8031ffd04ad31ad6dc30d528e71bad1086552b2aff1d369cf410e57c",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik005.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik006",
+      "object": "friki",
+      "caption": "Под платформой",
+      "source_file": "docs/World/creatures/friki/images/frik006.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "ffd34ca0457057e27b1ce14f748ade1affdcbaf398c6d021b4523fb46d2f59d8",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik006.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik007",
+      "object": "friki",
+      "caption": "У порога",
+      "source_file": "docs/World/creatures/friki/images/frik007.webp",
+      "source_commit": "aa2eea0b289741bd938af67185eae00746e4087d",
+      "sha256": "442bd6ed70fd34371f81ee2a9c5272a1f2e1ca93743f3529e554ae18ef5d6f79",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik007.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -8943,6 +9036,9 @@
     "valek015",
     "valek016",
     "valek017",
-    "martin012"
+    "martin012",
+    "push008",
+    "push010",
+    "push011"
   ]
 }
