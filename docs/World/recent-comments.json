@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:50:02.285991+00:00",
+  "generatedAt": "2026-11-04T09:51:30.865264+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ_Ap",
+      "page": "robots/martin/",
+      "title": "Мартин",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-04T09:51:12Z",
+      "excerpt": "martin018, martin019, martin014, martin016 и martin011 - спасибо. Пока в резерв)",
+      "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19394601"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ_AT",
       "page": "characters/tais/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-04T09:40:00Z",
       "excerpt": "push007 и взрослая особь и малыш клевые. Клыки только пока не сильно вышли",
       "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394423"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ-9t",
-      "page": "creatures/pushistik/",
-      "title": "Пушистик и стая",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:39:12Z",
-      "excerpt": "и push009. но он больше на лису вроде похож)",
-      "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394413"
     }
   ],
   "discussionNumbers": {
+    "robots/martin/": 61,
     "characters/tais/": 56,
     "characters/emma/": 57,
     "creatures/pushistik/": 169,
@@ -57,7 +58,6 @@
     "robots/lon/": 44,
     "styles/alc-04/": 165,
     "styles/alc-05/": 167,
-    "robots/martin/": 61,
     "locations/main-square/": 125,
     "characters/sonya/": 145,
     "robots/don15/": 53,
@@ -269,10 +269,10 @@
       "last": null
     },
     "robots/martin/": {
-      "messageCount": 15,
+      "messageCount": 16,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-02T12:40:28Z"
+        "createdAt": "2026-11-04T09:51:12Z"
       }
     },
     "robots/martin/reference.html": {
