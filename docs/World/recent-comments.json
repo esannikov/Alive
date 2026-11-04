@@ -1,7 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:40:29.571915+00:00",
+  "generatedAt": "2026-11-04T09:49:01.745364+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ_AA",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-04T09:48:40Z",
+      "excerpt": "emma009 и emma010 еще плюс по одному голосу",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19394560"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BJ-_o",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-04T09:47:15Z",
+      "excerpt": "emma007, emma001, emma002 и emma008 пока идут в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19394536"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ-93",
       "page": "creatures/pushistik/",
@@ -28,27 +46,10 @@
       "createdAt": "2026-11-04T09:38:21Z",
       "excerpt": "push001 конечно клевый",
       "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394396"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ-9S",
-      "page": "creatures/pushistik/",
-      "title": "Пушистик и стая",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:37:32Z",
-      "excerpt": "голосовалка опять не работает что-то",
-      "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394386"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ-9J",
-      "page": "creatures/pushistik/",
-      "title": "Пушистик и стая",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:36:58Z",
-      "excerpt": "на пушистиках я пропала) класс какой. Их надо наверное только грязновато-серыми делать. они ж подвальные у нас крысы)",
-      "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394377"
     }
   ],
   "discussionNumbers": {
+    "characters/emma/": 57,
     "creatures/pushistik/": 169,
     "styles/alc-02/": 166,
     "characters/fedor/": 52,
@@ -57,7 +58,6 @@
     "styles/alc-05/": 167,
     "characters/tais/": 56,
     "robots/martin/": 61,
-    "characters/emma/": 57,
     "locations/main-square/": 125,
     "characters/sonya/": 145,
     "robots/don15/": 53,
@@ -94,10 +94,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 10,
+      "messageCount": 12,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-02T09:27:03Z"
+        "createdAt": "2026-11-04T09:48:40Z"
       }
     },
     "characters/emma/reference.html": {
