@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:33:04.460157+00:00",
+  "generatedAt": "2026-11-04T09:37:14.066136+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ-9J",
+      "page": "creatures/pushistik/",
+      "title": "Пушистик и стая",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-04T09:36:58Z",
+      "excerpt": "на пушистиках я пропала) класс какой. Их надо наверное только грязновато-серыми делать. они ж подвальные у нас крысы)",
+      "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394377"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ-7x",
       "page": "styles/alc-02/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-03T10:00:59Z",
       "excerpt": "я вот на него смотрю и думаю - fedor032. может его таки на Кольку?",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19371121"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ5KV",
-      "page": "styles/alc-04/",
-      "title": "Цветной вебтун в три такта",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-03T09:36:22Z",
-      "excerpt": "я вот еще смотрю на зверюшек этих наших и таки думаю, что их надо больше в животных, Щас они как люди немного первобытные. Я понимаю, что это не тут нужно обсуждать, тут мы смотрим другое. Я просто пока помню пишу. Оно тоже прикольно работает, но наверное э…",
-      "url": "https://github.com/esannikov/Alive/discussions/165#discussioncomment-19370645"
     }
   ],
   "discussionNumbers": {
+    "creatures/pushistik/": 169,
     "styles/alc-02/": 166,
     "characters/fedor/": 52,
     "robots/lon/": 44,
@@ -390,8 +391,11 @@
       "last": null
     },
     "creatures/pushistik/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-04T09:36:58Z"
+      }
     },
     "creatures/pushistik/reference.html": {
       "messageCount": 0,
