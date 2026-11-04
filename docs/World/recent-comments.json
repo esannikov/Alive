@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:37:50.431299+00:00",
+  "generatedAt": "2026-11-04T09:38:40.212253+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ-9c",
+      "page": "creatures/pushistik/",
+      "title": "Пушистик и стая",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-04T09:38:21Z",
+      "excerpt": "push001 конечно клевый",
+      "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394396"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ-9S",
       "page": "creatures/pushistik/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-03T13:35:36Z",
       "excerpt": "победил у нас Федор - fedor031. он же fedor009. все остальные отпускаются. fedor023 пробуется на Кольку",
       "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19374980"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ5SS",
-      "page": "robots/lon/",
-      "title": "Лон",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-03T10:02:17Z",
-      "excerpt": "очень)",
-      "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19371154"
     }
   ],
   "discussionNumbers": {
@@ -391,10 +391,10 @@
       "last": null
     },
     "creatures/pushistik/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-04T09:37:32Z"
+        "createdAt": "2026-11-04T09:38:21Z"
       }
     },
     "creatures/pushistik/reference.html": {
