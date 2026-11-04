@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:39:33.647031+00:00",
+  "generatedAt": "2026-11-04T09:40:29.571915+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BJ-93",
+      "page": "creatures/pushistik/",
+      "title": "Пушистик и стая",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-04T09:40:00Z",
+      "excerpt": "push007 и взрослая особь и малыш клевые. Клыки только пока не сильно вышли",
+      "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394423"
+    },
     {
       "id": "DC_kwDOVCLQyc4BJ-9t",
       "page": "creatures/pushistik/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-04T09:36:58Z",
       "excerpt": "на пушистиках я пропала) класс какой. Их надо наверное только грязновато-серыми делать. они ж подвальные у нас крысы)",
       "url": "https://github.com/esannikov/Alive/discussions/169#discussioncomment-19394377"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ-7x",
-      "page": "styles/alc-02/",
-      "title": "Цветная боевая манга с кистевым контуром",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:32:37Z",
-      "excerpt": "показала еще КН - тут (фото 005-008) очень классная стилистика!",
-      "url": "https://github.com/esannikov/Alive/discussions/166#discussioncomment-19394289"
     }
   ],
   "discussionNumbers": {
@@ -391,10 +391,10 @@
       "last": null
     },
     "creatures/pushistik/": {
-      "messageCount": 4,
+      "messageCount": 5,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-04T09:39:12Z"
+        "createdAt": "2026-11-04T09:40:00Z"
       }
     },
     "creatures/pushistik/reference.html": {
