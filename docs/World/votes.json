@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:20:39.407479+00:00",
+  "generatedAt": "2026-11-04T22:41:49.291297+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1376,6 +1376,97 @@
       "automaticRemoval": false
     },
     "fedor032": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik006": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik007": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -3093,17 +3184,27 @@
       "automaticRemoval": false
     },
     "push001": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-04T09:37:23Z",
+          "reactionId": "REA_lAXOVCLQyc4Aqz3KzgAtA7s"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 171,
+      "url": "https://github.com/esannikov/Alive/discussions/171"
     },
     "push002": {
       "votes": [],
@@ -3116,20 +3217,32 @@
         "against": 0
       },
       "status": "unvoted",
-      "automaticRemoval": false
+      "automaticRemoval": false,
+      "discussionNumber": 172,
+      "url": "https://github.com/esannikov/Alive/discussions/172"
     },
     "push003": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-04T09:37:05Z",
+          "reactionId": "REA_lAXOVCLQyc4Aqz3IzgAtA7g"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 170,
+      "url": "https://github.com/esannikov/Alive/discussions/170"
     },
     "push004": {
       "votes": [],
@@ -3171,19 +3284,6 @@
       "automaticRemoval": false
     },
     "push007": {
-      "votes": [],
-      "scores": {
-        "for": 0,
-        "against": 0
-      },
-      "people": {
-        "for": 0,
-        "against": 0
-      },
-      "status": "unvoted",
-      "automaticRemoval": false
-    },
-    "push008": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -4541,5 +4641,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-04T09"
+  "refreshSlot": "2026-11-04T21"
 }
