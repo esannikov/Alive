@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-04",
   "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
   "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
   "statusMeaning": {
@@ -485,6 +485,97 @@
         "scope": "Открыть PR и обновить сайт подготовленным пакетом Мартина",
         "confirmed": true
       }
+    },
+    {
+      "id": "nov04-1",
+      "request": "Выбор Федора и проба Кольки",
+      "assetCodes": [
+        "fedor031",
+        "fedor009",
+        "kolka010"
+      ],
+      "sourceCommentIds": [
+        "19374980"
+      ],
+      "status": "implemented",
+      "designAcceptance": "fedor031_selected"
+    },
+    {
+      "id": "nov04-2",
+      "request": "Пять лиц Таис и шрам",
+      "assetCodes": [
+        "tais051",
+        "tais009",
+        "tais047",
+        "tais049",
+        "tais001",
+        "tais052",
+        "tais052"
+      ],
+      "sourceCommentIds": [
+        "19351040"
+      ],
+      "status": "implemented",
+      "designAcceptance": "new_studies_for_review"
+    },
+    {
+      "id": "nov04-3",
+      "request": "Седой Мартин, брюки и механические суставы",
+      "assetCodes": [
+        "martin009",
+        "martin010",
+        "martin015",
+        "martin020"
+      ],
+      "sourceCommentIds": [
+        "19350931"
+      ],
+      "status": "implemented",
+      "designAcceptance": "new_studies_for_review"
+    },
+    {
+      "id": "nov04-4",
+      "request": "Розовый шейный платок Лона",
+      "assetCodes": [
+        "lon013"
+      ],
+      "sourceCommentIds": [
+        "19331764"
+      ],
+      "status": "implemented",
+      "designAcceptance": "new_studies_for_review"
+    },
+    {
+      "id": "nov04-5",
+      "request": "Вышитый номер Эммы, условные цифры для пробы",
+      "assetCodes": [
+        "emma011"
+      ],
+      "sourceCommentIds": [
+        "19347273"
+      ],
+      "status": "implemented",
+      "designAcceptance": "new_studies_for_review"
+    },
+    {
+      "id": "nov04-6",
+      "request": "Пушистик и переработка взрослой стаи",
+      "assetCodes": [
+        "push001",
+        "push002",
+        "push003",
+        "push004",
+        "push005",
+        "push006",
+        "push007",
+        "push008",
+        "push009"
+      ],
+      "sourceCommentIds": [
+        "19370645"
+      ],
+      "status": "implemented",
+      "designAcceptance": "new_studies_for_review"
     }
   ],
   "previouslyCompleted": [
@@ -603,7 +694,7 @@
       "by": [
         "ElenaAlive"
       ],
-      "status": "disputed_preserved"
+      "status": "superseded_2026-11-03"
     },
     {
       "object": "fedor",
@@ -613,7 +704,7 @@
       "by": [
         "isto3110-ship-it"
       ],
-      "status": "preferred_not_final"
+      "status": "superseded_2026-11-03"
     },
     {
       "object": "moag",

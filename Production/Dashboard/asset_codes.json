@@ -10,14 +10,14 @@
     "Future prefixes are unique per object."
   ],
   "next_numbers": {
-    "tais": 52,
+    "tais": 53,
     "fedor": 33,
     "moag": 47,
-    "emma": 11,
-    "kolka": 10,
-    "lon": 13,
+    "emma": 12,
+    "kolka": 11,
+    "lon": 14,
     "don": 31,
-    "martin": 20,
+    "martin": 21,
     "valek": 21,
     "nitka": 14,
     "masha": 8,
@@ -31,7 +31,9 @@
     "vovik": 7,
     "square": 6,
     "donteacher": 2,
-    "alc": 23
+    "alc": 23,
+    "kir": 7,
+    "push": 10
   },
   "assets": [
     {
@@ -221,7 +223,7 @@
     },
     {
       "code": "tais006",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Усиленная версия: Ромбовидное лицо",
       "sha256": "8de67092561be439ead9805d06e95d070a1b7b778b8b7315e4c43a5a20e1830d",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
@@ -242,7 +244,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
+      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026.",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais007",
@@ -2398,7 +2403,7 @@
     },
     {
       "code": "fedor017",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "Квадратное лицо",
       "sha256": "624bf47e2874710863b1dbdc22892c454875feee8c32634a47d1c6fa996941a5",
       "source_commit": "efb7002340ffd632a60bcddb8c513e5e24c7a8ec",
@@ -2419,7 +2424,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен для дополнительной пробы с переданным референсом. По последующему поручению пользователя 24.10.2026 созданы fedor021–fedor023; исходный fedor017 сохранён для сравнения."
+      "producer_review_note": "Оставлен для дополнительной пробы с переданным референсом. По последующему поручению пользователя 24.10.2026 созданы fedor021–fedor023; исходный fedor017 сохранён для сравнения.",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor018",
@@ -3754,7 +3762,7 @@
     },
     {
       "code": "fedor021",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "Конрад · мягкое смешение",
       "sha256": "5da3a2b4ab0d6fe73fa9d8dad311075d8a0bc1c3202f292aeab581d63486ad78",
       "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
@@ -3774,7 +3782,10 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor022",
@@ -3818,7 +3829,7 @@
     },
     {
       "code": "fedor023",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "Конрад · выраженное смешение",
       "sha256": "23c3fc0900ffb8be229919adec1bd4cbc6bb69e761e588be940f772898ec43db",
       "source_commit": "23ad0355406487a52b880ba5541101c9662e72da",
@@ -3838,7 +3849,10 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "don014",
@@ -5554,7 +5568,7 @@
     },
     {
       "code": "fedor024",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "После fedor021 · уточнённые черты",
       "sha256": "8fb821df8ed1dd268ea488a252745967713a07e9fb054ccc39dc03ac7d5343d6",
       "source_commit": "a7435d25f8dbbd96bec7f2531ddcae6e4573a98e",
@@ -5574,11 +5588,14 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor025",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "После fedor023 · уточнённые черты",
       "sha256": "24fabe4f1c01168bb623bee2328db9bacceae9c881a970fc8d2c697fc1b32bcb",
       "source_commit": "a7435d25f8dbbd96bec7f2531ddcae6e4573a98e",
@@ -5598,7 +5615,10 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor026",
@@ -6486,7 +6506,7 @@
     },
     {
       "code": "fedor027",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "Оригинальность + реализм · Внимательный взгляд",
       "sha256": "db8aa913abe8ce6449ffa902d5b203b8184cc0a048b1572304fd154150d44cfe",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
@@ -6508,11 +6528,14 @@
         "states"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor028",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "Оригинальность + реализм · Прямые черты",
       "sha256": "59a109e5a62a740de3283243a346e65dfccf3072ee3b696b55228a98b23fc661",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
@@ -6539,11 +6562,14 @@
       "visibility": "active",
       "additional_objects": [
         "kolka"
+      ],
+      "previous_objects": [
+        "fedor"
       ]
     },
     {
       "code": "fedor029",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "Оригинальность + реализм · Спокойный взгляд",
       "sha256": "1f26422541767d97aa0d8b01db4c5d8e030734addcbb309e7fa38192306123f7",
       "source_commit": "6c2ddce1919dcf083bd1be445d620e282727d300",
@@ -6565,7 +6591,10 @@
         "states"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "fedor030",
@@ -6685,7 +6714,7 @@
     },
     {
       "code": "martin009",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "Воспитатель · рабочий халат",
       "sha256": "6c1738ef913868c1a504b73984ab21c34da1f9d77e8b56511a5cdcdf62a12588",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6704,11 +6733,14 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "martin010",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "Воспитатель · геометричный халат",
       "sha256": "ab1307222a72309af90d7d982bbbbbaed2e54b1aa6d216b157491741ef0f837d",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6727,7 +6759,10 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ]
     },
     {
       "code": "nitka012",
@@ -6910,7 +6945,7 @@
     },
     {
       "code": "tais045",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Широкая повязка · мягкая чёрная",
       "sha256": "b414d445770ea367bebe440c07d73b1ba343db3df41f013e05e1c06a9524c6f5",
       "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
@@ -6930,11 +6965,14 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais046",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Широкая повязка · графитовая",
       "sha256": "0074b3a2abeab4119936729940506c050d7dd0eb7496743269a6115f4ccf59d6",
       "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
@@ -6954,7 +6992,10 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais047",
@@ -7530,7 +7571,7 @@
     },
     {
       "code": "tais048",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Открытое лицо · мягкая чёрная повязка",
       "sha256": "f6b5d093673bdca0179aed0dded7de913ce7911bfb129dd891accce1c7ff8c3b",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7549,7 +7590,10 @@
         "tais"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais049",
@@ -7576,7 +7620,7 @@
     },
     {
       "code": "tais050",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Открытое лицо · чёрно-белая повязка",
       "sha256": "052703cd95bbe446e0e66993902323373583a2c9bf4391e5429448d838b6a0e9",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7595,7 +7639,10 @@
         "tais"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais051",
@@ -7715,7 +7762,7 @@
     },
     {
       "code": "fedor032",
-      "object": "fedor",
+      "object": "base-girls",
       "caption": "От fedor021 · внимание и решимость",
       "sha256": "1b98ac3f04e31748bb9ce03da2393e552730da2924467d6d585dcd29c6af2cf9",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7734,7 +7781,10 @@
         "fedor"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "fedor"
+      ]
     },
     {
       "code": "martin014",
@@ -8359,6 +8409,451 @@
       "renditions": [],
       "task_ids": [
         "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kir001",
+      "object": "kir",
+      "caption": "Светлые брови",
+      "source_file": "docs/World/characters/kir/images/kir001.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "5a4306e850010d63325ec207cf429f21c374d46b8332c99b2c563e52966e7e5d",
+      "aliases": [
+        "docs/World/characters/kir/images/kir001.webp"
+      ],
+      "galleries": [
+        "World/characters/kir"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kir002",
+      "object": "kir",
+      "caption": "Медовые кудри",
+      "source_file": "docs/World/characters/kir/images/kir002.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "3fd8b0d50c71da3a8a3d1055010e9da7b71d39e78ba756b070bba5d19179ec78",
+      "aliases": [
+        "docs/World/characters/kir/images/kir002.webp"
+      ],
+      "galleries": [
+        "World/characters/kir"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kir003",
+      "object": "kir",
+      "caption": "Чёлка и веснушки",
+      "source_file": "docs/World/characters/kir/images/kir003.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "88b9f02d1035a24e81e09ab65459d84bb9ae3dc1b7a0970a4b1d632b8088352a",
+      "aliases": [
+        "docs/World/characters/kir/images/kir003.webp"
+      ],
+      "galleries": [
+        "World/characters/kir"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kir004",
+      "object": "kir",
+      "caption": "Короткая стрижка",
+      "source_file": "docs/World/characters/kir/images/kir004.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "ad9674885f9581f0245c4454eaddf69f24ac038799b5f69cb048781c688a9671",
+      "aliases": [
+        "docs/World/characters/kir/images/kir004.webp"
+      ],
+      "galleries": [
+        "World/characters/kir"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kir005",
+      "object": "kir",
+      "caption": "Волосы набок",
+      "source_file": "docs/World/characters/kir/images/kir005.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "79831c4225496f353d52be19df26c3b51780cf68cc4f6bd114c2c2b19c63b490",
+      "aliases": [
+        "docs/World/characters/kir/images/kir005.webp"
+      ],
+      "galleries": [
+        "World/characters/kir"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kir006",
+      "object": "kir",
+      "caption": "Широкие скулы",
+      "source_file": "docs/World/characters/kir/images/kir006.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "989124fe0f0624afb4ae0ec1756fd3c5ee6e7496129e8b370a841b4602c07642",
+      "aliases": [
+        "docs/World/characters/kir/images/kir006.webp"
+      ],
+      "galleries": [
+        "World/characters/kir"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push001",
+      "object": "push",
+      "caption": "Короткая мордочка",
+      "source_file": "docs/World/creatures/pushistik/images/push001.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "2b36ae28f7e73daa1a8bc83b02bbf9884108d5ff1f559661c97c61bfbb99cdef",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push001.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push002",
+      "object": "push",
+      "caption": "Узкие скулы",
+      "source_file": "docs/World/creatures/pushistik/images/push002.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "c8681057fa26a080ab119ced045ed7f388af353687f874ea12dc149f607b8a7d",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push002.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push003",
+      "object": "push",
+      "caption": "Длинные передние лапы",
+      "source_file": "docs/World/creatures/pushistik/images/push003.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "4097c1b5f4519ed6ca99b03e9147b2f1fe6c2120557232e1b87b8cccc6f5a2fa",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push003.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push004",
+      "object": "push",
+      "caption": "Жёсткий остевой волос",
+      "source_file": "docs/World/creatures/pushistik/images/push004.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "b9704295b3f9b0679043450d026698d1dfb999363a1997dcfb0758ef10f735db",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push004.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push005",
+      "object": "push",
+      "caption": "Круглые ушки",
+      "source_file": "docs/World/creatures/pushistik/images/push005.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "848b981d29ed3bc0e9c08fe6cb73a931088855edd500935aa34e88af0fd0d318",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push005.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push006",
+      "object": "push",
+      "caption": "Острые уши",
+      "source_file": "docs/World/creatures/pushistik/images/push006.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "3dbdd0d061da2ce8bc907d6bebf6976982e6340d91216a83968ea276d7e52011",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push006.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push007",
+      "object": "push",
+      "caption": "Взрослая особь и детёныш",
+      "source_file": "docs/World/creatures/pushistik/images/push007.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "ed2163e3bd4af9ee951d18baae06a9a37fa2df1ddfb0176828acb940a408031a",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push007.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push008",
+      "object": "push",
+      "caption": "Встреча с Доном",
+      "source_file": "docs/World/creatures/pushistik/images/push008.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "5014faaa2b5925230d1792d33bb8608715a7aa2cfe8b3e00f569fb9017104be1",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push008.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "push009",
+      "object": "push",
+      "caption": "Таис кормит Пушистика",
+      "source_file": "docs/World/creatures/pushistik/images/push009.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "38f6d206760f91fb276f989e9ab727d51e7f2c5bc9216d9dbecf79b5f32e1631",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push009.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "martin020",
+      "object": "martin",
+      "caption": "Мартин в яслях",
+      "source_file": "docs/World/robots/martin/images/martin020.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "ac8330da419cb740cf3e96c104009c7501ab3748801dd3e8e2aea1deec378033",
+      "aliases": [
+        "docs/World/robots/martin/images/martin020.webp"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "lon013",
+      "object": "lon",
+      "caption": "Шейный платок Лона",
+      "source_file": "docs/World/robots/lon/images/lon013.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "c2fecf9b9293423b85bdaf86d30403a0ee091b7e89307d1a5c6dac25672c9fbe",
+      "aliases": [
+        "docs/World/robots/lon/images/lon013.webp"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "emma011",
+      "object": "emma",
+      "caption": "Вышивка номера на блузке и манжете",
+      "source_file": "docs/World/characters/emma/images/emma011.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "8ebe110e7a0556822f334685d9d59da3d670f825184250c00c655da2a62f5173",
+      "aliases": [
+        "docs/World/characters/emma/images/emma011.webp"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "tais052",
+      "object": "tais",
+      "caption": "Проба со шрамом на брови",
+      "source_file": "docs/World/characters/tais/images/tais052.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "e012c3b45ad1880053eea107a43be544f914331fb346cdd0a5e7f06f13bd76f4",
+      "aliases": [
+        "docs/World/characters/tais/images/tais052.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "kolka010",
+      "object": "kolka",
+      "caption": "Колючий · проба лица fedor023",
+      "source_file": "docs/World/characters/kolka/images/kolka010.webp",
+      "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+      "sha256": "fe1605663ca2780eb72c1ba31e2b972c308cae20db90d664c955fb0be0f45a7d",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka010.webp"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
       ],
       "series": "current",
       "visibility": "active"

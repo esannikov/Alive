@@ -23,15 +23,11 @@
     "title": "Таис",
     "variantCodes": [
       "tais001",
-      "tais006",
       "tais009",
-      "tais045",
-      "tais046",
       "tais047",
-      "tais048",
       "tais049",
-      "tais050",
-      "tais051"
+      "tais051",
+      "tais052"
     ]
   },
   {
@@ -52,7 +48,8 @@
       "emma007",
       "emma008",
       "emma009",
-      "emma010"
+      "emma010",
+      "emma011"
     ]
   },
   {
@@ -67,16 +64,7 @@
     "title": "Федор",
     "variantCodes": [
       "fedor009",
-      "fedor017",
-      "fedor021",
-      "fedor023",
-      "fedor024",
-      "fedor025",
-      "fedor027",
-      "fedor028",
-      "fedor029",
-      "fedor031",
-      "fedor032"
+      "fedor031"
     ]
   },
   {
@@ -94,7 +82,8 @@
       "fedor028",
       "kolka007",
       "kolka008",
-      "kolka009"
+      "kolka009",
+      "kolka010"
     ]
   },
   {
@@ -320,7 +309,8 @@
       "lon009",
       "lon010",
       "lon011",
-      "lon012"
+      "lon012",
+      "lon013"
     ]
   },
   {
@@ -359,7 +349,9 @@
     "page": "robots/reserve/",
     "title": "Роботы · резерв",
     "variantCodes": [
-      "don003"
+      "don003",
+      "martin009",
+      "martin010"
     ]
   },
   {
@@ -373,8 +365,6 @@
     "page": "robots/martin/",
     "title": "Мартин",
     "variantCodes": [
-      "martin009",
-      "martin010",
       "martin011",
       "martin013",
       "martin014",
@@ -383,7 +373,8 @@
       "martin017",
       "martin018",
       "martin019",
-      "alc011"
+      "alc011",
+      "martin020"
     ]
   },
   {
@@ -496,6 +487,7 @@
       "tais003",
       "tais004",
       "tais005",
+      "tais006",
       "tais007",
       "tais008",
       "tais010",
@@ -546,6 +538,7 @@
       "fedor014",
       "fedor015",
       "fedor016",
+      "fedor017",
       "fedor018",
       "fedor019",
       "fedor020",
@@ -556,7 +549,9 @@
       "kolka004",
       "kolka005",
       "kolka006",
+      "fedor021",
       "fedor022",
+      "fedor023",
       "valek001",
       "valek007",
       "valek002",
@@ -579,9 +574,19 @@
       "masha004",
       "masha005",
       "valek013",
+      "fedor024",
+      "fedor025",
       "fedor026",
+      "fedor027",
+      "fedor028",
+      "fedor029",
       "fedor030",
-      "valek020"
+      "valek020",
+      "tais045",
+      "tais046",
+      "tais048",
+      "tais050",
+      "fedor032"
     ]
   },
   {
@@ -688,6 +693,47 @@
     "term": "Alive/World/styles/alc-09/reference",
     "page": "styles/alc-09/reference.html",
     "title": "Индустриальная фантастика японских OVA · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/kir/",
+    "page": "characters/kir/",
+    "title": "Кир",
+    "variantCodes": [
+      "kir001",
+      "kir002",
+      "kir003",
+      "kir004",
+      "kir005",
+      "kir006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/kir/reference",
+    "page": "characters/kir/reference.html",
+    "title": "Кир · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/creatures/pushistik/",
+    "page": "creatures/pushistik/",
+    "title": "Пушистик и стая",
+    "variantCodes": [
+      "push001",
+      "push002",
+      "push003",
+      "push004",
+      "push005",
+      "push006",
+      "push007",
+      "push008",
+      "push009"
+    ]
+  },
+  {
+    "term": "Alive/World/creatures/pushistik/reference",
+    "page": "creatures/pushistik/reference.html",
+    "title": "Пушистик и стая · справка",
     "variantCodes": []
   },
   {
