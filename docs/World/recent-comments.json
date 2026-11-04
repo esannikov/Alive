@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:51:30.865264+00:00",
+  "generatedAt": "2026-11-04T22:41:26.307483+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BJ_Ap",
@@ -41,7 +41,7 @@
     {
       "id": "DC_kwDOVCLQyc4BJ-93",
       "page": "creatures/pushistik/",
-      "title": "Пушистик и стая",
+      "title": "Пушистик",
       "author": "ElenaAlive",
       "createdAt": "2026-11-04T09:40:00Z",
       "excerpt": "push007 и взрослая особь и малыш клевые. Клыки только пока не сильно вышли",
@@ -398,6 +398,14 @@
       }
     },
     "creatures/pushistik/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "creatures/friki/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "creatures/friki/reference.html": {
       "messageCount": 0,
       "last": null
     },
