@@ -6595,8 +6595,7 @@
         "docs/World/characters/fedor/images/fedor028.png"
       ],
       "galleries": [
-        "World/characters/fedor",
-        "World/characters/kolka"
+        "World/characters/fedor"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6611,12 +6610,11 @@
       ],
       "series": "current",
       "visibility": "active",
-      "additional_objects": [
-        "kolka"
-      ],
+      "additional_objects": [],
       "previous_objects": [
         "fedor"
-      ]
+      ],
+      "producer_review_note": "В кастинговом резерве. Убран из подборки Кольки по уточнению пользователя: kolka028 в комментарии Лены означает fedor028."
     },
     {
       "code": "fedor029",

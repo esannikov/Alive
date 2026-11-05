@@ -742,11 +742,14 @@
     {
       "id": "kolka028-clarification",
       "request": "kolka028 в резерв",
-      "status": "needs_clarification",
+      "status": "implemented",
       "sourceCommentIds": [
         "19421450"
       ],
-      "note": "Такого кода нет. У пользователя уточнено, имеется ли в виду fedor028, показанный также у Кольки."
+      "note": "Пользователь подтвердил: убрать fedor028 из Кольки. Кадр остаётся в кастинговом резерве.",
+      "assetCodes": [
+        "fedor028"
+      ]
     },
     {
       "id": "push-dust-nov05",

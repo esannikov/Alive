@@ -121,7 +121,7 @@
       "group": "people",
       "cover": "kolka007",
       "default_series": "current",
-      "summary": "4 изображений · текущая подборка",
+      "summary": "3 изображения · текущая подборка",
       "task_ids": [
         "kolka"
       ],
@@ -143,7 +143,6 @@
       "gallery_order": [
         "kolka002",
         "kolka007",
-        "fedor028",
         "kolka010"
       ]
     },
