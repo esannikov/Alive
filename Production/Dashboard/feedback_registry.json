@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
   "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
   "statusMeaning": {
@@ -576,6 +576,217 @@
       ],
       "status": "implemented",
       "designAcceptance": "new_studies_for_review"
+    },
+    {
+      "id": "reserve-nov05-sonya",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "sonya004"
+      ],
+      "sourceCommentIds": [
+        "19421543"
+      ]
+    },
+    {
+      "id": "reserve-nov05-katya",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "katya003",
+        "katya004",
+        "katya007"
+      ],
+      "sourceCommentIds": [
+        "19421510"
+      ]
+    },
+    {
+      "id": "reserve-nov05-masha",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "masha006",
+        "masha001"
+      ],
+      "sourceCommentIds": [
+        "19421481"
+      ]
+    },
+    {
+      "id": "reserve-nov05-nitka",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "nitka005",
+        "nitka010",
+        "nitka011",
+        "nitka012"
+      ],
+      "sourceCommentIds": [
+        "19421472"
+      ]
+    },
+    {
+      "id": "reserve-nov05-kolka",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "kolka008",
+        "kolka009"
+      ],
+      "sourceCommentIds": [
+        "19421450"
+      ]
+    },
+    {
+      "id": "reserve-nov05-tais",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "tais001",
+        "tais056",
+        "tais009"
+      ],
+      "sourceCommentIds": [
+        "19421426"
+      ]
+    },
+    {
+      "id": "reserve-nov05-emma",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "emma007",
+        "emma001",
+        "emma002",
+        "emma008"
+      ],
+      "sourceCommentIds": [
+        "19394536"
+      ]
+    },
+    {
+      "id": "reserve-nov05-martin",
+      "request": "Перенос в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "martin018",
+        "martin019",
+        "martin014",
+        "martin016",
+        "martin011"
+      ],
+      "sourceCommentIds": [
+        "19394601"
+      ]
+    },
+    {
+      "id": "cover-nov05-sonya",
+      "request": "Обложка галереи",
+      "status": "implemented",
+      "assetCodes": [
+        "sonya002"
+      ],
+      "sourceCommentIds": [
+        "19421543"
+      ],
+      "note": "Последнее указание продюсера"
+    },
+    {
+      "id": "cover-nov05-ilya",
+      "request": "Обложка галереи",
+      "status": "implemented",
+      "assetCodes": [
+        "ilya004"
+      ],
+      "sourceCommentIds": [
+        "19421524"
+      ],
+      "note": "Последнее указание продюсера"
+    },
+    {
+      "id": "cover-nov05-tais",
+      "request": "Обложка галереи",
+      "status": "implemented",
+      "assetCodes": [
+        "tais059"
+      ],
+      "sourceCommentIds": [
+        "19421402"
+      ],
+      "note": "Последнее указание продюсера"
+    },
+    {
+      "id": "cover-nov05-emma",
+      "request": "Обложка галереи",
+      "status": "implemented",
+      "assetCodes": [
+        "emma005"
+      ],
+      "sourceCommentIds": [
+        "19421381"
+      ],
+      "note": "Последнее указание продюсера"
+    },
+    {
+      "id": "cover-nov05-masha",
+      "request": "Обложка галереи",
+      "status": "implemented",
+      "assetCodes": [
+        "masha007"
+      ],
+      "sourceCommentIds": [],
+      "note": "Единственный оставшийся вариант"
+    },
+    {
+      "id": "kolka028-clarification",
+      "request": "kolka028 в резерв",
+      "status": "needs_clarification",
+      "sourceCommentIds": [
+        "19421450"
+      ],
+      "note": "Такого кода нет. У пользователя уточнено, имеется ли в виду fedor028, показанный также у Кольки."
+    },
+    {
+      "id": "push-dust-nov05",
+      "request": "Грязновато-серая шерсть подвального Пушистика",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19394377"
+      ],
+      "assetCodes": [
+        "push012",
+        "push013",
+        "push014",
+        "push015",
+        "push016",
+        "push017",
+        "push018"
+      ],
+      "designAcceptance": "review_pending"
+    },
+    {
+      "id": "push-voting-nov05",
+      "request": "Проверка голосования",
+      "status": "checked_not_reproduced",
+      "sourceCommentIds": [
+        "19394386"
+      ],
+      "note": "В браузере виджет push001 загрузился, сводка показывает голос Лены ×2. Тестовый сеанс не авторизован: Giscus показывает Войдите, кнопки disabled до входа. Отправка голоса из аккаунта Лены не проверена."
+    },
+    {
+      "id": "emma-extra-preferences-nov05",
+      "request": "По одному дополнительному предпочтению emma009 и emma010",
+      "status": "recorded_preference",
+      "sourceCommentIds": [
+        "19394560"
+      ],
+      "assetCodes": [
+        "emma009",
+        "emma010"
+      ],
+      "note": "Предпочтения из текста сохранены; реакции от лица продюсера не отправлялись."
     }
   ],
   "previouslyCompleted": [

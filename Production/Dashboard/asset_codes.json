@@ -33,13 +33,13 @@
     "donteacher": 2,
     "alc": 23,
     "kir": 7,
-    "push": 12,
+    "push": 19,
     "frik": 10
   },
   "assets": [
     {
       "code": "tais001",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Усиленная версия: Узкое угловатое лицо",
       "sha256": "7623758c0e29efa8ae80d68ea4c0f5333c04d30e7ddfb50c000e7327831caef7",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
@@ -60,7 +60,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421426",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais002",
@@ -332,7 +335,7 @@
     },
     {
       "code": "tais009",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Усиленная версия: Прямоугольное лицо",
       "sha256": "7c60cd98d4dffc56c2c883997d91f4455aadc64ad7141c73e62f77da828753ee",
       "source_commit": "1040530e4ab6050b735804abdf88d6e5825f2a25",
@@ -353,7 +356,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен в подборке по отзыву продюсера, переданному пользователем 24.10.2026."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421426",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais010",
@@ -3228,7 +3234,7 @@
     },
     {
       "code": "emma001",
-      "object": "emma",
+      "object": "base-girls",
       "caption": "Чистый овал",
       "sha256": "f2b3d3893a3b063d49f1a9d28434c112ab503b485da04535c7df2ad6c486399c",
       "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
@@ -3250,11 +3256,14 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394536",
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "emma002",
-      "object": "emma",
+      "object": "base-girls",
       "caption": "Открытый взгляд",
       "sha256": "0147c9b400749eebf6b25bcdf6caaab593888cc450b87db9eaf168870dbed6cf",
       "source_commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
@@ -3276,7 +3285,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394536",
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "emma003",
@@ -4808,7 +4820,7 @@
     },
     {
       "code": "nitka005",
-      "object": "nitka",
+      "object": "base-girls",
       "caption": "A · мягкий типаж",
       "sha256": "6f1b266f1c219cebbaa7c591911479f395d2b299f3f5c7a19f20d09c3452ccba",
       "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
@@ -4828,7 +4840,11 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derivation_kind": "framing_revision"
+      "derivation_kind": "framing_revision",
+      "previous_objects": [
+        "nitka"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421472"
     },
     {
       "code": "nitka006",
@@ -4943,7 +4959,7 @@
     },
     {
       "code": "nitka010",
-      "object": "nitka",
+      "object": "base-girls",
       "caption": "E · короткие кудри",
       "sha256": "6936cf7e349c5e1fd0df96c59cf615d3a59b48b87c2a5680033b040eba2812c8",
       "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
@@ -4962,11 +4978,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "nitka"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421472"
     },
     {
       "code": "nitka011",
-      "object": "nitka",
+      "object": "base-girls",
       "caption": "F · светлая короткая стрижка",
       "sha256": "952c5faf91fbf35a8842ff7539b7bfa4e4b7fe7b2c8d3351498bf657034af9ea",
       "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
@@ -4985,11 +5005,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "nitka"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421472"
     },
     {
       "code": "masha001",
-      "object": "masha",
+      "object": "base-girls",
       "caption": "A · мягкий овал",
       "sha256": "4f995ad82086e99e674e1ae8abbd20de44539b0577e32ebac32eb7967b6f1792",
       "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
@@ -5008,7 +5032,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "masha"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421481"
     },
     {
       "code": "masha002",
@@ -5168,7 +5196,7 @@
     },
     {
       "code": "masha006",
-      "object": "masha",
+      "object": "base-girls",
       "caption": "F · широкий мягкий типаж",
       "sha256": "ea5e2262100d13bfcba3a52641698a26ab74a23b817c76c72ed7cab1464da732",
       "source_commit": "30cb11e8897917833ffc6d66a39a028c4289a42e",
@@ -5187,7 +5215,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "masha"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421481"
     },
     {
       "code": "valek013",
@@ -5255,7 +5287,7 @@
     },
     {
       "code": "emma007",
-      "object": "emma",
+      "object": "base-girls",
       "caption": "Открытый взгляд · собранность",
       "sha256": "67886cdad99ce2a8024923973cbb9f7fc724dc5a4058f984154a3b7d349e430b",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
@@ -5277,11 +5309,14 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394536",
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "emma008",
-      "object": "emma",
+      "object": "base-girls",
       "caption": "Чистый овал · уверенность",
       "sha256": "12c81776d43c47d7274ee2e4e914ca7109de9dae6ef8814446815dd64d9de767",
       "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
@@ -5303,7 +5338,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394536",
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "don022",
@@ -5477,7 +5515,7 @@
     },
     {
       "code": "katya003",
-      "object": "katya",
+      "object": "base-girls",
       "caption": "C · широкие скулы",
       "sha256": "7e6fd187d50752d5ee44630a652e0527525f2584f6553e705267075dbb136c8b",
       "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
@@ -5496,11 +5534,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "katya"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421510"
     },
     {
       "code": "katya004",
-      "object": "katya",
+      "object": "base-girls",
       "caption": "D · выраженный нос",
       "sha256": "41d263edd888bbc9e710bc05020cd011d003ee9d2ca21c396032cb490e63e894",
       "source_commit": "e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d",
@@ -5519,7 +5561,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "katya"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421510"
     },
     {
       "code": "katya005",
@@ -5886,7 +5932,7 @@
     },
     {
       "code": "sonya004",
-      "object": "sonya",
+      "object": "base-girls",
       "caption": "D · тёплый тон и кудрявые пряди",
       "sha256": "dedc2322f1df7f107a60826edfe5a8a296f33b9f7c24226b16634766babedad5",
       "source_commit": "3c066513aeff9bc75d29ff6a8f238071448f05db",
@@ -5905,7 +5951,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "sonya"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421543"
     },
     {
       "code": "sonya005",
@@ -6767,7 +6817,7 @@
     },
     {
       "code": "nitka012",
-      "object": "nitka",
+      "object": "base-girls",
       "caption": "Вариант 010 · за шитьём",
       "sha256": "861e6a29959dd658ec0b2fb37b5db40cb4ec558f4dbfa7af39ac0e95fe8024cc",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6787,7 +6837,11 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derivation_kind": "working-pose"
+      "derivation_kind": "working-pose",
+      "previous_objects": [
+        "nitka"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421472"
     },
     {
       "code": "nitka013",
@@ -6900,7 +6954,7 @@
     },
     {
       "code": "kolka008",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Кастинговая проба · смешанные черты",
       "sha256": "588253a438adb73147509ef7a11475b707e4ce29ddd876460c32a4134b184c9b",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6919,7 +6973,11 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421450"
     },
     {
       "code": "masha007",
@@ -7480,7 +7538,7 @@
     },
     {
       "code": "kolka009",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "От fedor028 · короткие чёрные иголки",
       "sha256": "fef7c038bbffa00fdeb1737c3b6049f6b71409c7682eff75e686f979ccb0b0cf",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7499,11 +7557,15 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421450"
     },
     {
       "code": "katya007",
-      "object": "katya",
+      "object": "base-girls",
       "caption": "От katya003 · субтильность и неуверенность",
       "sha256": "25ed7496b30069a37a0d9dc030edd763020156e5d81d4e437ec68c6470f8b82c",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7522,7 +7584,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "katya"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421510"
     },
     {
       "code": "egor007",
@@ -7670,7 +7736,7 @@
     },
     {
       "code": "martin011",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "По референсу · искусственное человеческое лицо",
       "sha256": "dffe42e87e9f09a70005cb03f9b21c4e4cbe1b465cbc87fd21bc83282894fd12",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7689,7 +7755,11 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394601"
     },
     {
       "code": "martin013",
@@ -7789,7 +7859,7 @@
     },
     {
       "code": "martin014",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "Искусственная оболочка · вариант пользователя",
       "sha256": "991619e187b274af2050cb6154740dca98132d4ada1dbd4e0ad20eacdfdef885",
       "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
@@ -7808,7 +7878,11 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394601"
     },
     {
       "code": "martin015",
@@ -7835,7 +7909,7 @@
     },
     {
       "code": "martin016",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "Мартин · открытый воспитатель",
       "sha256": "4ff3c5a6f0739a56abdb80f837f1dcf23afe805d73457d27f2bb355bc36eb08e",
       "source_commit": "82d9869061057bb5514a0f303bc926f81825d85f",
@@ -7854,7 +7928,11 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394601"
     },
     {
       "code": "martin017",
@@ -7881,7 +7959,7 @@
     },
     {
       "code": "martin018",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "Ещё один кубик · martin016",
       "sha256": "8134a337f4e1926962b5c60a750f265c176d6c98310f56f94e8406c9028effd9",
       "source_commit": "67c607fa83ed549a5cef60d0d05e62125b23ffac",
@@ -7900,11 +7978,15 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394601"
     },
     {
       "code": "martin019",
-      "object": "martin",
+      "object": "robot-reserve",
       "caption": "Знакомство с новенькими · martin014",
       "sha256": "269b48fc07c10ea4f702ea5f513ae04422e69296f1c89b74f3cc54a4d0c61489",
       "source_commit": "67c607fa83ed549a5cef60d0d05e62125b23ffac",
@@ -7923,7 +8005,11 @@
         "robotfamilies"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "martin"
+      ],
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19394601"
     },
     {
       "code": "alc001",
@@ -9125,7 +9211,7 @@
     },
     {
       "code": "tais056",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Волосы под банданой",
       "source_file": "docs/World/characters/tais/images/tais056.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
@@ -9149,7 +9235,10 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "tais053",
-      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+      "producer_review_note": "Перенесён в резерв по прямому указанию ElenaAlive, комментарий 19421426",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais057",
@@ -9290,6 +9379,167 @@
       "visibility": "active",
       "derived_from": "tais053",
       "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "push012",
+      "object": "push",
+      "caption": "Короткая мордочка · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push012.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "5b79975dc04958e946975f79869fa7906851519ebb8b03babfcaf698386fb423",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push012.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push001"
+    },
+    {
+      "code": "push013",
+      "object": "push",
+      "caption": "Узкие скулы · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push013.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "fe349b3f2175b81945be5a9b9fd239f33980fdbaccc7da8c3ad340a9983c23a1",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push013.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push002"
+    },
+    {
+      "code": "push014",
+      "object": "push",
+      "caption": "Длинные передние лапы · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push014.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "c5d82587db0837a5eb4efe80a1bbcae6534cd6f8dbfd94bccc8979fa7e0209c1",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push014.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push003"
+    },
+    {
+      "code": "push015",
+      "object": "push",
+      "caption": "Жёсткий остевой волос · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push015.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "f7abbf2f1f4320f2959fd5af9f5d5acee87cc35d77fd31bd86f145e683d11e63",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push015.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push004"
+    },
+    {
+      "code": "push016",
+      "object": "push",
+      "caption": "Круглые ушки · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push016.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "76cd0393d75e401d749fd916105d3d9d92c1c0d8b77446fc85fe0deb54bd2886",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push016.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push005"
+    },
+    {
+      "code": "push017",
+      "object": "push",
+      "caption": "Острые уши · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push017.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "465978535ea22d8559c13ff174b3b161b055d55b8b13fc399aadf739ca08805d",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push017.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push006"
+    },
+    {
+      "code": "push018",
+      "object": "push",
+      "caption": "Таис кормит Пушистика · подвальная шерсть",
+      "source_file": "docs/World/creatures/pushistik/images/push018.webp",
+      "source_commit": "7b244d07bac869e96d4e260bd68cfab12c3e9b89",
+      "sha256": "510aa59ab97396ec22503f8ae5e765dac59f5bf056fc7d3c98da4f6ab995d3f7",
+      "aliases": [
+        "docs/World/creatures/pushistik/images/push018.webp"
+      ],
+      "galleries": [
+        "World/creatures/pushistik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "push009"
     }
   ],
   "deleted_codes": [

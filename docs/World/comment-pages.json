@@ -22,8 +22,6 @@
     "page": "characters/tais/",
     "title": "Таис",
     "variantCodes": [
-      "tais001",
-      "tais009",
       "tais047",
       "tais049",
       "tais051",
@@ -31,7 +29,6 @@
       "tais053",
       "tais054",
       "tais055",
-      "tais056",
       "tais057",
       "tais058",
       "tais059",
@@ -50,12 +47,8 @@
     "page": "characters/emma/",
     "title": "Эмма",
     "variantCodes": [
-      "emma001",
-      "emma002",
       "emma003",
       "emma005",
-      "emma007",
-      "emma008",
       "emma009",
       "emma010",
       "emma011"
@@ -90,8 +83,6 @@
       "kolka002",
       "fedor028",
       "kolka007",
-      "kolka008",
-      "kolka009",
       "kolka010"
     ]
   },
@@ -121,13 +112,9 @@
     "page": "characters/nitka/",
     "title": "Нитка",
     "variantCodes": [
-      "nitka005",
       "nitka007",
       "nitka008",
       "nitka009",
-      "nitka010",
-      "nitka011",
-      "nitka012",
       "nitka013"
     ]
   },
@@ -142,8 +129,6 @@
     "page": "characters/masha/",
     "title": "Маша",
     "variantCodes": [
-      "masha001",
-      "masha006",
       "masha007"
     ]
   },
@@ -160,11 +145,8 @@
     "variantCodes": [
       "katya001",
       "katya002",
-      "katya003",
-      "katya004",
       "katya005",
-      "katya006",
-      "katya007"
+      "katya006"
     ]
   },
   {
@@ -199,7 +181,6 @@
       "sonya001",
       "sonya002",
       "sonya003",
-      "sonya004",
       "sonya005",
       "sonya006"
     ]
@@ -360,7 +341,12 @@
     "variantCodes": [
       "don003",
       "martin009",
-      "martin010"
+      "martin010",
+      "martin011",
+      "martin014",
+      "martin016",
+      "martin018",
+      "martin019"
     ]
   },
   {
@@ -374,14 +360,9 @@
     "page": "robots/martin/",
     "title": "Мартин",
     "variantCodes": [
-      "martin011",
       "martin013",
-      "martin014",
       "martin015",
-      "martin016",
       "martin017",
-      "martin018",
-      "martin019",
       "alc011",
       "martin020"
     ]
@@ -492,6 +473,7 @@
     "page": "characters/base-girls/",
     "title": "Кастинговый резерв",
     "variantCodes": [
+      "tais001",
       "tais002",
       "tais003",
       "tais004",
@@ -499,6 +481,7 @@
       "tais006",
       "tais007",
       "tais008",
+      "tais009",
       "tais010",
       "tais011",
       "tais012",
@@ -551,6 +534,8 @@
       "fedor018",
       "fedor019",
       "fedor020",
+      "emma001",
+      "emma002",
       "emma004",
       "emma006",
       "kolka001",
@@ -577,25 +562,40 @@
       "nitka002",
       "nitka003",
       "nitka004",
+      "nitka005",
       "nitka006",
+      "nitka010",
+      "nitka011",
+      "masha001",
       "masha002",
       "masha003",
       "masha004",
       "masha005",
+      "masha006",
       "valek013",
+      "emma007",
+      "emma008",
+      "katya003",
+      "katya004",
       "fedor024",
       "fedor025",
       "fedor026",
+      "sonya004",
       "fedor027",
       "fedor028",
       "fedor029",
       "fedor030",
+      "nitka012",
       "valek020",
+      "kolka008",
       "tais045",
       "tais046",
+      "kolka009",
+      "katya007",
       "tais048",
       "tais050",
-      "fedor032"
+      "fedor032",
+      "tais056"
     ]
   },
   {
@@ -734,7 +734,14 @@
       "push004",
       "push005",
       "push006",
-      "push009"
+      "push009",
+      "push012",
+      "push013",
+      "push014",
+      "push015",
+      "push016",
+      "push017",
+      "push018"
     ]
   },
   {
