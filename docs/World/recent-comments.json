@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:43:24.051828+00:00",
+  "generatedAt": "2026-11-05T15:44:59.587404+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKFlG",
+      "page": "characters/katya/",
+      "title": "Катя",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:44:36Z",
+      "excerpt": "katya003, katya004, katya007 - уходят в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19421510"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKFkp",
       "page": "characters/masha/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-05T15:39:46Z",
       "excerpt": "tais001, tais056, tais009 - уходят в резерв",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19421426"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKFja",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-05T15:38:23Z",
-      "excerpt": "tais059 - можем ее на заглавную?",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19421402"
     }
   ],
   "discussionNumbers": {
+    "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/nitka/": 48,
     "characters/kolka/": 59,
@@ -68,7 +69,6 @@
     "characters/krendel/": 96,
     "characters/egor/": 95,
     "characters/ilya/": 94,
-    "characters/katya/": 67,
     "characters/valek/": 60,
     "characters/rita/": 85,
     "robots/scale/": 54
@@ -160,10 +160,10 @@
       "last": null
     },
     "characters/katya/": {
-      "messageCount": 2,
+      "messageCount": 3,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-29T13:33:06Z"
+        "createdAt": "2026-11-05T15:44:36Z"
       }
     },
     "characters/katya/reference.html": {
