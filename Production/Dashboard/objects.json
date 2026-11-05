@@ -1659,7 +1659,7 @@
       "path": "creatures/friki",
       "cover": "frik001",
       "default_series": "current",
-      "summary": "8 кадров · взрослые особи стаи",
+      "summary": "10 кадров · взрослые особи стаи",
       "task_ids": [
         "character-concepts"
       ],
@@ -1681,7 +1681,9 @@
         "frik005",
         "frik006",
         "frik007",
-        "push007"
+        "push007",
+        "frik008",
+        "frik009"
       ]
     }
   ],

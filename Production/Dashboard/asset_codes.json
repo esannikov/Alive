@@ -34,7 +34,7 @@
     "alc": 23,
     "kir": 7,
     "push": 12,
-    "frik": 8
+    "frik": 10
   },
   "assets": [
     {
@@ -8982,6 +8982,50 @@
       "sha256": "442bd6ed70fd34371f81ee2a9c5272a1f2e1ca93743f3529e554ae18ef5d6f79",
       "aliases": [
         "docs/World/creatures/friki/images/frik007.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik008",
+      "object": "friki",
+      "caption": "У технического люка",
+      "source_file": "docs/World/creatures/friki/images/frik008.webp",
+      "source_commit": "79f3d9470326c1a1b563974b7a1f69ef123c529c",
+      "sha256": "ef084991e4928807d618dea6679374240f6e93a8f50cfc77e08bba04e9c0317e",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik008.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik009",
+      "object": "friki",
+      "caption": "Низкий рывок",
+      "source_file": "docs/World/creatures/friki/images/frik009.webp",
+      "source_commit": "79f3d9470326c1a1b563974b7a1f69ef123c529c",
+      "sha256": "ccc1b1d0abd190d9e9ea8de6085d40a8bbfb1828c84f46728c3f2927d8193b94",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik009.webp"
       ],
       "galleries": [
         "World/creatures/friki"
