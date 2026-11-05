@@ -128,13 +128,54 @@
     "page": "characters/masha/",
     "title": "Маша",
     "variantCodes": [
-      "masha007"
+      "masha007",
+      "masha008"
     ]
   },
   {
     "term": "Alive/World/characters/masha/reference",
     "page": "characters/masha/reference.html",
     "title": "Маша · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/kristinka/",
+    "page": "characters/kristinka/",
+    "title": "Кристинка",
+    "variantCodes": [
+      "masha008",
+      "kristinka001",
+      "kristinka002",
+      "kristinka003",
+      "kristinka004",
+      "kristinka005",
+      "kristinka006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/kristinka/reference",
+    "page": "characters/kristinka/reference.html",
+    "title": "Кристинка · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/romik/",
+    "page": "characters/romik/",
+    "title": "Ромик",
+    "variantCodes": [
+      "masha008",
+      "romik001",
+      "romik002",
+      "romik003",
+      "romik004",
+      "romik005",
+      "romik006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/romik/reference",
+    "page": "characters/romik/reference.html",
+    "title": "Ромик · справка",
     "variantCodes": []
   },
   {
@@ -299,7 +340,9 @@
       "lon010",
       "lon011",
       "lon012",
-      "lon013"
+      "lon013",
+      "lon014",
+      "lon015"
     ]
   },
   {
@@ -363,7 +406,8 @@
       "martin015",
       "martin017",
       "alc011",
-      "martin020"
+      "martin020",
+      "martin021"
     ]
   },
   {

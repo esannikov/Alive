@@ -790,6 +790,30 @@
         "emma010"
       ],
       "note": "Предпочтения из текста сохранены; реакции от лица продюсера не отправлялись."
+    },
+    {
+      "id": "ensemble-published-nov05",
+      "request": "Публикация одобренной сцены Мартина, Лона с платком и всех проб Ромика и Кристинки",
+      "status": "implemented",
+      "assetCodes": [
+        "martin021",
+        "lon014",
+        "lon015",
+        "masha008",
+        "romik001",
+        "romik002",
+        "romik003",
+        "romik004",
+        "romik005",
+        "romik006",
+        "kristinka001",
+        "kristinka002",
+        "kristinka003",
+        "kristinka004",
+        "kristinka005",
+        "kristinka006"
+      ],
+      "note": "Общий кадр masha008 показан у Маши, Ромика и Кристинки. Последний Мартин сидит на стуле."
     }
   ],
   "previouslyCompleted": [

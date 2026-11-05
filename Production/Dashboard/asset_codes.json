@@ -15,12 +15,12 @@
     "moag": 47,
     "emma": 12,
     "kolka": 11,
-    "lon": 14,
+    "lon": 16,
     "don": 31,
-    "martin": 21,
+    "martin": 22,
     "valek": 21,
     "nitka": 14,
-    "masha": 8,
+    "masha": 9,
     "katya": 8,
     "ilya": 7,
     "sonya": 7,
@@ -34,7 +34,9 @@
     "alc": 23,
     "kir": 7,
     "push": 19,
-    "frik": 10
+    "frik": 10,
+    "romik": 7,
+    "kristinka": 7
   },
   "assets": [
     {
@@ -9538,6 +9540,397 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "push009"
+    },
+    {
+      "code": "martin021",
+      "object": "martin",
+      "caption": "Совместное чтение",
+      "source_file": "docs/World/robots/martin/images/martin021.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "ff81086adf11e6e346bc6a0f523f044f5138ec669ce2b1bddb0ff140a46bb4c4",
+      "aliases": [
+        "docs/World/robots/martin/images/martin021.webp"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "martin020"
+    },
+    {
+      "code": "lon014",
+      "object": "lon",
+      "caption": "Поймать мяч",
+      "source_file": "docs/World/robots/lon/images/lon014.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "ae6e9a2968da3b002d296ec321839ab54aa8213ed63e422dd50114d15dbab2b9",
+      "aliases": [
+        "docs/World/robots/lon/images/lon014.webp"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "lon013"
+    },
+    {
+      "code": "lon015",
+      "object": "lon",
+      "caption": "По дороге в детскую",
+      "source_file": "docs/World/robots/lon/images/lon015.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "c7e1e36c79553356c07cda767a19838e95f5488bd540d6994e2cfaec84d69d64",
+      "aliases": [
+        "docs/World/robots/lon/images/lon015.webp"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "lon013"
+    },
+    {
+      "code": "masha008",
+      "object": "masha",
+      "caption": "Готовим вместе",
+      "source_file": "docs/World/characters/masha/images/masha008.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "c19bb7e6aeeef430b5f52b1db3a70a9815763ad729c89c5d38e1f7dd68b66fc6",
+      "aliases": [
+        "docs/World/characters/masha/images/masha008.webp"
+      ],
+      "galleries": [
+        "World/characters/masha",
+        "World/characters/romik",
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "masha007",
+      "additional_objects": [
+        "romik",
+        "kristinka"
+      ],
+      "casting_references": [
+        "masha007",
+        "romik002",
+        "kristinka004"
+      ]
+    },
+    {
+      "code": "romik001",
+      "object": "romik",
+      "caption": "Светлые волосы",
+      "source_file": "docs/World/characters/romik/images/romik001.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "c1f82b9c9165507b0acee1bbe8d13010abe591630296f4b134367d3d61aac4a8",
+      "aliases": [
+        "docs/World/characters/romik/images/romik001.webp"
+      ],
+      "galleries": [
+        "World/characters/romik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "romik002",
+      "object": "romik",
+      "caption": "Тёмная короткая стрижка",
+      "source_file": "docs/World/characters/romik/images/romik002.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "72e06f82caa13242d1b874beb2a48cecdb2c5ccae3b20bce4fd6df2998ce48db",
+      "aliases": [
+        "docs/World/characters/romik/images/romik002.webp"
+      ],
+      "galleries": [
+        "World/characters/romik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "romik003",
+      "object": "romik",
+      "caption": "Волнистые волосы",
+      "source_file": "docs/World/characters/romik/images/romik003.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "82f656f6ff30cd2145d6b980f08c3790a963929f51fc64b07fa69bd71e443d68",
+      "aliases": [
+        "docs/World/characters/romik/images/romik003.webp"
+      ],
+      "galleries": [
+        "World/characters/romik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "romik004",
+      "object": "romik",
+      "caption": "Угловатое лицо",
+      "source_file": "docs/World/characters/romik/images/romik004.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "31df52c360bbc5a6381208cff8aaf4e912e379ac57d1b139b8a8503515ff7d34",
+      "aliases": [
+        "docs/World/characters/romik/images/romik004.webp"
+      ],
+      "galleries": [
+        "World/characters/romik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "romik005",
+      "object": "romik",
+      "caption": "Широкие скулы",
+      "source_file": "docs/World/characters/romik/images/romik005.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "916eeca206b34be66bbd064fa8050c9e1fe0733b644e7e80b48214798a00833b",
+      "aliases": [
+        "docs/World/characters/romik/images/romik005.webp"
+      ],
+      "galleries": [
+        "World/characters/romik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "romik006",
+      "object": "romik",
+      "caption": "Светлая чёлка",
+      "source_file": "docs/World/characters/romik/images/romik006.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "b6b6f213fc2ce72206064a706c8f7cfbcb11c02d10616dc406f2eb13d51cc399",
+      "aliases": [
+        "docs/World/characters/romik/images/romik006.webp"
+      ],
+      "galleries": [
+        "World/characters/romik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kristinka001",
+      "object": "kristinka",
+      "caption": "Тёмная коса",
+      "source_file": "docs/World/characters/kristinka/images/kristinka001.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "a60fb0fcfbb5a14bc656e008ef41181ad53cf092ae1079b5ad3f21399cec77b5",
+      "aliases": [
+        "docs/World/characters/kristinka/images/kristinka001.webp"
+      ],
+      "galleries": [
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kristinka002",
+      "object": "kristinka",
+      "caption": "Светлые волосы",
+      "source_file": "docs/World/characters/kristinka/images/kristinka002.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "d8280a01f5935fe2e0942a02141588cae0378e11f2e9d3f388f39c559e4035f5",
+      "aliases": [
+        "docs/World/characters/kristinka/images/kristinka002.webp"
+      ],
+      "galleries": [
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kristinka003",
+      "object": "kristinka",
+      "caption": "Мягкие кудри",
+      "source_file": "docs/World/characters/kristinka/images/kristinka003.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "3c808a82f08ba8f0147bb5d2af44a6037e9aa25e1fbd9a216b0414436086ce91",
+      "aliases": [
+        "docs/World/characters/kristinka/images/kristinka003.webp"
+      ],
+      "galleries": [
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kristinka004",
+      "object": "kristinka",
+      "caption": "Две светлые косы",
+      "source_file": "docs/World/characters/kristinka/images/kristinka004.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "9cfa8914ed5532f0e22f50450c284aaaf5ae7f4015c6533a60ca9103a81b7f4f",
+      "aliases": [
+        "docs/World/characters/kristinka/images/kristinka004.webp"
+      ],
+      "galleries": [
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kristinka005",
+      "object": "kristinka",
+      "caption": "Короткое каре",
+      "source_file": "docs/World/characters/kristinka/images/kristinka005.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "e938ed65d3b63911405976f7c84ca6acf9721c72e0a54b2dbea7058b7ee74740",
+      "aliases": [
+        "docs/World/characters/kristinka/images/kristinka005.webp"
+      ],
+      "galleries": [
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kristinka006",
+      "object": "kristinka",
+      "caption": "Тёмные прямые волосы",
+      "source_file": "docs/World/characters/kristinka/images/kristinka006.webp",
+      "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+      "sha256": "0973a8b7b6e8a580d88f01135b14355909ad0d9b0ab47bf44de81ee48d57acc8",
+      "aliases": [
+        "docs/World/characters/kristinka/images/kristinka006.webp"
+      ],
+      "galleries": [
+        "World/characters/kristinka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
     }
   ],
   "deleted_codes": [
