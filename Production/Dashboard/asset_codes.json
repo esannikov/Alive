@@ -10,7 +10,7 @@
     "Future prefixes are unique per object."
   ],
   "next_numbers": {
-    "tais": 53,
+    "tais": 62,
     "fedor": 33,
     "moag": 47,
     "emma": 12,
@@ -9038,6 +9038,258 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "tais053",
+      "object": "tais",
+      "caption": "Широкие скулы",
+      "source_file": "docs/World/characters/tais/images/tais053.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "2f9f84e02a02c8ee99e5daf03e3130b3d1de53246d27db70b921d3c635948db2",
+      "aliases": [
+        "docs/World/characters/tais/images/tais053.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais054",
+      "object": "tais",
+      "caption": "Угловатый типаж",
+      "source_file": "docs/World/characters/tais/images/tais054.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "1f799e22df047847f2b1f9786e720452c248f30e7397df9760ed0c6ee40731c7",
+      "aliases": [
+        "docs/World/characters/tais/images/tais054.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais055",
+      "object": "tais",
+      "caption": "Мягкая асимметрия",
+      "source_file": "docs/World/characters/tais/images/tais055.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "e5fc8658e97f788cfe887e07edd0b3441429df029b9ff4b799d658804fb934f5",
+      "aliases": [
+        "docs/World/characters/tais/images/tais055.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais056",
+      "object": "tais",
+      "caption": "Волосы под банданой",
+      "source_file": "docs/World/characters/tais/images/tais056.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "a8b65dda8afa7041f58912d697abb89b9d4b9df0410bdf2799adaffc71eb3c40",
+      "aliases": [
+        "docs/World/characters/tais/images/tais056.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053",
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais057",
+      "object": "tais",
+      "caption": "Смех",
+      "source_file": "docs/World/characters/tais/images/tais057.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "ed8c1d33bb75f81cfea276af315a5c893f68a73007d46905773ef1fac0a0d460",
+      "aliases": [
+        "docs/World/characters/tais/images/tais057.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053",
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais058",
+      "object": "tais",
+      "caption": "Сдержанный гнев",
+      "source_file": "docs/World/characters/tais/images/tais058.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "acdb3a5cab0d9b5e7e024759c66dc454a99f8ef07927566ff8c41f7199974a03",
+      "aliases": [
+        "docs/World/characters/tais/images/tais058.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053",
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais059",
+      "object": "tais",
+      "caption": "Тревожное ожидание",
+      "source_file": "docs/World/characters/tais/images/tais059.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "b1c6924ac71c0f75397e2b419e70b37f17645b5543f0f71af0cf0fa0b240b9a0",
+      "aliases": [
+        "docs/World/characters/tais/images/tais059.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053",
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais060",
+      "object": "tais",
+      "caption": "Мокрые волосы",
+      "source_file": "docs/World/characters/tais/images/tais060.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "04df3de66f9d705a3244dc4d7916267e5f0b5e26352d4a5f586a1fbb6ab679c2",
+      "aliases": [
+        "docs/World/characters/tais/images/tais060.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053",
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+    },
+    {
+      "code": "tais061",
+      "object": "tais",
+      "caption": "Тихая улыбка",
+      "source_file": "docs/World/characters/tais/images/tais061.webp",
+      "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
+      "sha256": "8317c43c5d377388437ae5f7725c521b8836061cfa5f159f1518d63d151aad08",
+      "aliases": [
+        "docs/World/characters/tais/images/tais061.webp"
+      ],
+      "galleries": [
+        "World/characters/tais"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "tais",
+        "costume",
+        "acting",
+        "states",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053",
+      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
     }
   ],
   "deleted_codes": [
