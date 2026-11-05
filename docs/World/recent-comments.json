@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:38:57.470400+00:00",
+  "generatedAt": "2026-11-05T15:40:05.292577+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKFjy",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:39:46Z",
+      "excerpt": "tais001, tais056, tais009 - уходят в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19421426"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKFja",
       "page": "characters/tais/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-04T09:49:40Z",
       "excerpt": "tais052 можем сделать заглавной? tais009 и tais001 в резерв пока",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19394579"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ_AA",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:48:40Z",
-      "excerpt": "emma009 и emma010 еще плюс по одному голосу",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19394560"
     }
   ],
   "discussionNumbers": {
@@ -83,10 +83,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 12,
+      "messageCount": 13,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-05T15:38:23Z"
+        "createdAt": "2026-11-05T15:39:46Z"
       }
     },
     "characters/tais/reference.html": {
