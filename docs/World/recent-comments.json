@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:40:05.292577+00:00",
+  "generatedAt": "2026-11-05T15:41:17.689541+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKFkK",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:40:52Z",
+      "excerpt": "kolka008, kolka028, kolka009 - уходят в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19421450"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKFjy",
       "page": "characters/tais/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-04T09:51:12Z",
       "excerpt": "martin018, martin019, martin014, martin016 и martin011 - спасибо. Пока в резерв)",
       "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19394601"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ_AT",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:49:40Z",
-      "excerpt": "tais052 можем сделать заглавной? tais009 и tais001 в резерв пока",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19394579"
     }
   ],
   "discussionNumbers": {
+    "characters/kolka/": 59,
     "characters/tais/": 56,
     "characters/emma/": 57,
     "robots/martin/": 61,
@@ -62,7 +63,6 @@
     "characters/sonya/": 145,
     "robots/don15/": 53,
     "ships/moag/": 62,
-    "characters/kolka/": 59,
     "characters/krendel/": 96,
     "characters/egor/": 95,
     "characters/ilya/": 94,
@@ -116,10 +116,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 8,
+      "messageCount": 9,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-30T10:10:50Z"
+        "createdAt": "2026-11-05T15:40:52Z"
       }
     },
     "characters/kolka/reference.html": {
