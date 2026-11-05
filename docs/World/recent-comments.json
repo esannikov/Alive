@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:45:51.112938+00:00",
+  "generatedAt": "2026-11-05T15:46:49.431036+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKFln",
+      "page": "characters/sonya/",
+      "title": "Соня",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:46:29Z",
+      "excerpt": "sonya004- в резерв. sonya002 можно на заглавную плиз?",
+      "url": "https://github.com/esannikov/Alive/discussions/145#discussioncomment-19421543"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKFlU",
       "page": "characters/ilya/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-05T15:42:19Z",
       "excerpt": "nitka005, nitka010, nitka011, nitka012 - уходят в резерв",
       "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19421472"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKFkK",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-05T15:40:52Z",
-      "excerpt": "kolka008, kolka028, kolka009 - уходят в резерв",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19421450"
     }
   ],
   "discussionNumbers": {
+    "characters/sonya/": 145,
     "characters/ilya/": 94,
     "characters/katya/": 67,
     "characters/masha/": 50,
@@ -64,7 +65,6 @@
     "styles/alc-04/": 165,
     "styles/alc-05/": 167,
     "locations/main-square/": 125,
-    "characters/sonya/": 145,
     "robots/don15/": 53,
     "ships/moag/": 62,
     "characters/krendel/": 96,
@@ -182,10 +182,10 @@
       "last": null
     },
     "characters/sonya/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-30T16:21:44Z"
+        "createdAt": "2026-11-05T15:46:29Z"
       }
     },
     "characters/sonya/reference.html": {
