@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T22:41:49.291297+00:00",
+  "generatedAt": "2026-11-05T09:55:32.205535+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1467,6 +1467,32 @@
       "automaticRemoval": false
     },
     "frik007": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik008": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "frik009": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -4641,5 +4667,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-04T21"
+  "refreshSlot": "2026-11-05T09"
 }
