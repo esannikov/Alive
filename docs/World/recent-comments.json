@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:37:18.652598+00:00",
+  "generatedAt": "2026-11-05T15:38:57.470400+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKFja",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:38:23Z",
+      "excerpt": "tais059 - можем ее на заглавную?",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19421402"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKFjF",
       "page": "characters/emma/",
@@ -37,21 +46,12 @@
       "createdAt": "2026-11-04T09:48:40Z",
       "excerpt": "emma009 и emma010 еще плюс по одному голосу",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19394560"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BJ-_o",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-04T09:47:15Z",
-      "excerpt": "emma007, emma001, emma002 и emma008 пока идут в резерв",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19394536"
     }
   ],
   "discussionNumbers": {
+    "characters/tais/": 56,
     "characters/emma/": 57,
     "robots/martin/": 61,
-    "characters/tais/": 56,
     "creatures/pushistik/": 169,
     "styles/alc-02/": 166,
     "characters/fedor/": 52,
@@ -83,10 +83,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 11,
+      "messageCount": 12,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-04T09:49:40Z"
+        "createdAt": "2026-11-05T15:38:23Z"
       }
     },
     "characters/tais/reference.html": {
