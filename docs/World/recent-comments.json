@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:46:49.431036+00:00",
+  "generatedAt": "2026-11-05T23:29:55.884355+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BKFln",
@@ -156,6 +156,22 @@
       }
     },
     "characters/masha/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kristinka/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kristinka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/romik/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/romik/reference.html": {
       "messageCount": 0,
       "last": null
     },
