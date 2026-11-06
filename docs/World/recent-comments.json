@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T12:29:28.924401+00:00",
+  "generatedAt": "2026-11-06T12:29:50.914531+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKKGx",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "isto3110-ship-it",
+      "createdAt": "2026-11-06T12:29:29Z",
+      "excerpt": "или 7",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19440049"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKKGv",
       "page": "characters/kolka/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-06T10:15:54Z",
       "excerpt": "kolka010 - можно его на заглавную пожалуйста?",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19437563"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKFln",
-      "page": "characters/sonya/",
-      "title": "Соня",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-05T15:46:29Z",
-      "excerpt": "sonya004- в резерв. sonya002 можно на заглавную плиз?",
-      "url": "https://github.com/esannikov/Alive/discussions/145#discussioncomment-19421543"
     }
   ],
   "discussionNumbers": {
@@ -116,10 +116,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 11,
+      "messageCount": 12,
       "last": {
         "author": "isto3110-ship-it",
-        "createdAt": "2026-11-06T12:29:13Z"
+        "createdAt": "2026-11-06T12:29:29Z"
       }
     },
     "characters/kolka/reference.html": {
