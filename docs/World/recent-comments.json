@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T10:16:18.546979+00:00",
+  "generatedAt": "2026-11-06T10:18:08.558630+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKJgt",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-06T10:17:48Z",
+      "excerpt": "да. tais051. tais047, tais049 и tais052 - идут в резерв)",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19437613"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKJf7",
       "page": "characters/kolka/",
@@ -37,25 +46,16 @@
       "createdAt": "2026-11-05T15:44:36Z",
       "excerpt": "katya003, katya004, katya007 - уходят в резерв",
       "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19421510"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKFkp",
-      "page": "characters/masha/",
-      "title": "Маша",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-05T15:43:00Z",
-      "excerpt": "masha006 и masha001 - уходят в резерв",
-      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19421481"
     }
   ],
   "discussionNumbers": {
+    "characters/tais/": 56,
     "characters/kolka/": 59,
     "characters/sonya/": 145,
     "characters/ilya/": 94,
     "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/nitka/": 48,
-    "characters/tais/": 56,
     "characters/emma/": 57,
     "robots/martin/": 61,
     "creatures/pushistik/": 169,
@@ -83,10 +83,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 13,
+      "messageCount": 14,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-05T15:39:46Z"
+        "createdAt": "2026-11-06T10:17:48Z"
       }
     },
     "characters/tais/reference.html": {
