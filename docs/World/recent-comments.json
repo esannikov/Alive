@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T12:29:50.914531+00:00",
+  "generatedAt": "2026-11-06T14:27:21.204022+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKKnR",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-06T14:26:57Z",
+      "excerpt": "они все очень одинаковые по подаче. Их нужно разводить. Плюс, Колька и Федор должны быть такими, чтобы попадать в женские типажи. 7 и 2 я пока не трогаю, но это не они. kolka010 - можно попробовать изменить форму подбородка, согласна. Но я ее хочу попробова…",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19442129"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKKGx",
       "page": "characters/kolka/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-06T10:17:48Z",
       "excerpt": "да. tais051. tais047, tais049 и tais052 - идут в резерв)",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19437613"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKJf7",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-06T10:15:54Z",
-      "excerpt": "kolka010 - можно его на заглавную пожалуйста?",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19437563"
     }
   ],
   "discussionNumbers": {
@@ -116,10 +116,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 12,
+      "messageCount": 13,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-11-06T12:29:29Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-06T14:26:57Z"
       }
     },
     "characters/kolka/reference.html": {
