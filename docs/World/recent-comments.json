@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T23:29:55.884355+00:00",
+  "generatedAt": "2026-11-06T10:16:18.546979+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKJf7",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-06T10:15:54Z",
+      "excerpt": "kolka010 - можно его на заглавную пожалуйста?",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19437563"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKFln",
       "page": "characters/sonya/",
@@ -37,24 +46,15 @@
       "createdAt": "2026-11-05T15:43:00Z",
       "excerpt": "masha006 и masha001 - уходят в резерв",
       "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19421481"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKFkg",
-      "page": "characters/nitka/",
-      "title": "Нитка",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-05T15:42:19Z",
-      "excerpt": "nitka005, nitka010, nitka011, nitka012 - уходят в резерв",
-      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19421472"
     }
   ],
   "discussionNumbers": {
+    "characters/kolka/": 59,
     "characters/sonya/": 145,
     "characters/ilya/": 94,
     "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/nitka/": 48,
-    "characters/kolka/": 59,
     "characters/tais/": 56,
     "characters/emma/": 57,
     "robots/martin/": 61,
@@ -116,10 +116,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 9,
+      "messageCount": 10,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-05T15:40:52Z"
+        "createdAt": "2026-11-06T10:15:54Z"
       }
     },
     "characters/kolka/reference.html": {
