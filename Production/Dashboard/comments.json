@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "repo": "esannikov/Alive",
+  "repoId": "R_kgDOVCLQyQ",
+  "category": "Comments",
+  "categoryId": "DIC_kwDOVCLQyc4DJpty",
+  "mapping": "pathname",
+  "strict": "1",
+  "reactionsEnabled": "0",
+  "inputPosition": "bottom",
+  "theme": "dark",
+  "lang": "ru",
+  "loading": "lazy",
+  "discussionNumbers": {
+    "robots/scale/": 54,
+    "characters/fedor/": 52,
+    "characters/emma/": 57,
+    "characters/valek/": 60,
+    "robots/don15/": 53,
+    "characters/masha/": 50,
+    "characters/nitka/": 48,
+    "characters/kolka/": 59,
+    "characters/tais/": 56,
+    "ships/moag/": 62,
+    "robots/martin/": 61,
+    "robots/lon/": 44
+  },
+  "voting": {
+    "members": {
+      "esannikov": 1,
+      "ElenaAlive": 2,
+      "isto3110-ship-it": 1
+    },
+    "minimumAgainstPeople": 2,
+    "automaticRemoval": false
+  }
+}

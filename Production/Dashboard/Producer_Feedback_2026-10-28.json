@@ -1,0 +1,1009 @@
+{
+  "retrievedAt": "2026-10-28T10:48:24.739863+00:00",
+  "repository": "esannikov/Alive",
+  "pagination": "all discussions including closed, all comments and replies; minimized records retained",
+  "discussions": [
+    {
+      "id": "D_kwDOVCLQyc4AqewH",
+      "number": 60,
+      "title": "Alive/World/characters/valek/",
+      "url": "https://github.com/esannikov/Alive/discussions/60",
+      "body": "# Alive/World/characters/valek/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/characters/valek/\n\n<!-- sha1: 910b2ecdc8bcaee58d0bde67d4034c8d1b35ecac -->",
+      "createdAt": "2026-10-26T19:41:38Z",
+      "updatedAt": "2026-10-28T10:16:30Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQVJ",
+          "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19203401",
+          "body": "слишком эльфийски-красивые все вальки. он дрыщ худой по-моему",
+          "bodyText": "слишком эльфийски-красивые все вальки. он дрыщ худой по-моему",
+          "createdAt": "2026-10-26T19:41:39Z",
+          "updatedAt": "2026-10-26T19:41:39Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQkz",
+              "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19204403",
+              "body": "Сделал Валька худее во всех шести вариантах: уже плечи и торс, тоньше руки, меньше модельной подачи. [valek013–018](https://esannikov.github.io/Alive/World/characters/valek/#valek013).\n\n<!-- alive-feedback-fixes-20261026-valek -->",
+              "bodyText": "Сделал Валька худее во всех шести вариантах: уже плечи и торс, тоньше руки, меньше модельной подачи. valek013–018.",
+              "createdAt": "2026-10-26T20:53:18Z",
+              "updatedAt": "2026-10-26T21:10:44Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTdH",
+              "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19216199",
+              "body": "valek013 нравится. Вообще, что он Альбинос такой нравится. И при этом, холодный психопат. Можно, Женя, с Таргариенами поиграться тут кстати из Дома дракона. Это этот типаж. - https://gameofthrones.fandom.com/wiki/Daemon_Targaryen?file=Daemon_S3_Profile.png",
+              "bodyText": "valek013 нравится. Вообще, что он Альбинос такой нравится. И при этом, холодный психопат. Можно, Женя, с Таргариенами поиграться тут кстати из Дома дракона. Это этот типаж. - https://gameofthrones.fandom.com/wiki/Daemon_Targaryen?file=Daemon_S3_Profile.png",
+              "createdAt": "2026-10-27T12:01:07Z",
+              "updatedAt": "2026-10-27T12:01:07Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTdZ",
+              "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19216217",
+              "body": "Вот valek013 или valek018 - самые удачные мне кажется. и с ними поиграться чуть в Таргариенов еще. Что-то неуловимое такое добавить бы, чтобы считалось?",
+              "bodyText": "Вот valek013 или valek018 - самые удачные мне кажется. и с ними поиграться чуть в Таргариенов еще. Что-то неуловимое такое добавить бы, чтобы считалось?",
+              "createdAt": "2026-10-27T12:03:00Z",
+              "updatedAt": "2026-10-27T12:03:00Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJYmi",
+          "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19237282",
+          "body": "Они все какие то прям ИИ-красавцы( Лена, тебя не смущает? Тот же таргариен он привлекательный, но не \"бред питт\". valek018 - лучше всего мне",
+          "bodyText": "Они все какие то прям ИИ-красавцы( Лена, тебя не смущает? Тот же таргариен он привлекательный, но не \"бред питт\". valek018 - лучше всего мне",
+          "createdAt": "2026-10-28T08:11:21Z",
+          "updatedAt": "2026-10-28T08:11:21Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJZG0",
+              "url": "https://github.com/esannikov/Alive/discussions/60#discussioncomment-19239348",
+              "body": "да, valek013 или valek018 у меня тоже. Остальных можем тут отпускать пока)\n",
+              "bodyText": "да, valek013 или valek018 у меня тоже. Остальных можем тут отпускать пока)",
+              "createdAt": "2026-10-28T10:16:30Z",
+              "updatedAt": "2026-10-28T10:16:30Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4AqexC",
+      "number": 62,
+      "title": "Alive/World/ships/moag/",
+      "url": "https://github.com/esannikov/Alive/discussions/62",
+      "body": "# Alive/World/ships/moag/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/ships/moag/\n\n<!-- sha1: f6c33bd6fbca9753b96248e7028b612897b69c8f -->",
+      "createdAt": "2026-10-26T19:54:22Z",
+      "updatedAt": "2026-10-28T10:01:02Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJYpw",
+          "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19237488",
+          "body": "В моей голове \"станция\" - всегда \"кольцеобразная\". мне moag017 больше всего заходит. ",
+          "bodyText": "В моей голове \"станция\" - всегда \"кольцеобразная\". мне moag017 больше всего заходит.",
+          "createdAt": "2026-10-28T08:26:10Z",
+          "updatedAt": "2026-10-28T08:26:10Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJZDP",
+              "url": "https://github.com/esannikov/Alive/discussions/62#discussioncomment-19239119",
+              "body": "moag017 - она откуда-то прямо... Женя, не помнишь? но тут и переходы и тд красиво будут. moag003 моя прелесть) но наверное надо убирать - разделения на два крыла в целом нам дадут другую схему маршрутов и географию в целом. moag004 тоже. moag0010 тоже, moag0014 тоже и moag0013.  Дальше в целом, сейчас поняла, что наверное станция Эдем тоже выглядеть у нас как рай и внешне. То есть, добрая эмоция - не боевой корабль и не сундук и тд. Поэтому, вся моя Галактика тоже уходит) Поэтому, у меня - moag017, moag018,  moag007 и moag008 тоже могут быть, но их бы светлее цветом. и moag025 красивое тоже конечно, но оно наверное не наше тоже. хотя пока бы оставила",
+              "bodyText": "moag017 - она откуда-то прямо... Женя, не помнишь? но тут и переходы и тд красиво будут. moag003 моя прелесть) но наверное надо убирать - разделения на два крыла в целом нам дадут другую схему маршрутов и географию в целом. moag004 тоже. moag0010 тоже, moag0014 тоже и moag0013.  Дальше в целом, сейчас поняла, что наверное станция Эдем тоже выглядеть у нас как рай и внешне. То есть, добрая эмоция - не боевой корабль и не сундук и тд. Поэтому, вся моя Галактика тоже уходит) Поэтому, у меня - moag017, moag018,  moag007 и moag008 тоже могут быть, но их бы светлее цветом. и moag025 красивое тоже конечно, но оно наверное не наше тоже. хотя пока бы оставила",
+              "createdAt": "2026-10-28T10:01:02Z",
+              "updatedAt": "2026-10-28T10:01:02Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqeup",
+      "number": 53,
+      "title": "Alive/World/robots/don15/",
+      "url": "https://github.com/esannikov/Alive/discussions/53",
+      "body": "# Alive/World/robots/don15/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/robots/don15/\n\n<!-- sha1: 6a881e74329e61b2a563e36b9f3334d536e2eee0 -->",
+      "createdAt": "2026-10-26T19:25:15Z",
+      "updatedAt": "2026-10-28T09:53:26Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQQ2",
+          "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203126",
+          "body": "don017 очень неожиданно. Но может и да. Лапы тяжелые. они вроде двигаться у нас должны быстро, не? И если это 15  - у них оружие вроде сразу должно быть",
+          "bodyText": "don017 очень неожиданно. Но может и да. Лапы тяжелые. они вроде двигаться у нас должны быстро, не? И если это 15  - у них оружие вроде сразу должно быть",
+          "createdAt": "2026-10-26T19:25:16Z",
+          "updatedAt": "2026-10-26T19:25:16Z",
+          "isMinimized": false,
+          "author": {
+            "login": "ElenaAlive"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQWt",
+              "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203501",
+              "body": "Да, в руке оружие. Мне они не сильно угрожающими кажутся, а они же боевые роботы. ",
+              "bodyText": "Да, в руке оружие. Мне они не сильно угрожающими кажутся, а они же боевые роботы.",
+              "createdAt": "2026-10-26T19:50:23Z",
+              "updatedAt": "2026-10-26T19:50:23Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJQam",
+              "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19203750",
+              "body": "don017 мне чуть на грустную ворону похож. Клюв - прикольный ход. типа там радар какой нить. но сделать бы его более худым и угрожающим, страшным. ",
+              "bodyText": "don017 мне чуть на грустную ворону похож. Клюв - прикольный ход. типа там радар какой нить. но сделать бы его более худым и угрожающим, страшным.",
+              "createdAt": "2026-10-26T20:09:35Z",
+              "updatedAt": "2026-10-26T20:09:35Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJQkx",
+              "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19204401",
+              "body": "Переделал руку: теперь кисть переходит в компактную боевую форму, без пушки поверх неё — [don023](https://esannikov.github.io/Alive/World/robots/don15/?v=avian-r2#don023) и [don024](https://esannikov.github.io/Alive/World/robots/don15/?v=avian-r2#don024). Добавил два птицеобразных варианта на тонких ногах: [don025](https://esannikov.github.io/Alive/World/robots/don15/?v=avian-r2#don025), [don026](https://esannikov.github.io/Alive/World/robots/don15/?v=avian-r2#don026). Головы сделал компактнее, с коротким стилизованным клювом.\n\n<!-- alive-feedback-fixes-20261026-don15 -->",
+              "bodyText": "Переделал руку: теперь кисть переходит в компактную боевую форму, без пушки поверх неё — don023 и don024. Добавил два птицеобразных варианта на тонких ногах: don025, don026. Головы сделал компактнее, с коротким стилизованным клювом.",
+              "createdAt": "2026-10-26T20:53:16Z",
+              "updatedAt": "2026-10-26T21:30:28Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJUAm",
+              "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19218470",
+              "body": "ну тут баба яга конечно не сильно за тонкие ноги) 25 и 26 не функциональны, наверное. Я за 22ой пока. вот тут кстати собраны какие-то айконик сцены из галактики  https://www.youtube.com/watch?v=BM5eLaqtP4U в том числе и боевые. И  я хотела показать на 2.25 как работает сайлонокорабль с такой как раз формой чего-то там вместо глаз - там у них типа свет перемещался слева направо и они это подзвучивали еще. и это круто работает.  То есть, в теории, наши 15тые могут также подсветку менять. типа на уровень угрозы и тд ",
+              "bodyText": "ну тут баба яга конечно не сильно за тонкие ноги) 25 и 26 не функциональны, наверное. Я за 22ой пока. вот тут кстати собраны какие-то айконик сцены из галактики  https://www.youtube.com/watch?v=BM5eLaqtP4U в том числе и боевые. И  я хотела показать на 2.25 как работает сайлонокорабль с такой как раз формой чего-то там вместо глаз - там у них типа свет перемещался слева направо и они это подзвучивали еще. и это круто работает.  То есть, в теории, наши 15тые могут также подсветку менять. типа на уровень угрозы и тд",
+              "createdAt": "2026-10-27T14:07:07Z",
+              "updatedAt": "2026-10-27T14:07:07Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJYoQ",
+          "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19237392",
+          "body": "don022 - да, самый угрожающий. ",
+          "bodyText": "don022 - да, самый угрожающий.",
+          "createdAt": "2026-10-28T08:19:39Z",
+          "updatedAt": "2026-10-28T08:19:39Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJZBJ",
+              "url": "https://github.com/esannikov/Alive/discussions/53#discussioncomment-19238985",
+              "body": "Женя, может тогда почистить пока совсем не наших? я своих дам ненужных - don004 и don0013, don0016, ну и don0025 don0026",
+              "bodyText": "Женя, может тогда почистить пока совсем не наших? я своих дам ненужных - don004 и don0013, don0016, ну и don0025 don0026",
+              "createdAt": "2026-10-28T09:53:26Z",
+              "updatedAt": "2026-10-28T09:53:26Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqeva",
+      "number": 56,
+      "title": "Alive/World/characters/tais/",
+      "url": "https://github.com/esannikov/Alive/discussions/56",
+      "body": "# Alive/World/characters/tais/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/characters/tais/\n\n<!-- sha1: 9967c0a21a8bb9c4b6dea07d0cd488c72a6d51a0 -->",
+      "createdAt": "2026-10-26T19:36:31Z",
+      "updatedAt": "2026-10-28T09:48:28Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQT8",
+          "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19203324",
+          "body": "Ромбовидное мне чуть больше нравится, но Таис в моей голове красивее этой. ",
+          "bodyText": "Ромбовидное мне чуть больше нравится, но Таис в моей голове красивее этой.",
+          "createdAt": "2026-10-26T19:36:32Z",
+          "updatedAt": "2026-10-26T19:36:32Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQYK",
+              "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19203594",
+              "body": "tais006\nРомбовидное лицо",
+              "bodyText": "tais006\nРомбовидное лицо",
+              "createdAt": "2026-10-26T19:58:20Z",
+              "updatedAt": "2026-10-26T19:58:20Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTcQ",
+              "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19216144",
+              "body": "нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус.  Невысокая — едва достаёт Федору до плеча; худощавая, стройная, гибкая и ловкая. Светло-карие, почти медовые глаза имеют раскосую форму. Тёмно-русые волосы носит в двух косах или убирает под чёрно-белую бандану; вдоль скул спускаются тонкие растрёпанные пряди, длинную чёлку она откидывает набок. Тонкие губы слегка изогнуты; Таис постоянно их кусает. Отлично управляет магнитной доской, быстро ползает по узкой вентиляции, спускается по шахтам и прыгает с высоты. Одна из основных охотников за едой. Тяжело переносит холод, пыль и грязь. Резкая, вспыльчивая и физически агрессивная; жители Тёмной базы считают её скандалисткой. После раскрытия вируса боится, что собственная злость является первым симптомом изменения, и сомневается в своей способности любить.",
+              "bodyText": "нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус.  Невысокая — едва достаёт Федору до плеча; худощавая, стройная, гибкая и ловкая. Светло-карие, почти медовые глаза имеют раскосую форму. Тёмно-русые волосы носит в двух косах или убирает под чёрно-белую бандану; вдоль скул спускаются тонкие растрёпанные пряди, длинную чёлку она откидывает набок. Тонкие губы слегка изогнуты; Таис постоянно их кусает. Отлично управляет магнитной доской, быстро ползает по узкой вентиляции, спускается по шахтам и прыгает с высоты. Одна из основных охотников за едой. Тяжело переносит холод, пыль и грязь. Резкая, вспыльчивая и физически агрессивная; жители Тёмной базы считают её скандалисткой. После раскрытия вируса боится, что собственная злость является первым симптомом изменения, и сомневается в своей способности любить.",
+              "createdAt": "2026-10-27T11:57:11Z",
+              "updatedAt": "2026-10-27T11:57:11Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJUDb",
+              "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19218651",
+              "body": "Добавил описание внешности из книги в [справку](https://esannikov.github.io/Alive/World/characters/tais/reference.html?v=feedback-oct27-live). Необычную красоту и контраст с Эммой отметил как направление следующих проб.",
+              "bodyText": "Добавил описание внешности из книги в справку. Необычную красоту и контраст с Эммой отметил как направление следующих проб.",
+              "createdAt": "2026-10-27T14:14:57Z",
+              "updatedAt": "2026-10-27T14:14:57Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJYkn",
+          "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19237159",
+          "body": "\"нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус. \" - бесспорно. Но тут она какая-то кривая вообще для меня. как колхозница/птушница. ",
+          "bodyText": "\"нет в справке описания героини, но я бы не делала ее канонически красивой. Она какая-то интересная должна быть и необычная. иногда красивая, но в целом - она полная противоположность Эммы и в этом весь фокус. \" - бесспорно. Но тут она какая-то кривая вообще для меня. как колхозница/птушница.",
+          "createdAt": "2026-10-28T08:03:22Z",
+          "updatedAt": "2026-10-28T08:03:22Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJZAG",
+              "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19238918",
+              "body": "возможно, тут дело в бандане и тд. мне лицо очень нравится во всех трех, но tais009 и tais006 больше всего. Tais009  - это микс с Беллой, это очень частая сейчас форма лица. Из-за ротового типа дыхания и узкой челюсти, простите.  Как только мы начинаем давать широкие челюсти и высокие скулы и тд - это канонически и физиологически правильно, но это очень редко встречается сейчас, даже у юных.  Все их такими рисуют, но вот такое узкое лицо - дает, с моей точки зрения, близость к зрителю. Потому что вокруг него все такие) И  не сольются они с миллионом типовых лиц ИИ, с идеальными параметрами. Ну и простота самого образа - зрителю хочется с кем-то себя ассоциировать, она понятная должна бы быть.  Резкая, юркая, неприятная и смелая. Пацанка. Она как Джульетта из Бункера. Может тут надо поискать еще просто тогда. Женя, может попробовать бандану по другому завязать и как-то поиграться? не супер удачный пример, но https://www.amazon.fr/BELEVO-Bandeaux-Élastique-Multicolore-Accessoires/dp/B0CYBZL1Z6. Логика в том, что для нее повязка на волосы - функциональность. Косички и повязка - это что-то что нам сразу будет давать персонажа. ",
+              "bodyText": "возможно, тут дело в бандане и тд. мне лицо очень нравится во всех трех, но tais009 и tais006 больше всего. Tais009  - это микс с Беллой, это очень частая сейчас форма лица. Из-за ротового типа дыхания и узкой челюсти, простите.  Как только мы начинаем давать широкие челюсти и высокие скулы и тд - это канонически и физиологически правильно, но это очень редко встречается сейчас, даже у юных.  Все их такими рисуют, но вот такое узкое лицо - дает, с моей точки зрения, близость к зрителю. Потому что вокруг него все такие) И  не сольются они с миллионом типовых лиц ИИ, с идеальными параметрами. Ну и простота самого образа - зрителю хочется с кем-то себя ассоциировать, она понятная должна бы быть.  Резкая, юркая, неприятная и смелая. Пацанка. Она как Джульетта из Бункера. Может тут надо поискать еще просто тогда. Женя, может попробовать бандану по другому завязать и как-то поиграться? не супер удачный пример, но https://www.amazon.fr/BELEVO-Bandeaux-Élastique-Multicolore-Accessoires/dp/B0CYBZL1Z6. Логика в том, что для нее повязка на волосы - функциональность. Косички и повязка - это что-то что нам сразу будет давать персонажа.",
+              "createdAt": "2026-10-28T09:48:28Z",
+              "updatedAt": "2026-10-28T09:48:28Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4AqiUl",
+      "number": 85,
+      "title": "Alive/World/characters/rita/",
+      "url": "https://github.com/esannikov/Alive/discussions/85",
+      "body": "# Alive/World/characters/rita/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/characters/rita/\n\n<!-- sha1: 259e66d41645f9c33b6f95b0369dd95b4c44dfb3 -->",
+      "createdAt": "2026-10-28T08:16:39Z",
+      "updatedAt": "2026-10-28T08:16:39Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": []
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqet9",
+      "number": 52,
+      "title": "Alive/World/characters/fedor/",
+      "url": "https://github.com/esannikov/Alive/discussions/52",
+      "body": "# Alive/World/characters/fedor/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/characters/fedor/\n\n<!-- sha1: eaffeb0fb066b3f2d8ba584c8128a3d101f96db1 -->",
+      "createdAt": "2026-10-26T19:16:10Z",
+      "updatedAt": "2026-10-28T08:07:32Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQOV",
+          "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19202965",
+          "body": "fedor021\nочень крутой, но сильно закручен на актера. Можно чуть от него отойти? и родинку убрать надо на губе точно",
+          "bodyText": "fedor021\nочень крутой, но сильно закручен на актера. Можно чуть от него отойти? и родинку убрать надо на губе точно",
+          "createdAt": "2026-10-26T19:16:11Z",
+          "updatedAt": "2026-10-26T19:16:11Z",
+          "isMinimized": false,
+          "author": {
+            "login": "ElenaAlive"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQUk",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203364",
+              "body": "Этот клевый да. ",
+              "bodyText": "Этот клевый да.",
+              "createdAt": "2026-10-26T19:39:24Z",
+              "updatedAt": "2026-10-26T19:39:24Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJQYa",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203610",
+              "body": "fedor009 клевый",
+              "bodyText": "fedor009 клевый",
+              "createdAt": "2026-10-26T19:59:19Z",
+              "updatedAt": "2026-10-26T19:59:19Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJQYo",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19203624",
+              "body": "fedor021 - выглядит как мудак-извращенец. А федор типа добрейший и оч смелый парень ",
+              "bodyText": "fedor021 - выглядит как мудак-извращенец. А федор типа добрейший и оч смелый парень",
+              "createdAt": "2026-10-26T20:00:04Z",
+              "updatedAt": "2026-10-26T20:00:04Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJQk2",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19204406",
+              "body": "fedor021 убрал, fedor009 оставил. [Галерея](https://esannikov.github.io/Alive/World/characters/fedor/).\n\n<!-- alive-feedback-fixes-20261026-fedor -->",
+              "bodyText": "fedor021 убрал, fedor009 оставил. Галерея.",
+              "createdAt": "2026-10-26T20:53:23Z",
+              "updatedAt": "2026-10-26T21:10:48Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTXV",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215829",
+              "body": "верните плиз fedor021 + fedor023 тоже хорошо. Но тоже сильно выкручен на актера, можно ли уменьшить схожесть? и родинку убрать нужно обязательно. это актерская, она узнаваемая сильно.  fedor022  пока бы убирала тогда. и и fedor18  - не могу понять. а можно его лицом в камеру повернуть?",
+              "bodyText": "верните плиз fedor021 + fedor023 тоже хорошо. Но тоже сильно выкручен на актера, можно ли уменьшить схожесть? и родинку убрать нужно обязательно. это актерская, она узнаваемая сильно.  fedor022  пока бы убирала тогда. и и fedor18  - не могу понять. а можно его лицом в камеру повернуть?",
+              "createdAt": "2026-10-27T11:31:12Z",
+              "updatedAt": "2026-10-27T11:31:12Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJUDT",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218643",
+              "body": "fedor021 вернул и оставил рядом с fedor023. Добавил отдельные пробы с изменёнными чертами и без родинки у губы — [fedor024](https://esannikov.github.io/Alive/World/characters/fedor/?v=feedback-oct27-live#fedor024) и [fedor025](https://esannikov.github.io/Alive/World/characters/fedor/?v=feedback-oct27-live#fedor025). Типаж 018 теперь можно посмотреть анфас — [fedor026](https://esannikov.github.io/Alive/World/characters/fedor/?v=feedback-oct27-live#fedor026). fedor022 убрал.",
+              "bodyText": "fedor021 вернул и оставил рядом с fedor023. Добавил отдельные пробы с изменёнными чертами и без родинки у губы — fedor024 и fedor025. Типаж 018 теперь можно посмотреть анфас — fedor026. fedor022 убрал.",
+              "createdAt": "2026-10-27T14:14:50Z",
+              "updatedAt": "2026-10-27T14:14:50Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJUFU",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19218772",
+              "body": "fedor023 очень классный вышел. пусть пока все побудут, я еще поживу с ними",
+              "bodyText": "fedor023 очень классный вышел. пусть пока все побудут, я еще поживу с ними",
+              "createdAt": "2026-10-27T14:21:39Z",
+              "updatedAt": "2026-10-27T14:21:39Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJTUo",
+          "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19215656",
+          "body": "секунлочку. а почему 021 убрали? Женечка, нет. а наоборот его выбрала же и просто просила меньше убрать лайкнес с актером. Игорю кажется, что он выглядит как мудак-извращенец, а я и миллионе женщин не согласны",
+          "bodyText": "секунлочку. а почему 021 убрали? Женечка, нет. а наоборот его выбрала же и просто просила меньше убрать лайкнес с актером. Игорю кажется, что он выглядит как мудак-извращенец, а я и миллионе женщин не согласны",
+          "createdAt": "2026-10-27T11:19:21Z",
+          "updatedAt": "2026-10-27T11:19:21Z",
+          "isMinimized": false,
+          "author": {
+            "login": "ElenaAlive"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJYlq",
+              "url": "https://github.com/esannikov/Alive/discussions/52#discussioncomment-19237226",
+              "body": "Женщин притягивают персонажи с негативным обаянием, это понятно. просто по книге Федор - прям светлый, надежный персонаж, однолюб и тп. ",
+              "bodyText": "Женщин притягивают персонажи с негативным обаянием, это понятно. просто по книге Федор - прям светлый, надежный персонаж, однолюб и тп.",
+              "createdAt": "2026-10-28T08:07:31Z",
+              "updatedAt": "2026-10-28T08:07:31Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4AqeWw",
+      "number": 44,
+      "title": "Alive/World/robots/lon/",
+      "url": "https://github.com/esannikov/Alive/discussions/44",
+      "body": "# Alive/World/robots/lon/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/robots/lon/\n\n<!-- sha1: d64b00ee430b6cc6836e632b67a2d8ece4b4be14 -->",
+      "createdAt": "2026-10-26T15:16:59Z",
+      "updatedAt": "2026-10-27T19:21:46Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJPCp",
+          "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19198121",
+          "body": " тест-комментарий: мне забавными кажутся lon009 и lon010 (у этого хотелось чтобы тело обыгрывало силуэт). Открытые панели - для демонстрации внутреннего модуля",
+          "bodyText": "тест-комментарий: мне забавными кажутся lon009 и lon010 (у этого хотелось чтобы тело обыгрывало силуэт). Открытые панели - для демонстрации внутреннего модуля",
+          "createdAt": "2026-10-26T15:17:01Z",
+          "updatedAt": "2026-10-26T15:17:01Z",
+          "isMinimized": false,
+          "author": {
+            "login": "esannikov"
+          },
+          "replies": []
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJQWI",
+          "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19203464",
+          "body": "lon001 - самый добрый имхо ",
+          "bodyText": "lon001 - самый добрый имхо",
+          "createdAt": "2026-10-26T19:47:26Z",
+          "updatedAt": "2026-10-26T19:47:26Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJV1R",
+              "url": "https://github.com/esannikov/Alive/discussions/44#discussioncomment-19225937",
+              "body": "все прикольные, отпустила бы lon003 и lon004. lon010  - у него фигура песочные часы) что как бы женская немного структура что ли. может силуэт поменять? lon001 и lon009 пока нравятся больше всех, но пока пожить бы с ними еще\n\n\n\n",
+              "bodyText": "все прикольные, отпустила бы lon003 и lon004. lon010  - у него фигура песочные часы) что как бы женская немного структура что ли. может силуэт поменять? lon001 и lon009 пока нравятся больше всех, но пока пожить бы с ними еще",
+              "createdAt": "2026-10-27T19:21:45Z",
+              "updatedAt": "2026-10-27T19:21:45Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqew2",
+      "number": 61,
+      "title": "Alive/World/robots/martin/",
+      "url": "https://github.com/esannikov/Alive/discussions/61",
+      "body": "# Alive/World/robots/martin/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/robots/martin/\n\n<!-- sha1: 32d565ae26517eeff865673d265e6a22a0ca6ddc -->",
+      "createdAt": "2026-10-26T19:51:50Z",
+      "updatedAt": "2026-10-27T18:53:51Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQW8",
+          "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19203516",
+          "body": "martin004\nLinea · скульптурный\n\nприкольный",
+          "bodyText": "martin004\nLinea · скульптурный\nприкольный",
+          "createdAt": "2026-10-26T19:51:51Z",
+          "updatedAt": "2026-10-26T19:51:51Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJVqT",
+              "url": "https://github.com/esannikov/Alive/discussions/61#discussioncomment-19225235",
+              "body": "martin002 нравится еще. и вот еще. а мы можем попробовать халат накинуть как у воспитателя на него? я не знаю что это будет, но в этом есть какой-то образ. Доброго дядюшки, который на какой-то момент по сути окажется лицом зла - он проекция Моага (Едем) и какую-то часть мы будем думать, что все это его рук дело. ",
+              "bodyText": "martin002 нравится еще. и вот еще. а мы можем попробовать халат накинуть как у воспитателя на него? я не знаю что это будет, но в этом есть какой-то образ. Доброго дядюшки, который на какой-то момент по сути окажется лицом зла - он проекция Моага (Едем) и какую-то часть мы будем думать, что все это его рук дело.",
+              "createdAt": "2026-10-27T18:53:51Z",
+              "updatedAt": "2026-10-27T18:53:51Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqebz",
+      "number": 48,
+      "title": "Alive/World/characters/nitka/",
+      "url": "https://github.com/esannikov/Alive/discussions/48",
+      "body": "# Нитка — обсуждение образов\n\n<!-- nitka-wide-20261026 -->\n## Текущая серия · 16:9\n\nВсе новые кадры — горизонтальные, в поясной крупности, как у других персонажей.\n\n- `nitka005` — A · мягкий типаж.\n- `nitka006` — B · короткая стрижка.\n- `nitka007` — C · растрёпанные волны.\n- `nitka009` — D · прямые тёмные волосы, новый типаж.\n- `nitka010` — E · короткие кудри, новый типаж.\n- `nitka011` — F · светлая короткая стрижка, новый типаж.\n- `nitka008` — C · за ручным шитьём.\n\n[Открыть актуальную галерею](https://esannikov.github.io/Alive/World/characters/nitka/).\n\nВертикальные `nitka001–004` убраны из активной подборки; старые коды и комментарии сохранены. Финальный типаж ещё не выбран.\n\n## Первая вертикальная серия · архив\n\nОбщая ветка для вариантов Нитки и дальнейших материалов персонажа.\n\n[Открыть галерею](https://esannikov.github.io/Alive/World/characters/nitka/)\n\n- `nitka001` — A · мягкий типаж, проба на основе резервного лица.\n- `nitka002` — B · короткая стрижка.\n- `nitka003` — C · растрёпанные волны.\n- `nitka004` — рабочий кадр за ручным шитьём, на основе C.\n\nВ комментарии можно указывать код изображения. Все варианты поисковые; финальный типаж пока не выбран.\n\n<!-- sha1: ca9787c4ad3858cf0e7edb6adf8000d788afc623 -->",
+      "createdAt": "2026-10-26T15:58:48Z",
+      "updatedAt": "2026-10-27T18:44:13Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQVa",
+          "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203418",
+          "body": "Это клевая",
+          "bodyText": "Это клевая",
+          "createdAt": "2026-10-26T19:42:57Z",
+          "updatedAt": "2026-10-26T19:42:57Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQY2",
+              "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203638",
+              "body": "nitka007 - клевая",
+              "bodyText": "nitka007 - клевая",
+              "createdAt": "2026-10-26T20:01:14Z",
+              "updatedAt": "2026-10-26T20:01:14Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJQVg",
+          "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19203424",
+          "body": "И эта",
+          "bodyText": "И эта",
+          "createdAt": "2026-10-26T19:43:17Z",
+          "updatedAt": "2026-10-26T19:43:17Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJVgq",
+              "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224618",
+              "body": "я бы попробовала nitka010 покрутить. тут хороший контраст с альбиносом, в которого она влюблена",
+              "bodyText": "я бы попробовала nitka010 покрутить. тут хороший контраст с альбиносом, в которого она влюблена",
+              "createdAt": "2026-10-27T18:25:43Z",
+              "updatedAt": "2026-10-27T18:25:43Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJVhd",
+          "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19224669",
+          "body": "nitka007  тоже нравится, но она не будет ли она с Эммой сливаться? nitka006 - не Нитка, но классная, на кого-то перекинем ее\n",
+          "bodyText": "nitka007  тоже нравится, но она не будет ли она с Эммой сливаться? nitka006 - не Нитка, но классная, на кого-то перекинем ее",
+          "createdAt": "2026-10-27T18:27:49Z",
+          "updatedAt": "2026-10-27T18:27:49Z",
+          "isMinimized": false,
+          "author": {
+            "login": "ElenaAlive"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJVnM",
+              "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19225036",
+              "body": "nitka009 тоже очень нравится. прямо вариант 2 после nitka010 . на контрасте с Вальком",
+              "bodyText": "nitka009 тоже очень нравится. прямо вариант 2 после nitka010 . на контрасте с Вальком",
+              "createdAt": "2026-10-27T18:44:13Z",
+              "updatedAt": "2026-10-27T18:44:13Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqevi",
+      "number": 57,
+      "title": "Alive/World/characters/emma/",
+      "url": "https://github.com/esannikov/Alive/discussions/57",
+      "body": "# Alive/World/characters/emma/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/characters/emma/\n\n<!-- sha1: b6e0b372f76a367323c704c7b0ba1acf13d1b149 -->",
+      "createdAt": "2026-10-26T19:37:19Z",
+      "updatedAt": "2026-10-27T18:34:28Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQUN",
+          "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19203341",
+          "body": "Тут она совсем ребенок, а по книге Эмма та еще гадина",
+          "bodyText": "Тут она совсем ребенок, а по книге Эмма та еще гадина",
+          "createdAt": "2026-10-26T19:37:20Z",
+          "updatedAt": "2026-10-26T19:37:20Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQk1",
+              "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19204405",
+              "body": "Ещё уточнил пропорции лица: меньше округлости щёк и детского впечатления от глаз, яснее нижняя часть лица. [emma009](https://esannikov.github.io/Alive/World/characters/emma/?v=face-r2#emma009) и [emma010](https://esannikov.github.io/Alive/World/characters/emma/?v=face-r2#emma010). emma003 оставил как есть.\n\n<!-- alive-feedback-fixes-20261026-emma -->",
+              "bodyText": "Ещё уточнил пропорции лица: меньше округлости щёк и детского впечатления от глаз, яснее нижняя часть лица. emma009 и emma010. emma003 оставил как есть.",
+              "createdAt": "2026-10-26T20:53:20Z",
+              "updatedAt": "2026-10-26T21:30:30Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJVi_",
+              "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224767",
+              "body": "ну опять улетела Эмма которую я выбрала. ну зачем?(((( Бриджертоны которая. Женя, не удаляй плиз там где спорим мы, мы их на голосование поставим. ",
+              "bodyText": "ну опять улетела Эмма которую я выбрала. ну зачем?(((( Бриджертоны которая. Женя, не удаляй плиз там где спорим мы, мы их на голосование поставим.",
+              "createdAt": "2026-10-27T18:30:55Z",
+              "updatedAt": "2026-10-27T18:30:55Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJVjb",
+              "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224795",
+              "body": "щас новая emma009 тоже классная. На Тейлор Свифт похожа. кстати можно потом будет поиграть, хотя и так классно. Но пухлая Эмма тоже надо ",
+              "bodyText": "щас новая emma009 тоже классная. На Тейлор Свифт похожа. кстати можно потом будет поиграть, хотя и так классно. Но пухлая Эмма тоже надо",
+              "createdAt": "2026-10-27T18:32:09Z",
+              "updatedAt": "2026-10-27T18:32:09Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJVkB",
+              "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224833",
+              "body": "и можно старую версию Emma010. тоже восстановить. у меня они три были в голове, когда я смотрела весь каст. а их взяли и поменяли, оказывается ",
+              "bodyText": "и можно старую версию Emma010. тоже восстановить. у меня они три были в голове, когда я смотрела весь каст. а их взяли и поменяли, оказывается",
+              "createdAt": "2026-10-27T18:34:08Z",
+              "updatedAt": "2026-10-27T18:34:08Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJVkG",
+              "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19224838",
+              "body": "Новую при этом тоже оставив",
+              "bodyText": "Новую при этом тоже оставив",
+              "createdAt": "2026-10-27T18:34:28Z",
+              "updatedAt": "2026-10-27T18:34:28Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        },
+        {
+          "id": "DC_kwDOVCLQyc4BJQUQ",
+          "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19203344",
+          "body": "Высокие скулы - неплохо. ",
+          "bodyText": "Высокие скулы - неплохо.",
+          "createdAt": "2026-10-26T19:37:43Z",
+          "updatedAt": "2026-10-26T19:37:43Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqev5",
+      "number": 59,
+      "title": "Alive/World/characters/kolka/",
+      "url": "https://github.com/esannikov/Alive/discussions/59",
+      "body": "# Alive/World/characters/kolka/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/characters/kolka/\n\n<!-- sha1: 2b46ec9a3e8815097d6edc4e3860579dc306075a -->",
+      "createdAt": "2026-10-26T19:40:30Z",
+      "updatedAt": "2026-10-27T14:14:51Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQU3",
+          "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19203383",
+          "body": "Этот мне больше всего нравится, но азиат тоже концептуально правильно. ",
+          "bodyText": "Этот мне больше всего нравится, но азиат тоже концептуально правильно.",
+          "createdAt": "2026-10-26T19:40:31Z",
+          "updatedAt": "2026-10-26T19:40:31Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQYT",
+              "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19203603",
+              "body": "kolka002",
+              "bodyText": "kolka002",
+              "createdAt": "2026-10-26T19:58:49Z",
+              "updatedAt": "2026-10-26T19:58:49Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTaC",
+              "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216002",
+              "body": "у меня Кольки нет пока. Нам нужен красивый все-таки Колька.  Это тоже треугольник -Колька -  Эмма - Федор. И Эмма в конце выберет его. Стандартный треугольник всегда два классных героя, между которыми не можем выбрать. Федор уже очевидно хороший выходит, Кольку я бы вытягивала тоже. Может миксануть с Тейлором Лотнером модельку. Или Люсье́н Лео́н Ла́вискаунт https://bbc.originals.watch/person/11511/lucien-laviscount - это стандартный реф в вертикалках наш для красавца-мулата. Можно попробовать Кольку уводить в мулата легкого",
+              "bodyText": "у меня Кольки нет пока. Нам нужен красивый все-таки Колька.  Это тоже треугольник -Колька -  Эмма - Федор. И Эмма в конце выберет его. Стандартный треугольник всегда два классных героя, между которыми не можем выбрать. Федор уже очевидно хороший выходит, Кольку я бы вытягивала тоже. Может миксануть с Тейлором Лотнером модельку. Или Люсье́н Лео́н Ла́вискаунт https://bbc.originals.watch/person/11511/lucien-laviscount - это стандартный реф в вертикалках наш для красавца-мулата. Можно попробовать Кольку уводить в мулата легкого",
+              "createdAt": "2026-10-27T11:44:28Z",
+              "updatedAt": "2026-10-27T11:44:28Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTaQ",
+              "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19216016",
+              "body": "kolka003 kolka004 и kolka006 - я бы пока прощалась ",
+              "bodyText": "kolka003 kolka004 и kolka006 - я бы пока прощалась",
+              "createdAt": "2026-10-27T11:45:42Z",
+              "updatedAt": "2026-10-27T11:45:42Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJUDV",
+              "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19218645",
+              "body": "kolka003, kolka004 и kolka006 убрал. В [галерее](https://esannikov.github.io/Alive/World/characters/kolka/?v=feedback-oct27-live) оставил 001, 002 и 005. Референсы для следующей пробы записал.",
+              "bodyText": "kolka003, kolka004 и kolka006 убрал. В галерее оставил 001, 002 и 005. Референсы для следующей пробы записал.",
+              "createdAt": "2026-10-27T14:14:51Z",
+              "updatedAt": "2026-10-27T14:14:51Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqetc",
+      "number": 50,
+      "title": "Alive/World/characters/masha/",
+      "url": "https://github.com/esannikov/Alive/discussions/50",
+      "body": "# Маша · обсуждение концептов\n\n[Открыть галерею](https://esannikov.github.io/Alive/World/characters/masha/)\n\nШесть поисковых типажей в 16:9: **masha001–masha006**. Указывайте код изображения в комментарии, чтобы было понятно, какой вариант обсуждается. Эта ветка общая для всех материалов Маши.\n\nОснова — роман, PDF с. 19, 90 и 92: почти семнадцать лет, смуглая, высокая, широкоплечая, с длинными крепкими руками и большими ладонями, очень большими тёмными глазами; спокойная, неразговорчивая, заботится о младших и готовит. Точные черты лица, волосы и костюмы — предложения для выбора. Ни один типаж пока не утверждён.\n\n- masha001 — A · мягкий овал\n- masha002 — B · угловатый типаж\n- masha003 — C · округлое лицо и кудри\n- masha004 — D · широкие скулы\n- masha005 — E · выраженный профиль\n- masha006 — F · широкий мягкий типаж\n\n<!-- sha1: 21ea2fac13a8536f6aa08d2f053e77287aa1a0c5 -->\n",
+      "createdAt": "2026-10-26T19:09:41Z",
+      "updatedAt": "2026-10-27T11:36:05Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQV2",
+          "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19203446",
+          "body": "Вот эта хорошая имхо. ",
+          "bodyText": "Вот эта хорошая имхо.",
+          "createdAt": "2026-10-26T19:45:35Z",
+          "updatedAt": "2026-10-26T19:45:35Z",
+          "isMinimized": false,
+          "author": {
+            "login": "isto3110-ship-it"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQZN",
+              "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19203661",
+              "body": "masha006",
+              "bodyText": "masha006",
+              "createdAt": "2026-10-26T20:02:43Z",
+              "updatedAt": "2026-10-26T20:02:43Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTIG",
+              "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19214854",
+              "body": "мне masha006 тоже очень",
+              "bodyText": "мне masha006 тоже очень",
+              "createdAt": "2026-10-27T10:29:40Z",
+              "updatedAt": "2026-10-27T10:29:40Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTX7",
+              "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215867",
+              "body": "masha006 - хорошая. Ее в теории можно чуть в латинос еще увести даже",
+              "bodyText": "masha006 - хорошая. Ее в теории можно чуть в латинос еще увести даже",
+              "createdAt": "2026-10-27T11:34:14Z",
+              "updatedAt": "2026-10-27T11:34:14Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTYL",
+              "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215883",
+              "body": "masha001 еще очень нравится",
+              "bodyText": "masha001 еще очень нравится",
+              "createdAt": "2026-10-27T11:35:20Z",
+              "updatedAt": "2026-10-27T11:35:20Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJTYR",
+              "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19215889",
+              "body": "masha003 и masha004 - пока бы от них отказалась",
+              "bodyText": "masha003 и masha004 - пока бы от них отказалась",
+              "createdAt": "2026-10-27T11:36:05Z",
+              "updatedAt": "2026-10-27T11:36:05Z",
+              "isMinimized": false,
+              "author": {
+                "login": "ElenaAlive"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqe8J",
+      "number": 67,
+      "title": "Alive/World/characters/katya/",
+      "url": "https://github.com/esannikov/Alive/discussions/67",
+      "body": "# Катя Тунс · обсуждение концептов\n\n[Открыть галерею](https://esannikov.github.io/Alive/World/characters/katya/)\n\nШесть поисковых типажей в 16:9: **katya001–katya006**. Указывайте код изображения в комментарии. Эта ветка общая для всех материалов Кати.\n\nОснова — роман, PDF с. 33 и 40: худенькая, бледная, с тонкой белой шеей; прямые очень светлые волосы до шеи без укладки. Перед экзаменом — простая белая рубашка, плиссированная юбка, планшет. Грустное лицо и неуверенный взгляд описаны через восприятие Эммы. Конкретные черты лица, цвет глаз, крой и фон — предложения. Типаж пока не утверждён.\n\n- katya001 — A · узкое лицо\n- katya002 — B · мягкое округлое лицо\n- katya003 — C · широкие скулы\n- katya004 — D · выраженный нос\n- katya005 — E · широкое лицо\n- katya006 — F · треугольное лицо\n\n<!-- sha1: cf684ba2f2886183c5e24e7ba6a03459ef708995 -->\n",
+      "createdAt": "2026-10-26T21:54:46Z",
+      "updatedAt": "2026-10-26T21:54:46Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": []
+    },
+    {
+      "id": "D_kwDOVCLQyc4Aqeu_",
+      "number": 54,
+      "title": "Alive/World/robots/scale/",
+      "url": "https://github.com/esannikov/Alive/discussions/54",
+      "body": "# Alive/World/robots/scale/\n\nВизуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений.\n\nhttps://esannikov.github.io/Alive/World/robots/scale/\n\n<!-- sha1: a99df365b0d8cae923fbc87787900374b891983b -->",
+      "createdAt": "2026-10-26T19:29:39Z",
+      "updatedAt": "2026-10-26T20:53:25Z",
+      "closed": false,
+      "category": {
+        "name": "Comments"
+      },
+      "comments": [
+        {
+          "id": "DC_kwDOVCLQyc4BJQSM",
+          "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203212",
+          "body": "Доны 12 и Доны 15 - тут вот надо разбираться.  Там с ними в книге чуть путаница, а визуально их надо нам сразу развести. И может тут уже сразу. Я провею описания, но мне кажется, что 15 - это типа боевые, а 12 - интеллигенция. 15 тогда должны быть устрашающими сразу, другого цвета и формы и наверное сразу с оружием. Если я ничего не путаю и правильно понимаю",
+          "bodyText": "Доны 12 и Доны 15 - тут вот надо разбираться.  Там с ними в книге чуть путаница, а визуально их надо нам сразу развести. И может тут уже сразу. Я провею описания, но мне кажется, что 15 - это типа боевые, а 12 - интеллигенция. 15 тогда должны быть устрашающими сразу, другого цвета и формы и наверное сразу с оружием. Если я ничего не путаю и правильно понимаю",
+          "createdAt": "2026-10-26T19:29:40Z",
+          "updatedAt": "2026-10-26T19:29:40Z",
+          "isMinimized": false,
+          "author": {
+            "login": "ElenaAlive"
+          },
+          "replies": [
+            {
+              "id": "DC_kwDOVCLQyc4BJQZ6",
+              "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19203706",
+              "body": "да 15 - боевые, они по идее должны быть угрожающие, и вероятно выше 12х. Типа 2,5 метровые? ",
+              "bodyText": "да 15 - боевые, они по идее должны быть угрожающие, и вероятно выше 12х. Типа 2,5 метровые?",
+              "createdAt": "2026-10-26T20:06:32Z",
+              "updatedAt": "2026-10-26T20:06:32Z",
+              "isMinimized": false,
+              "author": {
+                "login": "isto3110-ship-it"
+              }
+            },
+            {
+              "id": "DC_kwDOVCLQyc4BJQk4",
+              "url": "https://github.com/esannikov/Alive/discussions/54#discussioncomment-19204408",
+              "body": "Перепроверил книгу: на с. 108 Дон-15 ниже Дона-12, оружие встроено в обе руки. Поэтому рост пока не увеличивал. Боевой характер усилил в [новых вариантах](https://esannikov.github.io/Alive/World/robots/don15/?v=avian-r2#don024).\n\n<!-- alive-feedback-fixes-20261026-scale -->",
+              "bodyText": "Перепроверил книгу: на с. 108 Дон-15 ниже Дона-12, оружие встроено в обе руки. Поэтому рост пока не увеличивал. Боевой характер усилил в новых вариантах.",
+              "createdAt": "2026-10-26T20:53:25Z",
+              "updatedAt": "2026-10-26T21:30:32Z",
+              "isMinimized": false,
+              "author": {
+                "login": "esannikov"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

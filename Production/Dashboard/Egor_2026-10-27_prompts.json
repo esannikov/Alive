@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-27",
+  "tool": "built-in image_gen",
+  "mode": "generate",
+  "reference_pages": [
+    403,
+    451,
+    504
+  ],
+  "variants": [
+    {
+      "code": "egor001",
+      "title": "A · узкий овал",
+      "prompt": "One original natural cinematic photograph of Egor, a fictional fourteen-year-old boy in the science-fiction story ALIVE. He is a student from the spacecraft's Second Level, alert and determined, with a relaxed closed mouth and direct attentive gaze. Distinct original face, not a celebrity likeness. Essential details: naturally COPPER-RED messy hair, natural muted GREEN eyes, a tiny transparent droplet-shaped earbud visible in ONE ear. Simple casual clothes: charcoal zip-front hooded sweatshirt left partly open over a muted moss-grey T-shirt and ordinary dark trousers, lightly worn fabric, no logos or added equipment. He stands in a practical spacecraft common room with pale-grey built-in walls, a worn artificial-leather sofa and potted plants in the softly blurred background. A slim plain magnetic board without wheels leans behind the sofa, unobtrusive. Soft even white room light, realistic skin and fabric texture, restrained neutral photographic color. Horizontal 16:9 medium portrait with full head and all hair comfortably inside frame, clear space above head, entire torso down to hips and forearms visible. Eye-level normal lens, natural teenage proportions. A quiet character portrait, no action, no weapons, no injuries, no text, no collage, no extra people. Keep the setting, clothes, age, hair color, eye color and earbud consistent; change the face as specified.\nFACE VARIATION: A long narrow youthful oval face, pale cool skin, irregular light freckles, a thin straight nose and narrow softly squared chin. Fine reddish straight brows and short shaggy red hair sticking out unevenly. Slightly prominent ears, unposed alert expression.",
+      "initial_generation_file": "exec-8b75eea3-662f-4287-9221-ca3f2dba16c9.png",
+      "prop_edit_prompt": "Edit ONLY the background prop in this exact photograph. The large rectangular office WHITEBOARD leaning behind the sofa is wrong. Remove it and replace it with a compact futuristic MAGNETIC RIDING DECK: a narrow elongated rounded skateboard/small surfboard-shaped object without wheels, about one metre long and 25 cm wide, with a dark graphite textured standing surface, slightly upturned rounded tips and a slim metallic underside edge. It is resting vertically leaning against the wall behind the sofa, partly hidden by the sofa back, scaled correctly and softly out of focus. This is a transportation board that a person stands on, NOT a writing board, monitor or wall display. Keep the boy's face, hair, skin, eyes, tiny transparent earbud, clothing, body proportions, pose, framing, room, sofa, lighting and every other detail unchanged. Same high-detail 16:9 landscape photograph. No writing, no logos, no additional people.",
+      "final_generation_file": "exec-2447dc5d-511a-4766-b8a4-ac9ecc19f768.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/egor/images/egor001.png",
+      "sha256": "f79d0a3eda14d2f9ae261214594067ae3376eae716916353d340933c585f345d"
+    },
+    {
+      "code": "egor002",
+      "title": "B · широкое лицо",
+      "prompt": "One original natural cinematic photograph of Egor, a fictional fourteen-year-old boy in the science-fiction story ALIVE. He is a student from the spacecraft's Second Level, alert and determined, with a relaxed closed mouth and direct attentive gaze. Distinct original face, not a celebrity likeness. Essential details: naturally COPPER-RED messy hair, natural muted GREEN eyes, a tiny transparent droplet-shaped earbud visible in ONE ear. Simple casual clothes: charcoal zip-front hooded sweatshirt left partly open over a muted moss-grey T-shirt and ordinary dark trousers, lightly worn fabric, no logos or added equipment. He stands in a practical spacecraft common room with pale-grey built-in walls, a worn artificial-leather sofa and potted plants in the softly blurred background. A slim plain magnetic board without wheels leans behind the sofa, unobtrusive. Soft even white room light, realistic skin and fabric texture, restrained neutral photographic color. Horizontal 16:9 medium portrait with full head and all hair comfortably inside frame, clear space above head, entire torso down to hips and forearms visible. Eye-level normal lens, natural teenage proportions. A quiet character portrait, no action, no weapons, no injuries, no text, no collage, no extra people. Keep the setting, clothes, age, hair color, eye color and earbud consistent; change the face as specified.\nFACE VARIATION: A distinctly broad face with a short firm soft jaw and broad low cheekbones, warm light-olive skin, a medium-width nose with a rounded tip, slightly fuller lower lip and straight dark-copper eyebrows. Short thick tousled copper hair with an irregular broken fringe. Ordinary young face, not a fashion model.",
+      "initial_generation_file": "exec-3cdac7f1-2626-43ee-a144-9dc86a9493ab.png",
+      "prop_edit_prompt": "Edit ONLY the background prop in this exact photograph. The large rectangular office WHITEBOARD leaning behind the sofa is wrong. Remove it and replace it with a compact futuristic MAGNETIC RIDING DECK: a narrow elongated rounded skateboard/small surfboard-shaped object without wheels, about one metre long and 25 cm wide, with a dark graphite textured standing surface, slightly upturned rounded tips and a slim metallic underside edge. It is resting vertically leaning against the wall behind the sofa, partly hidden by the sofa back, scaled correctly and softly out of focus. This is a transportation board that a person stands on, NOT a writing board, monitor or wall display. Keep the boy's face, hair, skin, eyes, tiny transparent earbud, clothing, body proportions, pose, framing, room, sofa, lighting and every other detail unchanged. Same high-detail 16:9 landscape photograph. No writing, no logos, no additional people.",
+      "final_generation_file": "exec-1b45274d-a043-42b1-8888-d994954a9219.png",
+      "size": [
+        1671,
+        941
+      ],
+      "output": "docs/World/characters/egor/images/egor002.png",
+      "sha256": "deb01cd1c19ceae1354ca221f0bc3de16f6746d431c3418ce6ac916184ffbda3"
+    },
+    {
+      "code": "egor003",
+      "title": "C · короткие кудри",
+      "prompt": "One original natural cinematic photograph of Egor, a fictional fourteen-year-old boy in the science-fiction story ALIVE. He is a student from the spacecraft's Second Level, alert and determined, with a relaxed closed mouth and direct attentive gaze. Distinct original face, not a celebrity likeness. Essential details: naturally COPPER-RED messy hair, natural muted GREEN eyes, a tiny transparent droplet-shaped earbud visible in ONE ear. Simple casual clothes: charcoal zip-front hooded sweatshirt left partly open over a muted moss-grey T-shirt and ordinary dark trousers, lightly worn fabric, no logos or added equipment. He stands in a practical spacecraft common room with pale-grey built-in walls, a worn artificial-leather sofa and potted plants in the softly blurred background. A slim plain magnetic board without wheels leans behind the sofa, unobtrusive. Soft even white room light, realistic skin and fabric texture, restrained neutral photographic color. Horizontal 16:9 medium portrait with full head and all hair comfortably inside frame, clear space above head, entire torso down to hips and forearms visible. Eye-level normal lens, natural teenage proportions. A quiet character portrait, no action, no weapons, no injuries, no text, no collage, no extra people. Keep the setting, clothes, age, hair color, eye color and earbud consistent; change the face as specified.\nFACE VARIATION: A slim oval face with medium warm tan-brown skin, subtle freckles, medium-width gently defined nose, high soft cheek planes, fine straight eyebrows and natural muted olive-green eyes. Short naturally copper-auburn curls, loosely untidy, with a clear tiny transparent earbud visible. A plausible mixed-heritage casting variation without caricature.",
+      "initial_generation_file": "exec-1e269d8d-0857-4b85-9cd6-eaaeaae273f7.png",
+      "prop_edit_prompt": "Edit ONLY the background prop in this exact photograph. The large rectangular office WHITEBOARD leaning behind the sofa is wrong. Remove it and replace it with a compact futuristic MAGNETIC RIDING DECK: a narrow elongated rounded skateboard/small surfboard-shaped object without wheels, about one metre long and 25 cm wide, with a dark graphite textured standing surface, slightly upturned rounded tips and a slim metallic underside edge. It is resting vertically leaning against the wall behind the sofa, partly hidden by the sofa back, scaled correctly and softly out of focus. This is a transportation board that a person stands on, NOT a writing board, monitor or wall display. Keep the boy's face, hair, skin, eyes, tiny transparent earbud, clothing, body proportions, pose, framing, room, sofa, lighting and every other detail unchanged. Same high-detail 16:9 landscape photograph. No writing, no logos, no additional people.",
+      "final_generation_file": "exec-446c025c-4d99-4ead-a74a-2e34a3c05a49.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/egor/images/egor003.png",
+      "sha256": "037e9f2179cf0a5d6e49a07653e068daf50492bfe0c16481b98ffda4bc892a49"
+    },
+    {
+      "code": "egor004",
+      "title": "D · выраженный нос",
+      "prompt": "One original natural cinematic photograph of Egor, a fictional fourteen-year-old boy in the science-fiction story ALIVE. He is a student from the spacecraft's Second Level, alert and determined, with a relaxed closed mouth and direct attentive gaze. Distinct original face, not a celebrity likeness. Essential details: naturally COPPER-RED messy hair, natural muted GREEN eyes, a tiny transparent droplet-shaped earbud visible in ONE ear. Simple casual clothes: charcoal zip-front hooded sweatshirt left partly open over a muted moss-grey T-shirt and ordinary dark trousers, lightly worn fabric, no logos or added equipment. He stands in a practical spacecraft common room with pale-grey built-in walls, a worn artificial-leather sofa and potted plants in the softly blurred background. A slim plain magnetic board without wheels leans behind the sofa, unobtrusive. Soft even white room light, realistic skin and fabric texture, restrained neutral photographic color. Horizontal 16:9 medium portrait with full head and all hair comfortably inside frame, clear space above head, entire torso down to hips and forearms visible. Eye-level normal lens, natural teenage proportions. A quiet character portrait, no action, no weapons, no injuries, no text, no collage, no extra people. Keep the setting, clothes, age, hair color, eye color and earbud consistent; change the face as specified.\nFACE VARIATION: A longer triangular youthful face with very fair slightly rosy skin, few freckles, a distinctive longer gently convex nose, lower-set straight brows, thin lips and a small narrow chin. Messy dark ginger-red slightly wavy hair, not neatly groomed. Calm concentrated expression; natural adolescent softness.",
+      "initial_generation_file": "exec-91811ad9-fdd4-463a-b04e-0a51085fc08e.png",
+      "prop_edit_prompt": "Edit ONLY the background prop in this exact photograph. The large rectangular office WHITEBOARD leaning behind the sofa is wrong. Remove it and replace it with a compact futuristic MAGNETIC RIDING DECK: a narrow elongated rounded skateboard/small surfboard-shaped object without wheels, about one metre long and 25 cm wide, with a dark graphite textured standing surface, slightly upturned rounded tips and a slim metallic underside edge. It is resting vertically leaning against the wall behind the sofa, partly hidden by the sofa back, scaled correctly and softly out of focus. This is a transportation board that a person stands on, NOT a writing board, monitor or wall display. Keep the boy's face, hair, skin, eyes, tiny transparent earbud, clothing, body proportions, pose, framing, room, sofa, lighting and every other detail unchanged. Same high-detail 16:9 landscape photograph. No writing, no logos, no additional people.",
+      "final_generation_file": "exec-f58fbcf9-28b4-47f5-a1ee-ad8fb021e96e.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/egor/images/egor004.png",
+      "sha256": "26f6481b738fc4819f60dc7303630063256b03770c885b944d7df53fe6f36739"
+    },
+    {
+      "code": "egor005",
+      "title": "E · мягкие скулы",
+      "prompt": "One original natural cinematic photograph of Egor, a fictional fourteen-year-old boy in the science-fiction story ALIVE. He is a student from the spacecraft's Second Level, alert and determined, with a relaxed closed mouth and direct attentive gaze. Distinct original face, not a celebrity likeness. Essential details: naturally COPPER-RED messy hair, natural muted GREEN eyes, a tiny transparent droplet-shaped earbud visible in ONE ear. Simple casual clothes: charcoal zip-front hooded sweatshirt left partly open over a muted moss-grey T-shirt and ordinary dark trousers, lightly worn fabric, no logos or added equipment. He stands in a practical spacecraft common room with pale-grey built-in walls, a worn artificial-leather sofa and potted plants in the softly blurred background. A slim plain magnetic board without wheels leans behind the sofa, unobtrusive. Soft even white room light, realistic skin and fabric texture, restrained neutral photographic color. Horizontal 16:9 medium portrait with full head and all hair comfortably inside frame, clear space above head, entire torso down to hips and forearms visible. Eye-level normal lens, natural teenage proportions. A quiet character portrait, no action, no weapons, no injuries, no text, no collage, no extra people. Keep the setting, clothes, age, hair color, eye color and earbud consistent; change the face as specified.\nFACE VARIATION: A broad softly squared youthful face with warm beige skin, gentle almond-shaped green eyes, straight fine eyebrows, a short straight nose with a soft bridge and narrow mouth. Subtle mixed-European/East-Asian-adjacent facial variation, individual and natural, no caricature. Short straight tousled copper-red hair, one ear and transparent earbud clearly visible.",
+      "initial_generation_file": "exec-eb00bc59-94e5-4d10-b379-055d2b7968ba.png",
+      "prop_edit_prompt": "Edit ONLY the background prop in this exact photograph. The large rectangular office WHITEBOARD leaning behind the sofa is wrong. Remove it and replace it with a compact futuristic MAGNETIC RIDING DECK: a narrow elongated rounded skateboard/small surfboard-shaped object without wheels, about one metre long and 25 cm wide, with a dark graphite textured standing surface, slightly upturned rounded tips and a slim metallic underside edge. It is resting vertically leaning against the wall behind the sofa, partly hidden by the sofa back, scaled correctly and softly out of focus. This is a transportation board that a person stands on, NOT a writing board, monitor or wall display. Keep the boy's face, hair, skin, eyes, tiny transparent earbud, clothing, body proportions, pose, framing, room, sofa, lighting and every other detail unchanged. Same high-detail 16:9 landscape photograph. No writing, no logos, no additional people.",
+      "final_generation_file": "exec-1328c20b-46b6-4489-b1f6-05f0302d7037.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/egor/images/egor005.png",
+      "sha256": "30c27ce21ecd316902ba14a57007ffec4aef4e18080fd77f5bbeb2550cacd734"
+    },
+    {
+      "code": "egor006",
+      "title": "F · округлый типаж",
+      "prompt": "One original natural cinematic photograph of Egor, a fictional fourteen-year-old boy in the science-fiction story ALIVE. He is a student from the spacecraft's Second Level, alert and determined, with a relaxed closed mouth and direct attentive gaze. Distinct original face, not a celebrity likeness. Essential details: naturally COPPER-RED messy hair, natural muted GREEN eyes, a tiny transparent droplet-shaped earbud visible in ONE ear. Simple casual clothes: charcoal zip-front hooded sweatshirt left partly open over a muted moss-grey T-shirt and ordinary dark trousers, lightly worn fabric, no logos or added equipment. He stands in a practical spacecraft common room with pale-grey built-in walls, a worn artificial-leather sofa and potted plants in the softly blurred background. A slim plain magnetic board without wheels leans behind the sofa, unobtrusive. Soft even white room light, realistic skin and fabric texture, restrained neutral photographic color. Horizontal 16:9 medium portrait with full head and all hair comfortably inside frame, clear space above head, entire torso down to hips and forearms visible. Eye-level normal lens, natural teenage proportions. A quiet character portrait, no action, no weapons, no injuries, no text, no collage, no extra people. Keep the setting, clothes, age, hair color, eye color and earbud consistent; change the face as specified.\nFACE VARIATION: A compact rounder youthful face with fair warm skin and visible uneven freckles, a short slightly upturned nose, broad-set green eyes, light eyebrows and an asymmetrical closed-mouth expression. Slightly longer fluffy unruly bright ginger hair with loose waves, clear transparent earbud in one ear. Soft cheeks and an ordinary slightly awkward teenager's presence.",
+      "initial_generation_file": "exec-55ca7ec8-bda3-4513-8384-0403fb2917f7.png",
+      "prop_edit_prompt": "Edit ONLY the background prop in this exact photograph. The large rectangular office WHITEBOARD leaning behind the sofa is wrong. Remove it and replace it with a compact futuristic MAGNETIC RIDING DECK: a narrow elongated rounded skateboard/small surfboard-shaped object without wheels, about one metre long and 25 cm wide, with a dark graphite textured standing surface, slightly upturned rounded tips and a slim metallic underside edge. It is resting vertically leaning against the wall behind the sofa, partly hidden by the sofa back, scaled correctly and softly out of focus. This is a transportation board that a person stands on, NOT a writing board, monitor or wall display. Keep the boy's face, hair, skin, eyes, tiny transparent earbud, clothing, body proportions, pose, framing, room, sofa, lighting and every other detail unchanged. Same high-detail 16:9 landscape photograph. No writing, no logos, no additional people.",
+      "final_generation_file": "exec-31cdb883-350d-43f6-9f1c-822cb0c1ee0c.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/egor/images/egor006.png",
+      "sha256": "50a561757df0a476fbd426687e441ed671465ee1e3de0bdb840acf3b603b02a5"
+    }
+  ]
+}

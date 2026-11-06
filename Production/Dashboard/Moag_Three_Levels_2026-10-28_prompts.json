@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-28",
+  "tool": "built-in imagegen",
+  "variants": [
+    {
+      "code": "moag041",
+      "title": "Едем · велике коло",
+      "shape": "Overall geometry is a perfect circular ring with a central core and a few enclosed short bridges, drawn as an ellipse only by perspective. Refined simple continuous circular silhouette, ring thickness slender relative to diameter but deep enough for the three giant macro-levels.",
+      "prompt": "Create a NEW original photorealistic cinematic concept for a vast civilian space station in deep space. Architectural scale is absolutely central: this station is a CITY IN SPACE, not a building or ship with ordinary storeys. Its body is organized into THREE HUGE vertically stacked LEVELS or districts; each of the three primary levels spans MANY internal storeys, passages and buildings, not one room height. Three major layers remain readable as three broad architectural volumes, but each volume is covered in numerous rows of MINUSCULE pinpoint windows at human scale, like a distant megacity skyline; windows are tiny, not panoramic. No individual furniture, people or trees can be distinguished through windows, no single row of giant room-size glass panes. The lower volume is largely technical and cargo, the middle and upper are livable districts; all volumes form ONE integrated, solid-connected and plausible engineered station. The structure feels vast through fine dense micro-scale windows and very small service craft in the distance, without any numeric dimensions or labels. Elegant peaceful Eden aesthetic: light warm-white and silver-grey structural metal, restrained architectural geometry, warm tiny lights, believable slight wear and industrial detail, no weaponry. Entire structure framed from an elevated side three-quarter angle, clearly revealing vertical architecture and complete silhouette against black starfield. Balanced proportions, graceful contours, no disjointed blocks, no decorative sharp giant spikes, no typography, no logos, no infographics. LANDSCAPE 16:9. Overall geometry is a perfect circular ring with a central core and a few enclosed short bridges, drawn as an ellipse only by perspective. Refined simple continuous circular silhouette, ring thickness slender relative to diameter but deep enough for the three giant macro-levels.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-42a28df9-82bb-49f5-a28d-5efc1a4b97f9.png",
+      "original_generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-83245ed0-7dd3-41f5-8d15-5c28a5a52681.png",
+      "cleanup_prompt": "Precisely edit this image ONLY to remove every small separate spacecraft, shuttle, vehicle, satellite and visible engine trail floating outside the main station. Replace each with matching natural black starfield and retain ordinary stars. Leave the main station entirely unchanged pixel-for-pixel as far as possible: same architecture, silhouette, all three major levels, windows, central structures, materials, scale impression, viewpoint, background and lighting. Do not remove any part attached to the station; do not add new objects. Preserve the original image dimensions and landscape composition.",
+      "output": "docs/World/ships/moag/images/moag041.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "68ccf88187068c0f00d6706680a0054ebf60434c6f8d2af7c5eb3440c7e6c421",
+      "series": "moag-city-circle"
+    },
+    {
+      "code": "moag042",
+      "title": "Едем · монументальний овал",
+      "shape": "Overall plan is a soft broad OVAL, a single continuous oval body with a spacious inner courtyard and two restrained integrated access bridges. Three immense districts nested vertically, with tiny windows throughout each. Cohesive architecture, elegant smooth continuous surfaces, no star-shaped arms.",
+      "prompt": "Create a NEW original photorealistic cinematic concept for a vast civilian space station in deep space. Architectural scale is absolutely central: this station is a CITY IN SPACE, not a building or ship with ordinary storeys. Its body is organized into THREE HUGE vertically stacked LEVELS or districts; each of the three primary levels spans MANY internal storeys, passages and buildings, not one room height. Three major layers remain readable as three broad architectural volumes, but each volume is covered in numerous rows of MINUSCULE pinpoint windows at human scale, like a distant megacity skyline; windows are tiny, not panoramic. No individual furniture, people or trees can be distinguished through windows, no single row of giant room-size glass panes. The lower volume is largely technical and cargo, the middle and upper are livable districts; all volumes form ONE integrated, solid-connected and plausible engineered station. The structure feels vast through fine dense micro-scale windows and very small service craft in the distance, without any numeric dimensions or labels. Elegant peaceful Eden aesthetic: light warm-white and silver-grey structural metal, restrained architectural geometry, warm tiny lights, believable slight wear and industrial detail, no weaponry. Entire structure framed from an elevated side three-quarter angle, clearly revealing vertical architecture and complete silhouette against black starfield. Balanced proportions, graceful contours, no disjointed blocks, no decorative sharp giant spikes, no typography, no logos, no infographics. LANDSCAPE 16:9. Overall plan is a soft broad OVAL, a single continuous oval body with a spacious inner courtyard and two restrained integrated access bridges. Three immense districts nested vertically, with tiny windows throughout each. Cohesive architecture, elegant smooth continuous surfaces, no star-shaped arms.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-173d32d8-28b1-4719-b822-409b6b5c5009.png",
+      "original_generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-fb99ff2f-12ba-4a03-b470-370b6f2b256b.png",
+      "cleanup_prompt": "Precisely edit this image ONLY to remove every small separate spacecraft, shuttle, vehicle, satellite and visible engine trail floating outside the main station. Replace each with matching natural black starfield and retain ordinary stars. Leave the main station entirely unchanged pixel-for-pixel as far as possible: same architecture, silhouette, all three major levels, windows, central structures, materials, scale impression, viewpoint, background and lighting. Do not remove any part attached to the station; do not add new objects. Preserve the original image dimensions and landscape composition.",
+      "output": "docs/World/ships/moag/images/moag042.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d393939adbe09d0b713fbca6f0decaadfb07f5b6afc81d1859a96c5bb524270e",
+      "series": "moag-city-oval"
+    },
+    {
+      "code": "moag043",
+      "title": "Едем · витягнутий еліпс",
+      "shape": "Overall geometry is a distinctly LONG ELONGATED ELLIPSE with a thin enclosed axial hub and paired enclosed connections. A single three-level megastructure, fine repeat of human-scale micro-windows in many rows per major level. Visually streamlined balanced and refined, not a wheel or a pencil.",
+      "prompt": "Create a NEW original photorealistic cinematic concept for a vast civilian space station in deep space. Architectural scale is absolutely central: this station is a CITY IN SPACE, not a building or ship with ordinary storeys. Its body is organized into THREE HUGE vertically stacked LEVELS or districts; each of the three primary levels spans MANY internal storeys, passages and buildings, not one room height. Three major layers remain readable as three broad architectural volumes, but each volume is covered in numerous rows of MINUSCULE pinpoint windows at human scale, like a distant megacity skyline; windows are tiny, not panoramic. No individual furniture, people or trees can be distinguished through windows, no single row of giant room-size glass panes. The lower volume is largely technical and cargo, the middle and upper are livable districts; all volumes form ONE integrated, solid-connected and plausible engineered station. The structure feels vast through fine dense micro-scale windows and very small service craft in the distance, without any numeric dimensions or labels. Elegant peaceful Eden aesthetic: light warm-white and silver-grey structural metal, restrained architectural geometry, warm tiny lights, believable slight wear and industrial detail, no weaponry. Entire structure framed from an elevated side three-quarter angle, clearly revealing vertical architecture and complete silhouette against black starfield. Balanced proportions, graceful contours, no disjointed blocks, no decorative sharp giant spikes, no typography, no logos, no infographics. LANDSCAPE 16:9. Overall geometry is a distinctly LONG ELONGATED ELLIPSE with a thin enclosed axial hub and paired enclosed connections. A single three-level megastructure, fine repeat of human-scale micro-windows in many rows per major level. Visually streamlined balanced and refined, not a wheel or a pencil.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-379db1cf-3018-441b-8aa0-130996245b31.png",
+      "original_generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-5950b6dd-c682-439a-a59f-c06a64f73717.png",
+      "cleanup_prompt": "Precisely edit this image ONLY to remove every small separate spacecraft, shuttle, vehicle, satellite and visible engine trail floating outside the main station. Replace each with matching natural black starfield and retain ordinary stars. Leave the main station entirely unchanged pixel-for-pixel as far as possible: same architecture, silhouette, all three major levels, windows, central structures, materials, scale impression, viewpoint, background and lighting. Do not remove any part attached to the station; do not add new objects. Preserve the original image dimensions and landscape composition.",
+      "output": "docs/World/ships/moag/images/moag043.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e8e49382c0d832eb6bc4471a52647b7baf2d47bd9bbd35335b70daa97bd8e775",
+      "series": "moag-city-ellipse"
+    },
+    {
+      "code": "moag044",
+      "title": "Едем · складний радіальний",
+      "prompt": "NEW original photorealistic film production concept: Moag / Eden, a monumental inhabited civilian SPACE CITY with a refined COMPLEX RADIAL ARCHITECTURE. A coherent central civic hub connects to a softly circular outer inhabitable ring through several unequal but balanced broad radial sectors and enclosed passages. Use a layered, sophisticated radial composition with articulated courtyards and varying sector shapes, not identical long rectangular arms, not a wheel with uniformly repeated spokes, not a bearing. Every structural part is physically joined into one harmonious station. Overall silhouette is balanced and rounded, with three clearly distinguishable MAIN MACRO-LEVELS stacked in the large outer body. Each major level is a whole multistorey district with MANY rows of tiny pinpoint human-scale windows, like a city seen from afar; no big windows showing furniture or individual rooms. Lowest macro-level is integrated industrial/service sector; the other two are inhabited; radial connectors provide enclosed access. The scale must feel vast, supported by several tiny service craft at a distance, without assigning numerical dimensions. Clean light warm-grey and silver-white metal hull, warm pinprick lights, subtle dense realistic details, benevolent civilian Eden atmosphere. Entire station visible with margins in elevated three-quarter side view, black starfield, atmospheric realistic lighting, landscape 16:9. No weapons, text, labels, loose pieces, logos, literal Möbius, flat ribbons, or exaggerated decorative spikes.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-b570eac1-a344-4d81-9ed6-fca11a4b2f4d.png",
+      "original_generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-e8d99b75-9462-4f0e-bb41-995f2d550e74.png",
+      "cleanup_prompt": "Precisely edit this image ONLY to remove every small separate spacecraft, shuttle, vehicle, satellite and visible engine trail floating outside the main station. Replace each with matching natural black starfield and retain ordinary stars. Leave the main station entirely unchanged pixel-for-pixel as far as possible: same architecture, silhouette, all three major levels, windows, central structures, materials, scale impression, viewpoint, background and lighting. Do not remove any part attached to the station; do not add new objects. Preserve the original image dimensions and landscape composition.",
+      "output": "docs/World/ships/moag/images/moag044.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e0bb086e5e274cdbc35677abe742a860d02b92d1f887e5d1f42082a04508c0d2",
+      "series": "moag-city-radial"
+    }
+  ]
+}

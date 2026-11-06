@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T23:29:55.884355+00:00",
+  "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKFln",
+      "page": "characters/sonya/",
+      "title": "Соня",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:46:29Z",
+      "excerpt": "sonya004- в резерв. sonya002 можно на заглавную плиз?",
+      "url": "https://github.com/esannikov/Alive/discussions/145#discussioncomment-19421543"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BKFlU",
+      "page": "characters/ilya/",
+      "title": "Илья",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:45:30Z",
+      "excerpt": "ilya004 можно на заглавную поставить плиз",
+      "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19421524"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BKFlG",
+      "page": "characters/katya/",
+      "title": "Катя",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:44:36Z",
+      "excerpt": "katya003, katya004, katya007 - уходят в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19421510"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BKFkp",
+      "page": "characters/masha/",
+      "title": "Маша",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:43:00Z",
+      "excerpt": "masha006 и masha001 - уходят в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/50#discussioncomment-19421481"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BKFkg",
+      "page": "characters/nitka/",
+      "title": "Нитка",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-05T15:42:19Z",
+      "excerpt": "nitka005, nitka010, nitka011, nitka012 - уходят в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/48#discussioncomment-19421472"
+    }
+  ],
+  "discussionNumbers": {
+    "characters/sonya/": 145,
+    "characters/ilya/": 94,
+    "characters/katya/": 67,
+    "characters/masha/": 50,
+    "characters/nitka/": 48,
+    "characters/kolka/": 59,
+    "characters/tais/": 56,
+    "characters/emma/": 57,
+    "robots/martin/": 61,
+    "creatures/pushistik/": 169,
+    "styles/alc-02/": 166,
+    "characters/fedor/": 52,
+    "robots/lon/": 44,
+    "styles/alc-04/": 165,
+    "styles/alc-05/": 167,
+    "locations/main-square/": 125,
+    "robots/don15/": 53,
+    "ships/moag/": 62,
+    "characters/krendel/": 96,
+    "characters/egor/": 95,
+    "characters/valek/": 60,
+    "characters/rita/": 85,
+    "robots/scale/": 54
+  },
+  "discussionStats": {
+    "work.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "catalog.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/tais/": {
+      "messageCount": 13,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:39:46Z"
+      }
+    },
+    "characters/tais/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/emma/": {
+      "messageCount": 13,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:36:50Z"
+      }
+    },
+    "characters/emma/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/fedor/": {
+      "messageCount": 14,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-03T13:35:36Z"
+      }
+    },
+    "characters/fedor/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kolka/": {
+      "messageCount": 9,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:40:52Z"
+      }
+    },
+    "characters/kolka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/valek/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T10:57:26Z"
+      }
+    },
+    "characters/valek/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/nitka/": {
+      "messageCount": 9,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:42:19Z"
+      }
+    },
+    "characters/nitka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/masha/": {
+      "messageCount": 9,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:43:00Z"
+      }
+    },
+    "characters/masha/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kristinka/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kristinka/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/romik/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/romik/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/katya/": {
+      "messageCount": 3,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:44:36Z"
+      }
+    },
+    "characters/katya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/ilya/": {
+      "messageCount": 3,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:45:30Z"
+      }
+    },
+    "characters/ilya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/sonya/": {
+      "messageCount": 2,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-05T15:46:29Z"
+      }
+    },
+    "characters/sonya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/egor/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:42:29Z"
+      }
+    },
+    "characters/egor/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/zhanna/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/zhanna/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/rita/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/rita/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/krendel/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-29T13:44:34Z"
+      }
+    },
+    "characters/krendel/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/vovik/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/vovik/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/lon/": {
+      "messageCount": 10,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-03T10:02:17Z"
+      }
+    },
+    "robots/lon/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don15/": {
+      "messageCount": 11,
+      "last": {
+        "author": "isto3110-ship-it",
+        "createdAt": "2026-10-30T11:04:51Z"
+      }
+    },
+    "robots/don15/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/reserve/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/reserve/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/martin/": {
+      "messageCount": 16,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-04T09:51:12Z"
+      }
+    },
+    "robots/martin/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don12/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/don12/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/moag/": {
+      "messageCount": 8,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-30T10:20:15Z"
+      }
+    },
+    "ships/moag/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/reserve/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "ships/reserve/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "locations/main-square/": {
+      "messageCount": 3,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-10-31T20:21:55Z"
+      }
+    },
+    "locations/main-square/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/base-girls/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/base-girls/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-01/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-01/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-02/": {
+      "messageCount": 2,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-04T09:32:37Z"
+      }
+    },
+    "styles/alc-02/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-04/": {
+      "messageCount": 3,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-03T09:36:22Z"
+      }
+    },
+    "styles/alc-04/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-05/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-03T09:31:51Z"
+      }
+    },
+    "styles/alc-05/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-07/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-07/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-09/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "styles/alc-09/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kir/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kir/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "creatures/pushistik/": {
+      "messageCount": 5,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-04T09:40:00Z"
+      }
+    },
+    "creatures/pushistik/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "creatures/friki/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "creatures/friki/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "search.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/scale/": {
+      "messageCount": 3,
+      "last": {
+        "author": "esannikov",
+        "createdAt": "2026-10-26T20:53:25Z"
+      }
+    },
+    "characters/cast-contrast/": {
+      "messageCount": 0,
+      "last": null
+    }
+  }
+}

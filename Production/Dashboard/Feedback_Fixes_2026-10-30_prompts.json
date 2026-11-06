@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-30",
+  "tool": "built-in ImageGen",
+  "assets": [
+    {
+      "code": "don029",
+      "title": "Кожух вокруг кисти · четыре фазы",
+      "source_code": "don022",
+      "prompt": "Create a clear fictional sci-fi robot design phase sheet based on the attached robot's forearm, hand, material palette and style. Show ONLY the same right forearm and hand, elbow on the left and fingertips toward the right, in FOUR LARGE panels arranged as a clean 2 by 2 grid on pale grey. Same scale and three-quarter side camera in every panel. Ivory armour over dark mechanical joints with subtle brass details, matching the reference. A cinema concept of a fictional energy emitter, no real engineering dimensions or construction instructions.\nMechanism A: a forearm armour shroud unfolds and moves forward to ENCLOSE the actual hand. The hand is never deleted or replaced. Panel 01: normal forearm, relaxed intact five-finger hand fully exposed, armour panels closed on the forearm. Panel 02: the fingers curl into a compact natural fist, the thumb wraps outside the fingers; two forearm shell halves hinge OPEN and begin moving FORWARD around the fist. Panel 03: the same shell halves slide past the wrist and partially CLOSE around the fist; use a small clean cutaway area on the near shell to visibly show the original clenched hand inside. Panel 04: closed enlarged gauntlet around the fist, a fictional luminous red energy-emitter rim sits IN FRONT of the knuckles, with sufficient clear internal volume for the entire fist. In a small ghosted cutaway inset within panel 04 show exactly where the fist remains inside the enclosure. The wrist and original hand stay attached through all four stages; panels cannot occupy the same volume as fingers; no telescoping through solid hand, no missing wrist, no morphing the hand into a barrel. The silhouette of the emitter grows from the original forearm panels, not a separate weapon floating into place.\nReadable Russian captions only: top title «А · Кожух вокруг кисти»; panel captions «01 · Кисть свободна», «02 · Раскрытие», «03 · Кисть внутри», «04 · Готовность». Add restrained motion arrows only at phases 02 and 03. Prioritise physically understandable fictional transformation and the persistent hand. High-end film prop concept render, sharp clean broad forms, wide 16:9 composition, generous spacing between panels, no people, no firing beam, no real-world weapon plans, no watermark.",
+      "input_description": "docs/World/robots/don15/images/don022.png"
+    },
+    {
+      "code": "don030",
+      "title": "Модуль на предплечье · четыре фазы",
+      "source_code": "don022",
+      "prompt": "Create a clear fictional sci-fi robot design phase sheet based on the attached robot's forearm, hand, material palette and style. Show ONLY the same right forearm and hand, elbow left and fingertips right, in FOUR LARGE panels in a clean 2 by 2 grid on pale grey. Same scale and three-quarter side camera in every panel. Ivory armour, dark joints, subtle brass details matching reference. This is a cinematic fictional energy emitter, not real-world engineering plans.\nMechanism B: a compact independent emitter module deploys on the OUTER / DORSAL SIDE OF THE FOREARM. The normal five-finger hand is fully present, visible and completely free in ALL FOUR phases. Panel 01: forearm shell closed, intact relaxed hand, small integrated stowed outer-side module. Panel 02: the outer forearm cover pivots outward, revealing the attached compact emitter mechanism above the wrist line. Panel 03: the module rises slightly and extends forward on a clear short external guide, ending ABOVE and clear of the hand, leaving a visible air gap so it cannot collide with the fingers. Panel 04: module aligned with the forearm and glowing a restrained red at its front aperture; the open articulated hand is still fully visible BELOW and beside it, free to grasp. The module is attached to the arm in all phases, never floats, never replaces the hand; show a consistent wrist, fingers, elbow and armour throughout. No giant gun, no real weapon construction detail, no beam or target.\nReadable Russian text: top title «Б · Модуль на предплечье»; captions «01 · Закрыт», «02 · Крышка открыта», «03 · Выдвижение», «04 · Кисть свободна». A few restrained arrows on moving parts in 02 and 03. Film prop design concept, photoreal material rendering with clean legible silhouettes, generous spacing, 16:9 wide sheet, no watermark.",
+      "input_description": "docs/World/robots/don15/images/don022.png"
+    },
+    {
+      "code": "kolka009",
+      "title": "От fedor028 · короткие чёрные иголки",
+      "source_code": "fedor028",
+      "prompt": "Precise identity-preserving edit of this fictional casting portrait. Preserve the EXACT existing young man's facial structure, eyes, skin, expression, body, camera, patched clothing, tablet, lighting and background. Change his HAIR ONLY into Kolka's canonical haircut: very short BLACK hair, unevenly self-cut with scissors, with short stiff tufts sticking up like little needles; believable untidy practical haircut, not a barber fade, not a long fringe, not a styled salon haircut. Expose the forehead and ears naturally. Keep him recognisably the very same person, no facial beautification, no age increase, no ethnicity change, no beard change. Cinematic photorealism, same 16:9 image and composition. No text.",
+      "input_description": "docs/World/characters/fedor/images/fedor028.png"
+    },
+    {
+      "code": "katya007",
+      "title": "От katya003 · субтильность и неуверенность",
+      "source_code": "katya003",
+      "prompt": "Precise identity-preserving edit of this fictional teenage girl portrait. Keep her exact face identity, very pale blond neck-length straight hair, natural skin and eyes, white simple blouse, pleated grey skirt, tablet, corridor, framing and lighting. Make her slightly more slight and physically awkward as in the novel: subtly narrower shoulders and slimmer upper arms, delicate neck, shoulders drawn in a little, one elbow held close while she holds the tablet slightly clumsily, hesitant vulnerable gaze and less poised model stance. She is a normal healthy teenage student, not emaciated, not ill, not crying theatrically. The face remains the same; character comes primarily from posture and hands. Do not glamorise, exaggerate sadness, change facial ethnicity, add makeup or change age. Same photoreal cinematic 16:9 medium framing, no text.",
+      "input_description": "docs/World/characters/katya/images/katya003.png"
+    },
+    {
+      "code": "egor007",
+      "title": "От ilya003 · тёмно-русый хвост и объёмный свет",
+      "source_code": "ilya003",
+      "prompt": "Lighting and tonal correction ONLY of this fictional teenage boy portrait. Preserve his EXACT face identity, eyes, expression, skin texture, dark-ash-brown ponytail, loose hair strands, clean-shaven youthful age, hoodie, hands, pose, framing and corridor geometry. The user rejects the bleached flat lighting. Give this exact scene nuanced cinematic light with a soft but clearly DIRECTIONAL side key from upper camera-left, gentle shadow shaping on the far cheek and jaw, lower ambient fill, a modest rim separating hair and hoodie from the corridor, deeper clean blacks in the hoodie and corridor recesses, and controlled ceiling highlights with retained texture. Keep the location a bright inhabited station corridor, not a dark thriller. Natural warm-neutral skin separated from a slightly cooler muted background; no orange-teal filter, no crushing facial shadows, no HDR halo, no harsh beauty spot, no artificial sharpening, no change to the face or haircut. Improve depth through real light direction and tonal separation. Same photoreal 16:9 frame, no text.",
+      "input_description": "egor-dark-ponytail"
+    },
+    {
+      "code": "lon012",
+      "title": "Экранная индикация · четыре состояния",
+      "source_code": "lon001",
+      "prompt": "Develop the attached fictional domestic robot into a controlled face-display concept. Preserve the SAME friendly short rounded ivory robot, horizontal oval head silhouette, slim neck ring, shoulders, cylindrical body and photoreal materials. Make a 2 by 2 sheet of four SAME-SCALE close views of its head and upper torso, identical camera and light. In all four, replace only the frontal eye area with one discreet dark display inset that follows the oval face, showing restrained soft white/blue LED graphic eyes and a simple fine mouth line. Keep the face architecture identical; change only the graphic state and a very slight head attitude. The four states are: attentive neutral eyes; caring gently softened curved eyes; alert concentrated eyes; lightly ironic asymmetrical eyes. The effect must remain useful gentle machine communication, not cartoon emoji stickers or a phone screen strapped onto the head. No hearts, tears, animated faces floating around it, neon overload or goofy grin. Close the torso service panel for this normal domestic-use state, retract its shoe brush. Same warm workshop background softly blurred in all four panels.\nSmall clear Russian captions: «Внимание», «Забота», «Тревога», «Ирония». One restrained title «Лон · индикация». High-end 16:9 film design sheet, photoreal robot with clean understated interface graphics, consistent hardware, no watermark.",
+      "input_description": "docs/World/robots/lon/images/lon001.png"
+    },
+    {
+      "code": "tais048",
+      "title": "Открытое лицо · мягкая чёрная повязка",
+      "source_code": "tais045",
+      "prompt": "Precise identity-preserving edit. Keep this exact fictional teenage girl's face, skin, eyes, expression, two braids, broad fabric headband, clothing, camera position, cinematic lighting and background. ONLY change the hair arrangement: pull ALL long fringe and loose strands back under the broad headband so her forehead, eyebrows, both eyes and both cheekbones are fully unobstructed. The band functions as practical hair control, with its existing colour and fabric. Keep the braids visible, retain a few tiny flyaways only outside the face contour. No loose lock over forehead, no strands across cheeks, no glamour retouch, no face replacement or change to jaw, nose, lips, age or complexion. Same photoreal 16:9 portrait, no text.",
+      "input_description": "docs/World/characters/tais/images/tais045.png"
+    },
+    {
+      "code": "tais049",
+      "title": "Открытое лицо · графитовая повязка",
+      "source_code": "tais046",
+      "prompt": "Precise identity-preserving edit. Keep this exact fictional teenage girl's face, skin, eyes, expression, two braids, broad fabric headband, clothing, camera position, cinematic lighting and background. ONLY change the hair arrangement: pull ALL long fringe and loose strands back under the broad headband so her forehead, eyebrows, both eyes and both cheekbones are fully unobstructed. The band functions as practical hair control, with its existing colour and fabric. Keep the braids visible, retain a few tiny flyaways only outside the face contour. No loose lock over forehead, no strands across cheeks, no glamour retouch, no face replacement or change to jaw, nose, lips, age or complexion. Same photoreal 16:9 portrait, no text.",
+      "input_description": "docs/World/characters/tais/images/tais046.png"
+    },
+    {
+      "code": "tais050",
+      "title": "Открытое лицо · чёрно-белая повязка",
+      "source_code": "tais047",
+      "prompt": "Precise identity-preserving edit. Keep this exact fictional teenage girl's face, skin, eyes, expression, two braids, broad fabric headband, clothing, camera position, cinematic lighting and background. ONLY change the hair arrangement: pull ALL long fringe and loose strands back under the broad headband so her forehead, eyebrows, both eyes and both cheekbones are fully unobstructed. The band functions as practical hair control, with its existing colour and fabric. Keep the braids visible, retain a few tiny flyaways only outside the face contour. No loose lock over forehead, no strands across cheeks, no glamour retouch, no face replacement or change to jaw, nose, lips, age or complexion. Same photoreal 16:9 portrait, no text.",
+      "input_description": "tais047"
+    },
+    {
+      "code": "tais051",
+      "title": "Кастинговая проба · новое направление",
+      "source_code": "tais046",
+      "prompt": "Create a SEPARATE original fictional casting alternative for Tais, using this reference for composition, costume, station setting and age, not as a strict identity lock. Follow the producer's named Zendaya / Chani casting direction through an understated long narrow face, expressive slightly almond-shaped honey-brown eyes, lightly angular natural cheekbones and restrained alert presence, while designing an original believable teenage character rather than copying a celebrity portrait. Dark brown hair in TWO PRACTICAL BRAIDS and a broad black fabric headband holding the fringe fully away from the forehead and face. Slim agile build, simple weathered patched grey clothing and backpack straps as in reference. Natural skin with subtle asymmetry, no beauty makeup, no perfect plastic symmetry, no glamorous pose. Sharp, wary, resourceful tomboy character; the appeal comes from specificity and presence. Keep the same cinematic waist/upper torso framing, worn station corridor and directional light, 16:9. No desert, Dune costume, blue glowing eyes or science-fiction franchise emblems. No text or watermark. This is a proposed original casting interpretation of a named reference direction.",
+      "input_description": "tais046"
+    },
+    {
+      "code": "martin011",
+      "title": "По референсу · искусственное человеческое лицо",
+      "source_code": null,
+      "prompt": "Create a new cinematic character-design proposal for Martin using the attached user's reference as the visual anchor for his slim upright masculine silhouette, dark neatly swept-back hair, long light grey/off-white high-collared coat with a split back hem, restrained tailoring, and small grey botanical emblem over the EXACT word EDEM on the upper back. The source shows mainly his back: the front face is a proposed design, not a claim to have recovered an unseen face. Do not copy the red slide title, black presentation border or space background. Present a polished 16:9 model sheet with a large three-quarter FRONT full-body view at left, a smaller matching BACK full-body view at right showing the EDEM mark, and one clear face close-up between/above them. Same character and proportions across views, neutral warm-grey studio background, soft directional cinematic light with defined shadows and material depth. Martin is a fictional caregiving android with calm attentive presence, no theatrical smile, no villain pose. His neck and wrist junctions subtly reveal machine construction; hands look tactile and capable of gentle care. Clean restrained design, no excessive armour, cables, cyberpunk lights or military accessories. Direction A: clearly manufactured but gently HUMAN-PROPORTIONED face. The face surface is warm ivory ceramic / finely matte synthetic shell, not metallic chrome, with restrained seams near temples and jaw, round dark expressive optics, a closed neutral mouth and refined human nose. Dark sculpted hair cap follows the hairstyle from the reference. A familiar human facial structure remains visibly an android; avoid skeletal mannequin hollows or blank frightening doll eyes. The coat follows the supplied back reference closely, worn over a slender engineered body. Small caption only: «Мартин · искусственное лицо».",
+      "input_description": "Референс пользователя: Мартин в плаще EDEM"
+    },
+    {
+      "code": "martin012",
+      "title": "По референсу · антропоморфный воспитатель",
+      "source_code": null,
+      "prompt": "Create a new cinematic character-design proposal for Martin using the attached user's reference as the visual anchor for his slim upright masculine silhouette, dark neatly swept-back hair, long light grey/off-white high-collared coat with a split back hem, restrained tailoring, and small grey botanical emblem over the EXACT word EDEM on the upper back. The source shows mainly his back: the front face is a proposed design, not a claim to have recovered an unseen face. Do not copy the red slide title, black presentation border or space background. Present a polished 16:9 model sheet with a large three-quarter FRONT full-body view at left, a smaller matching BACK full-body view at right showing the EDEM mark, and one clear face close-up between/above them. Same character and proportions across views, neutral warm-grey studio background, soft directional cinematic light with defined shadows and material depth. Martin is a fictional caregiving android with calm attentive presence, no theatrical smile, no villain pose. His neck and wrist junctions subtly reveal machine construction; hands look tactile and capable of gentle care. Clean restrained design, no excessive armour, cables, cyberpunk lights or military accessories. Direction B: an approachable HUMAN-LOOKING ADULT MALE FACE, roughly 35–40, with natural warm synthetic skin tone and realistic dark hair corresponding to the back reference, subtle human asymmetry, calm dark eyes, neutral gently attentive expression. This is an original fictional face, not an actor likeness. Make it clear on closer inspection that this is an android: a fine deliberate seam at the jaw-to-neck interface, a visible engineered collar joint and discreet mechanical wrists beneath the coat cuffs. No torn skin, exposed flesh, horror effect or exaggerated grin. Preserve the long tailored EDEM coat and upright slender silhouette from the supplied image. The close-up should reveal subtle artificiality while the silhouette feels like a trusted human caretaker. Small caption only: «Мартин · антропоморфный образ».",
+      "input_description": "Референс пользователя: Мартин в плаще EDEM"
+    },
+    {
+      "code": "martin013",
+      "title": "Геометрия лицевых стыков",
+      "source_code": "martin011",
+      "prompt": "Precise edit of the attached Martin character model sheet. Preserve EXACTLY the existing human-looking face identity, natural warm synthetic skin material, eye colour, hair, neutral expression, age, coat, EDEM emblem, body, lighting and all three views. The user selected THIS version. Do NOT turn him white ceramic, alter the face or change the design direction.\nReplace the single simple cheek seam with a SMALL NUMBER OF PURPOSEFULLY DESIGNED, GEOMETRICALLY INTERESTING FACE PANEL JOINTS. Make about three fine recessed joint paths on the visible half-face, which together define a few LARGE asymmetric trapezoidal / chamfered face panels. One short angular stepped path comes from the temple toward the outer cheekbone; a second oblique path follows the outer cheek plane and turns cleanly toward the jaw; a third short joining seam resolves beneath the jaw / upper neck. Use measured changes of direction and a few shallow rounded bevel corners, respecting facial anatomy and keeping the central eyes, nose and mouth readable. A subtle matching pattern is visible on the far side when angle allows. The geometry should feel like sophisticated industrial design and a designed detachable synthetic face shell.\nSeams are fine dark recessed gaps with tiny edge highlights and a faint bevel, not thick tattoo ink, scars, cracks, wrinkles or arbitrary broken polygons. No exposed flesh, missing skin, glowing lines, screws everywhere, tiny triangle mesh or horror styling. Keep the same skin tone and visible fine surface texture on each panel. Apply the same seam layout consistently to the large close-up and the smaller front view; the back coat stays unchanged. Keep the original composition and small existing caption. The result is elegant, deliberate, slightly uncanny high-end cinematic android design. 16:9.",
+      "input_description": "Референс пользователя: Мартин в плаще EDEM"
+    },
+    {
+      "code": "donteacher001",
+      "title": "Тёплая резина · контакт с ребёнком",
+      "source_code": "martin002",
+      "prompt": "Using the attached fictional tall peaceful android as the SAME hardware reference, create a 16:9 two-part film design sheet about SAFE GENTLE TOUCH. Preserve its slender long-limbed body, round dark optical eyes, refined non-smiling face, graphite torso and proportions. Redesign the hand contact surfaces as continuous matte warm ivory rubber / soft elastomer fingers and palm pads with delicate controlled articulation, rather than exposed pinching metal fingers. Main large left view: the android crouches calmly beside a fully clothed toddler at a nursery table, supporting a small cup while the toddler holds it, showing patient careful handling and believable hand anatomy. The child is relaxed and engaged, not distressed, no injury. Smaller right close-up: same robot hand with five slender soft fingers gently supporting the child's small hand, clearly showing a slight natural compression of the rubber at contact. Mechanical joint transitions remain outside the contact zone. Warm naturalistic childcare interior, neutral directional light, realistic texture, no cartoons, no glowing heat effect. One title «Дон-12 · мягкий контакт» and small material caption «Тёплая резина». This is a tactile material and care concept inspired by the novel, not a tested real device. No watermark.",
+      "input_description": "docs/World/robots/martin/images/martin002.png"
+    },
+    {
+      "code": "fedor031",
+      "title": "От fedor009 · внимание и решимость",
+      "source_code": "fedor009",
+      "prompt": "Create a two-panel cinematic acting study of the exact fictional young adult male character shown in the provided reference. Preserve his face identity, natural skin, eyes, hairstyle and patched denim clothing in both images. Both panels are simple medium close-up portraits in the same worn station corridor with identical camera distance and soft directional lighting. LEFT: he listens attentively to a friend just outside the frame, with concern, patience and gentle warmth in his eyes. RIGHT: he focuses on a routine technical problem on an offscreen control panel, with quiet resolve and readiness to help. Subtle believable performance, no exaggerated expressions. He is alone in both frames; no other people, no hazards, no action event. Two equal panels on a wide 16:9 canvas, a narrow divider, small captions «Внимание» and «Решимость» and identifier «fedor009 · актёрская проба». Photoreal natural restrained cinema, no glamour retouch.",
+      "input_description": "fedor009"
+    },
+    {
+      "code": "fedor032",
+      "title": "От fedor021 · внимание и решимость",
+      "source_code": "fedor021",
+      "prompt": "Create a two-panel cinematic acting study of the exact fictional young adult male character shown in the provided reference. Preserve his face identity, natural skin, eyes, hairstyle and patched denim clothing in both images. Both panels are simple medium close-up portraits in the same worn station corridor with identical camera distance and soft directional lighting. LEFT: he listens attentively to a friend just outside the frame, with concern, patience and gentle warmth in his eyes. RIGHT: he focuses on a routine technical problem on an offscreen control panel, with quiet resolve and readiness to help. Subtle believable performance, no exaggerated expressions. He is alone in both frames; no other people, no hazards, no action event. Two equal panels on a wide 16:9 canvas, a narrow divider, small captions «Внимание» and «Решимость» and identifier «fedor021 · актёрская проба». Photoreal natural restrained cinema, no glamour retouch.",
+      "input_description": "fedor021"
+    }
+  ],
+  "discarded_or_local_only": [
+    "egor-dark-ponytail (заменён версией со светом)",
+    "martin-artificial-face-r2 (локальная проба материала)"
+  ],
+  "unproduced_attempts": [
+    "fedor009-action-proof",
+    "fedor021-action-proof"
+  ],
+  "fedor_substitution": "Две сюжетные пробы были отклонены генератором на выходе; подготовлены нейтральные актёрские пробы внимания и решимости."
+}

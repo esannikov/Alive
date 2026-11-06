@@ -1,0 +1,66 @@
+{
+  "tool": "built-in imagegen",
+  "date": "2026-10-28",
+  "variants": [
+    {
+      "code": "moag037",
+      "from": "moag007",
+      "series": "moag-courtyard-light",
+      "title": "Двор · світлий корпус · ракурс 1",
+      "ref": "docs/World/ships/moag/images/moag007-courtyard-front.png",
+      "prompt": "Edit this existing photorealistic space-station image for a film concept. Change ONLY the exterior hull material colors and lighting: convert the dark grey plating to luminous light warm-gray / softly off-white ceramic-metal alloy with restrained darker technical joints, realistic individual panel seams and surface wear. Give the inhabited station an inviting, calm, peaceful Eden character through warmer window illumination and soft neutral daylight. Preserve EXACTLY the station geometry, ring topology, central core, spokes, apertures, number of connections, hull silhouette, proportions, visible structures, camera angle, space background, fine detailing and framing. This is the same design and same viewpoint, only a lighter material/color and lighting exploration; do not add gardens, engines, text, logos or another ship. Realistic metallic shading, no overexposure or plastic toy look. Landscape wide frame.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-e59e4f2f-d30e-45a1-8134-2189788fb508.png",
+      "output": "docs/World/ships/moag/images/moag037.png",
+      "dimensions": [
+        1862,
+        845
+      ],
+      "sha256": "78b64c1b08dfa7b177893e788a39c054ff72cd090d51431d33927fb04367c558"
+    },
+    {
+      "code": "moag038",
+      "from": "moag008",
+      "series": "moag-courtyard-light",
+      "title": "Двор · світлий корпус · ракурс 2",
+      "ref": "docs/World/ships/moag/images/moag008-courtyard-rear.png",
+      "prompt": "Edit this existing photorealistic space-station image for a film concept. Change ONLY the exterior hull material colors and lighting: convert the dark grey plating to luminous light warm-gray / softly off-white ceramic-metal alloy with restrained darker technical joints, realistic individual panel seams and surface wear. Give the inhabited station an inviting, calm, peaceful Eden character through warmer window illumination and soft neutral daylight. Preserve EXACTLY the station geometry, ring topology, central core, spokes, apertures, number of connections, hull silhouette, proportions, visible structures, camera angle, space background, fine detailing and framing. This is the same design and same viewpoint, only a lighter material/color and lighting exploration; do not add gardens, engines, text, logos or another ship. Realistic metallic shading, no overexposure or plastic toy look. Landscape wide frame.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-748e0104-9d90-4860-9ebf-c560b931b017.png",
+      "output": "docs/World/ships/moag/images/moag038.png",
+      "dimensions": [
+        1862,
+        845
+      ],
+      "sha256": "64a9a884a8d3a94ebc2822168a221639568aaa260c5344faa13b74876d531e3a"
+    },
+    {
+      "code": "moag039",
+      "from": "moag017",
+      "series": "moag-annulus-light",
+      "title": "Обод · Едем · ракурс 1",
+      "ref": "docs/World/ships/moag/images/moag017-annulus-front.png",
+      "prompt": "Edit this existing photorealistic space-station image for a film concept. Change ONLY the exterior hull material colors and lighting: convert the dark grey plating to luminous light warm-gray / softly off-white ceramic-metal alloy with restrained darker technical joints, realistic individual panel seams and surface wear. Give the inhabited station an inviting, calm, peaceful Eden character through warmer window illumination and soft neutral daylight. Preserve EXACTLY the station geometry, ring topology, central core, spokes, apertures, number of connections, hull silhouette, proportions, visible structures, camera angle, space background, fine detailing and framing. This is the same design and same viewpoint, only a lighter material/color and lighting exploration; do not add gardens, engines, text, logos or another ship. Realistic metallic shading, no overexposure or plastic toy look. Landscape wide frame.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-1b194e1c-9e46-402f-b2b4-72abc6a4628c.png",
+      "output": "docs/World/ships/moag/images/moag039.png",
+      "dimensions": [
+        1860,
+        845
+      ],
+      "sha256": "2e8cefdb91ef37d614a09ca91a20195b8ba3b16cdc1ecfb982bad3d76c9de56e"
+    },
+    {
+      "code": "moag040",
+      "from": "moag018",
+      "series": "moag-annulus-light",
+      "title": "Обод · Едем · ракурс 2",
+      "ref": "docs/World/ships/moag/images/moag018-annulus-rear.png",
+      "prompt": "Edit this existing photorealistic space-station image for a film concept. Change ONLY the exterior hull material colors and lighting: convert the dark grey plating to luminous light warm-gray / softly off-white ceramic-metal alloy with restrained darker technical joints, realistic individual panel seams and surface wear. Give the inhabited station an inviting, calm, peaceful Eden character through warmer window illumination and soft neutral daylight. Preserve EXACTLY the station geometry, ring topology, central core, spokes, apertures, number of connections, hull silhouette, proportions, visible structures, camera angle, space background, fine detailing and framing. This is the same design and same viewpoint, only a lighter material/color and lighting exploration; do not add gardens, engines, text, logos or another ship. Realistic metallic shading, no overexposure or plastic toy look. Landscape wide frame.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-b9d33d55-dfd5-45e6-8d06-f418c58ea6f1.png",
+      "output": "docs/World/ships/moag/images/moag040.png",
+      "dimensions": [
+        1860,
+        845
+      ],
+      "sha256": "592fd91aa5b8d9e187a63397596a97ae3f265f18c80f073d899d5b5ff82285e1"
+    }
+  ]
+}
