@@ -22,10 +22,6 @@
     "page": "characters/tais/",
     "title": "Таис",
     "variantCodes": [
-      "tais047",
-      "tais049",
-      "tais051",
-      "tais052",
       "tais053",
       "tais054",
       "tais055",
@@ -82,7 +78,11 @@
     "variantCodes": [
       "kolka002",
       "kolka007",
-      "kolka010"
+      "kolka010",
+      "kolka011",
+      "kolka012",
+      "kolka013",
+      "kolka014"
     ]
   },
   {
@@ -281,13 +281,54 @@
       "rita003",
       "rita004",
       "rita005",
-      "rita006"
+      "rita006",
+      "rita007"
     ]
   },
   {
     "term": "Alive/World/characters/rita/reference",
     "page": "characters/rita/reference.html",
     "title": "Рита · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/inna/",
+    "page": "characters/inna/",
+    "title": "Инна",
+    "variantCodes": [
+      "inna001",
+      "inna002",
+      "inna003",
+      "inna004",
+      "inna005",
+      "inna006",
+      "rita007"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/inna/reference",
+    "page": "characters/inna/reference.html",
+    "title": "Инна · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/dina/",
+    "page": "characters/dina/",
+    "title": "Дина",
+    "variantCodes": [
+      "dina001",
+      "dina002",
+      "dina003",
+      "dina004",
+      "dina005",
+      "dina006",
+      "rita007"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/dina/reference",
+    "page": "characters/dina/reference.html",
+    "title": "Дина · справка",
     "variantCodes": []
   },
   {
@@ -633,11 +674,15 @@
       "kolka008",
       "tais045",
       "tais046",
+      "tais047",
       "kolka009",
       "katya007",
       "tais048",
+      "tais049",
       "tais050",
+      "tais051",
       "fedor032",
+      "tais052",
       "tais056"
     ]
   },

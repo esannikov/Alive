@@ -14,7 +14,7 @@
     "fedor": 33,
     "moag": 47,
     "emma": 12,
-    "kolka": 11,
+    "kolka": 15,
     "lon": 16,
     "don": 31,
     "martin": 22,
@@ -26,7 +26,7 @@
     "sonya": 7,
     "egor": 8,
     "zhanna": 7,
-    "rita": 7,
+    "rita": 8,
     "krendel": 7,
     "vovik": 7,
     "square": 6,
@@ -36,7 +36,9 @@
     "push": 19,
     "frik": 10,
     "romik": 7,
-    "kristinka": 7
+    "kristinka": 7,
+    "dina": 7,
+    "inna": 7
   },
   "assets": [
     {
@@ -7058,7 +7060,7 @@
     },
     {
       "code": "tais047",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Широкая повязка · чёрно-белая",
       "sha256": "ca626f9e3a917bba166ea73fe7f38ed8c60334e3d53890f28b469ab9b7c1e5c6",
       "source_commit": "e224704b4f04665a876b2972f74dd6dd5e64dd64",
@@ -7078,7 +7080,10 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "moag041",
@@ -7664,7 +7669,7 @@
     },
     {
       "code": "tais049",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Открытое лицо · графитовая повязка",
       "sha256": "aa32fd395d083255268ea4b48659b6b67d5497dc574414f1219078dcdcae9c01",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7683,7 +7688,10 @@
         "tais"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais050",
@@ -7713,7 +7721,7 @@
     },
     {
       "code": "tais051",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Кастинговая проба · новое направление",
       "sha256": "055e9a3280dc49175ac0dbc6caa9033ecf6cf74057e442be6f6b580a5bf33024",
       "source_commit": "a4bf431cfa447deaca3e05d79df8c728012916e1",
@@ -7732,7 +7740,10 @@
         "tais"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "martin011",
@@ -8881,7 +8892,7 @@
     },
     {
       "code": "tais052",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Проба со шрамом на брови",
       "source_file": "docs/World/characters/tais/images/tais052.webp",
       "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
@@ -8903,7 +8914,10 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "kolka010",
@@ -9931,6 +9945,419 @@
       "series": "current",
       "visibility": "active",
       "derived_from": null
+    },
+    {
+      "code": "dina001",
+      "object": "dina",
+      "caption": "Длинный овал",
+      "source_file": "docs/World/characters/dina/images/dina001.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "4c40c4fbcfe30d09959861c62e27ccbdfbd55d3257f9a1af4affd9760147607a",
+      "aliases": [
+        "docs/World/characters/dina/images/dina001.webp"
+      ],
+      "galleries": [
+        "World/characters/dina"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "dina002",
+      "object": "dina",
+      "caption": "Широкие скулы",
+      "source_file": "docs/World/characters/dina/images/dina002.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "362e8fda59bf0ecfcb34146eeb8645ed56f4984ad500a25c194034069cdffe35",
+      "aliases": [
+        "docs/World/characters/dina/images/dina002.webp"
+      ],
+      "galleries": [
+        "World/characters/dina"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "dina003",
+      "object": "dina",
+      "caption": "Короткое лицо",
+      "source_file": "docs/World/characters/dina/images/dina003.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "25a7ceab8abaaef5bd4410cf03fd3d9bd2229afe1043b384b4abfadf84c8358c",
+      "aliases": [
+        "docs/World/characters/dina/images/dina003.webp"
+      ],
+      "galleries": [
+        "World/characters/dina"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "dina004",
+      "object": "dina",
+      "caption": "Сердцевидное лицо",
+      "source_file": "docs/World/characters/dina/images/dina004.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "aef7b94ca46818388d0278025c1de3eec99a8fb28667c82da0d2fb2ae094cff1",
+      "aliases": [
+        "docs/World/characters/dina/images/dina004.webp"
+      ],
+      "galleries": [
+        "World/characters/dina"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "dina005",
+      "object": "dina",
+      "caption": "Выраженный подбородок",
+      "source_file": "docs/World/characters/dina/images/dina005.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "fdf0b73665e6e5f1ba4576e31318087a7871860624b9600cc9202d9ce1ea4cf8",
+      "aliases": [
+        "docs/World/characters/dina/images/dina005.webp"
+      ],
+      "galleries": [
+        "World/characters/dina"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "dina006",
+      "object": "dina",
+      "caption": "Лёгкая асимметрия",
+      "source_file": "docs/World/characters/dina/images/dina006.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "a767ae03dad9e1a2074422b2e97b0801e0d74398a8a7e38474452d639b5c3ba2",
+      "aliases": [
+        "docs/World/characters/dina/images/dina006.webp"
+      ],
+      "galleries": [
+        "World/characters/dina"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "inna001",
+      "object": "inna",
+      "caption": "Медные волны",
+      "source_file": "docs/World/characters/inna/images/inna001.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "e5118c8c38c2a63834b13c9731c0bcc750267ffafc7f8f59cca023767a7a7aa8",
+      "aliases": [
+        "docs/World/characters/inna/images/inna001.webp"
+      ],
+      "galleries": [
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "inna002",
+      "object": "inna",
+      "caption": "Тёмно-рыжие волосы",
+      "source_file": "docs/World/characters/inna/images/inna002.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "42eb74937ea44c8b4990d39b3ba37f0d376013cb3c09353fdd42d9d1dc47693f",
+      "aliases": [
+        "docs/World/characters/inna/images/inna002.webp"
+      ],
+      "galleries": [
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "inna003",
+      "object": "inna",
+      "caption": "Светлая коса",
+      "source_file": "docs/World/characters/inna/images/inna003.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "59dec39ceffdceb294357f1041a72f1a40ccb2d8c1a7a7a35bebec4d5f8d316b",
+      "aliases": [
+        "docs/World/characters/inna/images/inna003.webp"
+      ],
+      "galleries": [
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "inna004",
+      "object": "inna",
+      "caption": "Рыжие кудри",
+      "source_file": "docs/World/characters/inna/images/inna004.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "3bb03efec1ff3ec267ba8b213b5bd2122e85ad49cd9edf9c672ff3856d14d3fd",
+      "aliases": [
+        "docs/World/characters/inna/images/inna004.webp"
+      ],
+      "galleries": [
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "inna005",
+      "object": "inna",
+      "caption": "Волосы за ушами",
+      "source_file": "docs/World/characters/inna/images/inna005.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "efa0a43b66eec97e60b86e9e324fbc8200f4b41accc5e62a487ecf2bae5d40bf",
+      "aliases": [
+        "docs/World/characters/inna/images/inna005.webp"
+      ],
+      "galleries": [
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "inna006",
+      "object": "inna",
+      "caption": "Низкий пучок",
+      "source_file": "docs/World/characters/inna/images/inna006.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "d2c157a5cdb1f89e4001b9b83c93f7f76d0a6b1c6ff40dfc1efba6c779abc165",
+      "aliases": [
+        "docs/World/characters/inna/images/inna006.webp"
+      ],
+      "galleries": [
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null
+    },
+    {
+      "code": "kolka011",
+      "object": "kolka",
+      "caption": "Округлый подбородок",
+      "source_file": "docs/World/characters/kolka/images/kolka011.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "0aacb5523778130c3b97790c2a62bff006afb828fc66ecbfcacf3bf282bb38f6",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka011.webp"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka010"
+    },
+    {
+      "code": "kolka012",
+      "object": "kolka",
+      "caption": "Удлинённый подбородок",
+      "source_file": "docs/World/characters/kolka/images/kolka012.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "cbbcd3abedf736a45bb90ccc2d14a98ec5ca2ff49d03db9b5cee12936066ccf6",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka012.webp"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka010"
+    },
+    {
+      "code": "kolka013",
+      "object": "kolka",
+      "caption": "Мягкая квадратная челюсть",
+      "source_file": "docs/World/characters/kolka/images/kolka013.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "cb395325b492f909fbc0687268d59715d34e18d637944b8e317b551c175462f9",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka013.webp"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka010"
+    },
+    {
+      "code": "kolka014",
+      "object": "kolka",
+      "caption": "Её внимание",
+      "source_file": "docs/World/characters/kolka/images/kolka014.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "63014432049f39e43376f56cbef44f002d23327f83a1a2bcb480d2a79b6c8cfa",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka014.webp"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka012",
+      "producer_review_note": "Актёрская гипотеза по комментарию Лены, не иллюстрация конкретного эпизода романа."
+    },
+    {
+      "code": "rita007",
+      "object": "rita",
+      "caption": "Забота о Рите",
+      "source_file": "docs/World/characters/rita/images/rita007.webp",
+      "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
+      "sha256": "a5f36dddd160580eb0d6c2d1a93b64a4268e4020170f74c28f630a2c8b94d859",
+      "aliases": [
+        "docs/World/characters/rita/images/rita007.webp"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "rita001",
+      "additional_objects": [
+        "dina",
+        "inna"
+      ],
+      "casting_references": [
+        "dina005",
+        "inna001",
+        "rita001"
+      ]
     }
   ],
   "deleted_codes": [

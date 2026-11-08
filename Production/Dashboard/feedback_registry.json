@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
   "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
   "statusMeaning": {
@@ -814,6 +814,62 @@
         "kristinka006"
       ],
       "note": "Общий кадр masha008 показан у Маши, Ромика и Кристинки. Последний Мартин сидит на стуле."
+    },
+    {
+      "id": "tais-nov06",
+      "request": "Прямой перенос четырёх Таис в резерв",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19437613"
+      ],
+      "assetCodes": [
+        "tais051",
+        "tais047",
+        "tais049",
+        "tais052"
+      ],
+      "designAcceptance": "producer_instruction"
+    },
+    {
+      "id": "kolka-cover-nov06",
+      "request": "Обложка kolka010",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19437563"
+      ],
+      "assetCodes": [
+        "kolka010"
+      ],
+      "designAcceptance": "producer_instruction"
+    },
+    {
+      "id": "kolka-casting-nov06",
+      "request": "Изменить подбородок и различить с Федором, проверить уязвимый характер",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19440047",
+        "19440049",
+        "19442129"
+      ],
+      "assetCodes": [
+        "kolka011",
+        "kolka012",
+        "kolka013",
+        "kolka014"
+      ],
+      "designAcceptance": "new_variants_for_review"
+    },
+    {
+      "id": "tais053-preserve-nov06",
+      "request": "Сохранить понравившийся Игорю tais053",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19439990"
+      ],
+      "assetCodes": [
+        "tais053"
+      ],
+      "designAcceptance": "producer_instruction"
     }
   ],
   "previouslyCompleted": [
