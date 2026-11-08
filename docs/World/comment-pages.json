@@ -262,7 +262,8 @@
       "zhanna003",
       "zhanna004",
       "zhanna005",
-      "zhanna006"
+      "zhanna006",
+      "ira007"
     ]
   },
   {
@@ -282,7 +283,8 @@
       "rita004",
       "rita005",
       "rita006",
-      "rita007"
+      "rita007",
+      "senka007"
     ]
   },
   {
@@ -302,7 +304,8 @@
       "inna004",
       "inna005",
       "inna006",
-      "rita007"
+      "rita007",
+      "senka007"
     ]
   },
   {
@@ -322,7 +325,8 @@
       "dina004",
       "dina005",
       "dina006",
-      "rita007"
+      "rita007",
+      "senka007"
     ]
   },
   {
@@ -859,6 +863,65 @@
     "term": "Alive/World/creatures/friki/reference",
     "page": "creatures/friki/reference.html",
     "title": "Фрики · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/semen/",
+    "page": "characters/semen/",
+    "title": "Семён",
+    "variantCodes": [
+      "semen001",
+      "semen002",
+      "semen003",
+      "semen004",
+      "semen005",
+      "semen006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/semen/reference",
+    "page": "characters/semen/reference.html",
+    "title": "Семён · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/ira/",
+    "page": "characters/ira/",
+    "title": "Ира",
+    "variantCodes": [
+      "ira001",
+      "ira002",
+      "ira003",
+      "ira004",
+      "ira005",
+      "ira006",
+      "ira007"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/ira/reference",
+    "page": "characters/ira/reference.html",
+    "title": "Ира · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/senka/",
+    "page": "characters/senka/",
+    "title": "Сенька",
+    "variantCodes": [
+      "senka001",
+      "senka002",
+      "senka003",
+      "senka004",
+      "senka005",
+      "senka006",
+      "senka007"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/senka/reference",
+    "page": "characters/senka/reference.html",
+    "title": "Сенька · справка",
     "variantCodes": []
   },
   {

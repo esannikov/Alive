@@ -38,7 +38,10 @@
     "romik": 7,
     "kristinka": 7,
     "dina": 7,
-    "inna": 7
+    "inna": 7,
+    "semen": 7,
+    "ira": 8,
+    "senka": 8
   },
   "assets": [
     {
@@ -10358,6 +10361,460 @@
         "inna001",
         "rita001"
       ]
+    },
+    {
+      "code": "semen001",
+      "object": "semen",
+      "caption": "Типаж 1",
+      "source_file": "docs/World/characters/semen/images/semen001.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "1b7ae0c606e70d688b8c3f67a058e0efccde504da31f48213636bde89dd259f1",
+      "aliases": [
+        "docs/World/characters/semen/images/semen001.webp"
+      ],
+      "galleries": [
+        "World/characters/semen"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "semen002",
+      "object": "semen",
+      "caption": "Типаж 2",
+      "source_file": "docs/World/characters/semen/images/semen002.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "7fbb2c50a66f1b837967fab31bf87e0d67df6365898668e623e15f58b2f35101",
+      "aliases": [
+        "docs/World/characters/semen/images/semen002.webp"
+      ],
+      "galleries": [
+        "World/characters/semen"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "semen003",
+      "object": "semen",
+      "caption": "Типаж 3",
+      "source_file": "docs/World/characters/semen/images/semen003.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "8282d603b43ee519015e913be396c33587af4af50e862c2ec0d7a8b994238be6",
+      "aliases": [
+        "docs/World/characters/semen/images/semen003.webp"
+      ],
+      "galleries": [
+        "World/characters/semen"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "semen004",
+      "object": "semen",
+      "caption": "Типаж 4",
+      "source_file": "docs/World/characters/semen/images/semen004.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "2c1895314abd4d7b5b73c631ef0fb929b674b8ce3c845dc5eba76f520ccb3607",
+      "aliases": [
+        "docs/World/characters/semen/images/semen004.webp"
+      ],
+      "galleries": [
+        "World/characters/semen"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "semen005",
+      "object": "semen",
+      "caption": "Типаж 5",
+      "source_file": "docs/World/characters/semen/images/semen005.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "d2b2be3db6b094a484309ca33dd9cb816ae6ed12318f11d69bdadf81d8db5f61",
+      "aliases": [
+        "docs/World/characters/semen/images/semen005.webp"
+      ],
+      "galleries": [
+        "World/characters/semen"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "semen006",
+      "object": "semen",
+      "caption": "Типаж 6",
+      "source_file": "docs/World/characters/semen/images/semen006.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "8050e3a41d2797c171506ceaaf0f5be19d0f8ab5680aa3de9ee89f7fbc1c2cf8",
+      "aliases": [
+        "docs/World/characters/semen/images/semen006.webp"
+      ],
+      "galleries": [
+        "World/characters/semen"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira001",
+      "object": "ira",
+      "caption": "Типаж 1",
+      "source_file": "docs/World/characters/ira/images/ira001.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "e2e7aeb4baf07735e9cf55561224b809dd28244092e3dd0cbb171909b0a88b20",
+      "aliases": [
+        "docs/World/characters/ira/images/ira001.webp"
+      ],
+      "galleries": [
+        "World/characters/ira"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira002",
+      "object": "ira",
+      "caption": "Типаж 2",
+      "source_file": "docs/World/characters/ira/images/ira002.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "3fffba9bd01e9f567e346c4ac3790017069946d24464c0becaf26994e6284d89",
+      "aliases": [
+        "docs/World/characters/ira/images/ira002.webp"
+      ],
+      "galleries": [
+        "World/characters/ira"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira003",
+      "object": "ira",
+      "caption": "Типаж 3",
+      "source_file": "docs/World/characters/ira/images/ira003.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "86259c10a07879948e6018b8d81256b300b2df4b173589a58c6294cabf0a7170",
+      "aliases": [
+        "docs/World/characters/ira/images/ira003.webp"
+      ],
+      "galleries": [
+        "World/characters/ira"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira004",
+      "object": "ira",
+      "caption": "Типаж 4",
+      "source_file": "docs/World/characters/ira/images/ira004.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "691e440f64e04ccff5596fa6968f9788c1d5c64ad74eaa921c6dd5fd5d6fbae3",
+      "aliases": [
+        "docs/World/characters/ira/images/ira004.webp"
+      ],
+      "galleries": [
+        "World/characters/ira"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira005",
+      "object": "ira",
+      "caption": "Типаж 5",
+      "source_file": "docs/World/characters/ira/images/ira005.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "82304a38462242e9525e27621b9e46e1e52c3df5e63f1609b00176c4cb2a6ab6",
+      "aliases": [
+        "docs/World/characters/ira/images/ira005.webp"
+      ],
+      "galleries": [
+        "World/characters/ira"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira006",
+      "object": "ira",
+      "caption": "Типаж 6",
+      "source_file": "docs/World/characters/ira/images/ira006.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "da4a321ddf000bf5e468694ef85f8caf20b231da5637c00993d5d8f25ae37a37",
+      "aliases": [
+        "docs/World/characters/ira/images/ira006.webp"
+      ],
+      "galleries": [
+        "World/characters/ira"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "senka001",
+      "object": "senka",
+      "caption": "Типаж 1",
+      "source_file": "docs/World/characters/senka/images/senka001.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "8b383024fef7ec87564033fd7a5c2d8c4558522e8680231f513ac5cdf21cf9ac",
+      "aliases": [
+        "docs/World/characters/senka/images/senka001.webp"
+      ],
+      "galleries": [
+        "World/characters/senka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "senka002",
+      "object": "senka",
+      "caption": "Типаж 2",
+      "source_file": "docs/World/characters/senka/images/senka002.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "db2cab77a40a456b791e20540fd92567002784ed177075b463deceeaff715556",
+      "aliases": [
+        "docs/World/characters/senka/images/senka002.webp"
+      ],
+      "galleries": [
+        "World/characters/senka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "senka003",
+      "object": "senka",
+      "caption": "Типаж 3",
+      "source_file": "docs/World/characters/senka/images/senka003.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "7bc587c30d6c1286ab14abc7920c09a4edac938346684527755fb6ff6eeb76d9",
+      "aliases": [
+        "docs/World/characters/senka/images/senka003.webp"
+      ],
+      "galleries": [
+        "World/characters/senka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "senka004",
+      "object": "senka",
+      "caption": "Типаж 4",
+      "source_file": "docs/World/characters/senka/images/senka004.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "ca2003357f67360de85d03aa0436858441797d88371fa4740dcd5e0b5c4860c4",
+      "aliases": [
+        "docs/World/characters/senka/images/senka004.webp"
+      ],
+      "galleries": [
+        "World/characters/senka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "senka005",
+      "object": "senka",
+      "caption": "Типаж 5",
+      "source_file": "docs/World/characters/senka/images/senka005.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "4bc1a1705507c5a3c1876ee75ffa1a562f48ac53d073cb55cbf40bb0e8522f7f",
+      "aliases": [
+        "docs/World/characters/senka/images/senka005.webp"
+      ],
+      "galleries": [
+        "World/characters/senka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "senka006",
+      "object": "senka",
+      "caption": "Типаж 6",
+      "source_file": "docs/World/characters/senka/images/senka006.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "46446eda02277f491a616d6cef50968027a53d599b045565160d2cb5e40958ed",
+      "aliases": [
+        "docs/World/characters/senka/images/senka006.webp"
+      ],
+      "galleries": [
+        "World/characters/senka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "ira007",
+      "object": "ira",
+      "caption": "Ира и Жанна в мастерской",
+      "source_file": "docs/World/characters/ira/images/ira007.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "8c6031731d811d351213451b587acf4f3077ae215f573643c4a228b38c5893c0",
+      "aliases": [
+        "docs/World/characters/ira/images/ira007.webp"
+      ],
+      "galleries": [
+        "World/characters/ira",
+        "World/characters/zhanna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "additional_objects": [
+        "zhanna"
+      ],
+      "producer_review_note": "Новая генерация с зональной фактурой лиц; публикация разрешена 09.11.2026. Типажи в общей сцене требуют отдельной проверки сходства."
+    },
+    {
+      "code": "senka007",
+      "object": "senka",
+      "caption": "Овальная семья за столом",
+      "source_file": "docs/World/characters/senka/images/senka007.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "f205254f7298dc450e31b1f7ba12f8fcf6ca59c3894a889437a0e4fb1a278f2b",
+      "aliases": [
+        "docs/World/characters/senka/images/senka007.webp"
+      ],
+      "galleries": [
+        "World/characters/senka",
+        "World/characters/rita",
+        "World/characters/dina",
+        "World/characters/inna"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "additional_objects": [
+        "rita",
+        "dina",
+        "inna"
+      ],
+      "producer_review_note": "Новая генерация с зональной фактурой лиц; публикация разрешена 09.11.2026. Типажи в общей сцене требуют отдельной проверки сходства."
     }
   ],
   "deleted_codes": [
