@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:51:19.983122+00:00",
+  "generatedAt": "2026-11-09T09:44:58.335484+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKV-j",
+      "page": "characters/romik/",
+      "title": "Ромик",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-09T09:44:38Z",
+      "excerpt": "тут все малыши классные. Я бы Вовика и Ромика делала прямо почти одинаковыми, просто с разным цветом волос. они вечно там вдвоем, бегают, путаются под ногами у всех. romik002 на заглавную можно плиз?",
+      "url": "https://github.com/esannikov/Alive/discussions/174#discussioncomment-19488675"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKVvB",
       "page": "characters/egor/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-06T12:29:29Z",
       "excerpt": "или 7",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19440049"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKKGv",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-11-06T12:29:13Z",
-      "excerpt": "У него форма лица + подбородок оч похожа на Федора - типаж тот же только парик другой и глаза другие. Как по мне 02 - более Колька - не такой красавчик, но офигенный.",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19440047"
     }
   ],
   "discussionNumbers": {
+    "characters/romik/": 174,
     "characters/egor/": 95,
     "characters/krendel/": 96,
     "characters/kolka/": 59,
@@ -168,8 +169,11 @@
       "last": null
     },
     "characters/romik/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-09T09:44:38Z"
+      }
     },
     "characters/romik/reference.html": {
       "messageCount": 0,
