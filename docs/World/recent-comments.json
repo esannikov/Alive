@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T23:47:47.897031+00:00",
+  "generatedAt": "2026-11-09T08:50:23.662685+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKVu4",
+      "page": "characters/krendel/",
+      "title": "Крендель",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-09T08:50:01Z",
+      "excerpt": "krendel006 и krendel004 давайте оставим, остальных в резерв отпустим",
+      "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKKnR",
       "page": "characters/kolka/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-06T12:25:38Z",
       "excerpt": "как?? а как же 53?!Она же офигенная!",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19439990"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKJgt",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-06T10:17:48Z",
-      "excerpt": "да. tais051. tais047, tais049 и tais052 - идут в резерв)",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19437613"
     }
   ],
   "discussionNumbers": {
+    "characters/krendel/": 96,
     "characters/kolka/": 59,
     "characters/tais/": 56,
     "characters/sonya/": 145,
@@ -67,7 +68,6 @@
     "locations/main-square/": 125,
     "robots/don15/": 53,
     "ships/moag/": 62,
-    "characters/krendel/": 96,
     "characters/egor/": 95,
     "characters/valek/": 60,
     "characters/rita/": 85,
@@ -252,10 +252,10 @@
       "last": null
     },
     "characters/krendel/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-10-29T13:44:34Z"
+        "createdAt": "2026-11-09T08:50:01Z"
       }
     },
     "characters/krendel/reference.html": {
