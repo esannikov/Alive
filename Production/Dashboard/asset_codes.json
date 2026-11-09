@@ -11,7 +11,7 @@
   ],
   "next_numbers": {
     "tais": 62,
-    "fedor": 33,
+    "fedor": 34,
     "moag": 47,
     "emma": 12,
     "kolka": 15,
@@ -41,7 +41,9 @@
     "inna": 7,
     "semen": 7,
     "ira": 8,
-    "senka": 8
+    "senka": 8,
+    "dimka": 7,
+    "andrey": 7
   },
   "assets": [
     {
@@ -10815,6 +10817,305 @@
         "inna"
       ],
       "producer_review_note": "Новая генерация с зональной фактурой лиц; публикация разрешена 09.11.2026. Типажи в общей сцене требуют отдельной проверки сходства."
+    },
+    {
+      "code": "fedor033",
+      "object": "fedor",
+      "caption": "От fedor031 · уточнение портрета",
+      "source_file": "docs/World/characters/fedor/images/fedor033.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "0d420d53102ff06b54acbae06c2802541820870d44c252012ea2fd1fa3faea96",
+      "aliases": [
+        "docs/World/characters/fedor/images/fedor033.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "fedor031"
+    },
+    {
+      "code": "dimka001",
+      "object": "dimka",
+      "caption": "Узкое лицо, внимательный взгляд",
+      "source_file": "docs/World/characters/dimka/images/dimka001.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "77c27a55ab1b4c029106d19c4cbbed91aa13afffd6d8920ab4ccb14e70406d8b",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka001.png"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka002",
+      "object": "dimka",
+      "caption": "Широкие скулы, спокойная прямота",
+      "source_file": "docs/World/characters/dimka/images/dimka002.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "a2248f145dc59be673f04bd2f0a81c272f01de6bd86e83318e9f4d82d1ce0247",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka002.png"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka003",
+      "object": "dimka",
+      "caption": "Мягкий овал, живая реакция",
+      "source_file": "docs/World/characters/dimka/images/dimka003.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "ef75322887e871ee58c645a15d53f9f544bf564cc5a0d4f62525419f2ed571fc",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka003.png"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka004",
+      "object": "dimka",
+      "caption": "Удлинённое лицо, сдержанный спор",
+      "source_file": "docs/World/characters/dimka/images/dimka004.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "8af8e066a13a95fcd3eeeda54fc34bb909510d4d7685e6ebafed8f4a332cedf4",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka004.png"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka005",
+      "object": "dimka",
+      "caption": "Высокие скулы, быстрый ум",
+      "source_file": "docs/World/characters/dimka/images/dimka005.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "aa06dc4d8f2fb92482a0165dbae1d1fe20387a65c9d0d0fce7a527637518192c",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka005.png"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka006",
+      "object": "dimka",
+      "caption": "Широкий лоб, открытое лицо",
+      "source_file": "docs/World/characters/dimka/images/dimka006.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "657c3d456a9af0bd89ee3d78e7f5e126224dcdc8bd265632b88d09be79d2d780",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka006.png"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andrey001",
+      "object": "andrey",
+      "caption": "Сдержанный навигатор",
+      "source_file": "docs/World/characters/andrey/images/andrey001.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "2c4471885280582182a02536c6d98a2ac116b5986dfaeb35fc980f53a6610a7c",
+      "aliases": [
+        "docs/World/characters/andrey/images/andrey001.png"
+      ],
+      "galleries": [
+        "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andrey002",
+      "object": "andrey",
+      "caption": "Спокойная тяжесть",
+      "source_file": "docs/World/characters/andrey/images/andrey002.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "affbbe82ad2e95258033da46e0cc38ed5c3ca61a2eb8bdd06baf6303dff61f0a",
+      "aliases": [
+        "docs/World/characters/andrey/images/andrey002.png"
+      ],
+      "galleries": [
+        "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andrey003",
+      "object": "andrey",
+      "caption": "Интеллектуальная сухость",
+      "source_file": "docs/World/characters/andrey/images/andrey003.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "02ff87993e547df2f97213f9412ce1837646dcda49304c3c0497122fef2ff8b0",
+      "aliases": [
+        "docs/World/characters/andrey/images/andrey003.png"
+      ],
+      "galleries": [
+        "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andrey004",
+      "object": "andrey",
+      "caption": "Крепкая конструкция лица",
+      "source_file": "docs/World/characters/andrey/images/andrey004.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "3f2b77c19a5f8d124b568dac612db4b11cc994f6b26790b9e07ef53a94d67166",
+      "aliases": [
+        "docs/World/characters/andrey/images/andrey004.png"
+      ],
+      "galleries": [
+        "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andrey005",
+      "object": "andrey",
+      "caption": "Человеческая теплота",
+      "source_file": "docs/World/characters/andrey/images/andrey005.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "a5e678a6cbcb345859b80caea8e557d5ffc553b03d3ea3fcfd9ec80b4df38c28",
+      "aliases": [
+        "docs/World/characters/andrey/images/andrey005.png"
+      ],
+      "galleries": [
+        "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andrey006",
+      "object": "andrey",
+      "caption": "Собранность под давлением",
+      "source_file": "docs/World/characters/andrey/images/andrey006.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "9f97e05dd68b7d595f03258979e0da2f7ae9a10516815c855c0f5dc8e1c94e9a",
+      "aliases": [
+        "docs/World/characters/andrey/images/andrey006.png"
+      ],
+      "galleries": [
+        "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
