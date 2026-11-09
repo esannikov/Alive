@@ -78,7 +78,7 @@ def build():
 
     comment_pages = []
 
-    def page(path, title, body, active='catalog', category='', obj=None):
+    def page(path, title, body, active='catalog', category='', obj=None, extra_head=''):
         canonical = path.removesuffix('index.html') if path.endswith('index.html') else path
         comment_pages.append({'term': 'Alive/World/' + re.sub(r'\.\w+$', '', canonical), 'page': canonical, 'title': title, 'variantCodes': [a['code'] for a in assets if obj and (a['object']==obj or obj in a.get('additionalObjects',[]))]})
         target = OUT/path
@@ -87,10 +87,11 @@ def build():
         prefix = '' if prefix=='.' else prefix+'/'
         # All authored body paths are relative to the World root.
         body = body.replace('@ROOT@',prefix)
+        extra_head = extra_head.replace('@ROOT@',prefix)
         scripts = f'<script defer src="{prefix}{asset_version("data.js")}"></script><script defer src="{prefix}{asset_version("site.js")}" id="world-script"></script><script defer src="{prefix}{asset_version('votes.js')}"></script>'
         metadata = f'data-root="{prefix}" data-page="{esc(active)}"'+(f' data-object="{obj}"' if obj else '')
         target.write_text(f'''<!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><title>{esc(title)} · ALIVE</title><meta name="description" content="Визуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений."><link rel="stylesheet" href="{prefix}{asset_version("site.css")}"><link rel="preload" href="{prefix}fonts/Onest-Variable.ttf" as="font" type="font/ttf" crossorigin>{scripts}</head><body {metadata}><a class="skip-link" href="#main">К содержимому</a><header class="mobile-bar"><a href="{prefix}index.html">ALIVE</a><button id="menu-toggle" aria-controls="navigation" aria-expanded="false">Разделы</button></header><noscript><nav class="fallback-navigation"><a href="{prefix}index.html">Обзор</a><a href="{prefix}catalog.html">Каталог</a><a href="{prefix}../ProductionFlow/">План</a></nav></noscript>{sidebar(prefix,active,category)}<div class="page"><header class="utility"><div class="breadcrumbs"><a href="{prefix}index.html">ALIVE</a><span>/</span><span>{esc(title)}</span></div><form class="search-form" role="search" action="{prefix}search.html">{SEARCH}<input name="q" id="global-search" type="search" placeholder="Имя, код, предмет…" aria-label="Поиск по миру" autocomplete="off"><button type="submit" aria-label="Найти">{ARROW}</button></form></header><main id="main" tabindex="-1">{body}</main><footer class="page-footer mono"><span>ALIVE / визуальная разработка</span><a href="{prefix}../ProductionFlow/">Карта работ {EXTERNAL}</a></footer></div><div id="notice" class="notice mono" role="status" aria-live="polite"></div></body></html>''')
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><title>{esc(title)} · ALIVE</title><meta name="description" content="Визуальная разработка ALIVE: персонажи, корабль, материалы и постоянные коды изображений."><link rel="stylesheet" href="{prefix}{asset_version("site.css")}"><link rel="preload" href="{prefix}fonts/Onest-Variable.ttf" as="font" type="font/ttf" crossorigin>{scripts}{extra_head}</head><body {metadata}><a class="skip-link" href="#main">К содержимому</a><header class="mobile-bar"><a href="{prefix}index.html">ALIVE</a><button id="menu-toggle" aria-controls="navigation" aria-expanded="false">Разделы</button></header><noscript><nav class="fallback-navigation"><a href="{prefix}index.html">Обзор</a><a href="{prefix}catalog.html">Каталог</a><a href="{prefix}../ProductionFlow/">План</a></nav></noscript>{sidebar(prefix,active,category)}<div class="page"><header class="utility"><div class="breadcrumbs"><a href="{prefix}index.html">ALIVE</a><span>/</span><span>{esc(title)}</span></div><form class="search-form" role="search" action="{prefix}search.html">{SEARCH}<input name="q" id="global-search" type="search" placeholder="Имя, код, предмет…" aria-label="Поиск по миру" autocomplete="off"><button type="submit" aria-label="Найти">{ARROW}</button></form></header><main id="main" tabindex="-1">{body}</main><footer class="page-footer mono"><span>ALIVE / визуальная разработка</span><a href="{prefix}../ProductionFlow/">Карта работ {EXTERNAL}</a></footer></div><div id="notice" class="notice mono" role="status" aria-live="polite"></div></body></html>''')
 
     def discussion_summary(path):
         return f'<a class="card-discussion" data-discussion-summary="{esc(path)}/" href="@ROOT@{esc(path)}/#comments" aria-label="Открыть комментарии"><span class="card-discussion-placeholder">Комментарии…</span></a>'
@@ -120,6 +121,9 @@ def build():
         style_section = '<section id="animation-styles"><h2>Анимационные стили</h2>'+object_cards('style')+'</section>' if g['id']=='style' else ''
         catalog.append(f'''<details class="catalog-group" id="{g['id']}" {'open' if g['id']=='people' else ''}><summary><span>{g['title']}</span><span class="mono">{len(members)} материалов</span>{ARROW}</summary>{style_section}<ul>{''.join(entries)}</ul></details>''')
     page('catalog.html','Каталог',f'''<div class="page-heading"><h1>Каталог мира</h1><p>Все направления разработки — от первых образов до готовых комплектов.</p></div><div class="catalog-groups">{''.join(catalog)}</div>''')
+    model_body = (ROOT/'Production/Dashboard/moag_model_viewer.html').read_text()
+    model_assets = '<link rel="stylesheet" href="@ROOT@'+asset_version('ships/moag/model/viewer.css')+'"><script type="module" src="@ROOT@'+asset_version('ships/moag/model/viewer.js')+'"></script>'
+    page('ships/moag/model/index.html', 'Моаг · 3D-модель', model_body, category='station', extra_head=model_assets)
     for o in config['objects']:
         aa=[a for a in assets if (a['object']==o['id'] or o['id'] in a.get('additionalObjects',[])) and not a['archived']]
         order=o.get('gallery_order',[])
@@ -127,6 +131,8 @@ def build():
         current=[a for a in aa if a['series']==o['default_series']];first=bycode[o['cover']]
         tab_count=len({a['series'] for a in aa}) if o.get('kind')=='ship' else len(current)
         tabs=''.join(f'<button class="derivative {"active" if d["id"]=="appearance" else ""}"'+(' aria-current="page"' if d['id']=='appearance' else ' aria-disabled="true" data-pending title="Пока не подготовлено"')+f'>{d["title"]}{f" <span class=mono>{tab_count}</span>" if d["id"]=="appearance" else ""}</button>' for d in o.get('derivatives',config['derivatives']))
+        if o['id'] == 'moag':
+            tabs = tabs.replace('<button class="derivative " aria-disabled="true" data-pending title="Пока не подготовлено">3D-модель</button>', '<a class="derivative" href="model/">3D-модель</a>')
         series=[s for s in config['series'] if any(a['series']==s['id'] for a in aa)]
         options=''.join(f'<option value="{s["id"]}">{s["title"]} · {sum(a["series"]==s["id"] for a in aa)}</option>' for s in series)+('<option value="all">Все варианты</option>' if o.get('kind')=='ship' else '<option value="all">Все серии</option>')
         is_ship=o.get('kind')=='ship'

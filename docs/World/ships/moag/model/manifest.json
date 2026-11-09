@@ -1,0 +1,32 @@
+{
+  "code": "moag041",
+  "version": "v05",
+  "status": "draft",
+  "source_blend_sha256": "ad1c210dd583d0785af2e65ce9647eab7bb51b6bae39134a1d8779e9c9fc1784",
+  "source_triangles": 11922948,
+  "file": "moag041-v05.glb",
+  "bytes": 40724700,
+  "sha256": "3c826a58b7c3afe840009ebf56ef07dae82d41a3f2d2e147e55e9aa40878d8ef",
+  "triangles": 6444233,
+  "draw_primitives": 15,
+  "web_texture_size": [
+    1024,
+    576
+  ],
+  "source_texture_size": [
+    3840,
+    2160
+  ],
+  "compression": "Draco; position 20 bits; normal 14 bits; UV 16 bits; WebP",
+  "simplification": {
+    "ratio": 0.16,
+    "relative_error": 5e-05,
+    "normal_weights": [
+      0.03,
+      0.03,
+      0.03
+    ]
+  },
+  "source_design": "moag041 exterior draft v05",
+  "poster": "Cycles render of the same v05 Blender scene; resized to 1600 px WebP"
+}
