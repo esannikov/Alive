@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T09:44:58.335484+00:00",
+  "generatedAt": "2026-11-09T09:47:54.672115+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKV_i",
+      "page": "characters/vovik/",
+      "title": "Вовик",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-09T09:47:37Z",
+      "excerpt": "Тоже все классные",
+      "url": "https://github.com/esannikov/Alive/discussions/175#discussioncomment-19488738"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKV-j",
       "page": "characters/romik/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-06T14:26:57Z",
       "excerpt": "они все очень одинаковые по подаче. Их нужно разводить. Плюс, Колька и Федор должны быть такими, чтобы попадать в женские типажи. 7 и 2 я пока не трогаю, но это не они. kolka010 - можно попробовать изменить форму подбородка, согласна. Но я ее хочу попробова…",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19442129"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKKGx",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "isto3110-ship-it",
-      "createdAt": "2026-11-06T12:29:29Z",
-      "excerpt": "или 7",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19440049"
     }
   ],
   "discussionNumbers": {
+    "characters/vovik/": 175,
     "characters/romik/": 174,
     "characters/egor/": 95,
     "characters/krendel/": 96,
@@ -267,8 +268,11 @@
       "last": null
     },
     "characters/vovik/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-09T09:47:37Z"
+      }
     },
     "characters/vovik/reference.html": {
       "messageCount": 0,
