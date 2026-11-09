@@ -68,7 +68,8 @@
     "title": "Федор",
     "variantCodes": [
       "fedor009",
-      "fedor031"
+      "fedor031",
+      "fedor033"
     ]
   },
   {
@@ -928,6 +929,44 @@
     "term": "Alive/World/characters/senka/reference",
     "page": "characters/senka/reference.html",
     "title": "Сенька · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/dimka/",
+    "page": "characters/dimka/",
+    "title": "Димка",
+    "variantCodes": [
+      "dimka001",
+      "dimka002",
+      "dimka003",
+      "dimka004",
+      "dimka005",
+      "dimka006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/dimka/reference",
+    "page": "characters/dimka/reference.html",
+    "title": "Димка · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/andrey/",
+    "page": "characters/andrey/",
+    "title": "Андрей Шереметьев",
+    "variantCodes": [
+      "andrey001",
+      "andrey002",
+      "andrey003",
+      "andrey004",
+      "andrey005",
+      "andrey006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/andrey/reference",
+    "page": "characters/andrey/reference.html",
+    "title": "Андрей Шереметьев · справка",
     "variantCodes": []
   },
   {
