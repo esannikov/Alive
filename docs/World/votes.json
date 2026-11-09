@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:50:48.131955+00:00",
+  "generatedAt": "2026-11-09T21:27:53.700014+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -283,6 +283,162 @@
       "automaticRemoval": false
     },
     "alc022": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "andrey001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "andrey002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "andrey003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "andrey004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "andrey005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "andrey006": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "dimka001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "dimka002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "dimka003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "dimka004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "dimka005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "dimka006": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -1454,6 +1610,19 @@
       "automaticRemoval": false
     },
     "fedor032": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "fedor033": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -5574,5 +5743,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-09T09"
+  "refreshSlot": "2026-11-09T21"
 }
