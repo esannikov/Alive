@@ -43,7 +43,8 @@
     "ira": 8,
     "senka": 8,
     "dimka": 13,
-    "andrey": 7
+    "andrey": 7,
+    "gardener": 6
   },
   "assets": [
     {
@@ -11251,6 +11252,116 @@
       "task_ids": [
         "character-concepts",
         "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "gardener001",
+      "object": "gardener",
+      "caption": "Телескопическая рука",
+      "source_file": "docs/World/robots/gardener/images/gardener001.webp",
+      "source_commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+      "sha256": "3b6d50d73cd7f9eeb54473b1ce5653cf2738fa29140a3083336aee65a98ac9c4",
+      "aliases": [
+        "docs/World/robots/gardener/images/gardener001.webp"
+      ],
+      "galleries": [
+        "World/robots/gardener"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "gardener002",
+      "object": "gardener",
+      "caption": "Гранёный корпус",
+      "source_file": "docs/World/robots/gardener/images/gardener002.webp",
+      "source_commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+      "sha256": "47b7369e848dcd3f0ee38dad95830b9e44e973791941861bcba9899fca768f9b",
+      "aliases": [
+        "docs/World/robots/gardener/images/gardener002.webp"
+      ],
+      "galleries": [
+        "World/robots/gardener"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "gardener003",
+      "object": "gardener",
+      "caption": "Трёхопорное основание",
+      "source_file": "docs/World/robots/gardener/images/gardener003.webp",
+      "source_commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+      "sha256": "6f20f3bdb02a6230acc8707fbeae557c6540533260d5f0dd9f721bb6354d65fb",
+      "aliases": [
+        "docs/World/robots/gardener/images/gardener003.webp"
+      ],
+      "galleries": [
+        "World/robots/gardener"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "gardener004",
+      "object": "gardener",
+      "caption": "Конусный корпус",
+      "source_file": "docs/World/robots/gardener/images/gardener004.webp",
+      "source_commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+      "sha256": "f66cc7456d05d562f6e1000f227d389b00cf5b5bb7e18bfd957c2004d9987e7e",
+      "aliases": [
+        "docs/World/robots/gardener/images/gardener004.webp"
+      ],
+      "galleries": [
+        "World/robots/gardener"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "gardener005",
+      "object": "gardener",
+      "caption": "Ажурный каркас",
+      "source_file": "docs/World/robots/gardener/images/gardener005.webp",
+      "source_commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+      "sha256": "bdc324d2cf67c7f70e683b0756156f25321cf222b978af4606bc093806479786",
+      "aliases": [
+        "docs/World/robots/gardener/images/gardener005.webp"
+      ],
+      "galleries": [
+        "World/robots/gardener"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
       ],
       "series": "current",
       "visibility": "active"

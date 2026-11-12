@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-12",
+  "status": "publication_authorized",
+  "title": "Робот-садовник",
+  "selection": [
+    {
+      "code": "gardener001",
+      "local_source": "gardener-06.png",
+      "caption": "Телескопическая рука"
+    },
+    {
+      "code": "gardener002",
+      "local_source": "gardener-05b.png",
+      "caption": "Гранёный корпус"
+    },
+    {
+      "code": "gardener003",
+      "local_source": "gardener-03.png",
+      "caption": "Трёхопорное основание"
+    },
+    {
+      "code": "gardener004",
+      "local_source": "gardener-01.png",
+      "caption": "Конусный корпус"
+    },
+    {
+      "code": "gardener005",
+      "local_source": "gardener-09-engineered-v2.png",
+      "caption": "Ажурный каркас"
+    }
+  ]
+}

@@ -976,6 +976,24 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/robots/gardener/",
+    "page": "robots/gardener/",
+    "title": "Робот-садовник",
+    "variantCodes": [
+      "gardener001",
+      "gardener002",
+      "gardener003",
+      "gardener004",
+      "gardener005"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/gardener/reference",
+    "page": "robots/gardener/reference.html",
+    "title": "Робот-садовник · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",
