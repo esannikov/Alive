@@ -42,7 +42,7 @@
     "semen": 7,
     "ira": 8,
     "senka": 8,
-    "dimka": 7,
+    "dimka": 13,
     "andrey": 7
   },
   "assets": [
@@ -11106,6 +11106,144 @@
       ],
       "galleries": [
         "World/characters/andrey"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka007",
+      "object": "dimka",
+      "caption": "Тёмные волосы, узкое лицо",
+      "source_file": "docs/World/characters/dimka/images/dimka007.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "ec40224d0005ddd9d2f15c02e224d7a3272ca60dfc234d7275cc2f933952f5ec",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka007.webp"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka008",
+      "object": "dimka",
+      "caption": "Мягкие скулы, открытый взгляд",
+      "source_file": "docs/World/characters/dimka/images/dimka008.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "a8d505bf7d709b14e44be1f5cba098602ef2586ca3fc240c7c0d5bce25fb5371",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka008.webp"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka009",
+      "object": "dimka",
+      "caption": "Сдержанная усмешка",
+      "source_file": "docs/World/characters/dimka/images/dimka009.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "d5f91fd83c9729b4f77c79d88790180435d7d9c4f5abc8efec0bc138ee01ad9b",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka009.webp"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka010",
+      "object": "dimka",
+      "caption": "Светлый коротко стриженный типаж",
+      "source_file": "docs/World/characters/dimka/images/dimka010.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "cfc603aa8d96b30dab453a7a14e21fcae270cd91d314a3f749bc6aee462a1a0c",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka010.webp"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka011",
+      "object": "dimka",
+      "caption": "Тёмные брови, широкие скулы",
+      "source_file": "docs/World/characters/dimka/images/dimka011.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "67108c44905bb6c292ee005f80a9bbc583be7b129f4670593f0915bce9099b74",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka011.webp"
+      ],
+      "galleries": [
+        "World/characters/dimka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "dimka012",
+      "object": "dimka",
+      "caption": "Рыжеватые волосы, лёгкая улыбка",
+      "source_file": "docs/World/characters/dimka/images/dimka012.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "eda994b1af54423aeb82fc2bc41e85d5848af5830d6a34d229b92b2fcb8f17aa",
+      "aliases": [
+        "docs/World/characters/dimka/images/dimka012.webp"
+      ],
+      "galleries": [
+        "World/characters/dimka"
       ],
       "kind": "appearance",
       "status": "candidate",
