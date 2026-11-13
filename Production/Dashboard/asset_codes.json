@@ -44,7 +44,8 @@
     "senka": 8,
     "dimka": 13,
     "andrey": 7,
-    "gardener": 6
+    "gardener": 6,
+    "taisc": 9
   },
   "assets": [
     {
@@ -11673,6 +11674,206 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "taisc001",
+      "object": "tais-clothing",
+      "caption": "Синий верх / светлый низ",
+      "source_file": "docs/World/clothing/tais/images/taisc001.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "0cc19071ef5aac65e4b78dd6988d40a6c220cc3137734df953c1ae5aba6efcc0",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc001.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc002",
+      "object": "tais-clothing",
+      "caption": "Анорак / косой штормовой ворот",
+      "source_file": "docs/World/clothing/tais/images/taisc002.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "8513d0162a9535387a00de4d4b037dc921519ca731870f3a3024ae3189a315ab",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc002.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc003",
+      "object": "tais-clothing",
+      "caption": "Ржавый жилет / меловые брюки",
+      "source_file": "docs/World/clothing/tais/images/taisc003.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "ef45e3641b4e4414a90f4921f649a1bcf430bb82047b5b06a2c8ac40d2da3081",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc003.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc004",
+      "object": "tais-clothing",
+      "caption": "Переход / двойной защитный ворот",
+      "source_file": "docs/World/clothing/tais/images/taisc004.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "58e9bf932ec2f8446adbcad845f04185abf5f3707ee3ad5810e586b85f6f671f",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc004.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc005",
+      "object": "tais-clothing",
+      "caption": "Светлая рубашка / синие брюки",
+      "source_file": "docs/World/clothing/tais/images/taisc005.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "083016a1a70975b81f9ff83b8b29a9d694505d8c0259bbfc5fea5d75cd3844eb",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc005.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc006",
+      "object": "tais-clothing",
+      "caption": "Комбинезон из двух форм",
+      "source_file": "docs/World/clothing/tais/images/taisc006.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "5abae16b3f10caf716d24ded63369833ebd50e620b7265d813b31e326f103b28",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc006.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc007",
+      "object": "tais-clothing",
+      "caption": "Тёплый смок из одеяла",
+      "source_file": "docs/World/clothing/tais/images/taisc007.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "df0f1bfc85cf91456232f46783e4640e8735e1c8c5305c9f7a0b18223914651e",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc007.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
+    },
+    {
+      "code": "taisc008",
+      "object": "tais-clothing",
+      "caption": "Длинный разгрузочный жилет",
+      "source_file": "docs/World/clothing/tais/images/taisc008.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "a79edfd89c36396ccd97039d85682af482aa28e3fe6e24656cca43f7e8c862d4",
+      "aliases": [
+        "docs/World/clothing/tais/images/taisc008.png"
+      ],
+      "galleries": [
+        "World/clothing/tais"
+      ],
+      "kind": "costume",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "costume",
+        "tais",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "tais053"
     }
   ],
   "deleted_codes": [
