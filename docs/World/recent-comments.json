@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T10:54:09.882208+00:00",
+  "generatedAt": "2026-11-13T10:54:54.761084+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKuUl",
+      "page": "robots/gardener/",
+      "title": "Робот-садовник",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-13T10:54:40Z",
+      "excerpt": "единственное - может всем им морды какие-то будем таки рисовать? это вопрос - не факт, что я права.",
+      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588389"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKuUT",
       "page": "robots/gardener/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-09T08:51:01Z",
       "excerpt": "egor007 давайте оставим, остальные пока в резерв",
       "url": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKVu4",
-      "page": "characters/krendel/",
-      "title": "Крендель",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-09T08:50:01Z",
-      "excerpt": "krendel006 и krendel004 давайте оставим, остальных в резерв отпустим",
-      "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
     }
   ],
   "discussionNumbers": {
@@ -495,10 +495,10 @@
       "last": null
     },
     "robots/gardener/": {
-      "messageCount": 1,
+      "messageCount": 2,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-13T10:53:49Z"
+        "createdAt": "2026-11-13T10:54:40Z"
       }
     },
     "robots/gardener/reference.html": {
