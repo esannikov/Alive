@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T11:12:46.328640+00:00",
+  "generatedAt": "2026-11-13T12:49:18.552309+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKu2-",
+      "page": "styles/alc-11/",
+      "title": "Органическая научная фантастика",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-13T12:48:55Z",
+      "excerpt": "красиво как",
+      "url": "https://github.com/esannikov/Alive/discussions/184#discussioncomment-19590590"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKuU2",
       "page": "robots/gardener/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-09T09:47:37Z",
       "excerpt": "Тоже все классные",
       "url": "https://github.com/esannikov/Alive/discussions/175#discussioncomment-19488738"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKV-j",
-      "page": "characters/romik/",
-      "title": "Ромик",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-09T09:44:38Z",
-      "excerpt": "тут все малыши классные. Я бы Вовика и Ромика делала прямо почти одинаковыми, просто с разным цветом волос. они вечно там вдвоем, бегают, путаются под ногами у всех. romik002 на заглавную можно плиз?",
-      "url": "https://github.com/esannikov/Alive/discussions/174#discussioncomment-19488675"
     }
   ],
   "discussionNumbers": {
+    "styles/alc-11/": 184,
     "robots/gardener/": 182,
     "characters/vovik/": 175,
     "characters/romik/": 174,
@@ -78,6 +79,10 @@
   },
   "discussionStats": {
     "work.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "clothing/": {
       "messageCount": 0,
       "last": null
     },
@@ -514,10 +519,21 @@
       "last": null
     },
     "styles/alc-11/": {
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-13T12:48:55Z"
+      }
+    },
+    "styles/alc-11/reference.html": {
       "messageCount": 0,
       "last": null
     },
-    "styles/alc-11/reference.html": {
+    "clothing/tais/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "clothing/tais/reference.html": {
       "messageCount": 0,
       "last": null
     },
