@@ -1,7 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T17:43:38.244875+00:00",
+  "generatedAt": "2026-11-13T10:55:16.422559+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKuU2",
+      "page": "robots/gardener/",
+      "title": "Робот-садовник",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-13T10:55:03Z",
+      "excerpt": "gardener005 тоже класс. все классные",
+      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588406"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BKuUl",
+      "page": "robots/gardener/",
+      "title": "Робот-садовник",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-13T10:54:40Z",
+      "excerpt": "единственное - может всем им морды какие-то будем таки рисовать? это вопрос - не факт, что я права.",
+      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588389"
+    },
+    {
+      "id": "DC_kwDOVCLQyc4BKuUT",
+      "page": "robots/gardener/",
+      "title": "Робот-садовник",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-13T10:53:49Z",
+      "excerpt": "какой малыш)",
+      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588371"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKV_i",
       "page": "characters/vovik/",
@@ -19,36 +46,10 @@
       "createdAt": "2026-11-09T09:44:38Z",
       "excerpt": "тут все малыши классные. Я бы Вовика и Ромика делала прямо почти одинаковыми, просто с разным цветом волос. они вечно там вдвоем, бегают, путаются под ногами у всех. romik002 на заглавную можно плиз?",
       "url": "https://github.com/esannikov/Alive/discussions/174#discussioncomment-19488675"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKVvB",
-      "page": "characters/egor/",
-      "title": "Егор",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-09T08:51:01Z",
-      "excerpt": "egor007 давайте оставим, остальные пока в резерв",
-      "url": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKVu4",
-      "page": "characters/krendel/",
-      "title": "Крендель",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-09T08:50:01Z",
-      "excerpt": "krendel006 и krendel004 давайте оставим, остальных в резерв отпустим",
-      "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKKnR",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-06T14:26:57Z",
-      "excerpt": "они все очень одинаковые по подаче. Их нужно разводить. Плюс, Колька и Федор должны быть такими, чтобы попадать в женские типажи. 7 и 2 я пока не трогаю, но это не они. kolka010 - можно попробовать изменить форму подбородка, согласна. Но я ее хочу попробова…",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19442129"
     }
   ],
   "discussionNumbers": {
+    "robots/gardener/": 182,
     "characters/vovik/": 175,
     "characters/romik/": 174,
     "characters/egor/": 95,
@@ -494,8 +495,11 @@
       "last": null
     },
     "robots/gardener/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 3,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-13T10:55:03Z"
+      }
     },
     "robots/gardener/reference.html": {
       "messageCount": 0,
