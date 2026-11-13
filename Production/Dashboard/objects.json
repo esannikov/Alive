@@ -2317,7 +2317,7 @@
   "studies": [
     {
       "id": "robot-scale",
-      "title": "Роботы · размерный лист",
+      "title": "Персонажи и роботы: масштаб",
       "path": "robots/scale",
       "group": "robots",
       "task_ids": [
@@ -2327,9 +2327,11 @@
         "robotfamilies",
         "service"
       ],
-      "summary": "Рабочие размеры рядом с людьми",
-      "image": "robots/scale/scale-sheet.svg",
-      "body_file": "Production/Dashboard/robot_scale_body.html"
+      "summary": "3 схемы · 78 фигур · рост и габариты",
+      "image": "robots/scale/02-families-9k-preview.png",
+      "body_file": "Production/Dashboard/robot_scale_body.html",
+      "label": "Сравнительные схемы",
+      "button_label": "Открыть схемы"
     },
     {
       "id": "cast-contrast",
