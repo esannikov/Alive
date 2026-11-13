@@ -19,6 +19,7 @@ def main():
     data=json.loads((OUT/'data.js').read_text().removeprefix('window.ALIVE_WORLD=').strip().removesuffix(';'))
     config=json.loads((ROOT/'Production/Dashboard/objects.json').read_text())
     assert data['objects']==config['objects'], 'Published objects diverged from source config'
+    assert data.get('collections',[])==config.get('collections',[]), 'Published collections diverged from source config'
     projected={a['code']:a for a in data['assets']}
     for record in registry['assets']:
         item=projected[record['code']]
@@ -44,6 +45,19 @@ def main():
     for o in data['objects']:
         assert o['cover'] in codes
         assert set(o['task_ids'])<=tasks
+    collections={c['id']:c for c in config.get('collections',[])}
+    objects={o['id']:o for o in config['objects']}
+    assert len(collections)==len(config.get('collections',[])), 'Duplicate collection ID'
+    for c in collections.values():
+        assert c['cover'] in codes and c['members'] and len(c['members'])==len(set(c['members']))
+        assert set(c['members'])<=objects.keys()
+        assert all(objects[member].get('parent_collection')==c['id'] for member in c['members'])
+        assert projected[c['cover']]['object'] in c['members'], 'Collection cover must belong to a member'
+        assert (OUT/c['path']/'index.html').is_file()
+    for o in objects.values():
+        if o.get('parent_collection'):
+            assert o['parent_collection'] in collections
+            assert o['id'] in collections[o['parent_collection']]['members']
     pages=list(OUT.rglob('*.html')); parsed={}
     for p in pages:
         text=p.read_text();parser=Links();parser.feed(text);parsed[p.resolve()]=parser

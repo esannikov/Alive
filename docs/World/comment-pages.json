@@ -12,6 +12,12 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/clothing/",
+    "page": "clothing/",
+    "title": "Одежда",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/catalog",
     "page": "catalog.html",
     "title": "Каталог",
@@ -1031,6 +1037,27 @@
     "term": "Alive/World/styles/alc-11/reference",
     "page": "styles/alc-11/reference.html",
     "title": "Органическая научная фантастика · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/clothing/tais/",
+    "page": "clothing/tais/",
+    "title": "Одежда Таис",
+    "variantCodes": [
+      "taisc001",
+      "taisc002",
+      "taisc003",
+      "taisc004",
+      "taisc005",
+      "taisc006",
+      "taisc007",
+      "taisc008"
+    ]
+  },
+  {
+    "term": "Alive/World/clothing/tais/reference",
+    "page": "clothing/tais/reference.html",
+    "title": "Одежда Таис · справка",
     "variantCodes": []
   },
   {

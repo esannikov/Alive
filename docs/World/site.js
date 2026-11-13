@@ -54,8 +54,9 @@
     const field = $('#global-search'); field.value = new URLSearchParams(location.search).get('q') || '';
     const series = Object.fromEntries(data.series.map(s => [s.id,s.title]));
     const entries = data.assets.filter(a=>!a.archived).map(a => ({title: `${objects[a.object].title} · ${a.title}`, meta:a.code,
-      text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} ${objects[a.object].variant_notes?.[a.code]||objects[a.object].variant_notes?.[a.series]||''} ${objects[a.object].kind==='location'?'пространство локация интерьер':objects[a.object].kind==='ship'?'корабль станция внешний облик':'портрет внешность'} концепт`,
+      text: `${a.code} ${objects[a.object].title} ${a.title} ${series[a.series]} ${objects[a.object].variant_notes?.[a.code]||objects[a.object].variant_notes?.[a.series]||''} ${objects[a.object].kind==='costume'?'одежда костюм рабочий воротник брюки':objects[a.object].kind==='location'?'пространство локация интерьер':objects[a.object].kind==='ship'?'корабль станция внешний облик':'портрет внешность'} концепт`,
       note: `${series[a.series]} · поисковый вариант`, href:`${a.page||`characters/${a.object}/`}#${a.code}`,image:a.thumb,code:a.code}));
+    (data.collections || []).forEach(c => entries.push({title:c.title,meta:'Коллекция',text:`${c.title} ${c.summary}`,note:c.summary,href:`${c.path}/`,image:byCode[c.cover]?.thumb}));
     data.tasks.forEach(t => entries.push({title:t.title,meta:'ProductionFlow',text:`${t.title} ${t.output}`,note:'Задание в плане',href:`../ProductionFlow/#task=${t.id}`}));
     const render = () => {
       const q = normalize(field.value); const parts = q.split(' ').filter(Boolean);
