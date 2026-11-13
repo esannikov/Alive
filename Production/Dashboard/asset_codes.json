@@ -31,7 +31,7 @@
     "vovik": 7,
     "square": 6,
     "donteacher": 2,
-    "alc": 23,
+    "alc": 37,
     "kir": 7,
     "push": 19,
     "frik": 10,
@@ -11362,6 +11362,314 @@
       "renditions": [],
       "task_ids": [
         "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc023",
+      "object": "alc-10",
+      "caption": "Таис: поворот",
+      "source_file": "docs/World/styles/alc-10/images/alc023.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "8d350a3eb6ef430a900dd9c8535d07dee26f7450aa796b9f7b92b39d8ab34af4",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc023.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc024",
+      "object": "alc-10",
+      "caption": "Проверка хвата Лона",
+      "source_file": "docs/World/styles/alc-10/images/alc024.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "7eb76a1893bacf4865428483a05f3ff1c6db4e53a9f2ceaab417835fa9737429",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc024.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc025",
+      "object": "alc-10",
+      "caption": "Садовник в оранжерее",
+      "source_file": "docs/World/styles/alc-10/images/alc025.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "ce1c9fa8207a4f17b8cd1ce3522338f0fd99b95075081b9956b28556c8cfa5bb",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc025.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc026",
+      "object": "alc-10",
+      "caption": "У лифта",
+      "source_file": "docs/World/styles/alc-10/images/alc026.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "f5b6413eb4a80513b61f1dca3cb1b46acd54c4fe1812e17e2a42ac5d38206062",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc026.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc027",
+      "object": "alc-10",
+      "caption": "Свет в проходе",
+      "source_file": "docs/World/styles/alc-10/images/alc027.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "a788af1ff7908c4d943d10bc08835737641eabb93eab36e6ed9a2aece1efd8db",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc027.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc028",
+      "object": "alc-10",
+      "caption": "Управление садовником",
+      "source_file": "docs/World/styles/alc-10/images/alc028.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "28fec9d1744a8f1293638366fe654b89887d157838c2100df225000a1a65466c",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc028.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc029",
+      "object": "alc-10",
+      "caption": "Бумажная ракета",
+      "source_file": "docs/World/styles/alc-10/images/alc029.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "619162b0ece7a2e120e5ff73fe497b1704e80da67ab218fb5e5e423c2b30c889",
+      "aliases": [
+        "docs/World/styles/alc-10/images/alc029.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-10"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc030",
+      "object": "alc-11",
+      "caption": "Таис: поворот",
+      "source_file": "docs/World/styles/alc-11/images/alc030.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "c8b396f6291ac8519c52f59532c5dcf649fd2a609f99c8eb10cae4441d51d5a4",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc030.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc031",
+      "object": "alc-11",
+      "caption": "Проверка хвата Лона",
+      "source_file": "docs/World/styles/alc-11/images/alc031.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "377925ff9616bbbb9edc7d937c96bc5d975d10b07e9dbe51070c37300b772eb9",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc031.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc032",
+      "object": "alc-11",
+      "caption": "Садовник в оранжерее",
+      "source_file": "docs/World/styles/alc-11/images/alc032.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "7d10b14f3191524c41946d99491dd9fea01bee8e3f7173ee2cf7a94c80aac70b",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc032.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc033",
+      "object": "alc-11",
+      "caption": "В глубине сада",
+      "source_file": "docs/World/styles/alc-11/images/alc033.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "451b720051fe347c91406d63c79cb93c65eee58844febe4d6df8819d5835cc5b",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc033.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc034",
+      "object": "alc-11",
+      "caption": "Диагностика",
+      "source_file": "docs/World/styles/alc-11/images/alc034.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "f5cd81e60541e8e9baae4026464406594cb95602d95db4164c8612ec399edd86",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc034.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc035",
+      "object": "alc-11",
+      "caption": "Саженцы",
+      "source_file": "docs/World/styles/alc-11/images/alc035.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "64e78b8a2e8a545b18bd80827aa2d180a3df32cd1ec07fd08d0275f7439b958b",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc035.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc036",
+      "object": "alc-11",
+      "caption": "Работа с рассадой",
+      "source_file": "docs/World/styles/alc-11/images/alc036.webp",
+      "source_commit": "827494f6642b6dc1bf81c7d7f143f859e2c858fd",
+      "sha256": "3b7a1b197d391983f04f21a65a406ca030fc4c8c59c45ddb48a94d866aeee072",
+      "aliases": [
+        "docs/World/styles/alc-11/images/alc036.webp"
+      ],
+      "galleries": [
+        "World/styles/alc-11"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
       ],
       "series": "current",
       "visibility": "active"
