@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T17:43:38.244875+00:00",
+  "generatedAt": "2026-11-13T10:54:09.882208+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BKuUT",
+      "page": "robots/gardener/",
+      "title": "Робот-садовник",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-13T10:53:49Z",
+      "excerpt": "какой малыш)",
+      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588371"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKV_i",
       "page": "characters/vovik/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-09T08:50:01Z",
       "excerpt": "krendel006 и krendel004 давайте оставим, остальных в резерв отпустим",
       "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKKnR",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-06T14:26:57Z",
-      "excerpt": "они все очень одинаковые по подаче. Их нужно разводить. Плюс, Колька и Федор должны быть такими, чтобы попадать в женские типажи. 7 и 2 я пока не трогаю, но это не они. kolka010 - можно попробовать изменить форму подбородка, согласна. Но я ее хочу попробова…",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19442129"
     }
   ],
   "discussionNumbers": {
+    "robots/gardener/": 182,
     "characters/vovik/": 175,
     "characters/romik/": 174,
     "characters/egor/": 95,
@@ -494,8 +495,11 @@
       "last": null
     },
     "robots/gardener/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-13T10:53:49Z"
+      }
     },
     "robots/gardener/reference.html": {
       "messageCount": 0,
