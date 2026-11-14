@@ -59,7 +59,12 @@
       "emma010",
       "emma011",
       "emma012",
-      "emma013"
+      "emma013",
+      "emma015",
+      "emma016",
+      "emma017",
+      "emma018",
+      "emma019"
     ]
   },
   {
@@ -89,13 +94,15 @@
     "page": "characters/kolka/",
     "title": "Колька · Колючий",
     "variantCodes": [
-      "kolka002",
-      "kolka007",
       "kolka010",
       "kolka015",
       "kolka016",
       "kolka017",
-      "kolka018"
+      "kolka018",
+      "kolka025",
+      "kolka026",
+      "kolka027",
+      "kolka028"
     ]
   },
   {
@@ -637,6 +644,7 @@
       "emma004",
       "emma006",
       "kolka001",
+      "kolka002",
       "kolka003",
       "kolka004",
       "kolka005",
@@ -688,6 +696,7 @@
       "nitka013",
       "valek019",
       "valek020",
+      "kolka007",
       "kolka008",
       "tais045",
       "tais046",
