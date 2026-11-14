@@ -1,0 +1,1156 @@
+{
+  "schema_version": 1,
+  "archive_date": "2026-10-29",
+  "storage_volume": "STORAGE",
+  "archive_relative_path": "PROJECTS/ALIVE/World_Archive_2026-10-29",
+  "manifest": "MANIFEST.json",
+  "source_branch": "codex/alive-roadmap-site",
+  "source_commit": "090cb9b5c65b1d93be811ebf7684c27471d4ce61",
+  "reason": "Варианты ранее сняты с активных галерей; по поручению владельца файлы перенесены на STORAGE и удалены из текущей публикации.",
+  "assets": [
+    {
+      "code": "moag003",
+      "object": "moag",
+      "caption": "Камертон · ракурс 1",
+      "sha256": "2377fcaa5a5203b7ebdc1fa68a2d9d5a830e71507ca0192f91c5b5201a86e8cb",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag003-fork-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag003-fork-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-fork",
+      "visibility": "archived"
+    },
+    {
+      "code": "moag004",
+      "object": "moag",
+      "caption": "Камертон · ракурс 2",
+      "sha256": "8694f01e1861a8bdf16b552c0bd979976d71732ab3229ae7c563f6091b4de0fd",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag004-fork-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag004-fork-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag003",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-fork",
+      "visibility": "archived"
+    },
+    {
+      "code": "moag010",
+      "object": "moag",
+      "caption": "Перекрёсток · ракурс 2",
+      "sha256": "6cc0ebd562b70de80451a90983cbabab998efa63791b514d5a11e32e24e7f36b",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag010-crossroads-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag010-crossroads-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag009",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-crossroads",
+      "visibility": "archived"
+    },
+    {
+      "code": "moag013",
+      "object": "moag",
+      "caption": "Параллакс · ракурс 1",
+      "sha256": "867329328a2957690382698ca151d6a0b95a3f62e95922740045a8c8005fd968",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag013-parallax-front.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag013-parallax-front.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-parallax",
+      "visibility": "archived"
+    },
+    {
+      "code": "moag014",
+      "object": "moag",
+      "caption": "Параллакс · ракурс 2",
+      "sha256": "6f1657530a131218d557064d9940eee8f93c0ae062fdb376e96d3e32e3e598f3",
+      "source_commit": "aefb506ebc06020442a60fcafd97680c9ce28801",
+      "source_file": "docs/World/ships/moag/images/moag014-parallax-rear.png",
+      "aliases": [
+        "docs/World/ships/moag/images/moag014-parallax-rear.png"
+      ],
+      "galleries": [
+        "World/ships/moag"
+      ],
+      "kind": "exterior",
+      "status": "candidate",
+      "derived_from": "moag013",
+      "derivation_kind": "alternate_view",
+      "renditions": [],
+      "task_ids": [
+        "hull"
+      ],
+      "series": "moag-parallax",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon003",
+      "object": "lon",
+      "caption": "Linea · итальянский дизайн",
+      "sha256": "d777e24efc477a0a1a82766b3d830a1806f464a302b42f1a90becf3412080d59",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon003.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon003.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon004",
+      "object": "lon",
+      "caption": "Док · индустриальный Alien",
+      "sha256": "f347123812d025c614b469ec1c83f5ec629858dca5726e37d1231aa4a8244fbc",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon004.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon004.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon005",
+      "object": "lon",
+      "caption": "Сборщик · Star Wars",
+      "sha256": "19d2a225f39bb3701fb707ad0e61ba472609772ab48dfdf87138c32ac454df12",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon005.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon005.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon006",
+      "object": "lon",
+      "caption": "Атриум · Dune",
+      "sha256": "e5cd3481e455e111d322a7cf2a876779d4aa2895860d4beffeace399655bc0c1",
+      "source_commit": "63c37e041a3925dbf73cbd88e0d9feed4b4b362c",
+      "source_file": "docs/World/robots/lon/images/lon006.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon006.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "lon008",
+      "object": "lon",
+      "caption": "Каракури · механический слуга",
+      "sha256": "b318a6eeaa1050995bbcdfbf3a41c94dbf27afece70ba547d50d11dce6c2b72f",
+      "source_commit": "915726e775940c029d99a754e68ee80124e580f4",
+      "source_file": "docs/World/robots/lon/images/lon008.png",
+      "aliases": [
+        "docs/World/robots/lon/images/lon008.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon006",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don001",
+      "object": "don15",
+      "caption": "Бастион · бронетанковый",
+      "sha256": "486e31c99dd24df0a9c5f60288b9cb8d08766f66ce87cf4549c4f96c8610e012",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don001.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don001.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don013",
+      "object": "don15",
+      "caption": "Бастион · точные белые вставки",
+      "sha256": "a513df75813339e1be5e80443ef7c1e28046885102092807afd6818d5e351ab6",
+      "source_commit": "8a811cdd9eaebfef1f2cdae407bab71bfb4b962f",
+      "source_file": "docs/World/robots/don15/images/don013.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don013.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don001",
+      "derivation_kind": "color_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don002",
+      "object": "don15",
+      "caption": "Клин · стелс",
+      "sha256": "a281132e971e9ca7715d0347edee53757cf0caea394783f41dddc122bbc1978f",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don002.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don002.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don004",
+      "object": "don15",
+      "caption": "Караул · монументальный",
+      "sha256": "eaa0c8bfa02584b57ebd8146bc5ad526c10ae4b1c304f01df34f2932532f136b",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don004.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don004.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don005",
+      "object": "don15",
+      "caption": "Сухожилие · механический",
+      "sha256": "d589ad91c1653f0bb66da0ec6e0f736156db234c101147652d184fdcef2fee52",
+      "source_commit": "85bea1e7fd59a05ea6db15f365bb7fcbea805f0c",
+      "source_file": "docs/World/robots/don15/images/don005.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don005.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don016",
+      "object": "don15",
+      "caption": "Готика · европейская пластика",
+      "sha256": "31ec4bd822eb955018a673f58525a35701445796d3f5a8b960aa939a38690e3d",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don016.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don016.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don017",
+      "object": "don15",
+      "caption": "Клюв · бацинет",
+      "sha256": "5ddca88c34e7365db0016de671130dcdcc2015e90a70a9850629ae52e209ce18",
+      "source_commit": "561839e410643ea2eb1e645bda1619998045eca9",
+      "source_file": "docs/World/robots/don15/images/don017.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don017.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "martin005",
+      "object": "martin",
+      "caption": "Реле · ретрофутуризм",
+      "sha256": "aecf335257bf0efa38e3a5ada452f36149a2b2d2a52fb60417c207d262a25dc5",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin005.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin005.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "martin007",
+      "object": "martin",
+      "caption": "Облако · розовый и голубой",
+      "sha256": "20323b1d7b371eaa971343dc415b7ab1dda5f7c43adf8c563bd2fb7a52b709b2",
+      "source_commit": "7747578b49d0a76c1329167a30e916e7c1aef663",
+      "source_file": "docs/World/robots/martin/images/martin007.png",
+      "aliases": [
+        "docs/World/robots/martin/images/martin007.png"
+      ],
+      "galleries": [
+        "World/robots/martin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "martin005",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "robotfamilies"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "valek014",
+      "object": "valek",
+      "caption": "Широкая челюсть · худой типаж",
+      "sha256": "0490bcb8093ef2305f062498a4e44d596430b20dfc1258e20abed12ee58303ce",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek014.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek014.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek008",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Широкая челюсть · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "base-girls"
+      ]
+    },
+    {
+      "code": "valek015",
+      "object": "valek",
+      "caption": "Высокие скулы · худой типаж",
+      "sha256": "4a621907cdf1d191f1384056045089865256cf2e67411f4058ba31d071b967ce",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek015.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek015.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek009",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Высокие скулы · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "base-girls"
+      ]
+    },
+    {
+      "code": "valek016",
+      "object": "valek",
+      "caption": "Острые черты · худой типаж",
+      "sha256": "5538f98f747f458b80ce8a9f740cad4867119d1dfd24a2ff22988ab3d865bbef",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek016.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek016.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek010",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Острые черты · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "base-girls"
+      ]
+    },
+    {
+      "code": "valek017",
+      "object": "valek",
+      "caption": "Мягкий овал · худой типаж",
+      "sha256": "6c70fbbfde4cc9d82e3b7c65ca54c96187903669c93244625dfbe64f181ccee1",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/characters/valek/images/valek017.png",
+      "aliases": [
+        "docs/World/characters/valek/images/valek017.png"
+      ],
+      "galleries": [
+        "World/characters/valek"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "valek011",
+      "derivation_kind": "proportion_revision",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "casting_origin": {
+        "object": "valek",
+        "title": "Валёк",
+        "caption": "Мягкий овал · худой типаж",
+        "series": "current",
+        "visibility": "archived",
+        "galleries": [
+          "World"
+        ],
+        "task_ids": [
+          "support"
+        ]
+      },
+      "previous_objects": [
+        "base-girls"
+      ]
+    },
+    {
+      "code": "don020",
+      "object": "don15",
+      "caption": "Клюв · сухой силуэт",
+      "sha256": "10c069ab8ce393707887f18b31f40595e18b8f5973733eee82d5186edb28e410",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/robots/don15/images/don020.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don020.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don017",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don021",
+      "object": "don15",
+      "caption": "Клюв · прицеливание",
+      "sha256": "25e75ed6518e0d6f74b1d482a7e7f56f08d5a7ea174b623bc2f05b380822c91c",
+      "source_commit": "df12d5372cdefbca3c11c624b10d1bb0352b0701",
+      "source_file": "docs/World/robots/don15/images/don021.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don021.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don025",
+      "object": "don15",
+      "caption": "Птица · вертикальный силуэт",
+      "sha256": "7bd3fa73b3e80c68474a10067f3d80bf0d2d25d0b6b2edaeca01184e57d32e5e",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/robots/don15/images/don025.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don025.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    },
+    {
+      "code": "don026",
+      "object": "don15",
+      "caption": "Птица · хищная стойка",
+      "sha256": "ab3893655562e0ea7d95c977f84c31d93d0ccfc84d8f7f3eff55179552eb1e3a",
+      "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+      "source_file": "docs/World/robots/don15/images/don026.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don026.png"
+      ],
+      "galleries": [
+        "World"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don020",
+      "derivation_kind": "design_concept",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "current",
+      "visibility": "archived"
+    }
+  ],
+  "files": [
+    {
+      "path": "docs/World/characters/valek/images/valek014.png",
+      "bytes": 1923158,
+      "sha256": "0490bcb8093ef2305f062498a4e44d596430b20dfc1258e20abed12ee58303ce"
+    },
+    {
+      "path": "docs/World/characters/valek/images/valek015.png",
+      "bytes": 1831820,
+      "sha256": "4a621907cdf1d191f1384056045089865256cf2e67411f4058ba31d071b967ce"
+    },
+    {
+      "path": "docs/World/characters/valek/images/valek016.png",
+      "bytes": 1765028,
+      "sha256": "5538f98f747f458b80ce8a9f740cad4867119d1dfd24a2ff22988ab3d865bbef"
+    },
+    {
+      "path": "docs/World/characters/valek/images/valek017.png",
+      "bytes": 1882189,
+      "sha256": "6c70fbbfde4cc9d82e3b7c65ca54c96187903669c93244625dfbe64f181ccee1"
+    },
+    {
+      "path": "docs/World/previews/don001-thumb-hq.webp",
+      "bytes": 63068,
+      "sha256": "86040fee2138d9718c20599e48f4646d683ea184183392dcc168e92470599904"
+    },
+    {
+      "path": "docs/World/previews/don001-view.webp",
+      "bytes": 131232,
+      "sha256": "64b1137583cea5c98534821b34d14181b71b6e59a0cc324e2b2b92df35978a52"
+    },
+    {
+      "path": "docs/World/previews/don002-thumb-hq.webp",
+      "bytes": 60288,
+      "sha256": "bfd9bc774acdd5d4d528ed8d59977ba0c651e8b765ea6c14bad0c3f748060a00"
+    },
+    {
+      "path": "docs/World/previews/don002-view.webp",
+      "bytes": 122878,
+      "sha256": "aeaedf4de294018c27b87ec7fa60089ebd3951cf27c95b5e785e8122e78a3f36"
+    },
+    {
+      "path": "docs/World/previews/don004-thumb-hq.webp",
+      "bytes": 60732,
+      "sha256": "1aaede6bcee613ebe4da89d9d89d3dce477fdb480e5ee5e1db3c51d9300eeef3"
+    },
+    {
+      "path": "docs/World/previews/don004-view.webp",
+      "bytes": 126802,
+      "sha256": "107ef369b93a60ac78d7429ac96dd340da88cad5405c4ee92e053b82eafc9a2e"
+    },
+    {
+      "path": "docs/World/previews/don005-thumb-hq.webp",
+      "bytes": 60572,
+      "sha256": "e89346f5760384f501df1ff4e8d6d47c67ebb2c503902d1710281b1d5cf4a7fb"
+    },
+    {
+      "path": "docs/World/previews/don005-view.webp",
+      "bytes": 126486,
+      "sha256": "128f229b9e04615c0300c911f5fdd0f95cf9367a07742fd125fe9ec3ae25400a"
+    },
+    {
+      "path": "docs/World/previews/don013-thumb-hq.webp",
+      "bytes": 64866,
+      "sha256": "21e1c622479e970d14dde9220d4e4a880c25e89bd2779b042824d8524e41cb0b"
+    },
+    {
+      "path": "docs/World/previews/don013-view.webp",
+      "bytes": 131150,
+      "sha256": "950dda197eca9eee4e6e71319ed4b507a706cf1b98896187fb99162b1663190d"
+    },
+    {
+      "path": "docs/World/previews/don016-thumb-hq.webp",
+      "bytes": 58474,
+      "sha256": "2ce943deeb7117f570b096b760ea9806c223469a314d55cc46b13f8ae322f5bf"
+    },
+    {
+      "path": "docs/World/previews/don016-view.webp",
+      "bytes": 120824,
+      "sha256": "a25bd2dfb24c5625384409f0fdb9fe0e9404a19025d8fd1c4289c3eb0473ce9f"
+    },
+    {
+      "path": "docs/World/previews/don017-thumb-hq.webp",
+      "bytes": 51118,
+      "sha256": "febc0c4db989cb02c1c7e31da7aa2aba9b38075bf94b5543ddb462e1658a2734"
+    },
+    {
+      "path": "docs/World/previews/don017-view.webp",
+      "bytes": 103666,
+      "sha256": "852d584413dc1afe2ac4e3ec9c484bff66c53ec6c9552eb5859782e361ac15cd"
+    },
+    {
+      "path": "docs/World/previews/don020-thumb-hq.webp",
+      "bytes": 49454,
+      "sha256": "172663114cee5467643e7a5114246c3e6f5e8e62cecb58cfdf2cb9f4b72889bb"
+    },
+    {
+      "path": "docs/World/previews/don020-view.webp",
+      "bytes": 96898,
+      "sha256": "071c094ea642974772c68136d6c13b234b310023c7827b038ed7ad203e2f108a"
+    },
+    {
+      "path": "docs/World/previews/don021-thumb-hq.webp",
+      "bytes": 52904,
+      "sha256": "99d3dd2c45a6a5a72f48057d1a282512091f22217145851be90d136bb9343e98"
+    },
+    {
+      "path": "docs/World/previews/don021-view.webp",
+      "bytes": 105812,
+      "sha256": "a17fba52bffc0aa7283d99cb92223e113aee1939b22fe235064e1cc7dc8b6a73"
+    },
+    {
+      "path": "docs/World/previews/don025-thumb-hq.webp",
+      "bytes": 47828,
+      "sha256": "de8aa393cb99faf63b1382b24ee573f0a5d4747e809d21d425ccb9f7e6a8f418"
+    },
+    {
+      "path": "docs/World/previews/don025-view.webp",
+      "bytes": 89532,
+      "sha256": "2c65fe76208d07e491df99df779293092d51a56d140879da990f96d029481a49"
+    },
+    {
+      "path": "docs/World/previews/don026-thumb-hq.webp",
+      "bytes": 55818,
+      "sha256": "dc527ee4b887254b8ca4bf29eba1d08857bc7039a36631d205e7a3a8db9b4e1d"
+    },
+    {
+      "path": "docs/World/previews/don026-view.webp",
+      "bytes": 109994,
+      "sha256": "7e04465b2ccf27dfd4dd6a02bcc07b9078c3e3099ce0aabaaff4f142d719dcfa"
+    },
+    {
+      "path": "docs/World/previews/lon003-thumb-hq.webp",
+      "bytes": 45636,
+      "sha256": "68198e98c17e4fae31654b8bdd1dafbb3d0b5b68f45566b99aa5fc5a94768f2e"
+    },
+    {
+      "path": "docs/World/previews/lon003-view.webp",
+      "bytes": 88218,
+      "sha256": "cb971e031b2fd1bc7edf7a82c759045a779722d75cf4f9dbfad62223a20c4fd2"
+    },
+    {
+      "path": "docs/World/previews/lon004-thumb-hq.webp",
+      "bytes": 52562,
+      "sha256": "28d297e00705d356d33f3709400f95dc0f01a69623c9b1a27d907ec054984f09"
+    },
+    {
+      "path": "docs/World/previews/lon004-view.webp",
+      "bytes": 103718,
+      "sha256": "d1ecb752b336347f5d2de3edca902b157f8a4ece476152331237403a113e0421"
+    },
+    {
+      "path": "docs/World/previews/lon005-thumb-hq.webp",
+      "bytes": 46686,
+      "sha256": "d326fc6fde724acf4309bfe6b187570a74e8fe2327b9cc517378ab6ccfb20dad"
+    },
+    {
+      "path": "docs/World/previews/lon005-view.webp",
+      "bytes": 92446,
+      "sha256": "6d68f4612cec02eba8c32d3318487c297a053f4f439970cbff39058816fe9682"
+    },
+    {
+      "path": "docs/World/previews/lon006-thumb-hq.webp",
+      "bytes": 41268,
+      "sha256": "787a1ad13f2f51cf3e8cc5356f4ec23d1f12f8213cbbcea7637a7fbba2a5fab1"
+    },
+    {
+      "path": "docs/World/previews/lon006-view.webp",
+      "bytes": 79704,
+      "sha256": "863fae5ac3ea7a369a41946f099cbc2eea30b161cd541c65993a64a0bbbde756"
+    },
+    {
+      "path": "docs/World/previews/lon008-thumb-hq.webp",
+      "bytes": 41576,
+      "sha256": "06554ed1203cc134b3e32ca0792ece89eb4fe6bf3dd929932a8d0827ca78cc3c"
+    },
+    {
+      "path": "docs/World/previews/lon008-view.webp",
+      "bytes": 82046,
+      "sha256": "7391acb1f83436b2bc3818117fdc2e96de1b31d1661feb13960ef3c298f720c2"
+    },
+    {
+      "path": "docs/World/previews/martin005-thumb-hq.webp",
+      "bytes": 49658,
+      "sha256": "686b296df9f79c1171ae43258b1d55395ffe11478f6037cbee1136ad03d8c894"
+    },
+    {
+      "path": "docs/World/previews/martin005-view.webp",
+      "bytes": 88436,
+      "sha256": "7a851bbfd3acb8c9bbb8aab1240c63a38c0c024e2aab71b9f09ef18119918545"
+    },
+    {
+      "path": "docs/World/previews/martin007-thumb-hq.webp",
+      "bytes": 47582,
+      "sha256": "45226874ec4e72c68c728a4506f54421cb36b4cc59c016d9867d830a29e2ea98"
+    },
+    {
+      "path": "docs/World/previews/martin007-view.webp",
+      "bytes": 84310,
+      "sha256": "8bb002974fd47ef1fbf0f7830ca9b978626b04d911dfdda009c807e945eb5169"
+    },
+    {
+      "path": "docs/World/previews/moag003-thumb-hq.webp",
+      "bytes": 40334,
+      "sha256": "91965fae906a3008760844205c6fb221944edc04cace400086c9311255d7739a"
+    },
+    {
+      "path": "docs/World/previews/moag003-thumb.webp",
+      "bytes": 9074,
+      "sha256": "298c49cb17a52bdf7c47d48e03b6f022cb9a97157660f84cf9be13272d6c2e09"
+    },
+    {
+      "path": "docs/World/previews/moag003-view.webp",
+      "bytes": 104942,
+      "sha256": "599c5db959d16f1c5bacd69e95d0157bab0a42fd9973614ddd70136b93081e04"
+    },
+    {
+      "path": "docs/World/previews/moag004-thumb-hq.webp",
+      "bytes": 44874,
+      "sha256": "c48bf38ee370e28eec4e2a3953bbcd4a9216676a3ed54e408eca981eb2884b97"
+    },
+    {
+      "path": "docs/World/previews/moag004-thumb.webp",
+      "bytes": 10132,
+      "sha256": "0952b0712b5b011fc9311302f11af188fdef8fec79f8b7b83d4f8a41a5fd696e"
+    },
+    {
+      "path": "docs/World/previews/moag004-view.webp",
+      "bytes": 121552,
+      "sha256": "5161479476de5743a0810b338d854082f82a300e8f9313cdd5eabefa47379493"
+    },
+    {
+      "path": "docs/World/previews/moag010-thumb-hq.webp",
+      "bytes": 40142,
+      "sha256": "c3b2271d7abd7768334259ad65374ca8d9d710b0b16b6c82a17e6dc1a6727498"
+    },
+    {
+      "path": "docs/World/previews/moag010-thumb.webp",
+      "bytes": 9000,
+      "sha256": "431e43e3514484fa198d2dfd5810c39420b0fc36fba3a22b80c2afaaa9a02fca"
+    },
+    {
+      "path": "docs/World/previews/moag010-view.webp",
+      "bytes": 102484,
+      "sha256": "7f4ff84647face8c5437048bb3a98cb21e20bc715fb08aa3a7c0d6a3e5fe938b"
+    },
+    {
+      "path": "docs/World/previews/moag013-thumb-hq.webp",
+      "bytes": 32892,
+      "sha256": "28632300ec824a7d04ef2c85d5990fd922577dba2bbf24bd7b0d4215a12c9f37"
+    },
+    {
+      "path": "docs/World/previews/moag013-thumb.webp",
+      "bytes": 7510,
+      "sha256": "62759c356f9bb63e49de164ca95cabd1ab588a17229162b938385b999ff64d3e"
+    },
+    {
+      "path": "docs/World/previews/moag013-view.webp",
+      "bytes": 77310,
+      "sha256": "a60cf99ea71282bfe7fa76677607f498fe73d5d7d44ab6fb120b93206305c836"
+    },
+    {
+      "path": "docs/World/previews/moag014-thumb-hq.webp",
+      "bytes": 28502,
+      "sha256": "28801b604b41cdeba4803f1ff7b3e76c78ae1bf2f49aa80a838ab5c067df5c49"
+    },
+    {
+      "path": "docs/World/previews/moag014-thumb.webp",
+      "bytes": 6220,
+      "sha256": "b2820e73d4f93dd9a508d9a68597466f7c29462c791c0e69a7cf935d4ad1df1c"
+    },
+    {
+      "path": "docs/World/previews/moag014-view.webp",
+      "bytes": 66060,
+      "sha256": "8dd10c7ca8cd699adc274b7cc496b333c41fffad83c416ce47b682277c649cf0"
+    },
+    {
+      "path": "docs/World/previews/valek014-thumb-hq.webp",
+      "bytes": 51452,
+      "sha256": "64fd606dc0156c6af38a89d20107e477442edf4c7b77946e7427d37cbaa3d21b"
+    },
+    {
+      "path": "docs/World/previews/valek014-view.webp",
+      "bytes": 92442,
+      "sha256": "9da72aba7f6304b92c083499737b04b1e7e49c710edb47a482de5b732002d28a"
+    },
+    {
+      "path": "docs/World/previews/valek015-thumb-hq.webp",
+      "bytes": 38390,
+      "sha256": "3c23fdb4fa6e394e091498ba0304f1440636a6e51e3e9d206e68a40c65c1923e"
+    },
+    {
+      "path": "docs/World/previews/valek015-view.webp",
+      "bytes": 65240,
+      "sha256": "ba839efbce84add0ea345056c32ce420691c0de458ce124815c88b2772d55fc2"
+    },
+    {
+      "path": "docs/World/previews/valek016-thumb-hq.webp",
+      "bytes": 37364,
+      "sha256": "d681d7de68e24ffa3af48460ae9a62c3bd0d48f30f79cf4f98a68dd8075d0d1e"
+    },
+    {
+      "path": "docs/World/previews/valek016-view.webp",
+      "bytes": 64522,
+      "sha256": "f45df96e12db07dd2999349af33ab5b8933e1138b335a170cd097aaa12eb0c59"
+    },
+    {
+      "path": "docs/World/previews/valek017-thumb-hq.webp",
+      "bytes": 42240,
+      "sha256": "82db7e398edb1e779fff9ec5a38d560eaa24fddb2100c852be37a2effafa0e19"
+    },
+    {
+      "path": "docs/World/previews/valek017-view.webp",
+      "bytes": 77040,
+      "sha256": "19b4ebec1b97e50591e0c820f5060a74c5daf2959463d7c1bb96030b923a44c4"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don001.png",
+      "bytes": 2138751,
+      "sha256": "486e31c99dd24df0a9c5f60288b9cb8d08766f66ce87cf4549c4f96c8610e012"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don002.png",
+      "bytes": 2114259,
+      "sha256": "a281132e971e9ca7715d0347edee53757cf0caea394783f41dddc122bbc1978f"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don004.png",
+      "bytes": 2212027,
+      "sha256": "eaa0c8bfa02584b57ebd8146bc5ad526c10ae4b1c304f01df34f2932532f136b"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don005.png",
+      "bytes": 2131793,
+      "sha256": "d589ad91c1653f0bb66da0ec6e0f736156db234c101147652d184fdcef2fee52"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don013.png",
+      "bytes": 2113056,
+      "sha256": "a513df75813339e1be5e80443ef7c1e28046885102092807afd6818d5e351ab6"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don016.png",
+      "bytes": 2108317,
+      "sha256": "31ec4bd822eb955018a673f58525a35701445796d3f5a8b960aa939a38690e3d"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don017.png",
+      "bytes": 2047415,
+      "sha256": "5ddca88c34e7365db0016de671130dcdcc2015e90a70a9850629ae52e209ce18"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don020.png",
+      "bytes": 1932826,
+      "sha256": "10c069ab8ce393707887f18b31f40595e18b8f5973733eee82d5186edb28e410"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don021.png",
+      "bytes": 2028410,
+      "sha256": "25e75ed6518e0d6f74b1d482a7e7f56f08d5a7ea174b623bc2f05b380822c91c"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don025.png",
+      "bytes": 1916105,
+      "sha256": "7bd3fa73b3e80c68474a10067f3d80bf0d2d25d0b6b2edaeca01184e57d32e5e"
+    },
+    {
+      "path": "docs/World/robots/don15/images/don026.png",
+      "bytes": 2047008,
+      "sha256": "ab3893655562e0ea7d95c977f84c31d93d0ccfc84d8f7f3eff55179552eb1e3a"
+    },
+    {
+      "path": "docs/World/robots/lon/images/lon003.png",
+      "bytes": 1983686,
+      "sha256": "d777e24efc477a0a1a82766b3d830a1806f464a302b42f1a90becf3412080d59"
+    },
+    {
+      "path": "docs/World/robots/lon/images/lon004.png",
+      "bytes": 2053555,
+      "sha256": "f347123812d025c614b469ec1c83f5ec629858dca5726e37d1231aa4a8244fbc"
+    },
+    {
+      "path": "docs/World/robots/lon/images/lon005.png",
+      "bytes": 2039761,
+      "sha256": "19d2a225f39bb3701fb707ad0e61ba472609772ab48dfdf87138c32ac454df12"
+    },
+    {
+      "path": "docs/World/robots/lon/images/lon006.png",
+      "bytes": 1961769,
+      "sha256": "e5cd3481e455e111d322a7cf2a876779d4aa2895860d4beffeace399655bc0c1"
+    },
+    {
+      "path": "docs/World/robots/lon/images/lon008.png",
+      "bytes": 1848825,
+      "sha256": "b318a6eeaa1050995bbcdfbf3a41c94dbf27afece70ba547d50d11dce6c2b72f"
+    },
+    {
+      "path": "docs/World/robots/martin/images/martin005.png",
+      "bytes": 1897210,
+      "sha256": "aecf335257bf0efa38e3a5ada452f36149a2b2d2a52fb60417c207d262a25dc5"
+    },
+    {
+      "path": "docs/World/robots/martin/images/martin007.png",
+      "bytes": 1800297,
+      "sha256": "20323b1d7b371eaa971343dc415b7ab1dda5f7c43adf8c563bd2fb7a52b709b2"
+    },
+    {
+      "path": "docs/World/ships/moag/images/moag003-fork-front.png",
+      "bytes": 2298644,
+      "sha256": "2377fcaa5a5203b7ebdc1fa68a2d9d5a830e71507ca0192f91c5b5201a86e8cb"
+    },
+    {
+      "path": "docs/World/ships/moag/images/moag004-fork-rear.png",
+      "bytes": 2328698,
+      "sha256": "8694f01e1861a8bdf16b552c0bd979976d71732ab3229ae7c563f6091b4de0fd"
+    },
+    {
+      "path": "docs/World/ships/moag/images/moag010-crossroads-rear.png",
+      "bytes": 2156331,
+      "sha256": "6cc0ebd562b70de80451a90983cbabab998efa63791b514d5a11e32e24e7f36b"
+    },
+    {
+      "path": "docs/World/ships/moag/images/moag013-parallax-front.png",
+      "bytes": 1823065,
+      "sha256": "867329328a2957690382698ca151d6a0b95a3f62e95922740045a8c8005fd968"
+    },
+    {
+      "path": "docs/World/ships/moag/images/moag014-parallax-rear.png",
+      "bytes": 1754810,
+      "sha256": "6f1657530a131218d557064d9940eee8f93c0ae062fdb376e96d3e32e3e598f3"
+    }
+  ]
+}

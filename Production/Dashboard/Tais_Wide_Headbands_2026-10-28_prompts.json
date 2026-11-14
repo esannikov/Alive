@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-28",
+  "tool": "built-in imagegen",
+  "reference": "User-provided wide fabric headband reference; reference only for shape",
+  "variants": [
+    {
+      "code": "tais045",
+      "from": "tais006",
+      "ref": "docs/TaisBellaStrong/images/tais-strong-06.jpg",
+      "title": "Широка пов’язка · чорна м’яка",
+      "style": "a wide solid matte black soft stretch fabric headband with gentle horizontal gathered folds, tucked behind both ears",
+      "prompt": "Image 1 is the edit target; image 2 is ONLY a reference for the WIDTH and soft wrapped shape of the headband, not a reference for the person. Edit only the head covering in image 1. Replace its bandana with a wide solid matte black soft stretch fabric headband with gentle horizontal gathered folds, tucked behind both ears. The band is genuinely WIDE, about 10–12 cm from front hairline to crown, covering a substantial broad area over the TOP of the head, comparable to the headband in image 2. It is a broad soft fabric panel, not a narrow ribbon, thin band or triangular cap. Practical, not decorative; no bows or prominent knot. Preserve exactly the target's face and facial identity, age, eyes, expression, two visible dark-blond braids, loose cheek strands, fringe, clothing, head size, lighting, background, composition and landscape frame. No changes to face. No makeup, text, jewelry or extra accessories.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-3da8d56f-e563-4f67-b0b9-2bb7b792b3ce.png",
+      "output": "docs/World/characters/tais/images/tais045.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "b414d445770ea367bebe440c07d73b1ba343db3df41f013e05e1c06a9524c6f5"
+    },
+    {
+      "code": "tais046",
+      "from": "tais009",
+      "ref": "docs/TaisBellaStrong/images/tais-strong-09.jpg",
+      "title": "Широка пов’язка · графітова",
+      "style": "a wide charcoal black matte cotton head wrap with two shallow overlapping folds, flat at the temples, secured discreetly behind the head",
+      "prompt": "Image 1 is the edit target; image 2 is ONLY a reference for the WIDTH and soft wrapped shape of the headband, not a reference for the person. Edit only the head covering in image 1. Replace its bandana with a wide charcoal black matte cotton head wrap with two shallow overlapping folds, flat at the temples, secured discreetly behind the head. The band is genuinely WIDE, about 10–12 cm from front hairline to crown, covering a substantial broad area over the TOP of the head, comparable to the headband in image 2. It is a broad soft fabric panel, not a narrow ribbon, thin band or triangular cap. Practical, not decorative; no bows or prominent knot. Preserve exactly the target's face and facial identity, age, eyes, expression, two visible dark-blond braids, loose cheek strands, fringe, clothing, head size, lighting, background, composition and landscape frame. No changes to face. No makeup, text, jewelry or extra accessories.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-5416ebff-5a0e-4a04-9f56-10569b0a1a8c.png",
+      "output": "docs/World/characters/tais/images/tais046.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "0074b3a2abeab4119936729940506c050d7dd0eb7496743269a6115f4ccf59d6"
+    },
+    {
+      "code": "tais047",
+      "from": "tais006",
+      "ref": "docs/TaisBellaStrong/images/tais-strong-06.jpg",
+      "title": "Широка пов’язка · чорно-біла",
+      "style": "a wide black soft cloth headband with a restrained tiny white paisley pattern and shallow fabric gathers, the knot discreet at the nape",
+      "prompt": "Image 1 is the edit target; image 2 is ONLY a reference for the WIDTH and soft wrapped shape of the headband, not a reference for the person. Edit only the head covering in image 1. Replace its bandana with a wide black soft cloth headband with a restrained tiny white paisley pattern and shallow fabric gathers, the knot discreet at the nape. The band is genuinely WIDE, about 10–12 cm from front hairline to crown, covering a substantial broad area over the TOP of the head, comparable to the headband in image 2. It is a broad soft fabric panel, not a narrow ribbon, thin band or triangular cap. Practical, not decorative; no bows or prominent knot. Preserve exactly the target's face and facial identity, age, eyes, expression, two visible dark-blond braids, loose cheek strands, fringe, clothing, head size, lighting, background, composition and landscape frame. No changes to face. No makeup, text, jewelry or extra accessories.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-8aade040-90ad-4cea-8347-73af1cf2952c.png",
+      "output": "docs/World/characters/tais/images/tais047.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "ca626f9e3a917bba166ea73fe7f38ed8c60334e3d53890f28b469ab9b7c1e5c6"
+    }
+  ]
+}

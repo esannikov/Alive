@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-28",
+  "provider": "built-in imagegen",
+  "direction_feedback": "Так, цей ближче — розвивай",
+  "constraints": [
+    "Lean from food scarcity; broad shoulder skeleton",
+    "Natural proportions, no comical exaggeration",
+    "Book age 19, ash-brown hair to nape, grey eyes, sparse stubble, patchwork jacket"
+  ],
+  "variants": [
+    {
+      "code": "fedor027",
+      "title": "Оригінальність + реалізм · Уважний погляд",
+      "prompt": "Create a new photographic casting study for Fedor from the novel ALIVE. A believable 19-year-old young man you could meet working in a repair workshop: tall, lean from limited food, broad clavicles, slender neck and waist, naturally proportioned head. Overgrown dark blond hair reaches the nape, straight eyebrows, grey eyes, light uneven stubble. A quietly capable, attentive, steady expression; mouth gently closed, eyes engaged with someone just beside the camera. His face has a specific natural identity: moderately narrow oval, ordinary straight nose with a subtly uneven bridge, slightly unequal eyelids, a modest firm chin, lightly weather-dry skin. All features are within ordinary natural proportions. Real youthful skin with small incidental imperfections, no cosmetic retouching. His personality reads intelligent and reliable.\nHe wears a loose patched denim jacket sewn from grey, faded blue and dusty pink pieces, black cuffs and ties, dark shirt. The jacket hangs on a lean body. Old tablet resting in one hand at waist.\nNaturalistic independent-film casting photograph, restrained and serious, observed rather than posed. Soft practical light in a dim worn spacecraft maintenance room. Medium waist-up view, landscape 16:9, camera at eye level, full head and shoulders visible. No exaggerated facial features, no caricature, no vacant or helpless expression, no fashion styling, no glossy skin, no logos or text. This is a new person, not a variation of a previous generated face.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-184d8855-777c-4a4f-92c8-bdfcacd70076.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/fedor/images/fedor027.png",
+      "sha256": "db8aa913abe8ce6449ffa902d5b203b8184cc0a048b1572304fd154150d44cfe"
+    },
+    {
+      "code": "fedor028",
+      "title": "Оригінальність + реалізм · Прямі риси",
+      "prompt": "Use the reference only for the photographic realism, lean broad-shouldered build, wardrobe, age, framing and restrained emotional tone. It is NOT an identity lock: create a different individual for a casting alternative. Recast the face as a different believable 19-year-old with a slightly longer, straighter face, low straight eyebrows, quietly attentive grey eyes with modestly hooded lids, an ordinary straight nose with a squared tip of normal size, a thin relaxed upper lip, a modest angular chin. Small natural differences in eyelid height and the mouth corners. His face is lean and normally proportioned. Dark ash-brown straight hair to the nape, flatter and less wavy than this reference, casually brushed aside. Skin lightly olive-beige with faint incidental blemishes. A calm purposeful look, mouth closed. Keep the same hand, tablet, patchwork grey-blue-dusty-pink jacket with black cuffs, background and light. Slim neck and waist; no body fat or round fleshy face. No beautification, fashion styling, giant ears or nose, old-age wrinkles, injuries, invented flags, logos, or text. Real independent-film portrait, landscape 16:9 waist-up. Natural head-to-body proportions.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-281fcb12-66d3-4b76-bc09-aadb7766b6d0.png",
+      "reference_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-184d8855-777c-4a4f-92c8-bdfcacd70076.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/fedor/images/fedor028.png",
+      "sha256": "59a109e5a62a740de3283243a346e65dfccf3072ee3b696b55228a98b23fc661"
+    },
+    {
+      "code": "fedor029",
+      "title": "Оригінальність + реалізм · Спокійний погляд",
+      "prompt": "Use the reference only for the photographic realism, lean broad-shouldered build, wardrobe, age, framing and restrained emotional tone. It is NOT an identity lock: create a different individual for a casting alternative. Recast the face as a distinct lean 19-year-old with subtly mixed Central Eurasian facial structure: slightly wider natural cheekbone spacing, a narrower lower face, small calm grey eyes with a gentle lid fold, straight eyebrows, an ordinary moderately low nose bridge and proportionate nose tip, a small firm chin and thin relaxed lips. No large or heavy facial features, no fullness of cheeks. Medium-light beige skin, ordinary natural texture, slight asymmetry in one brow. Straight dark ash-brown hair reaching the nape and partly crossing the forehead. Focused, perceptive, quietly reliable expression. Avoid caricature or exaggeration. Keep the same hand, tablet, patchwork grey-blue-dusty-pink jacket with black cuffs, background and light. Slim neck and waist; no body fat or round fleshy face. No beautification, fashion styling, giant ears or nose, old-age wrinkles, injuries, invented flags, logos, or text. Real independent-film portrait, landscape 16:9 waist-up. Natural head-to-body proportions.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-c7a28ac1-f9b1-404d-89c9-b239e4417e7f.png",
+      "reference_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-184d8855-777c-4a4f-92c8-bdfcacd70076.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/fedor/images/fedor029.png",
+      "sha256": "1f26422541767d97aa0d8b01db4c5d8e030734addcbb309e7fa38192306123f7"
+    },
+    {
+      "code": "fedor030",
+      "title": "Оригінальність + реалізм · Легка асиметрія",
+      "prompt": "Use the reference only for the photographic realism, lean broad-shouldered build, wardrobe, age, framing and restrained emotional tone. It is NOT an identity lock: create a different individual for a casting alternative. Recast the face as a different believable 19-year-old with a slightly longer oval, lean cheeks, a normal-size nose with a very subtle convex bridge, grey eyes set at ordinary spacing and one eyelid slightly lower, straight uneven-density brows, a modest firm jaw and slightly asymmetrical closed mouth. A few faint freckles near the nose, youthful irregular sparse stubble. Ash-blond hair, loose flat waves covering the nape with a small cowlick. He is quietly alert and grounded, looking at a person just beside camera, without a dramatic pose. The features are restrained and balanced, not elongated or comical. Keep the same hand, tablet, patchwork grey-blue-dusty-pink jacket with black cuffs, background and light. Slim neck and waist; no body fat or round fleshy face. No beautification, fashion styling, giant ears or nose, old-age wrinkles, injuries, invented flags, logos, or text. Real independent-film portrait, landscape 16:9 waist-up. Natural head-to-body proportions.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-a5ad17b0-8182-464f-97e1-8df5603dfc3d.png",
+      "reference_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-184d8855-777c-4a4f-92c8-bdfcacd70076.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/fedor/images/fedor030.png",
+      "sha256": "0170d4ddeeef5f5726fd3b48c2b844a399de06f60aed785a192ccb21b6088383"
+    }
+  ]
+}
