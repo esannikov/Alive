@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T10:59:05.556133+00:00",
+  "generatedAt": "2026-11-14T21:15:29.583905+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1444,6 +1444,32 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
+    "emma012": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "emma013": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
     "fedor001": {
       "votes": [],
       "scores": {
@@ -2715,6 +2741,58 @@
       "automaticRemoval": false
     },
     "kolka014": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "kolka015": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "kolka016": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "kolka017": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "kolka018": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -6212,5 +6290,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-14T09"
+  "refreshSlot": "2026-11-14T21"
 }
