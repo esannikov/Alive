@@ -35,8 +35,6 @@
     "title": "Таис",
     "variantCodes": [
       "tais053",
-      "tais054",
-      "tais055",
       "tais057",
       "tais058",
       "tais059",
@@ -91,11 +89,7 @@
     "variantCodes": [
       "kolka002",
       "kolka007",
-      "kolka010",
-      "kolka011",
-      "kolka012",
-      "kolka013",
-      "kolka014"
+      "kolka010"
     ]
   },
   {
@@ -109,8 +103,7 @@
     "page": "characters/valek/",
     "title": "Валёк",
     "variantCodes": [
-      "valek018",
-      "valek019"
+      "valek018"
     ]
   },
   {
@@ -125,9 +118,7 @@
     "title": "Нитка",
     "variantCodes": [
       "nitka007",
-      "nitka008",
-      "nitka009",
-      "nitka013"
+      "nitka008"
     ]
   },
   {
@@ -665,6 +656,7 @@
       "nitka004",
       "nitka005",
       "nitka006",
+      "nitka009",
       "nitka010",
       "nitka011",
       "masha001",
@@ -687,6 +679,8 @@
       "fedor029",
       "fedor030",
       "nitka012",
+      "nitka013",
+      "valek019",
       "valek020",
       "kolka008",
       "tais045",
@@ -700,7 +694,13 @@
       "tais051",
       "fedor032",
       "tais052",
-      "tais056"
+      "tais054",
+      "tais055",
+      "tais056",
+      "kolka011",
+      "kolka012",
+      "kolka013",
+      "kolka014"
     ]
   },
   {

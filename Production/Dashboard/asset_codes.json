@@ -4947,7 +4947,7 @@
     },
     {
       "code": "nitka009",
-      "object": "nitka",
+      "object": "base-girls",
       "caption": "D · прямые тёмные волосы",
       "sha256": "8e92a2a1dd93da003ae4d7854b88303f0a60d2d2cd51ac85a73f1c9f26c7fbb8",
       "source_commit": "ffcbeeac10135a214bc880a971d911d488f2655a",
@@ -4958,7 +4958,7 @@
       "galleries": [
         "World/characters/nitka"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "derived_from": null,
       "renditions": [],
@@ -4966,7 +4966,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "nitka"
+      ],
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены."
     },
     {
       "code": "nitka010",
@@ -6854,7 +6858,7 @@
     },
     {
       "code": "nitka013",
-      "object": "nitka",
+      "object": "base-girls",
       "caption": "Вариант 009 · за шитьём",
       "sha256": "74a2576dad14e3f7d8a79fde0bdb41c3c15955531757bba7fff6a598880a0607",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6865,7 +6869,7 @@
       "galleries": [
         "World/characters/nitka"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "derived_from": "nitka009",
       "renditions": [],
@@ -6874,11 +6878,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derivation_kind": "working-pose"
+      "derivation_kind": "working-pose",
+      "previous_objects": [
+        "nitka"
+      ],
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены."
     },
     {
       "code": "valek019",
-      "object": "valek",
+      "object": "base-girls",
       "caption": "От 018 · индивидуальность и реализм",
       "sha256": "a0301e9babb654ff9ff58bdc412a2c8d96966ed6fea6b2fbb54b8379ff2378e2",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6889,7 +6897,7 @@
       "galleries": [
         "World/characters/valek"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "derived_from": "valek018",
       "renditions": [],
@@ -6897,7 +6905,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "valek"
+      ],
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены."
     },
     {
       "code": "valek020",
@@ -9176,7 +9188,7 @@
     },
     {
       "code": "tais054",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Угловатый типаж",
       "source_file": "docs/World/characters/tais/images/tais054.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
@@ -9187,7 +9199,7 @@
       "galleries": [
         "World/characters/tais"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -9200,11 +9212,14 @@
       "series": "current",
       "visibility": "active",
       "derived_from": null,
-      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+      "producer_review_note": "Перенесён в кастинговый резерв по протоколу рабочего звонка 14.11.2026: угловатый типаж исключён; основным направлением Таис выбраны широкие скулы (tais053).",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais055",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Мягкая асимметрия",
       "source_file": "docs/World/characters/tais/images/tais055.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
@@ -9215,7 +9230,7 @@
       "galleries": [
         "World/characters/tais"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -9228,7 +9243,10 @@
       "series": "current",
       "visibility": "active",
       "derived_from": null,
-      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены.",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais056",
@@ -10243,7 +10261,7 @@
     },
     {
       "code": "kolka011",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Округлый подбородок",
       "source_file": "docs/World/characters/kolka/images/kolka011.webp",
       "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
@@ -10254,7 +10272,7 @@
       "galleries": [
         "World/characters/kolka"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -10262,11 +10280,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derived_from": "kolka010"
+      "derived_from": "kolka010",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены."
     },
     {
       "code": "kolka012",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Удлинённый подбородок",
       "source_file": "docs/World/characters/kolka/images/kolka012.webp",
       "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
@@ -10277,7 +10299,7 @@
       "galleries": [
         "World/characters/kolka"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -10285,11 +10307,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derived_from": "kolka010"
+      "derived_from": "kolka010",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены."
     },
     {
       "code": "kolka013",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Мягкая квадратная челюсть",
       "source_file": "docs/World/characters/kolka/images/kolka013.webp",
       "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
@@ -10300,7 +10326,7 @@
       "galleries": [
         "World/characters/kolka"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -10308,11 +10334,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "derived_from": "kolka010"
+      "derived_from": "kolka010",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены."
     },
     {
       "code": "kolka014",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Её внимание",
       "source_file": "docs/World/characters/kolka/images/kolka014.webp",
       "source_commit": "81fa6bd3226df33d3b2c58a58327536460c4a8ed",
@@ -10323,7 +10353,7 @@
       "galleries": [
         "World/characters/kolka"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -10332,7 +10362,10 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "kolka012",
-      "producer_review_note": "Актёрская гипотеза по комментарию Лены, не иллюстрация конкретного эпизода романа."
+      "producer_review_note": "Перенесён в резерв после протокола 14.11.2026 и уточнения пользователя: основной А фиксируется явно; избыток прежних вариантов убирается из текущей подборки. Исходник и код сохранены.",
+      "previous_objects": [
+        "kolka"
+      ]
     },
     {
       "code": "rita007",
