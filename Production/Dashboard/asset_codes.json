@@ -13,8 +13,8 @@
     "tais": 62,
     "fedor": 34,
     "moag": 47,
-    "emma": 12,
-    "kolka": 15,
+    "emma": 14,
+    "kolka": 19,
     "lon": 16,
     "don": 31,
     "martin": 22,
@@ -11907,6 +11907,158 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "tais053"
+    },
+    {
+      "code": "emma012",
+      "object": "emma",
+      "caption": "мягкая возрастная правка",
+      "source_file": "docs/World/characters/emma/images/emma012.png",
+      "source_commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+      "sha256": "7e605725504ecd919955518541dceda04a1c8b432ac8a64efb111bf20a4ed1b2",
+      "aliases": [
+        "docs/World/characters/emma/images/emma012.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "emma009",
+      "derivation_kind": "age_refinement",
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+    },
+    {
+      "code": "emma013",
+      "object": "emma",
+      "caption": "более выраженные скулы",
+      "source_file": "docs/World/characters/emma/images/emma013.png",
+      "source_commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+      "sha256": "ae5aa27d27bc0cc557bcd76de05e58963fed5dd1aac52e632ba609da201d29db",
+      "aliases": [
+        "docs/World/characters/emma/images/emma013.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "emma009",
+      "derivation_kind": "age_refinement",
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+    },
+    {
+      "code": "kolka015",
+      "object": "kolka",
+      "caption": "неровный ёжик",
+      "source_file": "docs/World/characters/kolka/images/kolka015.png",
+      "source_commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+      "sha256": "f512a7a2657cb7c3b372a56d559026017d83a9cceb786a410b6851815c99bb1f",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka015.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+    },
+    {
+      "code": "kolka016",
+      "object": "kolka",
+      "caption": "рваный кроп",
+      "source_file": "docs/World/characters/kolka/images/kolka016.png",
+      "source_commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+      "sha256": "5f18bb73ce04679397aae91b11b3dbdc0c35c968544de0608c9ceef36b4ae2c4",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka016.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka015",
+      "derivation_kind": "hairstyle_variant",
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+    },
+    {
+      "code": "kolka017",
+      "object": "kolka",
+      "caption": "взъерошенная шапка",
+      "source_file": "docs/World/characters/kolka/images/kolka017.png",
+      "source_commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+      "sha256": "5aa403448192d6e87cb92a14215c0ba9f178d18e194e9aa550efac6fdce51820",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka017.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka015",
+      "derivation_kind": "hairstyle_variant",
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+    },
+    {
+      "code": "kolka018",
+      "object": "kolka",
+      "caption": "косой вихор",
+      "source_file": "docs/World/characters/kolka/images/kolka018.png",
+      "source_commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+      "sha256": "6cf0541c41cb277a316b1ed840590004649736a729adadd37068d6fdfc799de3",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka018.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka015",
+      "derivation_kind": "hairstyle_variant",
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
     }
   ],
   "deleted_codes": [
