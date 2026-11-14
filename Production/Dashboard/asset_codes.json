@@ -13,8 +13,8 @@
     "tais": 62,
     "fedor": 34,
     "moag": 47,
-    "emma": 14,
-    "kolka": 19,
+    "emma": 20,
+    "kolka": 29,
     "lon": 16,
     "don": 31,
     "martin": 22,
@@ -3482,7 +3482,7 @@
     },
     {
       "code": "kolka002",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Широкая челюсть",
       "sha256": "f62feda9fec3dcc7e3041e805031fea4752e4848856305bcc8c744c06d20ca75",
       "source_commit": "7e97e6009899998cc93462c6ca52f4cdebe914d6",
@@ -3491,7 +3491,7 @@
         "docs/World/characters/kolka/images/kolka002.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -3502,7 +3502,11 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Убран из активной галереи Кольки по прямому запросу пользователя 15.11.2026; сохранён в кастинговом резерве."
     },
     {
       "code": "kolka003",
@@ -6952,7 +6956,7 @@
     },
     {
       "code": "kolka007",
-      "object": "kolka",
+      "object": "base-girls",
       "caption": "Живой типаж · внимательный взгляд",
       "sha256": "0d21c935cb7115125ad9b1555adb5015c0a4486e8a3b27d450b968e80e43b41e",
       "source_commit": "500252911ef67cda762b3f01d6fbd7ee37a303dc",
@@ -6961,7 +6965,7 @@
         "docs/World/characters/kolka/images/kolka007.png"
       ],
       "galleries": [
-        "World/characters/kolka"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6971,7 +6975,11 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "kolka"
+      ],
+      "producer_review_note": "Убран из активной галереи Кольки по прямому запросу пользователя 15.11.2026; сохранён в кастинговом резерве."
     },
     {
       "code": "kolka008",
@@ -12059,6 +12067,245 @@
       "derived_from": "kolka015",
       "derivation_kind": "hairstyle_variant",
       "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+    },
+    {
+      "code": "kolka025",
+      "object": "kolka",
+      "caption": "Вытянутый овал · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka025.png",
+      "sha256": "d22d9e6f5126809aac4f94845c3619485ca5b72dbab20d88823101a530f7fcab",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka025.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "age_refinement_of_unpublished_casting",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "kolka026",
+      "object": "kolka",
+      "caption": "Тонкие скулы · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka026.png",
+      "sha256": "696e61657b5111462f489ddba8966ed8086bea6e45ee84ab53f83a8217636401",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka026.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "age_refinement_of_unpublished_casting",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "kolka027",
+      "object": "kolka",
+      "caption": "Удлинённое лицо · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka027.png",
+      "sha256": "0261a95f4af172b2b25d42a9924a87cf275723b641a7c6d9b09bb6720c0a2c12",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka027.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "age_refinement_of_unpublished_casting",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "kolka028",
+      "object": "kolka",
+      "caption": "Мягкая асимметрия · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka028.png",
+      "sha256": "cdd60f066175914f95a57a3a19779c462e49138637988fa824f56b0dbb04c7e5",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka028.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "age_refinement_of_unpublished_casting",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "emma015",
+      "object": "emma",
+      "caption": "Сердцевидный типаж · сдержанность",
+      "source_file": "docs/World/characters/emma/images/emma015.png",
+      "sha256": "eae049dc33e45632d1954b05727f345cd059006071c7ef6930ffbf3dd82e1776",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/emma/images/emma015.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "emma016",
+      "object": "emma",
+      "caption": "Светлый взгляд · тонкие черты",
+      "source_file": "docs/World/characters/emma/images/emma016.png",
+      "sha256": "da3ce70db144d5069277b786f76eef3ac701f5969174d71d10a959393eadf95b",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/emma/images/emma016.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "emma017",
+      "object": "emma",
+      "caption": "Прямой и жёсткий типаж",
+      "source_file": "docs/World/characters/emma/images/emma017.png",
+      "sha256": "5a49adaeb02afe55cb5f182ca3522cc891f823f137f45cc8de64e58fe14e6df8",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/emma/images/emma017.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "emma018",
+      "object": "emma",
+      "caption": "Холодная требовательность",
+      "source_file": "docs/World/characters/emma/images/emma018.png",
+      "sha256": "769edfc49288574349da08c3bc8a3bcb1241985a66e5574fa1d2d8d17d6a1823",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/emma/images/emma018.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "emma019",
+      "object": "emma",
+      "caption": "Упрямый скепсис",
+      "source_file": "docs/World/characters/emma/images/emma019.png",
+      "sha256": "36f9438771d6f1a2e2de1514e4a03412ebfee9cf01fd088fe78add83e6ffc8d5",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "aliases": [
+        "docs/World/characters/emma/images/emma019.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
     }
   ],
   "deleted_codes": [
