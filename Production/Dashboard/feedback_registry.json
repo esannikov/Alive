@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-14",
   "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
   "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
   "statusMeaning": {
@@ -870,6 +870,21 @@
         "tais053"
       ],
       "designAcceptance": "producer_instruction"
+    },
+    {
+      "id": "protocol-20261114-tais054-reserve",
+      "request": "Перенести исключённый угловатый типаж Таис в резерв",
+      "status": "implemented",
+      "assetCodes": [
+        "tais054"
+      ],
+      "sourceDocument": "ALIVE_protocol_call_2026-11-14.pdf",
+      "sourcePage": 2,
+      "sourceSection": "3. Решения по персонажам",
+      "timecode": "16:03–17:30",
+      "sourceQuote": "Кутастий прибрано.",
+      "sourceSha256": "48dc67b238a4be08b7655cc34a31207d6362a3ee63621c94eee38d854edebca8",
+      "note": "Код, исходный файл и его контрольная сумма сохранены. Прежняя ссылка персонажа перенаправляется в кастинговый резерв. Не перечисленные как отклонённые альтернативы не считаются автоматически исключёнными."
     }
   ],
   "previouslyCompleted": [

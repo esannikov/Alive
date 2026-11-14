@@ -9176,7 +9176,7 @@
     },
     {
       "code": "tais054",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Угловатый типаж",
       "source_file": "docs/World/characters/tais/images/tais054.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
@@ -9187,7 +9187,7 @@
       "galleries": [
         "World/characters/tais"
       ],
-      "kind": "appearance",
+      "kind": "casting-study",
       "status": "candidate",
       "renditions": [],
       "task_ids": [
@@ -9200,7 +9200,10 @@
       "series": "current",
       "visibility": "active",
       "derived_from": null,
-      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+      "producer_review_note": "Перенесён в кастинговый резерв по протоколу рабочего звонка 14.11.2026: угловатый типаж исключён; основным направлением Таис выбраны широкие скулы (tais053).",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais055",
