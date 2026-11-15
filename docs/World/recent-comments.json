@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T11:37:59.744912+00:00",
+  "generatedAt": "2026-11-15T11:51:42.931599+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK4nB",
+      "page": "characters/emma/",
+      "title": "Эмма",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-15T11:51:19Z",
+      "excerpt": "emma016 - из новых вариантов нравится больше всего. Но в ней слишком сильно считывается Taylor, нас за это накажут. В Emma 12 и 13, особенно в 13 считывается совсем немного, неуловимо. А в 016 сходство уже слишком очевидное, нужно от него уходить. Если посм…",
+      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19630529"
+    },
     {
       "id": "DC_kwDOVCLQyc4BK4kc",
       "page": "characters/tais/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-13T10:54:40Z",
       "excerpt": "единственное - может всем им морды какие-то будем таки рисовать? это вопрос - не факт, что я права.",
       "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588389"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKuUT",
-      "page": "robots/gardener/",
-      "title": "Робот-садовник",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-13T10:53:49Z",
-      "excerpt": "какой малыш)",
-      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588371"
     }
   ],
   "discussionNumbers": {
+    "characters/emma/": 57,
     "characters/tais/": 56,
     "styles/alc-11/": 184,
     "robots/gardener/": 182,
@@ -62,7 +63,6 @@
     "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/nitka/": 48,
-    "characters/emma/": 57,
     "robots/martin/": 61,
     "creatures/pushistik/": 169,
     "styles/alc-02/": 166,
@@ -106,10 +106,10 @@
       "last": null
     },
     "characters/emma/": {
-      "messageCount": 13,
+      "messageCount": 14,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-05T15:36:50Z"
+        "createdAt": "2026-11-15T11:51:19Z"
       }
     },
     "characters/emma/reference.html": {
