@@ -13,8 +13,8 @@
     "tais": 62,
     "fedor": 34,
     "moag": 47,
-    "emma": 20,
-    "kolka": 29,
+    "emma": 38,
+    "kolka": 38,
     "lon": 16,
     "don": 31,
     "martin": 22,
@@ -3325,8 +3325,10 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
-      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+      "visibility": "archived",
+      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026.",
+      "replaced_by": "emma034",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma004",
@@ -3393,7 +3395,9 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "replaced_by": "emma035",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma006",
@@ -5458,12 +5462,14 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
-      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет."
+      "visibility": "archived",
+      "producer_review_note": "Предварительный кандидат: продюсер допускает этот вариант; окончательного выбора нет.",
+      "replaced_by": "emma033",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma010",
-      "object": "emma",
+      "object": "base-girls",
       "caption": "Чистый овал · уточнённые пропорции",
       "sha256": "b360b59275a71da4f36eaf00f67d6523fe20afdeb7ff552b68ca3d2cf742d8df",
       "source_commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
@@ -5472,7 +5478,7 @@
         "docs/World/characters/emma/images/emma010.png"
       ],
       "galleries": [
-        "World"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5485,7 +5491,10 @@
       ],
       "series": "current",
       "visibility": "active",
-      "producer_review_note": "Оставлен в подборке Эммы по отзыву продюсера, переданному пользователем 24.10.2026."
+      "producer_review_note": "В резерв по прямому указанию Лены 15.11.2026: https://github.com/esannikov/Alive/discussions/57#discussioncomment-19630529",
+      "previous_objects": [
+        "emma"
+      ]
     },
     {
       "code": "katya001",
@@ -8916,7 +8925,9 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "replaced_by": "emma036",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "tais052",
@@ -8967,7 +8978,9 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "replaced_by": "kolka037",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "frik001",
@@ -9170,7 +9183,7 @@
     {
       "code": "tais053",
       "object": "tais",
-      "caption": "Широкие скулы",
+      "caption": "А · Широкие скулы",
       "source_file": "docs/World/characters/tais/images/tais053.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
       "sha256": "2f9f84e02a02c8ee99e5daf03e3130b3d1de53246d27db70b921d3c635948db2",
@@ -9190,7 +9203,7 @@
         "states",
         "character-concepts"
       ],
-      "series": "current",
+      "series": "tais-a",
       "visibility": "active",
       "derived_from": null,
       "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
@@ -9291,7 +9304,7 @@
     {
       "code": "tais057",
       "object": "tais",
-      "caption": "Смех",
+      "caption": "А · Смех",
       "source_file": "docs/World/characters/tais/images/tais057.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
       "sha256": "ed8c1d33bb75f81cfea276af315a5c893f68a73007d46905773ef1fac0a0d460",
@@ -9311,14 +9324,14 @@
         "states",
         "character-concepts"
       ],
-      "series": "current",
+      "series": "tais-a",
       "visibility": "active",
       "derived_from": "tais053",
       "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
     },
     {
       "code": "tais058",
-      "object": "tais",
+      "object": "base-girls",
       "caption": "Сдержанный гнев",
       "source_file": "docs/World/characters/tais/images/tais058.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
@@ -9327,7 +9340,7 @@
         "docs/World/characters/tais/images/tais058.webp"
       ],
       "galleries": [
-        "World/characters/tais"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -9342,12 +9355,15 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "tais053",
-      "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
+      "producer_review_note": "В резерв по прямому указанию Лены 15.11.2026: https://github.com/esannikov/Alive/discussions/56#discussioncomment-19630364",
+      "previous_objects": [
+        "tais"
+      ]
     },
     {
       "code": "tais059",
       "object": "tais",
-      "caption": "Тревожное ожидание",
+      "caption": "Б · Тревожное ожидание",
       "source_file": "docs/World/characters/tais/images/tais059.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
       "sha256": "b1c6924ac71c0f75397e2b419e70b37f17645b5543f0f71af0cf0fa0b240b9a0",
@@ -9367,7 +9383,7 @@
         "states",
         "character-concepts"
       ],
-      "series": "current",
+      "series": "tais-b",
       "visibility": "active",
       "derived_from": "tais053",
       "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
@@ -9375,7 +9391,7 @@
     {
       "code": "tais060",
       "object": "tais",
-      "caption": "Мокрые волосы",
+      "caption": "А · Мокрые волосы",
       "source_file": "docs/World/characters/tais/images/tais060.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
       "sha256": "04df3de66f9d705a3244dc4d7916267e5f0b5e26352d4a5f586a1fbb6ab679c2",
@@ -9395,7 +9411,7 @@
         "states",
         "character-concepts"
       ],
-      "series": "current",
+      "series": "tais-a",
       "visibility": "active",
       "derived_from": "tais053",
       "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
@@ -9403,7 +9419,7 @@
     {
       "code": "tais061",
       "object": "tais",
-      "caption": "Тихая улыбка",
+      "caption": "А · Тихая улыбка",
       "source_file": "docs/World/characters/tais/images/tais061.webp",
       "source_commit": "616158e8f3db6e09932c179d7b3db1ba573bb2d0",
       "sha256": "8317c43c5d377388437ae5f7725c521b8836061cfa5f159f1518d63d151aad08",
@@ -9423,7 +9439,7 @@
         "states",
         "character-concepts"
       ],
-      "series": "current",
+      "series": "tais-a",
       "visibility": "active",
       "derived_from": "tais053",
       "producer_review_note": "Публикация по выбору пользователя 05.11.2026."
@@ -11938,10 +11954,12 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": "emma009",
       "derivation_kind": "age_refinement",
-      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически.",
+      "replaced_by": "emma028",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma013",
@@ -11964,10 +11982,12 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": "emma009",
       "derivation_kind": "age_refinement",
-      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически.",
+      "replaced_by": "emma027",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka015",
@@ -11989,10 +12009,12 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "new_casting_identity",
-      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически.",
+      "replaced_by": "kolka033",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka016",
@@ -12014,10 +12036,12 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": "kolka015",
       "derivation_kind": "hairstyle_variant",
-      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически.",
+      "replaced_by": "kolka034",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka017",
@@ -12039,10 +12063,12 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": "kolka015",
       "derivation_kind": "hairstyle_variant",
-      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически.",
+      "replaced_by": "kolka035",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka018",
@@ -12064,10 +12090,12 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": "kolka015",
       "derivation_kind": "hairstyle_variant",
-      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически."
+      "producer_review_note": "Новая проба по запросу пользователя 14.11.2026. Требует выбора; не принята автоматически.",
+      "replaced_by": "kolka036",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka025",
@@ -12089,11 +12117,13 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "age_refinement_of_unpublished_casting",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "kolka031",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka026",
@@ -12115,11 +12145,13 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "age_refinement_of_unpublished_casting",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "kolka030",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka027",
@@ -12141,11 +12173,13 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "age_refinement_of_unpublished_casting",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "kolka032",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "kolka028",
@@ -12167,11 +12201,13 @@
         "kolka"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "age_refinement_of_unpublished_casting",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "kolka029",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma015",
@@ -12194,11 +12230,13 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "new_casting_identity",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "emma029",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma016",
@@ -12221,11 +12259,13 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "new_casting_identity",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "emma026",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma017",
@@ -12248,11 +12288,13 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "new_casting_identity",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "emma030",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma018",
@@ -12275,11 +12317,13 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "new_casting_identity",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "emma031",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "emma019",
@@ -12302,11 +12346,13 @@
         "character-concepts"
       ],
       "series": "current",
-      "visibility": "active",
+      "visibility": "archived",
       "derived_from": null,
       "derivation_kind": "new_casting_identity",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
-      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+      "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен.",
+      "replaced_by": "emma032",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
     },
     {
       "code": "mw001",
@@ -12515,6 +12561,729 @@
       "series": "current",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "emma020",
+      "object": "emma",
+      "caption": "Компактное сердце · яркая медь",
+      "source_file": "docs/World/characters/emma/images/emma020.png",
+      "source_commit": "567ddba7c3d29b055b15f295ee33b2b723e1f4f7",
+      "sha256": "286220267759d17f3199673773a7d34216eaf85696469cc0aecb182f55469032",
+      "aliases": [
+        "docs/World/characters/emma/images/emma020.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_after_producer_feedback",
+      "direction_references": [
+        "emma013",
+        "emma016"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "generation_manifest": "Production/Dashboard/Producer_Feedback_2026-11-15.json",
+      "producer_review_note": "Проба по замечанию Лены 15.11.2026: яркие рыжие волосы, голубые глаза, компактные пропорции и самостоятельные черты. Для просмотра, не утверждённый образ.",
+      "replaced_by": "emma023",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
+    },
+    {
+      "code": "emma021",
+      "object": "emma",
+      "caption": "Мягкий овал · ясный взгляд",
+      "source_file": "docs/World/characters/emma/images/emma021.png",
+      "source_commit": "567ddba7c3d29b055b15f295ee33b2b723e1f4f7",
+      "sha256": "8ee305b57ba895dbc19ea4b48dcff9be86eafeb25528e591d96e8698e78792db",
+      "aliases": [
+        "docs/World/characters/emma/images/emma021.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_after_producer_feedback",
+      "direction_references": [
+        "emma013",
+        "emma016"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "generation_manifest": "Production/Dashboard/Producer_Feedback_2026-11-15.json",
+      "producer_review_note": "Проба по замечанию Лены 15.11.2026: яркие рыжие волосы, голубые глаза, компактные пропорции и самостоятельные черты. Для просмотра, не утверждённый образ.",
+      "replaced_by": "emma024",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
+    },
+    {
+      "code": "emma022",
+      "object": "emma",
+      "caption": "Высокие скулы · короткий подбородок",
+      "source_file": "docs/World/characters/emma/images/emma022.png",
+      "source_commit": "567ddba7c3d29b055b15f295ee33b2b723e1f4f7",
+      "sha256": "0e3d35c7becb5933be0e058993c4a71f281a4edc24120ce618dd7bfc2f244ba6",
+      "aliases": [
+        "docs/World/characters/emma/images/emma022.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_after_producer_feedback",
+      "direction_references": [
+        "emma013",
+        "emma016"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "archived",
+      "generation_manifest": "Production/Dashboard/Producer_Feedback_2026-11-15.json",
+      "producer_review_note": "Проба по замечанию Лены 15.11.2026: яркие рыжие волосы, голубые глаза, компактные пропорции и самостоятельные черты. Для просмотра, не утверждённый образ.",
+      "replaced_by": "emma025",
+      "archive_reason": "Updated chin and color at user request, 2026-11-15; original retained."
+    },
+    {
+      "code": "emma023",
+      "object": "emma",
+      "caption": "Компактное сердце · яркая медь",
+      "source_file": "docs/World/characters/emma/images/emma023.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "9b3e4b5f3a96ebc2f6038999d05d6216d9ebd0929c7ddb2a847d4d320e132c9f",
+      "aliases": [
+        "docs/World/characters/emma/images/emma023.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma020",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma024",
+      "object": "emma",
+      "caption": "Мягкий овал · ясный взгляд",
+      "source_file": "docs/World/characters/emma/images/emma024.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "926268b762e21c4e6be7853eb617343675c27f1ca385ad2074f782db01509e0c",
+      "aliases": [
+        "docs/World/characters/emma/images/emma024.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma021",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma025",
+      "object": "emma",
+      "caption": "Высокие скулы · короткий подбородок",
+      "source_file": "docs/World/characters/emma/images/emma025.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "446f41f934aa90bf0e631125990d2cfbe4857c45a4cc8ee930bf6f22f6fc6594",
+      "aliases": [
+        "docs/World/characters/emma/images/emma025.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma022",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma026",
+      "object": "emma",
+      "caption": "Светлый взгляд · тонкие черты",
+      "source_file": "docs/World/characters/emma/images/emma026.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "931342f890bc5efc656409a7ef809df07a39444798a3fc387469e471b9d5e19b",
+      "aliases": [
+        "docs/World/characters/emma/images/emma026.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma016",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma027",
+      "object": "emma",
+      "caption": "более выраженные скулы",
+      "source_file": "docs/World/characters/emma/images/emma027.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "da27cf6704e3c2330075978f8298a628274dd54dd42ac7520daadd76c5b2e4f4",
+      "aliases": [
+        "docs/World/characters/emma/images/emma027.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma013",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma028",
+      "object": "emma",
+      "caption": "мягкая возрастная правка",
+      "source_file": "docs/World/characters/emma/images/emma028.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "65772060e104bf3fed4789078e303d34992af8fed24004061269e91980147aa4",
+      "aliases": [
+        "docs/World/characters/emma/images/emma028.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma012",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma029",
+      "object": "emma",
+      "caption": "Сердцевидный типаж · сдержанность",
+      "source_file": "docs/World/characters/emma/images/emma029.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "37c3af1435f683948a652f89677204109ce4974ee0b66f2fec8d19c8f21b9c60",
+      "aliases": [
+        "docs/World/characters/emma/images/emma029.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma015",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma030",
+      "object": "emma",
+      "caption": "Прямой и жёсткий типаж",
+      "source_file": "docs/World/characters/emma/images/emma030.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "6afe0a76146ab43b58e64b9ab03fca15fd36fde3614632bcc968ec4faa8d23d1",
+      "aliases": [
+        "docs/World/characters/emma/images/emma030.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma017",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma031",
+      "object": "emma",
+      "caption": "Холодная требовательность",
+      "source_file": "docs/World/characters/emma/images/emma031.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "789d93c3433fc560d905ebdc15700eb604591ecdad61d63c011140ece8986557",
+      "aliases": [
+        "docs/World/characters/emma/images/emma031.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma018",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma032",
+      "object": "emma",
+      "caption": "Упрямый скепсис",
+      "source_file": "docs/World/characters/emma/images/emma032.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "00093ad21f04e077f5368eb42709108bea79a09a4da9ac9db08588845d4b3a80",
+      "aliases": [
+        "docs/World/characters/emma/images/emma032.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma019",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma033",
+      "object": "emma",
+      "caption": "Открытый взгляд · уточнённые пропорции",
+      "source_file": "docs/World/characters/emma/images/emma033.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "fd2856182b3f7c59e6b064f935ec6c2c1a0b363138aa955f98256c178cbb2488",
+      "aliases": [
+        "docs/World/characters/emma/images/emma033.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma009",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma034",
+      "object": "emma",
+      "caption": "Высокие скулы",
+      "source_file": "docs/World/characters/emma/images/emma034.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "83f2a2105456ec65406e8fc9f7855f262f36dad19a7d864808479fcc15f35e81",
+      "aliases": [
+        "docs/World/characters/emma/images/emma034.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma003",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma035",
+      "object": "emma",
+      "caption": "Сердцевидное лицо",
+      "source_file": "docs/World/characters/emma/images/emma035.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "45febff4e82a0bbf9141b5b1d73bf60894caa99344c92d5038d13979358ce344",
+      "aliases": [
+        "docs/World/characters/emma/images/emma035.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma005",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma036",
+      "object": "emma",
+      "caption": "Вышивка номера на блузке и манжете",
+      "source_file": "docs/World/characters/emma/images/emma036.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "5b833ceca178fbabf18e60902418ff82f0b29913b07d82431c2ae9ba092bec80",
+      "aliases": [
+        "docs/World/characters/emma/images/emma036.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma011",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka029",
+      "object": "kolka",
+      "caption": "Мягкая асимметрия · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka029.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "8b8f5e3e209f2dd9e4d0c151e8208c7dedec63e3e69300e199f6dd9712c86575",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka029.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka028",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka030",
+      "object": "kolka",
+      "caption": "Тонкие скулы · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka030.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "d66daec4a2806efafebc96cc47413eb0ca0f2dfffd7b74884c5b375104e0836b",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka030.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka026",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka031",
+      "object": "kolka",
+      "caption": "Вытянутый овал · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka031.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "6a2066d0cda47ab0d1605b87c58e503ba7090c506efcc52c07b1473c86974da8",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka031.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka025",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka032",
+      "object": "kolka",
+      "caption": "Удлинённое лицо · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka032.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "8a01617cb31d37946e7ebff156fa8b09cfb39d6324492fec6d771ba14f3280ef",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka032.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka027",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka033",
+      "object": "kolka",
+      "caption": "неровный ёжик",
+      "source_file": "docs/World/characters/kolka/images/kolka033.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "eb038d67106655aab6faf4af2687c04b4ab3699bcb5dabd2a43cf4c91a39fd62",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka033.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka015",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka034",
+      "object": "kolka",
+      "caption": "рваный кроп",
+      "source_file": "docs/World/characters/kolka/images/kolka034.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "25c8db5e0c6120bdcfb0ea71ddaab327c79c9ab80bc9fa3aa09071a5c927652b",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka034.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka016",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka035",
+      "object": "kolka",
+      "caption": "взъерошенная шапка",
+      "source_file": "docs/World/characters/kolka/images/kolka035.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "ef1f3d92837f85d3ecadf1fd160219aba5d779238f964a8356042484558e50da",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka035.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka017",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka036",
+      "object": "kolka",
+      "caption": "косой вихор",
+      "source_file": "docs/World/characters/kolka/images/kolka036.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "886e4acc1f893403bb6dd8688e2ff27d6c6bd7bbcb5571f6b8ba4b2800f8e6fc",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka036.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka018",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "kolka037",
+      "object": "kolka",
+      "caption": "Колючий · проба лица fedor023",
+      "source_file": "docs/World/characters/kolka/images/kolka037.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "fe18eb79ae71d34c0a52363aa2cff193ee6efeb7ca898f7e914566a7b1e5875b",
+      "aliases": [
+        "docs/World/characters/kolka/images/kolka037.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "kolka010",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma037",
+      "object": "emma",
+      "caption": "Выбранный образ · взрослее",
+      "source_file": "docs/World/characters/emma/images/emma037.png",
+      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+      "sha256": "a7059016c6a4955bb8a3f44e42d5557b7375942ded6e885badc8dc63145ad946",
+      "aliases": [
+        "docs/World/characters/emma/images/emma037.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "user_selected_reference_age_refinement",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
     }
   ],
   "deleted_codes": [
