@@ -1,0 +1,586 @@
+{
+  "date": "2026-11-15",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "output_format": "png",
+  "scope": "All active Emma and Kolka variants: smooth chin and brighter, richer photographic color. Emma037 separately matures the exact user-selected attachment. Existing Fedor images unchanged.",
+  "future_rule": "No chin dimples or clefts in any future character generation; preserve natural under-lip fold and living skin texture.",
+  "visual_review": "All outputs inspected individually. Original framing retained, including legacy near-edge hair framing and the two-panel 317 costume sheet. No new casting approval inferred.",
+  "items": [
+    {
+      "code": "emma023",
+      "object": "emma",
+      "caption": "Компактное сердце · яркая медь",
+      "derived_from": "emma020",
+      "source_file": "docs/World/characters/emma/images/emma023.png",
+      "sha256": "9b3e4b5f3a96ebc2f6038999d05d6216d9ebd0929c7ddb2a847d4d320e132c9f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma020",
+        "file": "docs/World/characters/emma/images/emma020.png",
+        "commit": "567ddba7c3d29b055b15f295ee33b2b723e1f4f7",
+        "sha256": "286220267759d17f3199673773a7d34216eaf85696469cc0aecb182f55469032"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma020. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma024",
+      "object": "emma",
+      "caption": "Мягкий овал · ясный взгляд",
+      "derived_from": "emma021",
+      "source_file": "docs/World/characters/emma/images/emma024.png",
+      "sha256": "926268b762e21c4e6be7853eb617343675c27f1ca385ad2074f782db01509e0c",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma021",
+        "file": "docs/World/characters/emma/images/emma021.png",
+        "commit": "567ddba7c3d29b055b15f295ee33b2b723e1f4f7",
+        "sha256": "8ee305b57ba895dbc19ea4b48dcff9be86eafeb25528e591d96e8698e78792db"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma021. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma025",
+      "object": "emma",
+      "caption": "Высокие скулы · короткий подбородок",
+      "derived_from": "emma022",
+      "source_file": "docs/World/characters/emma/images/emma025.png",
+      "sha256": "446f41f934aa90bf0e631125990d2cfbe4857c45a4cc8ee930bf6f22f6fc6594",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma022",
+        "file": "docs/World/characters/emma/images/emma022.png",
+        "commit": "567ddba7c3d29b055b15f295ee33b2b723e1f4f7",
+        "sha256": "0e3d35c7becb5933be0e058993c4a71f281a4edc24120ce618dd7bfc2f244ba6"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma022. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma026",
+      "object": "emma",
+      "caption": "Светлый взгляд · тонкие черты",
+      "derived_from": "emma016",
+      "source_file": "docs/World/characters/emma/images/emma026.png",
+      "sha256": "931342f890bc5efc656409a7ef809df07a39444798a3fc387469e471b9d5e19b",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma016",
+        "file": "docs/World/characters/emma/images/emma016.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "da3ce70db144d5069277b786f76eef3ac701f5969174d71d10a959393eadf95b"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma016. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma027",
+      "object": "emma",
+      "caption": "более выраженные скулы",
+      "derived_from": "emma013",
+      "source_file": "docs/World/characters/emma/images/emma027.png",
+      "sha256": "da27cf6704e3c2330075978f8298a628274dd54dd42ac7520daadd76c5b2e4f4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma013",
+        "file": "docs/World/characters/emma/images/emma013.png",
+        "commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+        "sha256": "ae5aa27d27bc0cc557bcd76de05e58963fed5dd1aac52e632ba609da201d29db"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma013. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma028",
+      "object": "emma",
+      "caption": "мягкая возрастная правка",
+      "derived_from": "emma012",
+      "source_file": "docs/World/characters/emma/images/emma028.png",
+      "sha256": "65772060e104bf3fed4789078e303d34992af8fed24004061269e91980147aa4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma012",
+        "file": "docs/World/characters/emma/images/emma012.png",
+        "commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+        "sha256": "7e605725504ecd919955518541dceda04a1c8b432ac8a64efb111bf20a4ed1b2"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma012. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma029",
+      "object": "emma",
+      "caption": "Сердцевидный типаж · сдержанность",
+      "derived_from": "emma015",
+      "source_file": "docs/World/characters/emma/images/emma029.png",
+      "sha256": "37c3af1435f683948a652f89677204109ce4974ee0b66f2fec8d19c8f21b9c60",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma015",
+        "file": "docs/World/characters/emma/images/emma015.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "eae049dc33e45632d1954b05727f345cd059006071c7ef6930ffbf3dd82e1776"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma015. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma030",
+      "object": "emma",
+      "caption": "Прямой и жёсткий типаж",
+      "derived_from": "emma017",
+      "source_file": "docs/World/characters/emma/images/emma030.png",
+      "sha256": "6afe0a76146ab43b58e64b9ab03fca15fd36fde3614632bcc968ec4faa8d23d1",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma017",
+        "file": "docs/World/characters/emma/images/emma017.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "5a49adaeb02afe55cb5f182ca3522cc891f823f137f45cc8de64e58fe14e6df8"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma017. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma031",
+      "object": "emma",
+      "caption": "Холодная требовательность",
+      "derived_from": "emma018",
+      "source_file": "docs/World/characters/emma/images/emma031.png",
+      "sha256": "789d93c3433fc560d905ebdc15700eb604591ecdad61d63c011140ece8986557",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma018",
+        "file": "docs/World/characters/emma/images/emma018.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "769edfc49288574349da08c3bc8a3bcb1241985a66e5574fa1d2d8d17d6a1823"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma018. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma032",
+      "object": "emma",
+      "caption": "Упрямый скепсис",
+      "derived_from": "emma019",
+      "source_file": "docs/World/characters/emma/images/emma032.png",
+      "sha256": "00093ad21f04e077f5368eb42709108bea79a09a4da9ac9db08588845d4b3a80",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma019",
+        "file": "docs/World/characters/emma/images/emma019.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "36f9438771d6f1a2e2de1514e4a03412ebfee9cf01fd088fe78add83e6ffc8d5"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma019. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma033",
+      "object": "emma",
+      "caption": "Открытый взгляд · уточнённые пропорции",
+      "derived_from": "emma009",
+      "source_file": "docs/World/characters/emma/images/emma033.png",
+      "sha256": "fd2856182b3f7c59e6b064f935ec6c2c1a0b363138aa955f98256c178cbb2488",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma009",
+        "file": "docs/World/characters/emma/images/emma009.png",
+        "commit": "8f06743908b96bd36c17ec34517ba93872a1814a",
+        "sha256": "fbc0d26bf8bfa0e92acb398f325b8a50decf1a608a52859dbc7e0d9fd80d9c7a"
+      },
+      "requested_size": "auto",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma009. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma034",
+      "object": "emma",
+      "caption": "Высокие скулы",
+      "derived_from": "emma003",
+      "source_file": "docs/World/characters/emma/images/emma034.png",
+      "sha256": "83f2a2105456ec65406e8fc9f7855f262f36dad19a7d864808479fcc15f35e81",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma003",
+        "file": "docs/World/characters/emma/images/emma003.png",
+        "commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+        "sha256": "be3dd114f1f7f35bf42c099038c7b050272614bb9a38492f19b166fa897b86f7"
+      },
+      "requested_size": "auto",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma003. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma035",
+      "object": "emma",
+      "caption": "Сердцевидное лицо",
+      "derived_from": "emma005",
+      "source_file": "docs/World/characters/emma/images/emma035.png",
+      "sha256": "45febff4e82a0bbf9141b5b1d73bf60894caa99344c92d5038d13979358ce344",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma005",
+        "file": "docs/World/characters/emma/images/emma005.png",
+        "commit": "9eba256ddd4d9429fa306e45e9c4e9baae300bc7",
+        "sha256": "2312bf14183b925bfc8a2c7daef856ccea0af1f40bcc134574b52ce77bc576e4"
+      },
+      "requested_size": "auto",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma005. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma036",
+      "object": "emma",
+      "caption": "Вышивка номера на блузке и манжете",
+      "derived_from": "emma011",
+      "source_file": "docs/World/characters/emma/images/emma036.png",
+      "sha256": "5b833ceca178fbabf18e60902418ff82f0b29913b07d82431c2ae9ba092bec80",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "emma011",
+        "file": "docs/World/characters/emma/images/emma011.webp",
+        "commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+        "sha256": "8ebe110e7a0556822f334685d9d59da3d670f825184250c00c655da2a62f5173"
+      },
+      "requested_size": "auto",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait emma011. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. Do not add new text, watermarks, objects or people. Preserve all existing content.\nFor EMMA: emphasize her natural rich RED-COPPER hair and clear BLUE irises, retaining the original eye/hair color family and realistic texture. Hair should not become dull brown or blond; eyes must not glow cyan. Keep the beautiful but composed, self-possessed quality already present in this particular input.\n\nSPECIAL COMPOSITION INVARIANTS: the input is an existing TWO-PANEL costume demonstration of the SAME Emma. Preserve BOTH complete panels, the vertical divider, the circular fabric-detail callout, all garment seams, her hand positions, and EVERY existing embroidered number 317 exactly at its current location. Keep the number on the blouse/chest and cuff where it appears and the callout number legible. Do not turn this sheet into a single portrait. Correct the chin in BOTH panels consistently, retaining the same face in both. Keep the original wide 2:1 composition without cropping either panel.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka029",
+      "object": "kolka",
+      "caption": "Мягкая асимметрия · почти шестнадцать",
+      "derived_from": "kolka028",
+      "source_file": "docs/World/characters/kolka/images/kolka029.png",
+      "sha256": "8b8f5e3e209f2dd9e4d0c151e8208c7dedec63e3e69300e199f6dd9712c86575",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka028",
+        "file": "docs/World/characters/kolka/images/kolka028.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "cdd60f066175914f95a57a3a19779c462e49138637988fa824f56b0dbb04c7e5"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka028. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka030",
+      "object": "kolka",
+      "caption": "Тонкие скулы · почти шестнадцать",
+      "derived_from": "kolka026",
+      "source_file": "docs/World/characters/kolka/images/kolka030.png",
+      "sha256": "d66daec4a2806efafebc96cc47413eb0ca0f2dfffd7b74884c5b375104e0836b",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka026",
+        "file": "docs/World/characters/kolka/images/kolka026.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "696e61657b5111462f489ddba8966ed8086bea6e45ee84ab53f83a8217636401"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka026. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka031",
+      "object": "kolka",
+      "caption": "Вытянутый овал · почти шестнадцать",
+      "derived_from": "kolka025",
+      "source_file": "docs/World/characters/kolka/images/kolka031.png",
+      "sha256": "6a2066d0cda47ab0d1605b87c58e503ba7090c506efcc52c07b1473c86974da8",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka025",
+        "file": "docs/World/characters/kolka/images/kolka025.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "d22d9e6f5126809aac4f94845c3619485ca5b72dbab20d88823101a530f7fcab"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka025. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka032",
+      "object": "kolka",
+      "caption": "Удлинённое лицо · почти шестнадцать",
+      "derived_from": "kolka027",
+      "source_file": "docs/World/characters/kolka/images/kolka032.png",
+      "sha256": "8a01617cb31d37946e7ebff156fa8b09cfb39d6324492fec6d771ba14f3280ef",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka027",
+        "file": "docs/World/characters/kolka/images/kolka027.png",
+        "commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+        "sha256": "0261a95f4af172b2b25d42a9924a87cf275723b641a7c6d9b09bb6720c0a2c12"
+      },
+      "requested_size": "1024x1536",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka027. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka033",
+      "object": "kolka",
+      "caption": "неровный ёжик",
+      "derived_from": "kolka015",
+      "source_file": "docs/World/characters/kolka/images/kolka033.png",
+      "sha256": "eb038d67106655aab6faf4af2687c04b4ab3699bcb5dabd2a43cf4c91a39fd62",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka015",
+        "file": "docs/World/characters/kolka/images/kolka015.png",
+        "commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+        "sha256": "f512a7a2657cb7c3b372a56d559026017d83a9cceb786a410b6851815c99bb1f"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka015. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka034",
+      "object": "kolka",
+      "caption": "рваный кроп",
+      "derived_from": "kolka016",
+      "source_file": "docs/World/characters/kolka/images/kolka034.png",
+      "sha256": "25c8db5e0c6120bdcfb0ea71ddaab327c79c9ab80bc9fa3aa09071a5c927652b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka016",
+        "file": "docs/World/characters/kolka/images/kolka016.png",
+        "commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+        "sha256": "5f18bb73ce04679397aae91b11b3dbdc0c35c968544de0608c9ceef36b4ae2c4"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka016. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka035",
+      "object": "kolka",
+      "caption": "взъерошенная шапка",
+      "derived_from": "kolka017",
+      "source_file": "docs/World/characters/kolka/images/kolka035.png",
+      "sha256": "ef1f3d92837f85d3ecadf1fd160219aba5d779238f964a8356042484558e50da",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka017",
+        "file": "docs/World/characters/kolka/images/kolka017.png",
+        "commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+        "sha256": "5aa403448192d6e87cb92a14215c0ba9f178d18e194e9aa550efac6fdce51820"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka017. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka036",
+      "object": "kolka",
+      "caption": "косой вихор",
+      "derived_from": "kolka018",
+      "source_file": "docs/World/characters/kolka/images/kolka036.png",
+      "sha256": "886e4acc1f893403bb6dd8688e2ff27d6c6bd7bbcb5571f6b8ba4b2800f8e6fc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka018",
+        "file": "docs/World/characters/kolka/images/kolka018.png",
+        "commit": "5d57c655616f200d689b1e5966dcda482a62af8b",
+        "sha256": "6cf0541c41cb277a316b1ed840590004649736a729adadd37068d6fdfc799de3"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka018. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "kolka037",
+      "object": "kolka",
+      "caption": "Колючий · проба лица fedor023",
+      "derived_from": "kolka010",
+      "source_file": "docs/World/characters/kolka/images/kolka037.png",
+      "sha256": "fe18eb79ae71d34c0a52363aa2cff193ee6efeb7ca898f7e914566a7b1e5875b",
+      "dimensions": [
+        1673,
+        940
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "kolka010",
+        "file": "docs/World/characters/kolka/images/kolka010.webp",
+        "commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
+        "sha256": "fe1605663ca2780eb72c1ba31e2b972c308cae20db90d664c955fb0be0f45a7d"
+      },
+      "requested_size": "auto",
+      "prompt": "Use case: identity-preserve, precise local correction and restrained photographic color/exposure refinement. Image1 is the exact fictional ALIVE portrait kolka010. Preserve this SAME person's identity, age, face proportions, nose, lips, eye spacing, eye shape, expression, gaze, hair shape/length, costume, jewelry, pose and full scene composition. This is NOT a new casting candidate. Keep the entire original image content, all head and hair, and the original orientation and aspect ratio where possible. If a format adjustment is unavoidable, extend unobtrusive background rather than crop the subject. Never zoom into the face or crop the crown.\n\nMANDATORY CHIN CORRECTION: the central chin must have one continuous gently rounded SMOOTH anatomical surface. Remove any chin dimple, central pit, vertical cleft, split, groove, off-center indentation or dimple-shaped dark spot. Reconstruct natural smooth skin over it while preserving the chin's existing outer contour, jaw width and age. Do not erase the normal horizontal crease BELOW THE LOWER LIP: that lip-to-chin transition is not a chin cleft. Do not flatten the whole jaw, change the mouth or airbrush the face. The chin keeps fine natural skin texture but NO hole or split. No added cheek dimples or facial marks.\n\nOVERALL IMAGE: make the photograph visibly but moderately BRIGHTER and more COLORFUL than the input. Lift exposure roughly a small fraction of a stop, open overly murky shadows while retaining depth, and increase natural color separation and restrained saturation. Keep white clothing detailed, eyes and skin unclipped, and blacks grounded. Avoid washed-out high key, HDR, neon color, glossy skin, fake sharpness, orange skin, or exaggerated contrast. Preserve the exact natural skin tone of this character. The background also becomes a little clearer, without competing with the face.\n\nKeep genuine photographic skin with regional fine irregular pores, subtle local color, natural eyelids and lip lines. No beauty smoothing, plastic, wax, procedural pore noise, added grain or halos. Preserve an ordinary teenage appearance, no adult aging or makeup. No text, watermark, added objects, hands or extra people.\nFor KOLKA: keep his dark eyes, black hair, medium tan/olive skin and the exact original hairstyle. Do not lighten his complexion or recolor hair. Keep his natural unruly station-life appearance; no gel, salon restyling or added stubble.\n",
+      "generation_mode": "edit",
+      "derivation_kind": "smooth_chin_brighter_color",
+      "status": "candidate"
+    },
+    {
+      "code": "emma037",
+      "object": "emma",
+      "caption": "Выбранный образ · взрослее",
+      "derived_from": null,
+      "source_file": "docs/World/characters/emma/images/emma037.png",
+      "sha256": "a7059016c6a4955bb8a3f44e42d5557b7375942ded6e885badc8dc63145ad946",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "origin": "User attachment Photo 1.jpg, 2026-11-15",
+        "file": "Production/Dashboard/References/Emma037_Input.jpg",
+        "sha256": "55a87323e4290bd83f61d6e55174d13a2a02754d31997a685e52cf5855a79b0f"
+      },
+      "requested_size": "1536x1024",
+      "prompt": "Create a NEW genuinely photographic exposure of the SAME fictional red-haired girl in image1, Emma from ALIVE, using this image as an identity and broad composition reference. The user explicitly selected this exact face. Preserve recognizable eye spacing, nose family, freckles, hairline, long red waves and characteristic facial asymmetry, while making her read noticeably a little OLDER: a composed FIFTEEN-to-SIXTEEN-year-old older adolescent, not a twelve-year-old and not an adult woman. Subtly reduce baby-cheek fullness, clarify cheekbone planes and jaw transition without widening or heavily squaring the jaw; keep a compact attractive heart/oval face and SHORT naturally rounded chin. Do NOT lengthen the midface or chin into an elongated model face. More self-possessed slightly firmer eyelids and mouth, cool quietly judging glance, no shy innocence, smile, pout or exaggerated anger. No adult wrinkles, makeup or body maturation. Keep the costume fully opaque and age appropriate.\n\nMANDATORY: smooth continuous chin with fine natural skin texture, NO dimple, pit, cleft, split or vertical groove. Preserve the normal shallow horizontal transition below the lower lip; no airbrushed jaw.\n\nREBUILD PHOTOGRAPHIC REALISM rather than preserving the old smooth rendering. The face should have regional fine irregular skin detail: small pores beside the nose and inner cheeks, finer matte temples and outer cheeks, subtle peach fuzz only where light catches it, delicate realistic eyelids with slight moist lower rim, coherent irises and pupils/catchlights, fine lip lines and soft natural edges, ordinary freckles of differing density. No wax, porcelain smoothing, beauty filter, uniform procedural pore pattern, heavy grain, crispy microcontrast or sharpening halos. Eyes and face sharper than the clothing/background; preserve healthy teenage softness.\n\nBRIGHT AND RICH NATURAL COLOR GRADE: significantly clearer and brighter than the reference's muted treatment, with luminous vivid RED-COPPER hair (not brown or blond), clean rich light BLUE irises (not grey or glowing cyan), natural pale lightly warm skin and crisp but detailed white cotton-knit blouse. Open murky shadows moderately, retain shaped contrast and clean deep tones, natural highlight rolloff and fabric detail. Saturation is vivid but believable, not HDR, orange skin, neon highlights or oversaturated background. Broad softly directional neutral key with weak scene-derived bounce; restrained warm practical light behind her. Keep every highlight physically motivated.\n\nPreserve the white fine-knit blouse, lace collar and sleeves, small ladybird pendant and long partly gathered wavy hair. Preserve the same quiet three-quarter stance, upright shoulders and camera-relative gaze. A simple believable pale station corridor, subtly blurred and subordinate; retain the layout family but make materials matte and real rather than a glossy game render. No new props, new person, text or logo.\n\nLandscape 3:2 photograph, normal 75–85mm-equivalent perspective, moderate f5.6 focus region. Keep the original upper-body composition and full shoulders. Include the COMPLETE head and ALL hair with a visible 8–10 percent band of background above the highest strand; move camera out a little if required rather than crop crown or shorten hair. No zoomed-in head crop. One coherent real photographic still, not a painted edit or a beauty-ad.",
+      "generation_mode": "edit",
+      "derivation_kind": "user_selected_reference_age_refinement",
+      "status": "candidate"
+    }
+  ]
+}
