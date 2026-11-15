@@ -1,0 +1,275 @@
+{
+  "version": "1.0",
+  "date": "2026-11-15",
+  "status": "submitted_for_review_candidate",
+  "generated_new_images": false,
+  "assets": [
+    {
+      "code": "ira007",
+      "caption": "Ира и Жанна в мастерской",
+      "source_file": "docs/World/characters/ira/images/ira007.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "8c6031731d811d351213451b587acf4f3077ae215f573643c4a228b38c5893c0",
+      "file": "assets/ira007.webp",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira007.webp"
+    },
+    {
+      "code": "dimka010",
+      "caption": "Светлый коротко стриженный типаж",
+      "source_file": "docs/World/characters/dimka/images/dimka010.webp",
+      "source_commit": "ceeb93446e6f864d44dd629360985da022c02972",
+      "sha256": "cfc603aa8d96b30dab453a7a14e21fcae270cd91d314a3f749bc6aee462a1a0c",
+      "file": "assets/dimka010.webp",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka010.webp"
+    },
+    {
+      "code": "andrey001",
+      "caption": "Сдержанный навигатор",
+      "source_file": "docs/World/characters/andrey/images/andrey001.png",
+      "source_commit": "3b496f9225dd84b68111c8ae2a24fc5422e5f3d2",
+      "sha256": "2c4471885280582182a02536c6d98a2ac116b5986dfaeb35fc980f53a6610a7c",
+      "file": "assets/andrey001.png",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey001.png"
+    },
+    {
+      "code": "kolka025",
+      "caption": "Вытянутый овал · почти шестнадцать",
+      "source_file": "docs/World/characters/kolka/images/kolka025.png",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "sha256": "d22d9e6f5126809aac4f94845c3619485ca5b72dbab20d88823101a530f7fcab",
+      "file": "assets/kolka025.png",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/kolka/images/kolka025.png"
+    },
+    {
+      "code": "emma018",
+      "caption": "Холодная требовательность",
+      "source_file": "docs/World/characters/emma/images/emma018.png",
+      "source_commit": "79eed1a075c1ba4df3861021bce5d9612ec36a38",
+      "sha256": "769edfc49288574349da08c3bc8a3bcb1241985a66e5574fa1d2d8d17d6a1823",
+      "file": "assets/emma018.png",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/emma/images/emma018.png"
+    },
+    {
+      "code": "taisc001",
+      "caption": "Синий верх / светлый низ",
+      "source_file": "docs/World/clothing/tais/images/taisc001.png",
+      "source_commit": "bb8b0317736789e3bc47b8e16ef466db105567cf",
+      "sha256": "0cc19071ef5aac65e4b78dd6988d40a6c220cc3137734df953c1ae5aba6efcc0",
+      "file": "assets/taisc001.png",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/bb8b0317736789e3bc47b8e16ef466db105567cf/docs/World/clothing/tais/images/taisc001.png"
+    },
+    {
+      "code": "gardener005",
+      "caption": "Ажурный каркас",
+      "source_file": "docs/World/robots/gardener/images/gardener005.webp",
+      "source_commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+      "sha256": "bdc324d2cf67c7f70e683b0756156f25321cf222b978af4606bc093806479786",
+      "file": "assets/gardener005.webp",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/47350fadce98a6d860b8a3dab13a4bf741c46bc6/docs/World/robots/gardener/images/gardener005.webp"
+    },
+    {
+      "code": "senka007",
+      "caption": "Овальная семья за столом",
+      "source_file": "docs/World/characters/senka/images/senka007.webp",
+      "source_commit": "20fc496102265a3f63455c316bd909929a475878",
+      "sha256": "f205254f7298dc450e31b1f7ba12f8fcf6ca59c3894a889437a0e4fb1a278f2b",
+      "file": "assets/senka007.webp",
+      "url": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka007.webp"
+    }
+  ],
+  "exact_prompts": [
+    {
+      "code": "ira007",
+      "file": "prompts/ira007.txt",
+      "sha256": "eade1668610a58c1ae742a71822747c482da780149f88b4d704c2babe5803c89",
+      "source_manifest": "Production/Dashboard/Semyon_Ira_Senka_2026-11-09.json",
+      "selector": "scenes.ira007"
+    },
+    {
+      "code": "dimka010",
+      "file": "prompts/dimka010.txt",
+      "sha256": "7f2c3c5dbaf51569008537c7881974b58647a89fec078473b3494c3fd54e11bd",
+      "source_manifest": "Production/Dashboard/Dimka_2026-11-12.json",
+      "selector": "jobs[published_code=dimka010].prompt"
+    },
+    {
+      "code": "andrey001",
+      "file": "prompts/andrey001.txt",
+      "sha256": "a6684a10aa2d04a6cfaaa75fc9733e94662a3e42a98ac9b75121290168f9b60b",
+      "source_manifest": "Production/Dashboard/fedor_dimka_andrey_2026-11-09.json",
+      "selector": "items[code=andrey001].prompt"
+    },
+    {
+      "code": "kolka025",
+      "file": "prompts/kolka025.txt",
+      "sha256": "5e54d3c522360cd72efaa84e24239e3d6e36c5301afbf249ece49103a18f5d10",
+      "source_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "selector": "items[code=kolka025].prompt"
+    },
+    {
+      "code": "emma018",
+      "file": "prompts/emma018.txt",
+      "sha256": "dbf87b9a26d1ee9855d567459b61328082094d4097f60913808b247b2c8afdc7",
+      "source_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
+      "selector": "items[code=emma018].prompt"
+    }
+  ],
+  "sources": [
+    {
+      "id": "T1",
+      "title": "ARRI Lighting Handbook",
+      "url": "https://www.arri.com/en/learn/lighting/lighting-handbook",
+      "note": "Термінологія й постановка світла; конкретні L1–L6 - авторські пропозиції ALIVE."
+    },
+    {
+      "id": "T2",
+      "title": "ARRI ALEXA LF FAQ",
+      "url": "https://www.arri.com/en/learn/camera-systems/frequently-asked-questions/alexa-lf-faq",
+      "note": "Формат сенсора, кут огляду та глибина різкості; не вибір камери для ALIVE."
+    },
+    {
+      "id": "T3",
+      "title": "ACES Transform IDs",
+      "url": "https://docs.acescentral.com/system-components/transform-id-spec/",
+      "note": "Розрізнення вхідних і вихідних перетворень."
+    },
+    {
+      "id": "T4",
+      "title": "Kodak VISION3 250D 5207/7207 Technical Information",
+      "url": "https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-250D-5207-7207-technical-information.pdf",
+      "note": "Денний баланс 5500 K, EI 250; не доказ емуляції у генеративному файлі."
+    },
+    {
+      "id": "T5",
+      "title": "Kodak VISION3 500T 5219/7219 Technical Information",
+      "url": "https://www.kodak.com/content/products-brochures/motion-picture/KODAK-VISION3-5219-7219-technical-information.pdf",
+      "note": "Баланс 3200 K, EI 500; не доказ емуляції у генеративному файлі."
+    }
+  ],
+  "sections": [
+    {
+      "id": "scope",
+      "title": "Що подається на погодження"
+    },
+    {
+      "id": "evidence",
+      "title": "Статуси та походження"
+    },
+    {
+      "id": "anchor",
+      "title": "Опорний кадр: Іра та Жанна"
+    },
+    {
+      "id": "portraits",
+      "title": "Перевірка на різних обличчях"
+    },
+    {
+      "id": "ensemble",
+      "title": "Побутова сцена та кілька облич"
+    },
+    {
+      "id": "light-basics",
+      "title": "Світло: порядок постановки"
+    },
+    {
+      "id": "l1",
+      "title": "L1 · Нейтральний портрет"
+    },
+    {
+      "id": "l2",
+      "title": "L2 · Діалог у майстерні"
+    },
+    {
+      "id": "l3",
+      "title": "L3 · Технічний прохід"
+    },
+    {
+      "id": "l4",
+      "title": "L4 · Оранжерея"
+    },
+    {
+      "id": "l5",
+      "title": "L5 · Теплий побутовий простір"
+    },
+    {
+      "id": "l6",
+      "title": "L6 · Робот і матеріал"
+    },
+    {
+      "id": "optics",
+      "title": "Оптика та перспектива"
+    },
+    {
+      "id": "exposure",
+      "title": "Експозиція та керування кольором"
+    },
+    {
+      "id": "film",
+      "title": "Плівкова подача без декоративного шуму"
+    },
+    {
+      "id": "skin",
+      "title": "Обличчя, волосся та мікрофактура"
+    },
+    {
+      "id": "materials",
+      "title": "Матеріали, поверхні та деталі"
+    },
+    {
+      "id": "material-examples",
+      "title": "Матеріали в готових концептах"
+    },
+    {
+      "id": "form",
+      "title": "Форма, масштаб і функція"
+    },
+    {
+      "id": "palette",
+      "title": "Палітра світу та роль кольору"
+    },
+    {
+      "id": "wear",
+      "title": "Покоління техніки, знос і ремонт"
+    },
+    {
+      "id": "prompts",
+      "title": "Архітектура промпта"
+    },
+    {
+      "id": "prompt-recipes",
+      "title": "Три робочі рецепти запиту"
+    },
+    {
+      "id": "iteration",
+      "title": "Особистість і керовані ітерації"
+    },
+    {
+      "id": "continuity",
+      "title": "Сцена, рух і безперервність"
+    },
+    {
+      "id": "qa",
+      "title": "Контроль якості та приймання"
+    },
+    {
+      "id": "delivery",
+      "title": "Архів, файли та передача"
+    },
+    {
+      "id": "december",
+      "title": "Що завершити до грудневого довідника"
+    },
+    {
+      "id": "approval",
+      "title": "Питання для продюсерського рішення"
+    }
+  ],
+  "december_work": "KPP-R257",
+  "november_work": "KPP-R017",
+  "disclosure": "Lighting values, palette roles, film looks and test protocols are proposals; archival prompts and images are existing evidence, not measured camera metadata.",
+  "approved_principles": {
+    "file": "sources/approved_principles_2026-11-09.txt",
+    "scope": "Working photographic method accepted by Eugene; not producer approval of all designs",
+    "sha256": "16f74bca5f4f157f6a906cdfbd28e58c529a34444cc21fe66b456c21f1a41206"
+  }
+}
