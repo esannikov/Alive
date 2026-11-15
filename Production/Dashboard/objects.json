@@ -2474,6 +2474,26 @@
       "body_file": "Production/Dashboard/cast_contrast_body.html",
       "label": "Кастинговое сравнение",
       "button_label": "Открыть сравнение"
+    },
+    {
+      "id": "photorealism",
+      "title": "Фотореалистический стиль",
+      "path": "photorealism",
+      "group": "style",
+      "task_ids": [
+        "style",
+        "form",
+        "materials",
+        "color",
+        "generations",
+        "style-check",
+        "detail"
+      ],
+      "summary": "Пакет v1.0 · свет, оптика, фактуры и промпты",
+      "image": "photorealism/assets/ira007.webp",
+      "body_file": "Production/Dashboard/photorealism_body.html",
+      "label": "Рабочий стандарт · на согласовании",
+      "button_label": "Открыть пакет"
     }
   ],
   "collections": [
