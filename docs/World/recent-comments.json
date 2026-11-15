@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T12:49:18.552309+00:00",
+  "generatedAt": "2026-11-15T11:37:59.744912+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK4kc",
+      "page": "characters/tais/",
+      "title": "Таис",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-15T11:37:38Z",
+      "excerpt": "нам нужно закрепить тогда, что tais053 - это гаш Вариант А. tais057, tais060 и tais061 - это она же, просто в разных эмоциях. tais059 - это наш вариант Б. Они все остаются, но нужно их как-то сгруппировать. и tais058 - в резерв",
+      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19630364"
+    },
     {
       "id": "DC_kwDOVCLQyc4BKu2-",
       "page": "styles/alc-11/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-13T10:53:49Z",
       "excerpt": "какой малыш)",
       "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588371"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKV_i",
-      "page": "characters/vovik/",
-      "title": "Вовик",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-09T09:47:37Z",
-      "excerpt": "Тоже все классные",
-      "url": "https://github.com/esannikov/Alive/discussions/175#discussioncomment-19488738"
     }
   ],
   "discussionNumbers": {
+    "characters/tais/": 56,
     "styles/alc-11/": 184,
     "robots/gardener/": 182,
     "characters/vovik/": 175,
@@ -56,7 +57,6 @@
     "characters/egor/": 95,
     "characters/krendel/": 96,
     "characters/kolka/": 59,
-    "characters/tais/": 56,
     "characters/sonya/": 145,
     "characters/ilya/": 94,
     "characters/katya/": 67,
@@ -95,10 +95,10 @@
       "last": null
     },
     "characters/tais/": {
-      "messageCount": 15,
+      "messageCount": 16,
       "last": {
-        "author": "isto3110-ship-it",
-        "createdAt": "2026-11-06T12:25:38Z"
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-15T11:37:38Z"
       }
     },
     "characters/tais/reference.html": {
@@ -537,6 +537,14 @@
       "messageCount": 0,
       "last": null
     },
+    "signs/milky-way/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "signs/milky-way/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
     "search.html": {
       "messageCount": 0,
       "last": null
@@ -549,6 +557,14 @@
       }
     },
     "characters/cast-contrast/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "photorealism/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/additional-cast/": {
       "messageCount": 0,
       "last": null
     }
