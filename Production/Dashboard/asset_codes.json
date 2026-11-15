@@ -13,7 +13,7 @@
     "tais": 62,
     "fedor": 34,
     "moag": 47,
-    "emma": 38,
+    "emma": 39,
     "kolka": 38,
     "lon": 16,
     "don": 31,
@@ -13284,6 +13284,32 @@
       "series": "current",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+    },
+    {
+      "code": "emma038",
+      "object": "emma",
+      "caption": "Анфас · пропорциональная проба",
+      "source_file": "docs/World/characters/emma/images/emma038.png",
+      "source_commit": "3e8bbae976bb69bfcd215327adc8ae200ca7ba30",
+      "sha256": "047a3466ab369e37c62c9a01c6aa9504406bdb7bb9452f2794963842183adde9",
+      "aliases": [
+        "docs/World/characters/emma/images/emma038.png"
+      ],
+      "galleries": [
+        "World/characters/emma"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "emma037",
+      "derivation_kind": "frontal_proportion_study",
+      "renditions": [],
+      "task_ids": [
+        "emma",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Emma_Frontal_2026-11-15.json"
     }
   ],
   "deleted_codes": [
