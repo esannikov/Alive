@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T11:51:42.931599+00:00",
+  "generatedAt": "2026-11-15T12:04:25.953658+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK4qm",
+      "page": "characters/kolka/",
+      "title": "Колька · Колючий",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-15T12:04:01Z",
+      "excerpt": "kolka028 - очень нравится, kolka026 тоже. kolka025 и kolka027 меньше.",
+      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19630758"
+    },
     {
       "id": "DC_kwDOVCLQyc4BK4nB",
       "page": "characters/emma/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-13T10:55:03Z",
       "excerpt": "gardener005 тоже класс. все классные",
       "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588406"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKuUl",
-      "page": "robots/gardener/",
-      "title": "Робот-садовник",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-13T10:54:40Z",
-      "excerpt": "единственное - может всем им морды какие-то будем таки рисовать? это вопрос - не факт, что я права.",
-      "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588389"
     }
   ],
   "discussionNumbers": {
+    "characters/kolka/": 59,
     "characters/emma/": 57,
     "characters/tais/": 56,
     "styles/alc-11/": 184,
@@ -57,7 +58,6 @@
     "characters/romik/": 174,
     "characters/egor/": 95,
     "characters/krendel/": 96,
-    "characters/kolka/": 59,
     "characters/sonya/": 145,
     "characters/ilya/": 94,
     "characters/katya/": 67,
@@ -128,10 +128,10 @@
       "last": null
     },
     "characters/kolka/": {
-      "messageCount": 13,
+      "messageCount": 14,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-06T14:26:57Z"
+        "createdAt": "2026-11-15T12:04:01Z"
       }
     },
     "characters/kolka/reference.html": {
