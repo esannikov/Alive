@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-15",
+  "original_generation_date": "2026-10-29",
+  "status": "published_candidates_for_review",
+  "new_generations": 0,
+  "items": [
+    {
+      "code": "mw001",
+      "caption": "A · исходный знак",
+      "source_file": "docs/World/signs/milky-way/images/mw001.png",
+      "sha256": "dd78e99cc1f8c5bd9a62180b16c62ca198484f70c66f9a2029ae62f64a8dbd5c",
+      "source_id": "emblem-a",
+      "origin": "user_selected_original",
+      "reference_code": null,
+      "prompt": null,
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw002",
+      "caption": "A · двери базы",
+      "source_file": "docs/World/signs/milky-way/images/mw002.png",
+      "sha256": "53c120cfc0f077df34bef2caabb6d82b2102f7c07596bfe174b286c868a42386",
+      "source_id": "a-door",
+      "origin": "existing_imagegen_context",
+      "reference_code": "mw001",
+      "prompt": "Use case: precise-object-edit / cinematic production-design still. Use the attached image ONLY as the exact graphic master of the old Milky Way station emblem from ALIVE. Place that exact square mark on the specified physical surface. Preserve its orientation, square proportions, two filled triangular masses, tiny corner radii and CONTINUOUS diagonal negative-space seam with its small central step. This reference has NO black connecting bridge; DO NOT add one or substitute a different logo. Translate black filled areas into the specified physical material, and the white negative-space incision into the underlying surface. Do not put a white square image background or a plaque border around the emblem. The mark must be large, unobstructed, sharply readable and integrated with the surface. Single photorealistic cinematic still in wide 16:9 landscape. Restrained lived-in retro-industrial orbital-station design, believable construction, subtle age and human use. No typography, serial numbers, readable text, extra symbols, stars, contemporary brands, people, collage, inset logo, presentation board or watermark. Near-frontal medium close view of old CLOSED double steel sliding doors in the cold lower service level of an orbital station. Thick dark-gray steel leaves, one narrow vertical meeting seam, heavy jamb edges at frame sides. The selected emblem is a shallow raised metal relief spanning both door leaves, centered across the meeting seam; its square emblem footprint occupies about one third of image width, not the entire door. The physical vertical door seam may pass through the relief, but retain the emblem's own diagonal incision precisely. A small recessed key port sits toward the far right edge, discreet and unlit. Decades of scuffs, rubbed metal edges, faint dust in recesses and a few restrained old welds. Cool soft overhead utility lighting with a very subtle warm spill from off-frame. The relief catches enough side light to be legible. Tangible aged steel, calm and protective, not horror ruins. Camera nearly straight-on with minimal perspective distortion; keep the center of the emblem in perfect focus.",
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw003",
+      "caption": "A · бойлер",
+      "source_file": "docs/World/signs/milky-way/images/mw003.png",
+      "sha256": "fc920e4784cb6ba47540bbf36d7d5bdabddcc4c837e18758e0820cb5d72128a1",
+      "source_id": "a-boiler",
+      "origin": "existing_imagegen_context",
+      "reference_code": "mw001",
+      "prompt": "Use case: precise-object-edit / cinematic production-design still. Use the attached image ONLY as the exact graphic master of the old Milky Way station emblem from ALIVE. Place that exact square mark on the specified physical surface. Preserve its orientation, square proportions, two filled triangular masses, tiny corner radii and CONTINUOUS diagonal negative-space seam with its small central step. This reference has NO black connecting bridge; DO NOT add one or substitute a different logo. Translate black filled areas into the specified physical material, and the white negative-space incision into the underlying surface. Do not put a white square image background or a plaque border around the emblem. The mark must be large, unobstructed, sharply readable and integrated with the surface. Single photorealistic cinematic still in wide 16:9 landscape. Restrained lived-in retro-industrial orbital-station design, believable construction, subtle age and human use. No typography, serial numbers, readable text, extra symbols, stars, contemporary brands, people, collage, inset logo, presentation board or watermark. Medium close view of an old squat round-bellied hot-water boiler mounted in a modest station washroom. Aged warm-gray enamel over metal, rounded cylindrical body, a simple pipe entering above and another exiting below, plain utilitarian fittings, faint mineral traces and small worn enamel chips. The selected square emblem is a dark charcoal factory stencil directly on the front of the boiler, about one third of the visible boiler width, with subtle rubbed wear but all geometry legible. Camera close and almost frontal to minimize logo distortion on the slight curvature. Include enough wall and pipework to understand what the object is. Warm practical washroom light, muted brown-gray surroundings, the feeling of an old useful object that still supplies hot water. No added label, screen, decorative controls or dramatic steam. Photographic material detail, measured cinematic composition, emblem and boiler sharply readable.",
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw004",
+      "caption": "A · наволочка, выцветшая печать",
+      "source_file": "docs/World/signs/milky-way/images/mw004.png",
+      "sha256": "99b4413dfc59aabd1bce6424d0f252670084309a27314402e64c684bdd16e045",
+      "source_id": "a-textile",
+      "origin": "existing_imagegen_context",
+      "reference_code": "mw001",
+      "prompt": "Use case: precise-object-edit / cinematic production-design still. Use the attached image ONLY as the exact graphic master of the old Milky Way station emblem from ALIVE. Place that exact square mark on the specified physical surface. Preserve its orientation, square proportions, two filled triangular masses, tiny corner radii and CONTINUOUS diagonal negative-space seam with its small central step. This reference has NO black connecting bridge; DO NOT add one or substitute a different logo. Translate black filled areas into the specified physical material, and the white negative-space incision into the underlying surface. Do not put a white square image background or a plaque border around the emblem. The mark must be large, unobstructed, sharply readable and integrated with the surface. Single photorealistic cinematic still in wide 16:9 landscape. Restrained lived-in retro-industrial orbital-station design, believable construction, subtle age and human use. No typography, serial numbers, readable text, extra symbols, stars, contemporary brands, people, collage, inset logo, presentation board or watermark. Close cinematic still of a plain worn light-beige pillowcase resting on a simple bunk, with a brown wool blanket folded along the lower part of frame. The EXACT selected square emblem is embroidered in medium-dark BROWN THREAD on the pillowcase, large enough to read, about one quarter of image width. Satin-stitch filled triangular shapes, visible fine thread direction; preserve the continuous unstitched diagonal seam and its small central step exactly. Do not add a connecting bridge. The pillow fabric is softly creased but the logo area is almost flat, so its geometry stays clear. Gentle warm bedside practical light, natural linen/cotton texture, soft brown wool fibers, modest lived-in shelter and care, not luxury hotel styling. Front-biased close view, shallow background separation but the ENTIRE emblem in crisp focus. No extra motif, letters, piping or decorative embroidery.",
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw005",
+      "caption": "B · исходный знак",
+      "source_file": "docs/World/signs/milky-way/images/mw005.png",
+      "sha256": "e4f5a859e974aa9d1e6dfc432bb7063e8d42b98d456edcfacfd5319744f1bfd2",
+      "source_id": "emblem-b",
+      "origin": "user_selected_original",
+      "reference_code": null,
+      "prompt": null,
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw006",
+      "caption": "B · двери базы",
+      "source_file": "docs/World/signs/milky-way/images/mw006.png",
+      "sha256": "34f96408257c6ab11d9762682e6d1017e2e97966fc7d157ea07f893531799e09",
+      "source_id": "b-door",
+      "origin": "existing_imagegen_context",
+      "reference_code": "mw005",
+      "prompt": "Edit image 1, the old closed steel double-door scene. Image 2 is the EXACT replacement emblem master. Change ONLY the geometry of the raised dark metal emblem to match image 2: two opposing filled triangles forming a square with two diagonal negative-space openings that END in softly rounded inner tips, leaving a short horizontal BLACK CONNECTING BRIDGE at the center. The central bridge is an essential difference from the existing emblem. Translate the image-2 black shape into the same aged raised metal relief; its white openings expose the door surface. Retain the actual thin vertical meeting seam of the two door leaves through the emblem, but no extra diagonal cut across the emblem's connecting bridge. Preserve the emblem's current overall position, size and square proportions. Keep the exact existing camera, framing, steel door construction, key port, scuffs, lighting, colors and background. No added words, border, extra logo or inset. This is a matched comparison image; only the emblem design changes. Wide 16:9.",
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw007",
+      "caption": "B · нашивка на старой форме",
+      "source_file": "docs/World/signs/milky-way/images/mw007.png",
+      "sha256": "fbe9d5467001dd58c074040ddf8f35b099ff1143f460b239a77bba67c13bc097",
+      "source_id": "b-uniform",
+      "origin": "existing_imagegen_context",
+      "reference_code": "mw005",
+      "prompt": "Use the attached image ONLY as the exact graphic master for the old Milky Way station emblem in ALIVE. Preserve the two opposing filled triangular masses, upright square proportions, two diagonal openings with softly rounded inner ends, and especially the short central joining bridge. Do not turn this into a continuous diagonal cut. The symbol may be translated into the specified monochrome physical material while maintaining its shape. Create ONE photorealistic cinematic still, wide 16:9. Restrained old orbital-station world, believable practical construction, subtle signs of age and human use, close attention to material. No title, captions, readable text, additional emblems, stars, ranks, modern brands, collage, inset logo or watermark. A detailed medium-close still of an old adult crew uniform jacket hanging from a simple peg inside a narrow station locker. Faded slate-gray-blue sturdy workwear fabric, practical collar, plain seams, worn cuffs, a few subtle repairs. No armor or decorative military features. On the upper sleeve facing the camera is ONE modest approximately 6 cm square cloth insignia carrying the EXACT reference emblem, embroidered in faded warm ivory thread on the same gray-blue fabric. Keep the graphic readable: filled triangle embroidery and clearly visible central connecting bridge, with garment fabric showing through the diagonal openings. The badge is part of the garment, aged and slightly softened, not a shiny new sticker. It occupies about one fifth of the image height, with enough jacket visible to understand the uniform context. Soft side light entering the open locker, muted utilitarian background, a little dust and age, intimate evidence of a former human crew. Camera nearly frontal to the patch, shallow depth in the background but entire badge sharply resolved. No person or mannequin.",
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    },
+    {
+      "code": "mw008",
+      "caption": "B · знак перед дверью",
+      "source_file": "docs/World/signs/milky-way/images/mw008.png",
+      "sha256": "4181bfcc55cee8c69b845999cadd471f369f73b00c509e6e819f0d7d0fbdd71f",
+      "source_id": "b-floor",
+      "origin": "existing_imagegen_context",
+      "reference_code": "mw005",
+      "prompt": "Use the attached image ONLY as the exact graphic master for the old Milky Way station emblem in ALIVE. Preserve the two opposing filled triangular masses, upright square proportions, two diagonal openings with softly rounded inner ends, and especially the short central joining bridge. Do not turn this into a continuous diagonal cut. The symbol may be translated into the specified monochrome physical material while maintaining its shape. Create ONE photorealistic cinematic still, wide 16:9. Restrained old orbital-station world, believable practical construction, subtle signs of age and human use, close attention to material. No title, captions, readable text, additional emblems, stars, ranks, modern brands, collage, inset logo or watermark. A cinematic close-to-medium view looking down at an old station corridor floor immediately in front of a CLOSED pale metal cabin door. The EXACT reference emblem is painted directly on the dark gray worn floor in aged OFF-WHITE paint: one square mark, roughly the width of two shoes, with filled triangular masses and the central bridge unmistakably preserved. Its placement is purposeful, just before the threshold as a sign pointing to a possible refuge. The paint is hand-applied through a simple stencil, slightly uneven, scuffed by years of footsteps, with dark floor visible in the diagonal negative-space openings. No painted rectangular backing. Include the lower door, threshold and a small covered biometric access panel at the side, enough to understand the relationship between sign and door. Low warm practical light grazes the paint and floor texture; this is a quiet discovery, not a horror scene. Camera about 40 degrees downward with modest perspective so the emblem remains readable. No feet, people, arrows, text, stars, boilers, pillows or additional symbols.",
+      "visual_review": "Reviewed full image: mark geometry, readable negative space, material integration and framing. Existing image retained; no regeneration needed."
+    }
+  ],
+  "source_pages": [
+    18,
+    24,
+    29,
+    157,
+    293
+  ],
+  "adaptation_note": "Небольшая частично выстиранная печать в углу наволочки — правка пользователя от 29.10.2026. В романе на наволочке описана коричневая вышивка.",
+  "geometry_note": "A has a continuous diagonal opening; B preserves the central bridge. Both original user-selected drawings are retained."
+}
