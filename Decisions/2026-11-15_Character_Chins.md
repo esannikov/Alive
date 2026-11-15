@@ -23,4 +23,4 @@
 The chin has a single continuous naturally rounded surface with fine living skin texture. No chin dimple, cleft, split, central pit or vertical groove. Preserve the normal horizontal fold below the lower lip, the jaw contour, the character's age and identity.
 ```
 
-Пов’язані матеріали: активні галереї Емми й Кольки, інструкція візуальної розробки, промпти нових портретів. Гілка реалізації: `codex/producer-feedback-20261115`.
+Пов’язані матеріали: активні галереї Емми й Кольки, інструкція візуальної розробки, промпти нових портретів. Реалізація: [PR #197](https://github.com/esannikov/Alive/pull/197), гілка `codex/producer-feedback-20261115`.
