@@ -45,7 +45,8 @@
     "dimka": 13,
     "andrey": 7,
     "gardener": 6,
-    "taisc": 9
+    "taisc": 9,
+    "mw": 9
   },
   "assets": [
     {
@@ -12306,6 +12307,214 @@
       "derivation_kind": "new_casting_identity",
       "generation_manifest": "Production/Dashboard/Emma_Kolka_Casting_2026-11-15.json",
       "producer_review_note": "Опубликовано по запросу пользователя 15.11.2026. Вариант для выбора; окончательный А не назначен."
+    },
+    {
+      "code": "mw001",
+      "object": "milky-way",
+      "caption": "A · исходный знак",
+      "source_file": "docs/World/signs/milky-way/images/mw001.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "dd78e99cc1f8c5bd9a62180b16c62ca198484f70c66f9a2029ae62f64a8dbd5c",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw001.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "selected_graphic_source",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw002",
+      "object": "milky-way",
+      "caption": "A · двери базы",
+      "source_file": "docs/World/signs/milky-way/images/mw002.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "53c120cfc0f077df34bef2caabb6d82b2102f7c07596bfe174b286c868a42386",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw002.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": "mw001",
+      "derivation_kind": "physical_application",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw003",
+      "object": "milky-way",
+      "caption": "A · бойлер",
+      "source_file": "docs/World/signs/milky-way/images/mw003.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "fc920e4784cb6ba47540bbf36d7d5bdabddcc4c837e18758e0820cb5d72128a1",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw003.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": "mw001",
+      "derivation_kind": "physical_application",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw004",
+      "object": "milky-way",
+      "caption": "A · наволочка, выцветшая печать",
+      "source_file": "docs/World/signs/milky-way/images/mw004.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "99b4413dfc59aabd1bce6424d0f252670084309a27314402e64c684bdd16e045",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw004.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": "mw001",
+      "derivation_kind": "physical_application",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw005",
+      "object": "milky-way",
+      "caption": "B · исходный знак",
+      "source_file": "docs/World/signs/milky-way/images/mw005.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "e4f5a859e974aa9d1e6dfc432bb7063e8d42b98d456edcfacfd5319744f1bfd2",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw005.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "selected_graphic_source",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw006",
+      "object": "milky-way",
+      "caption": "B · двери базы",
+      "source_file": "docs/World/signs/milky-way/images/mw006.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "34f96408257c6ab11d9762682e6d1017e2e97966fc7d157ea07f893531799e09",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw006.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": "mw005",
+      "derivation_kind": "physical_application",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw007",
+      "object": "milky-way",
+      "caption": "B · нашивка на старой форме",
+      "source_file": "docs/World/signs/milky-way/images/mw007.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "fbe9d5467001dd58c074040ddf8f35b099ff1143f460b239a77bba67c13bc097",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw007.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": "mw005",
+      "derivation_kind": "physical_application",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
+    },
+    {
+      "code": "mw008",
+      "object": "milky-way",
+      "caption": "B · знак перед дверью",
+      "source_file": "docs/World/signs/milky-way/images/mw008.png",
+      "source_commit": "9ada000d80b6fdd90681d35c7dd2440253c5b0c8",
+      "sha256": "4181bfcc55cee8c69b845999cadd471f369f73b00c509e6e819f0d7d0fbdd71f",
+      "aliases": [
+        "docs/World/signs/milky-way/images/mw008.png"
+      ],
+      "galleries": [
+        "World/signs/milky-way"
+      ],
+      "kind": "emblem",
+      "status": "candidate",
+      "derived_from": "mw005",
+      "derivation_kind": "physical_application",
+      "renditions": [],
+      "task_ids": [
+        "emblems",
+        "carriers"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     }
   ],
   "deleted_codes": [
