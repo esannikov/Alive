@@ -1076,6 +1076,27 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/signs/milky-way/",
+    "page": "signs/milky-way/",
+    "title": "Старая эмблема «Млечного пути»",
+    "variantCodes": [
+      "mw001",
+      "mw002",
+      "mw003",
+      "mw004",
+      "mw005",
+      "mw006",
+      "mw007",
+      "mw008"
+    ]
+  },
+  {
+    "term": "Alive/World/signs/milky-way/reference",
+    "page": "signs/milky-way/reference.html",
+    "title": "Старая эмблема «Млечного пути» · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",
@@ -1097,6 +1118,12 @@
     "term": "Alive/World/photorealism/",
     "page": "photorealism/",
     "title": "Фотореалистический стиль",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/additional-cast/",
+    "page": "characters/additional-cast/",
+    "title": "Дополнительные персонажи",
     "variantCodes": []
   }
 ]
