@@ -13,7 +13,7 @@ const base=process.env.WORLD_BASE_URL||'http://127.0.0.1:8771/World/';
  await page.locator('#next-image').click();assert((await page.locator('#identity-caption').innerText()).includes('emma-type-009'));
  await go('characters/emma/#emma012');await page.waitForURL('**/#emma028');assert((await page.locator('#identity-caption').innerText()).includes('emma-type-009'));
  await go('characters/emma/#emma036');assert(await page.locator('#copy-identity').isDisabled());assert((await page.locator('#identity-caption').innerText()).includes('сопоставления'));
- await go('characters/tais/#tais053');assert.equal(await page.locator('#viewer-rail .rail-item').count(),2);assert.equal(await page.locator('#identity-frame-rail .rail-item').count(),4);
+ await go('characters/tais/#tais053');assert((await page.locator('.derivative.active').innerText()).includes('5'));assert.equal(await page.locator('#viewer-rail .rail-item').count(),2);assert.equal(await page.locator('#identity-frame-rail .rail-item').count(),4);
  await page.locator('#viewer-rail [data-identity="tais-type-059"]').click();assert.equal(await page.locator('#hero-code').innerText(),'tais059');assert.equal(await page.locator('#identity-frame-rail .rail-item').count(),1);
  await go('characters/kolka/#kolka034');assert.equal(await page.locator('#identity-frame-rail .rail-item').count(),4);
  await go('characters/romik/#romik007');assert((await page.locator('#identity-caption').innerText()).includes('romik-type-002'));
