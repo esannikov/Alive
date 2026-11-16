@@ -212,7 +212,8 @@
       "romik003",
       "romik004",
       "romik005",
-      "romik006"
+      "romik006",
+      "romik007"
     ]
   },
   {
@@ -279,13 +280,6 @@
     "page": "characters/egor/",
     "title": "Егор",
     "variantCodes": [
-      "ilya003",
-      "egor001",
-      "egor002",
-      "egor003",
-      "egor004",
-      "egor005",
-      "egor006",
       "egor007"
     ]
   },
@@ -383,11 +377,7 @@
     "page": "characters/krendel/",
     "title": "Крендель",
     "variantCodes": [
-      "krendel001",
-      "krendel002",
-      "krendel003",
       "krendel004",
-      "krendel005",
       "krendel006"
     ]
   },
@@ -407,7 +397,8 @@
       "vovik003",
       "vovik004",
       "vovik005",
-      "vovik006"
+      "vovik006",
+      "romik007"
     ]
   },
   {
@@ -714,7 +705,18 @@
       "fedor024",
       "fedor025",
       "fedor026",
+      "ilya003",
       "sonya004",
+      "egor001",
+      "egor002",
+      "egor003",
+      "egor004",
+      "egor005",
+      "egor006",
+      "krendel001",
+      "krendel002",
+      "krendel003",
+      "krendel005",
       "fedor027",
       "fedor028",
       "fedor029",
@@ -1033,7 +1035,8 @@
       "gardener002",
       "gardener003",
       "gardener004",
-      "gardener005"
+      "gardener005",
+      "gardener006"
     ]
   },
   {
