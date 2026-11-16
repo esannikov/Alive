@@ -46,7 +46,10 @@
     "andrey": 7,
     "gardener": 7,
     "taisc": 9,
-    "mw": 9
+    "mw": 9,
+    "kaluzhsky": 7,
+    "liza": 7,
+    "zheka": 7
   },
   "assets": [
     {
@@ -13407,6 +13410,474 @@
       "series": "current",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Producer_Followups_2026-11-16.json"
+    },
+    {
+      "code": "kaluzhsky001",
+      "object": "kaluzhsky",
+      "caption": "Высокий лоб · живая асимметрия",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky001.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "7bb1ee3aa9e6656e046d0c0dbc3481021469905df762378ffeaef4501a79fa51",
+      "aliases": [
+        "docs/World/characters/kaluzhsky/images/kaluzhsky001.png"
+      ],
+      "galleries": [
+        "World/characters/kaluzhsky"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "kaluzhsky002",
+      "object": "kaluzhsky",
+      "caption": "Сухой овал · точный взгляд",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky002.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "7df963031f344333d23a43171a38d0e2757fa071caee99ff683bb5f11c6d7730",
+      "aliases": [
+        "docs/World/characters/kaluzhsky/images/kaluzhsky002.png"
+      ],
+      "galleries": [
+        "World/characters/kaluzhsky"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "kaluzhsky003",
+      "object": "kaluzhsky",
+      "caption": "Округлые скулы · мягкая уверенность",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky003.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "62601941c6f06bfd49207946057fdd4eb8019b013559c53629bd565c7a1281f2",
+      "aliases": [
+        "docs/World/characters/kaluzhsky/images/kaluzhsky003.png"
+      ],
+      "galleries": [
+        "World/characters/kaluzhsky"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "kaluzhsky004",
+      "object": "kaluzhsky",
+      "caption": "Квадратный типаж · сдержанная улыбка",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky004.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "0afdc6e4596429ba8ecfb59139735c1557655e47c273f9fee84652a687bb0f68",
+      "aliases": [
+        "docs/World/characters/kaluzhsky/images/kaluzhsky004.png"
+      ],
+      "galleries": [
+        "World/characters/kaluzhsky"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "kaluzhsky005",
+      "object": "kaluzhsky",
+      "caption": "Тонкие черты · волнистые волосы",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky005.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "1671ab4012494b85f33166b59d06ea452975044185081d0da6d79780fda034b5",
+      "aliases": [
+        "docs/World/characters/kaluzhsky/images/kaluzhsky005.png"
+      ],
+      "galleries": [
+        "World/characters/kaluzhsky"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "kaluzhsky006",
+      "object": "kaluzhsky",
+      "caption": "Низкие брови · спокойная настойчивость",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky006.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "325d2435441c5ba8789455f62746a76ce575cde9beac7a048f7a3426714ee725",
+      "aliases": [
+        "docs/World/characters/kaluzhsky/images/kaluzhsky006.png"
+      ],
+      "galleries": [
+        "World/characters/kaluzhsky"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "liza001",
+      "object": "liza",
+      "caption": "Сердцевидный типаж · тёмные волны",
+      "source_file": "docs/World/characters/liza/images/liza001.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "4f9d574ab1b2b67bacf969bddf075451183c0b7025638604bbfd638ef577b2fa",
+      "aliases": [
+        "docs/World/characters/liza/images/liza001.png"
+      ],
+      "galleries": [
+        "World/characters/liza"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "liza002",
+      "object": "liza",
+      "caption": "Удлинённый овал · светло-русая",
+      "source_file": "docs/World/characters/liza/images/liza002.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "e665ac09ba430a3aa67300696a210dd2ecae6ea9df3b64ec73f3df1d230f9bb0",
+      "aliases": [
+        "docs/World/characters/liza/images/liza002.png"
+      ],
+      "galleries": [
+        "World/characters/liza"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "liza003",
+      "object": "liza",
+      "caption": "Широкие скулы · каштановая",
+      "source_file": "docs/World/characters/liza/images/liza003.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "098a6a7049c1eac5896cd608432e3089fd5360e10b9ae734743cfa017ef2ee3b",
+      "aliases": [
+        "docs/World/characters/liza/images/liza003.png"
+      ],
+      "galleries": [
+        "World/characters/liza"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "liza004",
+      "object": "liza",
+      "caption": "Округлый типаж · открытый взгляд",
+      "source_file": "docs/World/characters/liza/images/liza004.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "a55979b091ad5cd80287cc722a3fb1b1bc9e5a3c9f9c5e73eb745c2e30b78012",
+      "aliases": [
+        "docs/World/characters/liza/images/liza004.png"
+      ],
+      "galleries": [
+        "World/characters/liza"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "liza005",
+      "object": "liza",
+      "caption": "Чёткая челюсть · короткое каре",
+      "source_file": "docs/World/characters/liza/images/liza005.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "9c2d175f01b93629b9415b2fe0c94985d447b4494c8769da63517a010aa25109",
+      "aliases": [
+        "docs/World/characters/liza/images/liza005.png"
+      ],
+      "galleries": [
+        "World/characters/liza"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "liza006",
+      "object": "liza",
+      "caption": "Тонкие черты · тёмно-русая",
+      "source_file": "docs/World/characters/liza/images/liza006.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "bea03f5eeb0e4d5541ca8b92a15795921a56744af2a73ea901e507e2ac35eea6",
+      "aliases": [
+        "docs/World/characters/liza/images/liza006.png"
+      ],
+      "galleries": [
+        "World/characters/liza"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "zheka001",
+      "object": "zheka",
+      "caption": "Узкий овал · острые скулы",
+      "source_file": "docs/World/characters/zheka/images/zheka001.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "05ce734b0fcf7b6f1a7e6d8478ff035a801db9528fec54ec50a7ad8e290a6583",
+      "aliases": [
+        "docs/World/characters/zheka/images/zheka001.png"
+      ],
+      "galleries": [
+        "World/characters/zheka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "zheka002",
+      "object": "zheka",
+      "caption": "Широкий лоб · короткие пряди",
+      "source_file": "docs/World/characters/zheka/images/zheka002.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "8d18388f610589af5790707ca276689f9087794679bea21fb328eab6b7476d41",
+      "aliases": [
+        "docs/World/characters/zheka/images/zheka002.png"
+      ],
+      "galleries": [
+        "World/characters/zheka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "zheka003",
+      "object": "zheka",
+      "caption": "Вытянутый типаж · светлые спутанные волосы",
+      "source_file": "docs/World/characters/zheka/images/zheka003.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "ab2bef8008d77903ebad6dcc4713334bab9488112f0b9e0439e42609cb2b237a",
+      "aliases": [
+        "docs/World/characters/zheka/images/zheka003.png"
+      ],
+      "galleries": [
+        "World/characters/zheka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "zheka004",
+      "object": "zheka",
+      "caption": "Угловатый типаж · тяжёлые брови",
+      "source_file": "docs/World/characters/zheka/images/zheka004.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "a4b1fba89e09c759b415b3da63b643b66c6c5551ec9f1445e31af23fe21c110e",
+      "aliases": [
+        "docs/World/characters/zheka/images/zheka004.png"
+      ],
+      "galleries": [
+        "World/characters/zheka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "zheka005",
+      "object": "zheka",
+      "caption": "Круглые скулы · провалившийся взгляд",
+      "source_file": "docs/World/characters/zheka/images/zheka005.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "e3d877f01cc2d3e8c4b49cb6cd2065d28cc09d6323322e4a808ee0bc886394db",
+      "aliases": [
+        "docs/World/characters/zheka/images/zheka005.png"
+      ],
+      "galleries": [
+        "World/characters/zheka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "zheka006",
+      "object": "zheka",
+      "caption": "Тонкое лицо · длинная чёлка",
+      "source_file": "docs/World/characters/zheka/images/zheka006.png",
+      "source_commit": "868d0873ba6ed210396baa76deb32c2701e8c8c7",
+      "sha256": "dbb7a3befd3e46feb0beb30cb6812e748eb6e7cd05267a77ea5aa673ea5c3d10",
+      "aliases": [
+        "docs/World/characters/zheka/images/zheka006.png"
+      ],
+      "galleries": [
+        "World/characters/zheka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "fresh_casting_from_novel_brief",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
     }
   ],
   "deleted_codes": [

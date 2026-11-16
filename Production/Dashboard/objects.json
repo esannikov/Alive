@@ -2418,6 +2418,132 @@
         "mw007": "B · нашивка на старой форме",
         "mw008": "B · знак перед дверью"
       }
+    },
+    {
+      "id": "kaluzhsky",
+      "title": "Профессор Калужский",
+      "group": "people",
+      "path": "characters/kaluzhsky",
+      "cover": "kaluzhsky001",
+      "default_series": "current",
+      "summary": "6 самостоятельных кастинговых проб",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        491,
+        492
+      ],
+      "evidence": "Роман",
+      "source_summary": "Невысокий кареглазый человек с умным, подвижным лицом. В записи выступает с мягкой уверенной улыбкой и защищает разработки Гильдии.",
+      "source_note": "Серия показывает состояние до болезни. Точный возраст, лицо, волосы, одежда и интерьер — кастинговые предложения.",
+      "reading_note": "Шесть разных типажей в сопоставимом свете и крупности. Обложка служит навигации; окончательный вариант не выбран.",
+      "gallery_order": [
+        "kaluzhsky001",
+        "kaluzhsky002",
+        "kaluzhsky003",
+        "kaluzhsky004",
+        "kaluzhsky005",
+        "kaluzhsky006"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "kaluzhsky001",
+          "kaluzhsky002",
+          "kaluzhsky003",
+          "kaluzhsky004",
+          "kaluzhsky005",
+          "kaluzhsky006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      }
+    },
+    {
+      "id": "liza",
+      "title": "Лиза Шереметьева",
+      "group": "people",
+      "path": "characters/liza",
+      "cover": "liza001",
+      "default_series": "current",
+      "summary": "6 самостоятельных кастинговых проб",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        326,
+        336,
+        337
+      ],
+      "evidence": "Роман",
+      "source_summary": "Жена Андрея Шереметьева и мать Федора. После последней охоты тяжело ранена; Андрей пытается вывезти её со станции. Подробная внешность в проверенных фрагментах не описана.",
+      "source_note": "Все точные черты, возраст, цвет волос и глаз, костюм — предложения. Для выбора лица показано более раннее здоровое состояние, без финального ранения.",
+      "reading_note": "Шесть разных типажей в сопоставимом свете и крупности. Обложка служит навигации; окончательный вариант не выбран.",
+      "gallery_order": [
+        "liza001",
+        "liza002",
+        "liza003",
+        "liza004",
+        "liza005",
+        "liza006"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "liza001",
+          "liza002",
+          "liza003",
+          "liza004",
+          "liza005",
+          "liza006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      }
+    },
+    {
+      "id": "zheka",
+      "title": "Жека",
+      "group": "people",
+      "path": "characters/zheka",
+      "cover": "zheka001",
+      "default_series": "current",
+      "summary": "6 самостоятельных кастинговых проб",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        99,
+        206,
+        207,
+        208
+      ],
+      "evidence": "Роман",
+      "source_summary": "Один из Диких, которым больше шестнадцати. При первой встрече: слипшиеся волосы, тонкие губы, широкий приплюснутый нос и слишком тёмные глаза без видимых белков. В сумраке Таис не уверена, видны ли ресницы.",
+      "source_note": "Около18лет — рабочее предположение. Серия показывает человеческий облик в начале болезни; форму лица, исходный цвет волос, костюм и освещение ещё выбираем.",
+      "reading_note": "Шесть разных типажей в сопоставимом свете и крупности. Обложка служит навигации; окончательный вариант не выбран.",
+      "gallery_order": [
+        "zheka001",
+        "zheka002",
+        "zheka003",
+        "zheka004",
+        "zheka005",
+        "zheka006"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "zheka001",
+          "zheka002",
+          "zheka003",
+          "zheka004",
+          "zheka005",
+          "zheka006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      }
     }
   ],
   "derivatives": [

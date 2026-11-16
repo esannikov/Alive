@@ -1128,6 +1128,63 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/characters/kaluzhsky/",
+    "page": "characters/kaluzhsky/",
+    "title": "Профессор Калужский",
+    "variantCodes": [
+      "kaluzhsky001",
+      "kaluzhsky002",
+      "kaluzhsky003",
+      "kaluzhsky004",
+      "kaluzhsky005",
+      "kaluzhsky006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/kaluzhsky/reference",
+    "page": "characters/kaluzhsky/reference.html",
+    "title": "Профессор Калужский · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/liza/",
+    "page": "characters/liza/",
+    "title": "Лиза Шереметьева",
+    "variantCodes": [
+      "liza001",
+      "liza002",
+      "liza003",
+      "liza004",
+      "liza005",
+      "liza006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/liza/reference",
+    "page": "characters/liza/reference.html",
+    "title": "Лиза Шереметьева · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/zheka/",
+    "page": "characters/zheka/",
+    "title": "Жека",
+    "variantCodes": [
+      "zheka001",
+      "zheka002",
+      "zheka003",
+      "zheka004",
+      "zheka005",
+      "zheka006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/zheka/reference",
+    "page": "characters/zheka/reference.html",
+    "title": "Жека · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",
