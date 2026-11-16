@@ -35,7 +35,7 @@
     "kir": 7,
     "push": 19,
     "frik": 10,
-    "romik": 7,
+    "romik": 8,
     "kristinka": 7,
     "dina": 7,
     "inna": 7,
@@ -44,7 +44,7 @@
     "senka": 8,
     "dimka": 13,
     "andrey": 7,
-    "gardener": 6,
+    "gardener": 7,
     "taisc": 9,
     "mw": 9
   },
@@ -5784,7 +5784,7 @@
     },
     {
       "code": "ilya003",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "Проба на Егора · C · мягкая геометрия",
       "sha256": "9cff8714d44ece174e9322b74edc7196a768422ec0cc7e1c5ea656ce920756b3",
       "source_commit": "47ee7739f9d8a404458adf812fbe83b90da59edf",
@@ -5793,7 +5793,7 @@
         "docs/World/characters/ilya/images/ilya003.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -5818,8 +5818,10 @@
         "title": "Илья"
       },
       "previous_objects": [
-        "ilya"
-      ]
+        "ilya",
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "ilya004",
@@ -6034,7 +6036,7 @@
     },
     {
       "code": "egor001",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "A · узкий овал",
       "sha256": "f79d0a3eda14d2f9ae261214594067ae3376eae716916353d340933c585f345d",
       "source_commit": "05c2102ac66e32e251c75570814996cde024f8d2",
@@ -6043,7 +6045,7 @@
         "docs/World/characters/egor/images/egor001.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6053,11 +6055,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "egor002",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "B · широкое лицо",
       "sha256": "deb01cd1c19ceae1354ca221f0bc3de16f6746d431c3418ce6ac916184ffbda3",
       "source_commit": "05c2102ac66e32e251c75570814996cde024f8d2",
@@ -6066,7 +6072,7 @@
         "docs/World/characters/egor/images/egor002.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6076,11 +6082,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "egor003",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "C · короткие кудри",
       "sha256": "037e9f2179cf0a5d6e49a07653e068daf50492bfe0c16481b98ffda4bc892a49",
       "source_commit": "05c2102ac66e32e251c75570814996cde024f8d2",
@@ -6089,7 +6099,7 @@
         "docs/World/characters/egor/images/egor003.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6099,11 +6109,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "egor004",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "D · выраженный нос",
       "sha256": "26f6481b738fc4819f60dc7303630063256b03770c885b944d7df53fe6f36739",
       "source_commit": "05c2102ac66e32e251c75570814996cde024f8d2",
@@ -6112,7 +6126,7 @@
         "docs/World/characters/egor/images/egor004.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6122,11 +6136,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "egor005",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "E · мягкие скулы",
       "sha256": "30c27ce21ecd316902ba14a57007ffec4aef4e18080fd77f5bbeb2550cacd734",
       "source_commit": "05c2102ac66e32e251c75570814996cde024f8d2",
@@ -6135,7 +6153,7 @@
         "docs/World/characters/egor/images/egor005.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6145,11 +6163,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "egor006",
-      "object": "egor",
+      "object": "base-girls",
       "caption": "F · округлый типаж",
       "sha256": "50a561757df0a476fbd426687e441ed671465ee1e3de0bdb840acf3b603b02a5",
       "source_commit": "05c2102ac66e32e251c75570814996cde024f8d2",
@@ -6158,7 +6180,7 @@
         "docs/World/characters/egor/images/egor006.png"
       ],
       "galleries": [
-        "World/characters/egor"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6168,7 +6190,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "egor"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681"
     },
     {
       "code": "zhanna001",
@@ -6448,7 +6474,7 @@
     },
     {
       "code": "krendel001",
-      "object": "krendel",
+      "object": "base-girls",
       "caption": "Узкий овал",
       "sha256": "204b80f77c326ca74ae39d73ab9fb73467f0ce2358901f8ec9cfa59e2903b3ef",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
@@ -6457,7 +6483,7 @@
         "docs/World/characters/krendel/images/krendel001.png"
       ],
       "galleries": [
-        "World/characters/krendel"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6467,11 +6493,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "krendel"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
     },
     {
       "code": "krendel002",
-      "object": "krendel",
+      "object": "base-girls",
       "caption": "Широкие скулы",
       "sha256": "c33025a4248065b3f4b3faae4189e7722ccea90c50b2b9b1eb8f4fe0fb026fdc",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
@@ -6480,7 +6510,7 @@
         "docs/World/characters/krendel/images/krendel002.png"
       ],
       "galleries": [
-        "World/characters/krendel"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6490,11 +6520,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "krendel"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
     },
     {
       "code": "krendel003",
-      "object": "krendel",
+      "object": "base-girls",
       "caption": "Короткие кудри",
       "sha256": "fe75a80ff18d103c14ee4b2ce6cb0bbd70d4b8d3fe9b621c7838bb802988e375",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
@@ -6503,7 +6537,7 @@
         "docs/World/characters/krendel/images/krendel003.png"
       ],
       "galleries": [
-        "World/characters/krendel"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6513,7 +6547,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "krendel"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
     },
     {
       "code": "krendel004",
@@ -6540,7 +6578,7 @@
     },
     {
       "code": "krendel005",
-      "object": "krendel",
+      "object": "base-girls",
       "caption": "Высокий лоб",
       "sha256": "789d4c30f6f8614ec920fc92c187b237ac5e8cb6f173596255951bffeecb5fe4",
       "source_commit": "185afbdee6b6d9aff0b255e7f532e550e54d31a5",
@@ -6549,7 +6587,7 @@
         "docs/World/characters/krendel/images/krendel005.png"
       ],
       "galleries": [
-        "World/characters/krendel"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6559,7 +6597,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "krendel"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены от 09.11.2026: https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672"
     },
     {
       "code": "krendel006",
@@ -13310,6 +13352,61 @@
       "series": "current",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Emma_Frontal_2026-11-15.json"
+    },
+    {
+      "code": "romik007",
+      "object": "romik",
+      "caption": "Ромик и Вовик · похожая пара",
+      "source_file": "docs/World/characters/romik/images/romik007.png",
+      "source_commit": "3edfe2a4504283e443a886846e78950042d0a30f",
+      "sha256": "fc34a0fbf4a1459fb0d2f8cb7e1acfb70aeb7b1d0ad21402dada3f6c2b3dc180",
+      "aliases": [
+        "docs/World/characters/romik/images/romik007.png"
+      ],
+      "galleries": [
+        "World/characters/romik",
+        "World/characters/vovik"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "romik002",
+      "derivation_kind": "producer_feedback_study",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Producer_Followups_2026-11-16.json",
+      "additional_objects": [
+        "vovik"
+      ]
+    },
+    {
+      "code": "gardener006",
+      "object": "gardener",
+      "caption": "Овальные глаза · проба лица",
+      "source_file": "docs/World/robots/gardener/images/gardener006.png",
+      "source_commit": "3edfe2a4504283e443a886846e78950042d0a30f",
+      "sha256": "968b8f1517b0aa95b48b7b63ee1cfa830e6b920cd0b7d44fe9279ea550c0eada",
+      "aliases": [
+        "docs/World/robots/gardener/images/gardener006.png"
+      ],
+      "galleries": [
+        "World/robots/gardener"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "gardener005",
+      "derivation_kind": "producer_feedback_study",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Producer_Followups_2026-11-16.json"
     }
   ],
   "deleted_codes": [

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
   "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
   "statusMeaning": {
@@ -1038,6 +1038,100 @@
         "../../Decisions/2026-11-15_Character_Chins.md"
       ],
       "designAcceptance": "candidates_pending_review"
+    },
+    {
+      "id": "egor-followup-20261116",
+      "request": "Оставить egor007, остальные в резерв",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19487681"
+      ],
+      "assetCodes": [
+        "egor007"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681",
+          "author": "ElenaAlive"
+        }
+      ],
+      "evidence": [
+        "objects.json",
+        "asset_codes.json",
+        "Producer_Followups_2026-11-16.json"
+      ],
+      "designAcceptance": "curation_recorded_new_studies_pending_review"
+    },
+    {
+      "id": "krendel-followup-20261116",
+      "request": "Оставить004/006, остальные в резерв",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19487672"
+      ],
+      "assetCodes": [
+        "krendel004",
+        "krendel006"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672",
+          "author": "ElenaAlive"
+        }
+      ],
+      "evidence": [
+        "objects.json",
+        "asset_codes.json",
+        "Producer_Followups_2026-11-16.json"
+      ],
+      "designAcceptance": "curation_recorded_new_studies_pending_review"
+    },
+    {
+      "id": "romik-followup-20261116",
+      "request": "Обложкаromik002 и проба похожей пары Ромик/Вовик",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19488675"
+      ],
+      "assetCodes": [
+        "romik002",
+        "romik007"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/174#discussioncomment-19488675",
+          "author": "ElenaAlive"
+        }
+      ],
+      "evidence": [
+        "objects.json",
+        "asset_codes.json",
+        "Producer_Followups_2026-11-16.json"
+      ],
+      "designAcceptance": "curation_recorded_new_studies_pending_review"
+    },
+    {
+      "id": "gardener-followup-20261116",
+      "request": "Отдельная проба лица Садовника; уточнение пользователя — дружелюбные овальные глаза вровень с поверхностью",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19588389"
+      ],
+      "assetCodes": [
+        "gardener006"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588389",
+          "author": "ElenaAlive"
+        }
+      ],
+      "evidence": [
+        "objects.json",
+        "asset_codes.json",
+        "Producer_Followups_2026-11-16.json"
+      ],
+      "designAcceptance": "curation_recorded_new_studies_pending_review"
     }
   ],
   "previouslyCompleted": [
