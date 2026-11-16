@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T18:09:03.022090+00:00",
+  "generatedAt": "2026-11-16T18:14:04.103157+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK_6A",
+      "page": "characters/zhanna/",
+      "title": "Жанна",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-16T18:13:45Z",
+      "excerpt": "Нравятся zhanna004 zhanna005 и zhanna006. zhanna001, zhanna002, zhanna003 пока в резерв - у нас Таис есть с азиатской внешностью, пока отложим их.",
+      "url": "https://github.com/esannikov/Alive/discussions/231#discussioncomment-19660416"
+    },
     {
       "id": "DC_kwDOVCLQyc4BK_4z",
       "page": "characters/ilya/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-15T12:04:01Z",
       "excerpt": "kolka028 - очень нравится, kolka026 тоже. kolka025 и kolka027 меньше.",
       "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19630758"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BK4nB",
-      "page": "characters/emma/",
-      "title": "Эмма",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-15T11:51:19Z",
-      "excerpt": "emma016 - из новых вариантов нравится больше всего. Но в ней слишком сильно считывается Taylor, нас за это накажут. В Emma 12 и 13, особенно в 13 считывается совсем немного, неуловимо. А в 016 сходство уже слишком очевидное, нужно от него уходить. Если посм…",
-      "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19630529"
     }
   ],
   "discussionNumbers": {
+    "characters/zhanna/": 231,
     "characters/ilya/": 94,
     "characters/katya/": 67,
     "characters/emma/": 57,
@@ -235,8 +236,11 @@
       "last": null
     },
     "characters/zhanna/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-16T18:13:45Z"
+      }
     },
     "characters/zhanna/reference.html": {
       "messageCount": 0,
