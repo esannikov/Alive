@@ -55,8 +55,29 @@ def build():
         if record.get('replaced_by'):
             asset['replacedBy'] = record['replaced_by']
     bycode = {a['code']: a for a in assets}
+    identity_source = json.loads((ROOT/'Production/Dashboard/identity_variants.json').read_text())
+    identity_variants = identity_source['variants']
+    for asset in assets:
+        membership = identity_source['assets'].get(asset['code'], {})
+        asset['identityVariantIds'] = membership.get('variants', {})
+        asset['identityReviewRequired'] = membership.get('review_required', {})
+        asset['identityRoles'] = membership.get('roles', {})
+    identity_export = {'schema_version': 1, 'selection_unit': 'identity_variant',
+                       'variants': [], 'assets': {}, 'notes': identity_source['notes']}
+    for variant in identity_variants:
+        active_codes = [code for code in variant['member_codes'] if not bycode[code]['archived']
+                        and (bycode[code]['object'] == variant['character'] or variant['character'] in bycode[code].get('additionalObjects', []))]
+        identity_export['variants'].append({**variant, 'active_asset_codes': active_codes,
+            'gallery': 'https://esannikov.github.io/Alive/World/'+object_path(objects[variant['character']])+'/',
+            'url': 'https://esannikov.github.io/Alive/World/'+object_path(objects[variant['character']])+'/#'+variant['id']})
+    for code, membership in identity_source['assets'].items():
+        identity_export['assets'][code] = {'identity_variant_ids': membership['variants'],
+            'review_required': membership['review_required'], 'roles': membership['roles'],
+            'archived': bycode[code]['archived'], 'page': bycode[code]['page'], 'original': bycode[code]['original']}
+    (OUT/'identity-variants.json').write_text(json.dumps(identity_export,ensure_ascii=False,indent=2)+'\n')
     data = {'objects':config['objects'],'collections':list(collections.values()),'assets':assets,'series':config['series'],
             'deletedCodes':registry.get('deleted_codes',[]),'groups':plan['groups'],'tasks':[{'id':t['id'],'title':t['title'],'group':t['group'],'output':t['output']} for t in plan['tasks']]}
+    data['identityVariants'] = identity_export['variants']
     comments_file = ROOT/'Production/Dashboard/comments.json'
     if comments_file.exists():
         comments = json.loads(comments_file.read_text())
@@ -154,7 +175,12 @@ def build():
         options=''.join(f'<option value="{s["id"]}">{s["title"]} · {sum(a["series"]==s["id"] for a in aa)}</option>' for s in series)+('<option value="all">Все варианты</option>' if o.get('kind')=='ship' else '<option value="all">Все серии</option>')
         is_ship=o.get('kind')=='ship'
         variant_note='<p id="variant-note" class="variant-note"></p>' if o.get('variant_notes') else ''
-        grid=''.join(f'''<figure class="asset-tile" id="{a['code']}" data-series="{a['series']}" data-code="{a['code']}"><a href="#{a['code']}" class="thumb-link" aria-label="{a['code']}: {esc(a['title'])}"><img src="@ROOT@{a['thumb']}" alt="{esc(a['title'])}" width="400" height="225" loading="lazy"></a><figcaption><a href="{a['original']}" class="asset-code mono">{a['code']}</a><span>{esc(a['title'])}</span></figcaption></figure>''' for a in aa)
+        def identity_badge(a):
+            vid=a.get('identityVariantIds',{}).get(o['id'])
+            if vid:return '<span class="identity-label mono">'+esc(vid)+'</span>'
+            if o['id'] in a.get('identityReviewRequired',{}):return '<span class="identity-label">Типаж требует сопоставления</span>'
+            return ''
+        grid=''.join(f'''<figure class="asset-tile" id="{a['code']}" data-series="{a['series']}" data-code="{a['code']}"><a href="#{a['code']}" class="thumb-link" aria-label="{a['code']}: {esc(a['title'])}"><img src="@ROOT@{a['thumb']}" alt="{esc(a['title'])}" width="400" height="225" loading="lazy"></a><figcaption><a href="{a['original']}" class="asset-code mono">{a['code']}</a><span>{esc(a['title'])}</span>{identity_badge(a)}</figcaption></figure>''' for a in aa)
         if is_ship:
             groups=[]
             for series_item in series:

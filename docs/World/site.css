@@ -59,3 +59,16 @@ body[data-object="moag"] .rail-item img{object-fit:contain}
 .object-card[data-kind="costume"] .card-image{aspect-ratio:2/3}
 .object-card[data-kind="costume"] .card-image img{aspect-ratio:2/3;object-fit:contain;background:#050607}
 .object-card[data-filter-kind="clothing"] .card-image img{object-fit:contain;background:#050607}
+
+/* Casting identity and its views are separate navigation levels. */
+.identity-select-label{display:flex;align-items:center;gap:10px}
+.identity-caption{margin:8px 0;color:var(--accent,#d4e68a);font-size:13px;overflow-wrap:anywhere}
+.identity-frames-label{margin:16px 0 8px;font-size:14px;color:var(--muted,#aaa)}
+.identity-label{font-size:12px;color:var(--muted,#aaa)}
+.select-label[hidden]{display:none}
+.identity-select-label select{max-width:min(100%,420px)}
+.identity-select-label{flex:0 1 370px;min-width:0}
+.identity-select-label>span{flex-shrink:0}
+.identity-select-label select{flex:1;min-width:0;width:100%}
+
+.identity-rail .rail-item{width:116px;flex-basis:116px}.identity-rail .rail-item img{width:108px;height:108px;object-fit:contain;background:#050607}
