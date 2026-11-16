@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T17:53:03.991269+00:00",
+  "generatedAt": "2026-11-16T18:09:03.022090+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK_4z",
+      "page": "characters/ilya/",
+      "title": "Илья",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-16T18:08:41Z",
+      "excerpt": "Илью выбрать не могу. Мне все нравятся. вот Типаж 001 например - ну класс же. В контесте дайверсити наверное правильно Типаж 004 брать. Но что-то меня в нем смущает",
+      "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19660339"
+    },
     {
       "id": "DC_kwDOVCLQyc4BK_0T",
       "page": "characters/katya/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-15T11:51:19Z",
       "excerpt": "emma016 - из новых вариантов нравится больше всего. Но в ней слишком сильно считывается Taylor, нас за это накажут. В Emma 12 и 13, особенно в 13 считывается совсем немного, неуловимо. А в 016 сходство уже слишком очевидное, нужно от него уходить. Если посм…",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19630529"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BK4kc",
-      "page": "characters/tais/",
-      "title": "Таис",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-15T11:37:38Z",
-      "excerpt": "нам нужно закрепить тогда, что tais053 - это гаш Вариант А. tais057, tais060 и tais061 - это она же, просто в разных эмоциях. tais059 - это наш вариант Б. Они все остаются, но нужно их как-то сгруппировать. и tais058 - в резерв",
-      "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19630364"
     }
   ],
   "discussionNumbers": {
+    "characters/ilya/": 94,
     "characters/katya/": 67,
     "characters/emma/": 57,
     "characters/kolka/": 59,
@@ -60,7 +61,6 @@
     "characters/egor/": 95,
     "characters/krendel/": 96,
     "characters/sonya/": 145,
-    "characters/ilya/": 94,
     "characters/masha/": 50,
     "characters/nitka/": 48,
     "robots/martin/": 61,
@@ -202,10 +202,10 @@
       "last": null
     },
     "characters/ilya/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-05T15:45:30Z"
+        "createdAt": "2026-11-16T18:08:41Z"
       }
     },
     "characters/ilya/reference.html": {
