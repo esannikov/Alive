@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T12:04:25.953658+00:00",
+  "generatedAt": "2026-11-16T11:05:53.364929+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BK4qm",
@@ -542,6 +542,30 @@
       "last": null
     },
     "signs/milky-way/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kaluzhsky/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kaluzhsky/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/liza/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/liza/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/zheka/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/zheka/reference.html": {
       "messageCount": 0,
       "last": null
     },
