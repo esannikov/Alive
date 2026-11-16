@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T18:14:04.103157+00:00",
+  "generatedAt": "2026-11-16T18:15:44.205068+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK_6a",
+      "page": "characters/rita/",
+      "title": "Рита",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-16T18:15:42Z",
+      "excerpt": "а можно rita003 попросить с длинными волосами сделать?",
+      "url": "https://github.com/esannikov/Alive/discussions/85#discussioncomment-19660442"
+    },
     {
       "id": "DC_kwDOVCLQyc4BK_6A",
       "page": "characters/zhanna/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-16T17:26:34Z",
       "excerpt": "emma038 - я конечно за нее очень",
       "url": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19659590"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BK4qm",
-      "page": "characters/kolka/",
-      "title": "Колька · Колючий",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-15T12:04:01Z",
-      "excerpt": "kolka028 - очень нравится, kolka026 тоже. kolka025 и kolka027 меньше.",
-      "url": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19630758"
     }
   ],
   "discussionNumbers": {
@@ -247,8 +247,11 @@
       "last": null
     },
     "characters/rita/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-16T18:15:42Z"
+      }
     },
     "characters/rita/reference.html": {
       "messageCount": 0,
