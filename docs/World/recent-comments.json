@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T17:27:03.794807+00:00",
+  "generatedAt": "2026-11-16T17:53:03.991269+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BK_0T",
+      "page": "characters/katya/",
+      "title": "Катя",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-16T17:52:40Z",
+      "excerpt": "Мне katya001 в целом нравится, но она с Вальком очень пересекается как-то по типажу сейчас. Утвержденным. Поэтому, я больше за Типаж 002 из них всех - katya002",
+      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19660051"
+    },
     {
       "id": "DC_kwDOVCLQyc4BK_tG",
       "page": "characters/emma/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-15T11:37:38Z",
       "excerpt": "нам нужно закрепить тогда, что tais053 - это гаш Вариант А. tais057, tais060 и tais061 - это она же, просто в разных эмоциях. tais059 - это наш вариант Б. Они все остаются, но нужно их как-то сгруппировать. и tais058 - в резерв",
       "url": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19630364"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BKu2-",
-      "page": "styles/alc-11/",
-      "title": "Органическая научная фантастика",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-13T12:48:55Z",
-      "excerpt": "красиво как",
-      "url": "https://github.com/esannikov/Alive/discussions/184#discussioncomment-19590590"
     }
   ],
   "discussionNumbers": {
+    "characters/katya/": 67,
     "characters/emma/": 57,
     "characters/kolka/": 59,
     "characters/tais/": 56,
@@ -60,7 +61,6 @@
     "characters/krendel/": 96,
     "characters/sonya/": 145,
     "characters/ilya/": 94,
-    "characters/katya/": 67,
     "characters/masha/": 50,
     "characters/nitka/": 48,
     "robots/martin/": 61,
@@ -191,10 +191,10 @@
       "last": null
     },
     "characters/katya/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-05T15:44:36Z"
+        "createdAt": "2026-11-16T17:52:40Z"
       }
     },
     "characters/katya/reference.html": {
