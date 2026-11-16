@@ -106,9 +106,40 @@
   assets.sort((a,b)=>orderOf(a)-orderOf(b));
   const isShip=objects[objectId].kind==='ship';
   const select = $('#series-select'); let active = assets[0], comparing = false;
+  const identityGroups=(data.identityVariants||[]).filter(v=>v.character===objectId);
+  const identityById=new Map(identityGroups.map(v=>[v.id,v]));
+  const usesIdentity=identityGroups.length>0;
+  const identityOf=a=>a?.identityVariantIds?.[objectId]||'__unresolved';
+  let identitySelect, identityCaption, identityCopy, renderedIdentityGroup;
+  if(usesIdentity){
+    select.value='all';select.closest('label').hidden=true;
+    const label=document.createElement('label');label.className='select-label identity-select-label';
+    const title=document.createElement('span');title.textContent='Типаж';
+    identitySelect=document.createElement('select');identitySelect.id='identity-select';identitySelect.setAttribute('aria-label','Типаж персонажа');
+    const addOption=(value,text)=>{const option=document.createElement('option');option.value=value;option.textContent=text;identitySelect.append(option);};
+    addOption('all','Все типажи');
+    const ordered=[...new Set(assets.map(identityOf))];
+    for(const id of ordered){const v=identityById.get(id);addOption(id,(v?.label||'Несопоставленные кадры')+' · '+assets.filter(a=>identityOf(a)===id).length+' кадров');}
+    label.append(title,identitySelect);select.closest('label').after(label);
+    identityCaption=document.createElement('p');identityCaption.id='identity-caption';identityCaption.className='identity-caption mono';
+    $('.viewer-caption').before(identityCaption);
+    identityCopy=document.createElement('button');identityCopy.id='copy-identity';identityCopy.textContent='Копировать ID типажа';
+    $('.viewer-actions').append(identityCopy);
+    identityCopy.addEventListener('click',()=>{const id=active.identityVariantIds?.[objectId];if(id)copy(id);});
+    const heading=document.createElement('p');heading.className='identity-frames-label';heading.textContent='Кадры этого типажа';
+    const rail=document.createElement('div');rail.id='identity-frame-rail';rail.className='variant-rail identity-rail';rail.setAttribute('aria-label','Кадры выбранного типажа');
+    $('#viewer-rail').after(heading,rail);$('#viewer-rail').setAttribute('aria-label','Выбор типажа');$('#viewer-rail').classList.add('identity-rail');
+  }
   const variantCount=n=>`${n} ${n%10===1&&n%100!==11?'вариант':[2,3,4].includes(n%10)&&![12,13,14].includes(n%100)?'варианта':'вариантов'}`;
-  const visibleAssets = () => assets.filter(a=>isShip?a.series===active.series:select.value==='all'||a.series===select.value);
+  const visibleAssets = () => assets.filter(a=>usesIdentity?(identitySelect.value==='all'||identityOf(a)===identitySelect.value):(isShip?a.series===active.series:select.value==='all'||a.series===select.value));
+  const frameAssets = () => usesIdentity?assets.filter(a=>identityOf(a)===identityOf(active)):visibleAssets();
   const showSeries = () => {
+    if(usesIdentity){
+      document.querySelectorAll('.asset-tile').forEach(el=>{el.hidden=identitySelect.value!=='all'&&identityOf(byCode[el.dataset.code])!==identitySelect.value;});
+      const visible=visibleAssets();const types=new Set(visible.map(a=>a.identityVariantIds?.[objectId]).filter(Boolean));
+      const pending=visible.filter(a=>!a.identityVariantIds?.[objectId]).length;
+      $('#gallery-count').textContent=`Типажей: ${types.size} · кадров: ${visible.length}`+(pending?` · без сопоставления: ${pending}`:'');return;
+    }
     if(isShip){$('#gallery-count').textContent=`${new Set(assets.map(a=>a.series)).size} вариантов`;return;}
     document.querySelectorAll('.asset-tile').forEach(el=>{el.hidden=select.value!=='all'&&el.dataset.series!==select.value;});
     const count=visibleAssets().length; $('#gallery-count').textContent=objects[objectId].kind==='ship'?`${count} кадров`:variantCount(count);
@@ -160,14 +191,23 @@
   const setActive = (code, push=false) => {
     const a=byCode[code]; if(!belongsTo(a,objectId)) return false;
     active=a;
+    if(usesIdentity&&identitySelect.value!=='all')identitySelect.value=identityOf(a);
     if(select&&select.value!=='all'&&select.value!==a.series) select.value=a.series;
     showSeries();
     const img=$('#hero-image');
-    loadPicture(img,a).then(ready=>{if(ready&&active.code===a.code){const next=assets.find(item=>item.series===a.series&&item.code!==a.code);prefetch(next);}});
+    loadPicture(img,a).then(ready=>{if(ready&&active.code===a.code){const next=frameAssets().find(item=>item.code!==a.code);prefetch(next);}});
     $('#hero-link').href=url(a.original); $('#original-link').href=url(a.original);
     if($('#variant-note'))$('#variant-note').textContent=objects[objectId].variant_notes?.[a.code]||objects[objectId].variant_notes?.[a.series]||'';
     if (data.comments?.enabled) { try { sessionStorage.setItem(commentsSelectionKey, a.code); } catch (_) {} }
     document.querySelectorAll('#viewer-rail [data-code]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.code===code)));
+    if(usesIdentity){
+      const id=a.identityVariantIds?.[objectId],v=identityById.get(id);
+      identityCaption.textContent=v?`${v.label} · ${id}`:'Типаж требует сопоставления';
+      identityCopy.disabled=!v;
+      document.querySelectorAll('#viewer-rail [data-identity]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.identity===identityOf(a))));
+      if(renderedIdentityGroup!==identityOf(a)){makeRail('#identity-frame-rail',item=>setActive(item.code,true),frameAssets());renderedIdentityGroup=identityOf(a);}
+      document.querySelectorAll('#identity-frame-rail [data-code]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.code===code)));
+    }
     $('#hero-code').textContent=a.code; $('#hero-title').textContent=a.title+(a.archived?' · убран из подборки':'');
     document.querySelectorAll('.asset-tile').forEach(el=>{
       const chosen=isShip?el.dataset.series===a.series:el.dataset.code===code;el.classList.toggle('selected',chosen);
@@ -176,17 +216,18 @@
     document.querySelectorAll('.ship-view-link').forEach(link=>{if(link.dataset.code===code)link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
     const pair=assets.filter(item=>item.series===a.series);
     document.querySelectorAll('[data-angle]').forEach(button=>{const item=pair[Number(button.dataset.angle)];button.hidden=!item;button.disabled=!item;if(item){button.textContent=item.title.split('·').pop().trim().replace(/^ракурс/i,'Ракурс');button.setAttribute('aria-pressed',String(item.code===code));}});
-    for(const id of ['previous-image','next-image','dialog-previous','dialog-next']){const button=$('#'+id);if(button)button.disabled=visibleAssets().length<2;}
-    if($('.dialog-navigation'))$('.dialog-navigation').hidden=visibleAssets().length<2;
+    for(const id of ['previous-image','next-image','dialog-previous','dialog-next']){const button=$('#'+id);if(button)button.disabled=frameAssets().length<2;}
+    if($('.dialog-navigation'))$('.dialog-navigation').hidden=frameAssets().length<2;
     if(push){const dest=new URL(location.href);dest.hash=code;history.pushState({code},'',dest);}
     if($('#image-dialog').open) refreshDialog();
     return true;
   };
-  const step = delta => {const list=visibleAssets();const i=list.findIndex(a=>a.code===active.code);setActive(list[i<0?(delta>0?0:list.length-1):(i+delta+list.length)%list.length].code,true);};
+  const step = delta => {const list=frameAssets();const i=list.findIndex(a=>a.code===active.code);setActive(list[i<0?(delta>0?0:list.length-1):(i+delta+list.length)%list.length].code,true);};
   function refreshDialog(){const img=$('#dialog-image');loadPicture(img,active);$('#dialog-caption').textContent=`${active.code} · ${active.title}`;}
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
     if(code==='comments'||code==='giscus-comments'){setActive(active?.code||objects[objectId].cover);return;}
+    if(usesIdentity&&identityById.has(code)){identitySelect.value=code;setActive(identityById.get(code).cover_asset);return;}
     const moved=byCode[code];
     const replacement=byCode[moved?.replacedBy];
     if(moved?.archived&&replacement&&!replacement.archived){location.replace(url(replacement.page+'#'+encodeURIComponent(replacement.code)));return;}
@@ -206,6 +247,7 @@
     link.addEventListener('pointerenter',()=>{clearTimeout(hoverTimer);hoverTimer=setTimeout(warm,100);});
     link.addEventListener('pointerleave',()=>clearTimeout(hoverTimer));link.addEventListener('focus',warm);link.addEventListener('pointerdown',warm);
   });
+  identitySelect?.addEventListener('change',()=>{showSeries();const first=visibleAssets()[0];if(first)setActive(first.code,true);});
   select?.addEventListener('change',()=>{showSeries();setActive(visibleAssets()[0].code,true);});
   document.querySelectorAll('[data-angle]').forEach(button=>button.addEventListener('click',()=>{const pair=assets.filter(a=>a.series===active.series);const a=pair[Number(button.dataset.angle)];if(a)setActive(a.code,true);}));
   $('#previous-image').addEventListener('click',()=>step(-1));$('#next-image').addEventListener('click',()=>step(1));
@@ -229,16 +271,18 @@
       button.dataset.chosen=left&&right?'both':left?'left':right?'right':'';
     });
   }
-  function makeRail(id, callback) {
-    const rail=$(id);
-    assets.forEach(a=>{
+  function makeRail(id, callback, items=assets, identityLabels=false) {
+    const rail=$(id);rail.replaceChildren();
+    items.forEach(a=>{
       const button=document.createElement('button');button.type='button';button.className='rail-item';button.dataset.code=a.code;button.setAttribute('aria-label',`Выбрать ${a.code}: ${a.title}`);button.setAttribute('aria-pressed','false');
+      if(identityLabels){button.dataset.identity=identityOf(a);button.setAttribute('aria-label','Выбрать '+(identityById.get(identityOf(a))?.label||'несопоставленные кадры'));}
       const img=document.createElement('img');img.src=url(a.thumb);img.alt='';img.loading='lazy';
-      const label=document.createElement('span');label.className='mono';label.textContent=a.code;
+      const label=document.createElement('span');label.className='mono';label.textContent=identityLabels?(identityById.get(identityOf(a))?.label||'Без сопоставления'):a.code;
       button.append(img,label);button.addEventListener('click',()=>callback(a));button.addEventListener('pointerenter',()=>prefetch(a));rail.append(button);
     });
   }
-  makeRail('#viewer-rail',a=>setActive(a.code,true));
+  const groupCovers=usesIdentity?[...new Set(assets.map(identityOf))].map(id=>byCode[identityById.get(id)?.cover_asset]||assets.find(a=>identityOf(a)===id)):assets;
+  makeRail('#viewer-rail',a=>{if(usesIdentity)identitySelect.value=identityOf(a);setActive(a.code,true);},groupCovers,usesIdentity);
   makeRail('#compare-rail',a=>{ $('#compare-'+compareSlot).value=a.code;updateCompare(compareSlot);compareSlot=compareSlot==='left'?'right':'left';updateCompareRail(); });
   document.querySelectorAll('[data-compare-slot]').forEach(button=>button.addEventListener('click',()=>{compareSlot=button.dataset.compareSlot;updateCompareRail();}));
   for(const side of ['left','right']){
