@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-16",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1536x1024",
+  "sources": {
+    "egor": "https://github.com/esannikov/Alive/discussions/95#discussioncomment-19487681",
+    "krendel": "https://github.com/esannikov/Alive/discussions/96#discussioncomment-19487672",
+    "romik": "https://github.com/esannikov/Alive/discussions/174#discussioncomment-19488675",
+    "gardener": "https://github.com/esannikov/Alive/discussions/182#discussioncomment-19588389"
+  },
+  "items": [
+    {
+      "code": "romik007",
+      "object": "romik",
+      "caption": "Ромик и Вовик · похожая пара",
+      "derived_from": "romik002",
+      "source_file": "docs/World/characters/romik/images/romik007.png",
+      "sha256": "fc34a0fbf4a1459fb0d2f8cb7e1acfb70aeb7b1d0ad21402dada3f6c2b3dc180",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "romik002",
+        "file": "docs/World/characters/romik/images/romik002.webp",
+        "commit": "2271a05229c2acb0d76d2c78890624ab23331028",
+        "sha256": "72e06f82caa13242d1b874beb2a48cecdb2c5ccae3b20bce4fd6df2998ce48db"
+      },
+      "prompt": "Use case: identity-preserve, fictional character pairing study. Input image1 is the selected ALIVE Romik002 face and age reference. Create one genuinely photographic horizontal two-person casting still of ROMIK and VOVIK, BOTH EIGHT YEARS OLD, sitting side by side at the same distance from the camera in a modest lived-in spacecraft communal room. Not a diptych or split frame. ROMIK on the LEFT has the recognizable face of the reference: short dark brown hair, gently protruding ears, dark eyes, small natural nose, soft compact oval face and thoughtful lively expression. Keep his identity and genuine eight-year-old proportions. VOVIK on the RIGHT is intentionally a VERY SIMILAR looking boy: same age, comparable height, similar eyes, ears, nose and face proportions, but short LIGHT ASH-BLOND hair instead of dark brown, with subtle individual asymmetry and a slightly more playful expression. They should read as a closely matched casting pair without claiming they are biological twins. Hair color is the most immediate distinction. Neither is an adolescent or a miniature adult.\n\nBoth have uneven homemade scissor haircuts, a few flyaway tufts, natural hair with no salon styling. Vovik gives a modest natural parted smile showing TWO MISSING UPPER FRONT INCISORS, a child tooth gap, not a grotesque mouth. Romik has a relaxed closed mouth. Same understated practical oversized worn cotton layers, repaired seams, muted grey/olive/brown; fully clothed age-appropriate station clothes. Do not make them glamour models or ragged caricatures. Keep natural healthy child skin with faint irregular freckles, subtle peach fuzz, soft varied texture, no makeup. Both chins continuous and naturally rounded: NO chin dimples, clefts, pits or vertical grooves; preserve normal under-lip fold.\n\nComposition: medium two-shot from upper waist upward, BOTH full heads and ALL hair with generous 8–10 percent top margin, both shoulders readable, faces almost frontal and easy to compare, no cut-off heads. Relaxed natural posture, hands resting low outside the main portrait area; no crossed or interlocked arms, no third person. Camera at their eye level, comfortable distance, 75–85mm-equivalent natural perspective. One coherent room with simple painted structural panels, repaired shelf, soft daylight from a real side window and small warm practicals. Background quiet and out of focus. Broad soft directionally shaped neutral daylight, gentle room bounce, no studio beauty lighting.\n\nBright, clear, naturally saturated photographic color: subtly warm realistic skin, believable rich dark hair versus light ash-blond, restrained cooler wall color and warm background accents. Open shadows while retaining depth, no orange skin, HDR, monochrome muddy grade, plastic skin, wax, uniform procedural pores, overly sharp texture or heavy grain. Preserve ordinary child anatomy and small natural eyes. No text, labels, watermark, border, cartoon, painterly filter or extra props. Landscape 3:2.\n",
+      "generation_mode": "edit",
+      "status": "candidate"
+    },
+    {
+      "code": "gardener006",
+      "object": "gardener",
+      "caption": "Овальные глаза · проба лица",
+      "derived_from": "gardener005",
+      "source_file": "docs/World/robots/gardener/images/gardener006.png",
+      "sha256": "968b8f1517b0aa95b48b7b63ee1cfa830e6b920cd0b7d44fe9279ea550c0eada",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "input": {
+        "role": "edit_target",
+        "code": "gardener005",
+        "file": "docs/World/robots/gardener/images/gardener005.webp",
+        "commit": "47350fadce98a6d860b8a3dab13a4bf741c46bc6",
+        "sha256": "bdc324d2cf67c7f70e683b0756156f25321cf222b978af4606bc093806479786"
+      },
+      "prompt": "Use case: precise-object-edit, identity-preserve. Image1 is the exact established ALIVE gardener005 robot. Make ONE controlled alternative with a discreet readable MACHINE FACE on its existing polished oval metal head. Preserve the SAME robot, the exact green open lattice body, central actuators, brass hardware, round wheel base, dimensions, four arms, tools, arm roots, plant interaction, greenhouse, camera viewpoint, composition and existing photographic light. Change only the front of the head enough to introduce a face.\n\nDesign the face as TWO FRIENDLY OVAL EYES, positioned FLUSH with the curved silver head surface. The oval eye covers are shallow curved translucent pale warm-ivory inlays that follow exactly the head shell curvature: the outer eye surface is at the SAME level as the surrounding metal, with only a hairline edge. Soft muted blue-grey smaller oval iris marks sit within the light ovals, a modest gentle catchlight; relaxed attentive slightly inward focus toward the plant. Quiet warm approachable expression, visually open eyes. NO dark hollow eye sockets, NO recessed lenses, NO black holes, NO tubular camera lenses, NO thick metal rings or projecting bezels, NO bulging eyeballs or eye stalks. The key design change is a smooth spherical/oval head with flush friendly oval inlaid eyes, not scary inset optical machinery. Keep a small discreet speaker grille below the eyes, gently horizontal, no teeth or exaggerated smile. No human skin, nose, eyebrows or lips; no chin indentation. Preserve most of the silver shell, the head silhouette, head angle and neck connection. The oval eyes should be readable at this full-robot distance, but not huge cartoon emojis. The light-colored eye material must remain clearly distinguishable from the surrounding reflective silver, physically integrated and softly lit rather than neon.\n\nExactly FOUR independent articulated arms, in the SAME positions as input: upper arm steadies a lemon-tree branch, second arm holds pruning shears, one lower arm holds the small soil spade and the other the short downward-pointing knife. No fifth arm, no merged tools, no limbs emerging from decorative lattice. Preserve visible hands and structural origins. No equipment added elsewhere, no new robot or people. Keep whole head and wheel base inside the frame and the full original landscape composition.\n\nPhotographic material realism: real polished metal reflections from the greenhouse windows, matte green paint, fine restrained patina, brass joints, visible practical mechanical structure. Keep the bright sunlit greenhouse, green leaves and yellow lemons, realistic soft light and gentle shadows. No global style change, no toy plastic, no illustration, no 3D cartoon gloss, no horror face, no captions or logo. This is an optional adaptation study, not a replacement of the original eyeless design.\n",
+      "generation_mode": "edit",
+      "status": "candidate"
+    }
+  ],
+  "curation": {
+    "egor_keep": [
+      "egor007"
+    ],
+    "krendel_keep": [
+      "krendel004",
+      "krendel006"
+    ],
+    "romik_cover": "romik002"
+  },
+  "adaptation_notes": [
+    "Romik and Vovik are both eight. Similar facial casting and different hair colors are a producer-requested adaptation study, not a statement that the boys are twins.",
+    "Gardener has an eyeless head in the novel. The face is a separate user-authorized alternative, with flush friendly oval eyes after correction. The five previous constructions remain.",
+    "The initial recessed-eye gardener trial was rejected by the user and is not published."
+  ],
+  "visual_review": "Individual output review; no approval of final character design inferred."
+}
