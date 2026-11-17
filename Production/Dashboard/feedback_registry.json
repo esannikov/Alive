@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "scope": "Согласованный пакет правок по отзывам Игоря и Лены; Главная Площадь исключена",
   "sourceSnapshot": "Producer_Feedback_2026-10-30.json",
   "statusMeaning": {
@@ -1064,7 +1064,7 @@
     },
     {
       "id": "krendel-followup-20261116",
-      "request": "Оставить004/006, остальные в резерв",
+      "request": "Оставить 004/006, остальные в резерв",
       "status": "implemented",
       "sourceCommentIds": [
         "19487672"
@@ -1132,6 +1132,83 @@
         "Producer_Followups_2026-11-16.json"
       ],
       "designAcceptance": "curation_recorded_new_studies_pending_review"
+    },
+    {
+      "id": "rita-producer-followup-20261117",
+      "request": "Длинные волосы для rita003 с сохранением типажа",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19660442"
+      ],
+      "assetCodes": [
+        "rita003",
+        "rita008"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/85#discussioncomment-19660442",
+          "author": "ElenaAlive"
+        }
+      ],
+      "evidence": [
+        "Rita_Zhanna_Masha_2026-11-17.json",
+        "objects.json",
+        "identity_variants.json"
+      ],
+      "designAcceptance": "candidates_pending_review"
+    },
+    {
+      "id": "zhanna-producer-followup-20261117",
+      "request": "Оставить 004–006, первые 3 в резерв",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "19660416"
+      ],
+      "assetCodes": [
+        "zhanna001",
+        "zhanna002",
+        "zhanna003",
+        "zhanna004",
+        "zhanna005",
+        "zhanna006"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/esannikov/Alive/discussions/231#discussioncomment-19660416",
+          "author": "ElenaAlive"
+        }
+      ],
+      "evidence": [
+        "Rita_Zhanna_Masha_2026-11-17.json",
+        "objects.json",
+        "identity_variants.json"
+      ],
+      "designAcceptance": "candidates_pending_review"
+    },
+    {
+      "id": "masha-producer-followup-20261117",
+      "request": "Новый самостоятельный типаж Маши, различимый с Ниткой",
+      "status": "implemented",
+      "sourceCommentIds": [
+        "1794824114634-50a5e5a3-989b-47e7-92ae-4bdd8c8c6620"
+      ],
+      "assetCodes": [
+        "masha007",
+        "masha008",
+        "masha009"
+      ],
+      "sources": [
+        {
+          "url": "https://gingers.media/alive/plan/#w=KPP-R031&m=MAT-R010",
+          "author": "isto3110-ship-it"
+        }
+      ],
+      "evidence": [
+        "Rita_Zhanna_Masha_2026-11-17.json",
+        "objects.json",
+        "identity_variants.json"
+      ],
+      "designAcceptance": "candidates_pending_review"
     }
   ],
   "previouslyCompleted": [

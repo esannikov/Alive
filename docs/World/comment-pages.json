@@ -172,7 +172,8 @@
     "title": "Маша",
     "variantCodes": [
       "masha007",
-      "masha008"
+      "masha008",
+      "masha009"
     ]
   },
   {
@@ -294,9 +295,6 @@
     "page": "characters/zhanna/",
     "title": "Жанна",
     "variantCodes": [
-      "zhanna001",
-      "zhanna002",
-      "zhanna003",
       "zhanna004",
       "zhanna005",
       "zhanna006",
@@ -321,7 +319,8 @@
       "rita005",
       "rita006",
       "rita007",
-      "senka007"
+      "senka007",
+      "rita008"
     ]
   },
   {
@@ -713,6 +712,9 @@
       "egor004",
       "egor005",
       "egor006",
+      "zhanna001",
+      "zhanna002",
+      "zhanna003",
       "krendel001",
       "krendel002",
       "krendel003",

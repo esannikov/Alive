@@ -20,13 +20,13 @@
     "martin": 22,
     "valek": 21,
     "nitka": 14,
-    "masha": 9,
+    "masha": 10,
     "katya": 8,
     "ilya": 7,
     "sonya": 7,
     "egor": 8,
     "zhanna": 7,
-    "rita": 8,
+    "rita": 9,
     "krendel": 7,
     "vovik": 7,
     "square": 6,
@@ -6201,7 +6201,7 @@
     },
     {
       "code": "zhanna001",
-      "object": "zhanna",
+      "object": "base-girls",
       "caption": "A · длинный овал",
       "sha256": "f61d82848f62df1067bda2571936489c148228b801b4d8c710c2bfd5cd4a666a",
       "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
@@ -6210,7 +6210,7 @@
         "docs/World/characters/zhanna/images/zhanna001.png"
       ],
       "galleries": [
-        "World/characters/zhanna"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6220,11 +6220,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "zhanna"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены16.11.2026: https://github.com/esannikov/Alive/discussions/231#discussioncomment-19660416"
     },
     {
       "code": "zhanna002",
-      "object": "zhanna",
+      "object": "base-girls",
       "caption": "B · округлые черты",
       "sha256": "54c75d3b1bc8260c223a7a95a197695c1501e62552cc091efeef56dfbfb53a67",
       "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
@@ -6233,7 +6237,7 @@
         "docs/World/characters/zhanna/images/zhanna002.png"
       ],
       "galleries": [
-        "World/characters/zhanna"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6243,11 +6247,15 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "zhanna"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены16.11.2026: https://github.com/esannikov/Alive/discussions/231#discussioncomment-19660416"
     },
     {
       "code": "zhanna003",
-      "object": "zhanna",
+      "object": "base-girls",
       "caption": "C · широкие скулы",
       "sha256": "9f0ab24c0447940995e1dfdd51b3d7acf4f43735769698f89ab1e680ec7be0d1",
       "source_commit": "2660564ea3369e22d43c2125aefe639215833c45",
@@ -6256,7 +6264,7 @@
         "docs/World/characters/zhanna/images/zhanna003.png"
       ],
       "galleries": [
-        "World/characters/zhanna"
+        "World/characters/base-girls"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -6266,7 +6274,11 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "zhanna"
+      ],
+      "producer_review_note": "В резерв по комментарию Лены16.11.2026: https://github.com/esannikov/Alive/discussions/231#discussioncomment-19660416"
     },
     {
       "code": "zhanna004",
@@ -13878,6 +13890,56 @@
       "series": "current",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Three_Character_Castings_2026-11-16.json"
+    },
+    {
+      "code": "rita008",
+      "object": "rita",
+      "caption": "Длинные кудри · от rita003",
+      "source_file": "docs/World/characters/rita/images/rita008.png",
+      "source_commit": "7ce9c429b59cc0ce5cea16fdba93d5933bc23b58",
+      "sha256": "86c2916b1add4a44e1847859e27118be282c71a19da0d23b5c656fb4ea18bc30",
+      "aliases": [
+        "docs/World/characters/rita/images/rita008.png"
+      ],
+      "galleries": [
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "rita003",
+      "derivation_kind": "hairstyle_variant",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Rita_Zhanna_Masha_2026-11-17.json"
+    },
+    {
+      "code": "masha009",
+      "object": "masha",
+      "caption": "Тёмная коса · спокойная сила",
+      "source_file": "docs/World/characters/masha/images/masha009.png",
+      "source_commit": "7ce9c429b59cc0ce5cea16fdba93d5933bc23b58",
+      "sha256": "13f994036618c5dd512360214abe0bce8733456574b1283dd6aec202489d067d",
+      "aliases": [
+        "docs/World/characters/masha/images/masha009.png"
+      ],
+      "galleries": [
+        "World/characters/masha"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": null,
+      "derivation_kind": "new_casting_identity",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Rita_Zhanna_Masha_2026-11-17.json"
     }
   ],
   "deleted_codes": [
