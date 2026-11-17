@@ -167,7 +167,8 @@ def build():
         order=o.get('gallery_order',[])
         aa.sort(key=lambda a: order.index(a['code']) if a['code'] in order else len(order))
         current=[a for a in aa if a['series']==o['default_series']];first=bycode[o['cover']]
-        tab_count=len({a['series'] for a in aa}) if o.get('kind')=='ship' else len(current)
+        tab_count=(len({a['series'] for a in aa}) if o.get('kind')=='ship'
+                   else len(aa) if o.get('kind')=='robot' else len(current))
         if any(v['character']==o['id'] for v in identity_variants):tab_count=len(aa)
         tabs=''.join(f'<a class="derivative" href="@ROOT@{esc(d["path"])}/">{esc(d["title"])}</a>' if d.get('path') else f'<button class="derivative {"active" if d["id"]=="appearance" else ""}"'+(' aria-current="page"' if d['id']=='appearance' else ' aria-disabled="true" data-pending title="Пока не подготовлено"')+f'>{d["title"]}{f" <span class=mono>{tab_count}</span>" if d["id"]=="appearance" else ""}</button>' for d in o.get('derivatives',config['derivatives']))
         if o['id'] == 'moag':
