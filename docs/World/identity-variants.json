@@ -348,12 +348,11 @@
         "zhanna001"
       ],
       "grouping_basis": [
-        "Independent casting candidate"
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
       ],
       "design_acceptance": "not_implied",
-      "active_asset_codes": [
-        "zhanna001"
-      ],
+      "active_asset_codes": [],
       "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
       "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-001"
     },
@@ -367,12 +366,11 @@
         "zhanna002"
       ],
       "grouping_basis": [
-        "Independent casting candidate"
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
       ],
       "design_acceptance": "not_implied",
-      "active_asset_codes": [
-        "zhanna002"
-      ],
+      "active_asset_codes": [],
       "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
       "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-002"
     },
@@ -386,12 +384,11 @@
         "zhanna003"
       ],
       "grouping_basis": [
-        "Independent casting candidate"
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
       ],
       "design_acceptance": "not_implied",
-      "active_asset_codes": [
-        "zhanna003"
-      ],
+      "active_asset_codes": [],
       "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
       "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-003"
     },
@@ -498,16 +495,19 @@
       "character": "rita",
       "label": "Типаж 003",
       "anchor_asset": "rita003",
-      "cover_asset": "rita003",
+      "cover_asset": "rita008",
       "member_codes": [
-        "rita003"
+        "rita003",
+        "rita008"
       ],
       "grouping_basis": [
-        "Independent casting candidate"
+        "Independent casting candidate",
+        "Explicit hair-length-only edit of rita003 requested by Lena."
       ],
       "design_acceptance": "not_implied",
       "active_asset_codes": [
-        "rita003"
+        "rita003",
+        "rita008"
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
       "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-003"
@@ -2813,6 +2813,25 @@
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
       "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-006"
+    },
+    {
+      "id": "masha-type-009",
+      "character": "masha",
+      "label": "Типаж 009 · тёмная коса",
+      "anchor_asset": "masha009",
+      "cover_asset": "masha009",
+      "member_codes": [
+        "masha009"
+      ],
+      "grouping_basis": [
+        "New independent casting candidate; not an identity-preserving edit of Nitka or Masha007."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "masha009"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/masha/",
+      "url": "https://esannikov.github.io/Alive/World/characters/masha/#masha-type-009"
     }
   ],
   "assets": {
@@ -3041,7 +3060,7 @@
         "zhanna": "portrait"
       },
       "archived": false,
-      "page": "characters/zhanna/",
+      "page": "characters/base-girls/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna001.png"
     },
     "zhanna002": {
@@ -3053,7 +3072,7 @@
         "zhanna": "portrait"
       },
       "archived": false,
-      "page": "characters/zhanna/",
+      "page": "characters/base-girls/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna002.png"
     },
     "zhanna003": {
@@ -3065,7 +3084,7 @@
         "zhanna": "portrait"
       },
       "archived": false,
-      "page": "characters/zhanna/",
+      "page": "characters/base-girls/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna003.png"
     },
     "zhanna004": {
@@ -5067,6 +5086,30 @@
       "archived": false,
       "page": "characters/base-girls/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/f846aaeb22f61a6facdacedb42ad5767d4ba894b/docs/World/characters/nitka/images/nitka004.png"
+    },
+    "rita008": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7ce9c429b59cc0ce5cea16fdba93d5933bc23b58/docs/World/characters/rita/images/rita008.png"
+    },
+    "masha009": {
+      "identity_variant_ids": {
+        "masha": "masha-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "masha": "portrait"
+      },
+      "archived": false,
+      "page": "characters/masha/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7ce9c429b59cc0ce5cea16fdba93d5933bc23b58/docs/World/characters/masha/images/masha009.png"
     }
   },
   "notes": [

@@ -15,7 +15,6 @@ def validate():
   char=v['character'];assert char in hum and re.fullmatch(re.escape(char)+r'-type-\d{3,}',vid)
   assert v['anchor_asset']in by and v['cover_asset']in v['member_codes']
   assert len(v['member_codes'])==len(set(v['member_codes']))
-  assert by[v['cover_asset']].get('visibility')!='archived'
   for code in v['member_codes']:assert source['assets'][code]['variants'][char]==vid
  for code,m in source['assets'].items():
   assert code in by and not(set(m['variants'])&set(m['review_required']))
@@ -35,6 +34,11 @@ def validate():
   for k,val in src.items():assert v[k]==val
   expected=[c for c in src['member_codes']if by[c].get('visibility')!='archived' and(v['character']==by[c]['object']or v['character']in by[c].get('additional_objects',[]))]
   assert v['active_asset_codes']==expected
+  cover=by[v['cover_asset']]
+  if expected:
+   assert v['cover_asset'] in expected, 'Identity cover must be a current frame of its character'
+  else:
+   assert cover.get('visibility')=='archived' or v['character'] in cover.get('previous_objects',[]), 'Inactive identity needs explicit archive/reserve provenance'
  # Regression cases: preserve independent casts, producer split, shared-scene identities.
  ids=lambda c:source['assets'][c]['variants']
  assert len({ids(c)['emma']for c in ['emma027','emma028','emma033','emma037','emma038']})==1

@@ -227,7 +227,13 @@
   function fromHash() {
     let code;try{code=decodeURIComponent(location.hash.slice(1)).toLowerCase();}catch(_){code='';}
     if(code==='comments'||code==='giscus-comments'){setActive(active?.code||objects[objectId].cover);return;}
-    if(usesIdentity&&identityById.has(code)){identitySelect.value=code;setActive(identityById.get(code).cover_asset);return;}
+    if(usesIdentity&&identityById.has(code)){
+      const variant=identityById.get(code),cover=byCode[variant.cover_asset];
+      if(Array.isArray(variant.active_asset_codes)&&!variant.active_asset_codes.length&&cover&&!belongsTo(cover,objectId)){
+        location.replace(url(cover.page+'#'+encodeURIComponent(cover.code)));return;
+      }
+      identitySelect.value=code;setActive(variant.cover_asset);return;
+    }
     const moved=byCode[code];
     const replacement=byCode[moved?.replacedBy];
     if(moved?.archived&&replacement&&!replacement.archived){location.replace(url(replacement.page+'#'+encodeURIComponent(replacement.code)));return;}
