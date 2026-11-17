@@ -16,7 +16,7 @@
     "emma": 39,
     "kolka": 38,
     "lon": 16,
-    "don": 31,
+    "don": 34,
     "martin": 22,
     "valek": 21,
     "nitka": 14,
@@ -3697,7 +3697,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-orbit",
       "visibility": "active"
     },
     {
@@ -3721,7 +3721,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-quiet",
       "visibility": "active"
     },
     {
@@ -3745,7 +3745,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-arch",
       "visibility": "active"
     },
     {
@@ -3769,7 +3769,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-karakuri",
       "visibility": "active"
     },
     {
@@ -3793,7 +3793,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-contour",
       "visibility": "active"
     },
     {
@@ -3911,7 +3911,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-wedge",
       "visibility": "active"
     },
     {
@@ -3962,7 +3962,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-tendon",
       "visibility": "active"
     },
     {
@@ -3986,7 +3986,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-zero",
       "visibility": "active"
     },
     {
@@ -4010,7 +4010,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-milan",
       "visibility": "active"
     },
     {
@@ -4034,7 +4034,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-lamella",
       "visibility": "active"
     },
     {
@@ -4058,7 +4058,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-mentor",
       "visibility": "active",
       "previous_objects": [
         "martin"
@@ -4085,7 +4085,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-curator",
       "visibility": "active",
       "previous_objects": [
         "martin"
@@ -4112,7 +4112,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-clinic",
       "visibility": "active",
       "previous_objects": [
         "martin"
@@ -4139,7 +4139,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-linea",
       "visibility": "active",
       "previous_objects": [
         "martin"
@@ -4166,7 +4166,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-frame",
       "visibility": "active",
       "previous_objects": [
         "martin"
@@ -4193,7 +4193,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-rosa",
       "visibility": "active",
       "previous_objects": [
         "martin"
@@ -5391,7 +5391,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-knight",
       "visibility": "active"
     },
     {
@@ -5415,7 +5415,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-beak",
       "visibility": "active"
     },
     {
@@ -5439,7 +5439,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-beak",
       "visibility": "active"
     },
     {
@@ -6796,7 +6796,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-visor",
       "visibility": "active",
       "derivation_kind": "lighting-study"
     },
@@ -6820,7 +6820,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-knight",
       "visibility": "active",
       "derivation_kind": "aiming-pose"
     },
@@ -6844,7 +6844,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-contour",
       "visibility": "active"
     },
     {
@@ -7609,7 +7609,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-hand-shell",
       "visibility": "active"
     },
     {
@@ -7632,7 +7632,7 @@
       "task_ids": [
         "don15"
       ],
-      "series": "current",
+      "series": "don15-forearm-module",
       "visibility": "active"
     },
     {
@@ -7732,7 +7732,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-display",
       "visibility": "active"
     },
     {
@@ -7910,7 +7910,7 @@
       "task_ids": [
         "robotfamilies"
       ],
-      "series": "current",
+      "series": "don12-warm-rubber",
       "visibility": "active"
     },
     {
@@ -8958,7 +8958,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-scarf",
       "visibility": "active"
     },
     {
@@ -9704,7 +9704,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-scarf",
       "visibility": "active",
       "derived_from": "lon013"
     },
@@ -9727,7 +9727,7 @@
       "task_ids": [
         "lon"
       ],
-      "series": "current",
+      "series": "lon-scarf",
       "visibility": "active",
       "derived_from": "lon013"
     },
@@ -13940,6 +13940,82 @@
       "series": "current",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Rita_Zhanna_Masha_2026-11-17.json"
+    },
+    {
+      "code": "don031",
+      "object": "don15",
+      "caption": "Рыцарь · уточнение конструкции",
+      "sha256": "597a9f507ec6cd262d7207ca570f9074147a1acdb9c2c7b7be144cb67af16c8a",
+      "source_commit": "f6f1a42180bd3f7e22b1b9e334fe661b9936fa80",
+      "source_file": "docs/World/robots/don15/images/don031.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don031.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don022",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "don15-knight",
+      "visibility": "active"
+    },
+    {
+      "code": "don032",
+      "object": "robot-reserve",
+      "caption": "Рыцарь · прожекторы и разведчик",
+      "sha256": "01bfe709437e0f8a9466ebd87a5c011e6889a5932031b740c3b8bd8704a533f7",
+      "source_commit": "1984ac678f22f0997c6723d7350d78987cafc55a",
+      "source_file": "docs/World/robots/don15/images/don032.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don032.png"
+      ],
+      "galleries": [
+        "World/robots/reserve"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don031",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "robot-reserve",
+      "visibility": "active",
+      "previous_objects": [
+        "don15"
+      ],
+      "replaced_by": "don033"
+    },
+    {
+      "code": "don033",
+      "object": "don15",
+      "caption": "Рыцарь · центральный прожектор и малый разведчик",
+      "sha256": "087ccc56c2b7c2baaa73e4f50dccb99b7581573dc95104afccf504ff7f356738",
+      "source_commit": "4a4e3b20d33eb5aa9b5de7baa93f0bb155302487",
+      "source_file": "docs/World/robots/don15/images/don033.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don033.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don032",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "don15-knight-scout",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
