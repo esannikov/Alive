@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-17",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "items": [
+    {
+      "code": "rita008",
+      "object": "rita",
+      "caption": "Длинные кудри · от rita003",
+      "source_file": "docs/World/characters/rita/images/rita008.png",
+      "sha256": "86c2916b1add4a44e1847859e27118be282c71a19da0d23b5c656fb4ea18bc30",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "prompt": "Use case: identity-preserve, single hairstyle edit. Input image1 is the exact fictional ALIVE Rita003 portrait. Change ONLY the length of her hair: give this SAME young woman LONG NATURALLY TIGHT-CURLY DARK HAIR, maintaining the existing small coil texture, hairline and natural density. The curls fall clearly past her shoulders toward mid-back, with visible longer lengths down the chest; avoid a huge rounded wig-like volume. Keep the upper head silhouette natural, with the full head and all new hair inside frame. Keep the face unobstructed and recognizable.\n\nPreserve her exact face proportions, dark eyes, nose, lips, brows, ears where visible, skin tone, age around18, expression, gaze, body proportions, pose, both hands, enamel mug, clothes, room and camera composition. Do not lighten her complexion, straighten her curls, change her identity or add makeup. Same brown worn overshirt, blue-grey tee, grey trousers, same hand-painted flowers/butterflies in the station living room, same warm practical lights and soft directional daylight. Keep the entire original landscape scene and original aspect ratio. If needed extend a little plain background above rather than crop the head. No new objects or people, text, labels, watermark or collage.\n\nMaintain genuinely photographic natural skin and fabric, realistic individually varied curls and believable gravity. Bright clear but natural photographic color, detailed highlights and softly shaped shadows; avoid plastic skin, beauty retouch, CGI, uniform pore noise, excessive sharpening and heavy grain. Chin remains naturally continuous, without dimple, cleft, pit or vertical groove; preserve the normal fold below the lower lip. Do not otherwise reshape the chin. This is another view of Rita003's identity, not a new casting face.\n",
+      "generation_mode": "edit",
+      "derived_from": "rita003",
+      "status": "candidate",
+      "image_inputs": [
+        {
+          "role": "edit_target",
+          "code": "rita003",
+          "source_file": "docs/World/characters/rita/images/rita003.png",
+          "sha256": "b59fddcc6640c9efcf4c8c7b03d04ca2356b864658cb1a2170ac98b434ed3bd2",
+          "source_commit": "954fc0e6aa0ef107c9f6d838cb81458f738e1c6e"
+        }
+      ]
+    },
+    {
+      "code": "masha009",
+      "object": "masha",
+      "caption": "Тёмная коса · спокойная сила",
+      "source_file": "docs/World/characters/masha/images/masha009.png",
+      "sha256": "13f994036618c5dd512360214abe0bce8733456574b1283dd6aec202489d067d",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a NEW original genuinely photographic casting candidate for MASHA from ALIVE. This is a clearly distinct independent face, not a repaint of the existing generic slim tousled-haired girl. She is just short of SEVENTEEN, still a teenager. Book anchors: medium tan complexion, very large DARK eyes, tall relative to Tais, broad shoulders, long strong arms and large hands; attractive, quiet, unhurried and surprisingly calm. Give her a practical grounded presence in a station household. Height here is a relative design impression, not a measured claim.\n\nDistinct casting direction: a broad balanced oval face with a slightly longer middle face, generous cheek planes, naturally wide but soft jaw corners and a short smooth rounded chin. Dark brown large natural eyes (not anime size), low straight dark eyebrows, a medium-width straight nose with a softly rounded tip, gently full lower lip and a restrained straight mouth with individual asymmetry. A composed direct attentive gaze, no coy head tilt, pout or fashion pose. Strong healthy adolescent physique, broad visible shoulders and substantial forearms, without adult bodybuilding, exaggerated muscles or sexualized body emphasis. Natural teenage softness and fine regional skin texture, no adult wrinkles, no glamour makeup. NO chin dimple, cleft, pit or vertical groove.\n\nDark almost-black hair, cleanly center-parted and gathered into ONE practical low braid going behind the shoulder, face and forehead mostly open, a few flyaways only. This silhouette should clearly differ from loose light-brown messy waves and soft romantic face framing. Hair and face remain ordinary and credible, not an elaborate salon hairstyle. Natural medium tan warm skin, no orange cast.\n\nComposition: vertical2:3 live-action photograph from above the complete head down to mid-thigh, comfortable10percent background above highest strand, both shoulders, full forearms and large hands visible. Frontal or very slight three-quarter upright posture, weight relaxed, hands resting naturally low on a plain kitchen work surface or holding a folded plain tea towel, anatomically coherent fingers. Fully clothed in a handmade practical dark-olive work overshirt with sleeves loosely rolled, soft cream cotton tee and loose straight dark trousers; understated repaired seams, no harness, fashion straps, shiny accessories or revealing clothes.\n\nBelievable modest spacecraft communal kitchen in the background: worn painted cupboards, simple metal worktop, a few stacked bowls softly out of focus. Not a glossy futuristic showroom. A real softly directional daylight key from the side, weak reflected fill and a small warm room practical;75–85mm-equivalent eye-level perspective, moderate f5.6 focus. Face and eyes in coherent focus, background subordinate. Luminous natural color and clear tonal separation, restrained saturation with skin remaining truthful. Fine irregular pores only where plausible, subtle freckles/local color, realistic eyelids, delicate lip lines, matte cheeks with modest nose sheen. No wax, porcelain smoothing, procedural pore cracks, oversharpening, heavy grain, CGI or painted look. Single person, no children or other figures, no text, watermarks, labels or collage. Convey a quiet capable older adolescent who looks after younger children; no actress imitation.\n",
+      "generation_mode": "generate",
+      "derived_from": null,
+      "status": "candidate",
+      "image_inputs": []
+    }
+  ],
+  "sources": {
+    "rita": "https://github.com/esannikov/Alive/discussions/85#discussioncomment-19660442",
+    "zhanna": "https://github.com/esannikov/Alive/discussions/231#discussioncomment-19660416",
+    "masha": "https://gingers.media/alive/plan/#w=KPP-R031&m=MAT-R010"
+  },
+  "source_notes": {
+    "rita": "Longer hair only; preserve rita003 identity.",
+    "masha": "New independent casting identity after Igor asked to distinguish her from Nitka. Book anchors: almost17, tan, tall, broad shoulders, strong long arms, large hands, calm; exact face/hair/clothing are proposals."
+  },
+  "curation": {
+    "zhanna_keep": [
+      "zhanna004",
+      "zhanna005",
+      "zhanna006"
+    ],
+    "zhanna_reserve": [
+      "zhanna001",
+      "zhanna002",
+      "zhanna003"
+    ],
+    "shared_ira007_retained": true
+  },
+  "acceptance": "new images are candidates; no producer decision is impersonated"
+}
