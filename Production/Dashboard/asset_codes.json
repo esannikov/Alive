@@ -8756,7 +8756,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-short-muzzle",
       "visibility": "active"
     },
     {
@@ -8778,7 +8778,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-narrow-cheekbones",
       "visibility": "active"
     },
     {
@@ -8800,7 +8800,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-long-forelegs",
       "visibility": "active"
     },
     {
@@ -8822,7 +8822,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-coarse-guard-hair",
       "visibility": "active"
     },
     {
@@ -8844,7 +8844,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-round-ears",
       "visibility": "active"
     },
     {
@@ -8866,7 +8866,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-pointed-ears",
       "visibility": "active"
     },
     {
@@ -8914,7 +8914,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-feeding-scene",
       "visibility": "active"
     },
     {
@@ -9520,7 +9520,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-short-muzzle",
       "visibility": "active",
       "derived_from": "push001"
     },
@@ -9543,7 +9543,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-narrow-cheekbones",
       "visibility": "active",
       "derived_from": "push002"
     },
@@ -9566,7 +9566,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-long-forelegs",
       "visibility": "active",
       "derived_from": "push003"
     },
@@ -9589,7 +9589,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-coarse-guard-hair",
       "visibility": "active",
       "derived_from": "push004"
     },
@@ -9612,7 +9612,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-round-ears",
       "visibility": "active",
       "derived_from": "push005"
     },
@@ -9635,7 +9635,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-pointed-ears",
       "visibility": "active",
       "derived_from": "push006"
     },
@@ -9658,7 +9658,7 @@
       "task_ids": [
         "character-concepts"
       ],
-      "series": "current",
+      "series": "push-feeding-scene",
       "visibility": "active",
       "derived_from": "push009"
     },
@@ -12433,7 +12433,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-a",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12459,7 +12459,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-a",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12485,7 +12485,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-a",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12511,7 +12511,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-a",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12537,7 +12537,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-b",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12563,7 +12563,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-b",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12589,7 +12589,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-b",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
@@ -12615,7 +12615,7 @@
         "emblems",
         "carriers"
       ],
-      "series": "current",
+      "series": "milky-way-b",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Milky_Way_Emblems_2026-11-15.json"
     },
