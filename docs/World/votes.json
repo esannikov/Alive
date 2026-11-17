@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T23:49:35.080529+00:00",
+  "generatedAt": "2026-11-17T14:29:53.023979+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -1030,6 +1030,45 @@
       "automaticRemoval": false
     },
     "don030": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "don031": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "don032": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "don033": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -4520,6 +4559,19 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
+    "masha009": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
     "moag001": {
       "votes": [
         {
@@ -5610,6 +5662,19 @@
       "automaticRemoval": false
     },
     "rita007": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "rita008": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -7505,5 +7570,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-16T21"
+  "refreshSlot": "2026-11-17T09"
 }
