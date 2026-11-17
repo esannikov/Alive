@@ -2696,6 +2696,23 @@
   ],
   "studies": [
     {
+      "id": "character-final-package",
+      "title": "Финальный пакет персонажа",
+      "path": "characters/final-package",
+      "group": "people",
+      "task_ids": [
+        "character-concepts",
+        "costume",
+        "acting",
+        "states"
+      ],
+      "summary": "Предложение состава · на согласование",
+      "image": "characters/final-package/cover.svg",
+      "body_file": "Production/Dashboard/character_package_body.html",
+      "label": "Для продюсеров",
+      "button_label": "Прочитать предложение"
+    },
+    {
       "id": "robot-scale",
       "title": "Персонажи и роботы: масштаб",
       "path": "robots/scale",
