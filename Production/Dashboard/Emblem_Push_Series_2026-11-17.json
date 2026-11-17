@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-17",
+  "purpose": "Группировка существующих материалов по просьбе продюсеров; без новых изображений, поданий и голосов.",
+  "series": {
+    "milky-way": [
+      {
+        "id": "milky-way-a",
+        "title": "Вариант A",
+        "codes": [
+          "mw001",
+          "mw002",
+          "mw003",
+          "mw004"
+        ]
+      },
+      {
+        "id": "milky-way-b",
+        "title": "Вариант B",
+        "codes": [
+          "mw005",
+          "mw006",
+          "mw007",
+          "mw008"
+        ]
+      }
+    ],
+    "push": [
+      {
+        "id": "push-short-muzzle",
+        "title": "Короткая мордочка",
+        "codes": [
+          "push001",
+          "push012"
+        ]
+      },
+      {
+        "id": "push-narrow-cheekbones",
+        "title": "Узкие скулы",
+        "codes": [
+          "push002",
+          "push013"
+        ]
+      },
+      {
+        "id": "push-long-forelegs",
+        "title": "Длинные передние лапы",
+        "codes": [
+          "push003",
+          "push014"
+        ]
+      },
+      {
+        "id": "push-coarse-guard-hair",
+        "title": "Жёсткий остевой волос",
+        "codes": [
+          "push004",
+          "push015"
+        ]
+      },
+      {
+        "id": "push-round-ears",
+        "title": "Круглые ушки",
+        "codes": [
+          "push005",
+          "push016"
+        ]
+      },
+      {
+        "id": "push-pointed-ears",
+        "title": "Острые уши",
+        "codes": [
+          "push006",
+          "push017"
+        ]
+      },
+      {
+        "id": "push-feeding-scene",
+        "title": "Таис кормит Пушистика",
+        "codes": [
+          "push009",
+          "push018"
+        ]
+      }
+    ]
+  },
+  "unchanged": [
+    "asset codes",
+    "source files and hashes",
+    "covers",
+    "existing submissions and producer decisions"
+  ],
+  "notes": [
+    "Пары push001/012 — push006/017 представляют чистую и запылённую шерсть одного типажа.",
+    "push009/018 — отдельная серия сцены кормления.",
+    "push007 относится к Фрикам и в это изменение не входит."
+  ]
+}
