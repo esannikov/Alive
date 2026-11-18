@@ -418,6 +418,20 @@
       "lon010",
       "lon011",
       "lon012",
+      "lon017"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/lon/reference",
+    "page": "robots/lon/reference.html",
+    "title": "Лон · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/robots/lon-emma/",
+    "page": "robots/lon-emma/",
+    "title": "Лон Эммы",
+    "variantCodes": [
       "lon013",
       "lon014",
       "lon015",
@@ -425,9 +439,9 @@
     ]
   },
   {
-    "term": "Alive/World/robots/lon/reference",
-    "page": "robots/lon/reference.html",
-    "title": "Лон · справка",
+    "term": "Alive/World/robots/lon-emma/reference",
+    "page": "robots/lon-emma/reference.html",
+    "title": "Лон Эммы · справка",
     "variantCodes": []
   },
   {
