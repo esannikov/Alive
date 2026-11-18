@@ -29,7 +29,7 @@
     "rita": 9,
     "krendel": 7,
     "vovik": 7,
-    "square": 6,
+    "square": 16,
     "donteacher": 2,
     "alc": 37,
     "kir": 7,
@@ -14016,6 +14016,256 @@
       ],
       "series": "don15-knight-scout",
       "visibility": "active"
+    },
+    {
+      "code": "square006",
+      "object": "main-square",
+      "caption": "Главная площадь с моста · день",
+      "sha256": "0eae91f78eda95469a6f65ac7b98bba1ef82a087f7169bbbad91d9cbf6b075b6",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square006.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square006.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square007",
+      "object": "main-square",
+      "caption": "Главная площадь с моста · ночь",
+      "sha256": "8031ff18b32a731b033bd1c0dc7e3f2d19811f672f67a73c547c6ad1da63613d",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square007.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square007.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "square006",
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square008",
+      "object": "main-square",
+      "caption": "Тропа под цитрусами · день",
+      "sha256": "c598d87081f4a18f059a3e0b69ac78b3ebc5977a2f9cfca8a38fea1e2ab634fc",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square008.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square008.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square009",
+      "object": "main-square",
+      "caption": "Тропа под цитрусами · ночь",
+      "sha256": "3bd7edc81e0825df8aece8c71a4ab6b4e527bf8acf4811bff01716f968ef3eb1",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square009.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square009.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "square008",
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square010",
+      "object": "main-square",
+      "caption": "Водяная завеса с берега · день",
+      "sha256": "7acfcf42f6b6ab44c0e095f45d345ac6e9c867cb5d9cf292ee8b8ff92aa7457f",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square010.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square010.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square011",
+      "object": "main-square",
+      "caption": "Водяная завеса с берега · ночь",
+      "sha256": "6814664eb8d583234e37b5d353026ce488b28c23287b1636b60236c7103eadb3",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square011.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square011.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "square010",
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square012",
+      "object": "main-square",
+      "caption": "Галерея к мосту · день",
+      "sha256": "e829bd2a588b99bd781cf79433446dba571060d404accfe723ca5844808b4b39",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square012.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square012.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square013",
+      "object": "main-square",
+      "caption": "Галерея к мосту · ночь",
+      "sha256": "aac9610dbd67ca4120600d87f25f253547905983e3b5136fb2d7bbe7cd516c73",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square013.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square013.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "square012",
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square014",
+      "object": "main-square",
+      "caption": "Игровая площадка и тоннели · день",
+      "sha256": "b1b08262fffed116da4cd47bb105fea496494e0bee0837b5aa294eecb83f93db",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square014.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square014.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "square015",
+      "object": "main-square",
+      "caption": "Игровая площадка и тоннели · ночь",
+      "sha256": "89c7c7f20380fbbe28ec911ae609c76ced775631f5d0c0c25cfd34dc1b6f2115",
+      "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+      "source_file": "docs/World/locations/main-square/images/square015.png",
+      "aliases": [
+        "docs/World/locations/main-square/images/square015.png"
+      ],
+      "galleries": [
+        "World/locations/main-square"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "square014",
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "series": "main-square-citrus-valley",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
     }
   ],
   "deleted_codes": [
