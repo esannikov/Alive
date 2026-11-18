@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "source_commit": "3a152e7bc7d33d0e37b6c4829d40809cf2505cc4",
+  "model": "gpt-image-2.5-sunburst",
+  "source_pages": [
+    355,
+    380
+  ],
+  "tracker": {
+    "work": "KPP-R052",
+    "material": "MAT-R196"
+  },
+  "items": [
+    {
+      "code": "frik013",
+      "source_image": "frikA-shoulder-study.png",
+      "caption": "Звериная настороженность · голова и плечи",
+      "derived_from": "frik011",
+      "source_file": "docs/World/creatures/friki/images/frik013.png",
+      "sha256": "7f74b6df0de4814cb912cd7b6decb68c9fbaf967d2e89415bde4129361e51610"
+    },
+    {
+      "code": "frik014",
+      "source_image": "frikB-upper-body.png",
+      "caption": "Хищная челюсть · силуэт взрослой особи",
+      "derived_from": "frik012",
+      "source_file": "docs/World/creatures/friki/images/frik014.png",
+      "sha256": "15a55a183d6140a866e1f424cc330cd1c1f2b290caf1c0583377d1f7fb17db23"
+    }
+  ]
+}
