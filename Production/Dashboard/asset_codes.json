@@ -34,7 +34,7 @@
     "alc": 37,
     "kir": 7,
     "push": 19,
-    "frik": 13,
+    "frik": 15,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -14438,6 +14438,54 @@
         "everyday"
       ],
       "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "frik013",
+      "caption": "Звериная настороженность · голова и плечи",
+      "derived_from": "frik011",
+      "source_file": "docs/World/creatures/friki/images/frik013.png",
+      "sha256": "7f74b6df0de4814cb912cd7b6decb68c9fbaf967d2e89415bde4129361e51610",
+      "object": "friki",
+      "source_commit": "3a152e7bc7d33d0e37b6c4829d40809cf2505cc4",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik013.png"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-stair-study",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Frik_Anatomy_2026-11-18.json"
+    },
+    {
+      "code": "frik014",
+      "caption": "Хищная челюсть · силуэт взрослой особи",
+      "derived_from": "frik012",
+      "source_file": "docs/World/creatures/friki/images/frik014.png",
+      "sha256": "15a55a183d6140a866e1f424cc330cd1c1f2b290caf1c0583377d1f7fb17db23",
+      "object": "friki",
+      "source_commit": "3a152e7bc7d33d0e37b6c4829d40809cf2505cc4",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik014.png"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-stair-study",
+      "visibility": "active",
+      "generation_manifest": "Production/Dashboard/Frik_Anatomy_2026-11-18.json"
     }
   ],
   "deleted_codes": [
