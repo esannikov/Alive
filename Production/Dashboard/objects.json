@@ -3377,7 +3377,7 @@
         "scene-kit"
       ],
       "summary": "Раскадровка в девяти кадрах",
-      "image": "scenes/tais-emma-vending/previews/01.webp",
+      "image": "scenes/tais-emma-vending/previews/01.webp?v=3afe61191ddb",
       "body_file": "Production/Dashboard/vending_scene_body.html",
       "label": "Сцена",
       "button_label": "Открыть раскадровку"
