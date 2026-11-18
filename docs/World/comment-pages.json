@@ -1236,6 +1236,74 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/locations/orange-highway/",
+    "page": "locations/orange-highway/",
+    "title": "Оранжевая магистраль",
+    "variantCodes": [
+      "orange001",
+      "orange002",
+      "orange003",
+      "orange004",
+      "orange005",
+      "orange006"
+    ]
+  },
+  {
+    "term": "Alive/World/locations/orange-highway/reference",
+    "page": "locations/orange-highway/reference.html",
+    "title": "Оранжевая магистраль · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/locations/vending-plaza/",
+    "page": "locations/vending-plaza/",
+    "title": "Площадка товарного автомата",
+    "variantCodes": [
+      "vendplaza001",
+      "vendplaza002",
+      "vendplaza003",
+      "vendplaza004"
+    ]
+  },
+  {
+    "term": "Alive/World/locations/vending-plaza/reference",
+    "page": "locations/vending-plaza/reference.html",
+    "title": "Площадка товарного автомата · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/props/vending-machine/",
+    "page": "props/vending-machine/",
+    "title": "Товарный автомат",
+    "variantCodes": [
+      "vend001",
+      "vend002",
+      "vend003",
+      "vend004"
+    ]
+  },
+  {
+    "term": "Alive/World/props/vending-machine/reference",
+    "page": "props/vending-machine/reference.html",
+    "title": "Товарный автомат · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/props/chocolate-bars/",
+    "page": "props/chocolate-bars/",
+    "title": "Шоколадные батончики",
+    "variantCodes": [
+      "bar002",
+      "bar004"
+    ]
+  },
+  {
+    "term": "Alive/World/props/chocolate-bars/reference",
+    "page": "props/chocolate-bars/reference.html",
+    "title": "Шоколадные батончики · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",

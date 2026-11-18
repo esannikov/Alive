@@ -60,7 +60,7 @@ body[data-object="moag"] .rail-item img{object-fit:contain}
 .object-card[data-kind="costume"] .card-image img{aspect-ratio:2/3;object-fit:contain;background:#050607}
 .object-card[data-filter-kind="clothing"] .card-image img{object-fit:contain;background:#050607}
 /* Keep the full character or robot visible inside the shared card frame. */
-.object-card:is([data-filter-kind="people"],[data-filter-kind="robots"]) .card-image img{object-fit:contain}
+.object-card:is([data-filter-kind="people"],[data-filter-kind="robots"],[data-filter-kind="props"]) .card-image img{object-fit:contain}
 
 /* Casting identity and its views are separate navigation levels. */
 .identity-select-label{display:flex;align-items:center;gap:10px}

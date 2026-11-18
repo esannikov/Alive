@@ -1675,6 +1675,11 @@
           "id": "plaza",
           "title": "Главная Площадь",
           "path": "locations/main-square"
+        },
+        {
+          "id": "orange-highway",
+          "title": "Оранжевая магистраль",
+          "path": "locations/orange-highway"
         }
       ],
       "variant_notes": {
@@ -2691,6 +2696,229 @@
         ],
         "status": "casting_candidates_pending_choice"
       }
+    },
+    {
+      "id": "orange-highway",
+      "title": "Оранжевая магистраль",
+      "group": "locations",
+      "kind": "location",
+      "path": "locations/orange-highway",
+      "subtitle": "Второй уровень · транспортное кольцо",
+      "summary": "Шесть пространственных концепций",
+      "cover": "orange001",
+      "default_series": "orange-highway-01",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "source_pages": [
+        38,
+        39,
+        56,
+        60,
+        93,
+        268
+      ],
+      "source_doc": "Bible/Environments/Second_Level.md",
+      "source_label": "Второй уровень в романе",
+      "evidence": "Оранжевая магистраль",
+      "source_summary": "Мягкое оранжевое резиновое полотно служит дорогой для магнитных досок. К магистрали выходят витрины, поперечные туннели и проходы к классам.",
+      "source_note": "Ширина полос, тактильная разметка, узлы входов и модульная архитектура предложены для адаптации.",
+      "reading_note": "Чистая цветовая навигация и ритм модулей развивают приёмы миланского метро.",
+      "gallery_order": [
+        "orange001",
+        "orange002",
+        "orange003",
+        "orange004",
+        "orange005",
+        "orange006"
+      ],
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Варианты"
+        },
+        {
+          "id": "green-highway",
+          "title": "Зелёная магистраль",
+          "path": "locations/green-highway"
+        },
+        {
+          "id": "vending-plaza",
+          "title": "Площадка товарного автомата",
+          "path": "locations/vending-plaza"
+        }
+      ],
+      "variant_notes": {
+        "orange001": "Продольная линия витрин и отдельная пешеходная кромка.",
+        "orange002": "Повторяющиеся поперечные рамы задают масштаб транзитного участка.",
+        "orange003": "Тактильная вставка связывает пешеходные зоны по обе стороны полотна.",
+        "orange004": "Свободная траектория магнитных досок и низкая ограждающая кромка.",
+        "orange005": "Витрины и служебные карманы вынесены за пределы движения.",
+        "orange006": "Обратный вид поперечного хода со стороны Оранжевой магистрали."
+      }
+    },
+    {
+      "id": "vending-plaza",
+      "title": "Площадка товарного автомата",
+      "group": "locations",
+      "kind": "location",
+      "path": "locations/vending-plaza",
+      "subtitle": "Второй уровень · подход, очередь и выдача",
+      "summary": "Четыре схемы размещения",
+      "cover": "vendplaza004",
+      "default_series": "vending-plaza-04",
+      "task_ids": [
+        "everyday"
+      ],
+      "source_pages": [
+        11,
+        38,
+        43,
+        56
+      ],
+      "source_doc": "Bible/Environments/Second_Level.md",
+      "source_label": "Второй уровень в романе",
+      "evidence": "Площадка товарного автомата",
+      "source_summary": "У автомата с шоколадом и чипсами ждут в очереди. Из окна выдачи последовательно выходят упакованные батончики.",
+      "source_note": "Положение у магистрали, форма кармана, место ожидания и служебный доступ — проектные варианты.",
+      "reading_note": "Чистая цветовая навигация и ритм модулей развивают приёмы миланского метро.",
+      "gallery_order": [
+        "vendplaza001",
+        "vendplaza002",
+        "vendplaza003",
+        "vendplaza004"
+      ],
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Варианты"
+        },
+        {
+          "id": "orange-highway",
+          "title": "Оранжевая магистраль",
+          "path": "locations/orange-highway"
+        },
+        {
+          "id": "vending-machine",
+          "title": "Товарный автомат",
+          "path": "props/vending-machine"
+        },
+        {
+          "id": "chocolate-bars",
+          "title": "Шоколадные батончики",
+          "path": "props/chocolate-bars"
+        }
+      ],
+      "variant_notes": {
+        "vendplaza001": "Очередь размещается вдоль стены в стороне от транспортного полотна.",
+        "vendplaza002": "Скруглённая ниша, отдельный подход и короткая полка.",
+        "vendplaza003": "Автомат виден с подхода, а свободный проход продолжается за поворотом.",
+        "vendplaza004": "Отдельный остров с навесом, фронтальной выдачей и обходом по краям."
+      }
+    },
+    {
+      "id": "vending-machine",
+      "title": "Товарный автомат",
+      "group": "props",
+      "kind": "prop",
+      "path": "props/vending-machine",
+      "subtitle": "Аппарат выдачи шоколада и чипсов",
+      "summary": "Четыре варианта корпуса",
+      "cover": "vend002",
+      "default_series": "vending-machine-02",
+      "task_ids": [
+        "houseware",
+        "food"
+      ],
+      "source_pages": [
+        11,
+        38,
+        43,
+        56
+      ],
+      "source_doc": "Bible/Environments/Second_Level.md",
+      "source_label": "Второй уровень в романе",
+      "evidence": "Товарный автомат",
+      "source_summary": "Снековый автомат описан как узкий ящик с окном выдачи. У магазина на с. 38 отдельно показан дисплей с оранжевой подсветкой для ввода кода.",
+      "source_note": "Оранжевый экран применён к автомату как общий принцип оформления станционных устройств. Кассеты, лотки и механика выдачи предложены для экрана.",
+      "reading_note": "Формованные оболочки и модульные узлы развивают приёмы итальянского промышленного дизайна.",
+      "gallery_order": [
+        "vend001",
+        "vend002",
+        "vend003",
+        "vend004"
+      ],
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Варианты"
+        },
+        {
+          "id": "vending-plaza",
+          "title": "Площадка товарного автомата",
+          "path": "locations/vending-plaza"
+        },
+        {
+          "id": "chocolate-bars",
+          "title": "Шоколадные батончики",
+          "path": "props/chocolate-bars"
+        }
+      ],
+      "variant_notes": {
+        "vend001": "Формованный корпус, видимый запас и отдельная приёмная ниша.",
+        "vend002": "Овальная оболочка с видимыми кассетами, каркасом и каналом выдачи.",
+        "vend003": "Опаловая створка, наклонный экран и открытая нижняя выдача.",
+        "vend004": "Сервисный корпус на металлических стойках с выдвижной приёмной секцией."
+      }
+    },
+    {
+      "id": "chocolate-bars",
+      "title": "Шоколадные батончики",
+      "group": "props",
+      "kind": "prop",
+      "path": "props/chocolate-bars",
+      "subtitle": "Зелёно-синяя обёртка · арахис и нуга",
+      "summary": "Две выбранные графические версии",
+      "cover": "bar002",
+      "default_series": "chocolate-bars-02",
+      "task_ids": [
+        "food"
+      ],
+      "source_pages": [
+        26,
+        43
+      ],
+      "source_doc": "Bible/Environments/Second_Level.md",
+      "source_label": "Второй уровень в романе",
+      "evidence": "Шоколадные батончики",
+      "source_summary": "В романе шоколадные батончики лежат в зелёно-синих обёртках.",
+      "source_note": "Состав начинки, рисунок упаковки и английское наименование категории предложены для адаптации.",
+      "reading_note": "Варианты показаны в едином масштабе просмотра.",
+      "gallery_order": [
+        "bar002",
+        "bar004"
+      ],
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Варианты"
+        },
+        {
+          "id": "vending-machine",
+          "title": "Товарный автомат",
+          "path": "props/vending-machine"
+        },
+        {
+          "id": "vending-plaza",
+          "title": "Площадка товарного автомата",
+          "path": "locations/vending-plaza"
+        }
+      ],
+      "variant_notes": {
+        "bar002": "Изумрудный фон, голубые поля и крупный срез с арахисом и нугой.",
+        "bar004": "Кобальт, яркая зелень, жёлтое поле с названием и срезом начинки."
+      }
     }
   ],
   "derivatives": [
@@ -2983,6 +3211,70 @@
     {
       "id": "lon-standard",
       "title": "Базовый корпус"
+    },
+    {
+      "id": "orange-highway-01",
+      "title": "Торговая галерея"
+    },
+    {
+      "id": "orange-highway-02",
+      "title": "Ритм порталов"
+    },
+    {
+      "id": "orange-highway-03",
+      "title": "Переход к школе"
+    },
+    {
+      "id": "orange-highway-04",
+      "title": "Длинная дуга"
+    },
+    {
+      "id": "orange-highway-05",
+      "title": "Фронт снабжения"
+    },
+    {
+      "id": "orange-highway-06",
+      "title": "Переход на Зелёную"
+    },
+    {
+      "id": "vending-plaza-01",
+      "title": "Настенная ниша"
+    },
+    {
+      "id": "vending-plaza-02",
+      "title": "Карман между витринами"
+    },
+    {
+      "id": "vending-plaza-03",
+      "title": "У выхода из туннеля"
+    },
+    {
+      "id": "vending-plaza-04",
+      "title": "Двусторонний островок"
+    },
+    {
+      "id": "vending-machine-01",
+      "title": "Скошенная витрина"
+    },
+    {
+      "id": "vending-machine-02",
+      "title": "Прозрачная капсула"
+    },
+    {
+      "id": "vending-machine-03",
+      "title": "Кассета с приёмной нишей"
+    },
+    {
+      "id": "vending-machine-04",
+      "title": "Выдвижной лоток"
+    },
+    {
+      "id": "chocolate-bars-02",
+      "title": "Графика 02 · округлая типографика"
+    },
+    {
+      "id": "chocolate-bars-04",
+      "title": "Графика 04 · звёзды"
     }
   ],
   "studies": [
