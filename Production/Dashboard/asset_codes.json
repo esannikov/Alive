@@ -13192,8 +13192,8 @@
       "object": "kolka",
       "caption": "неровный ёжик",
       "source_file": "docs/World/characters/kolka/images/kolka033.png",
-      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
-      "sha256": "eb038d67106655aab6faf4af2687c04b4ab3699bcb5dabd2a43cf4c91a39fd62",
+      "source_commit": "cbbb72ac88775cccdc50bff852dd8c0ea7220422",
+      "sha256": "be3129d3f67ac517ab01432fb42d03a57b8ca886868e684c1503e7362bf4f4ce",
       "aliases": [
         "docs/World/characters/kolka/images/kolka033.png"
       ],
@@ -13211,15 +13211,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+      "generation_manifest": "Production/Dashboard/Kolka_Type015_Retouch_2026-11-18.json"
     },
     {
       "code": "kolka034",
       "object": "kolka",
       "caption": "рваный кроп",
       "source_file": "docs/World/characters/kolka/images/kolka034.png",
-      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
-      "sha256": "25c8db5e0c6120bdcfb0ea71ddaab327c79c9ab80bc9fa3aa09071a5c927652b",
+      "source_commit": "cbbb72ac88775cccdc50bff852dd8c0ea7220422",
+      "sha256": "845d91c2b5deb38af194b5fd94b7d7026fba3097c864f87ae5bb995d3e67585a",
       "aliases": [
         "docs/World/characters/kolka/images/kolka034.png"
       ],
@@ -13237,15 +13237,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+      "generation_manifest": "Production/Dashboard/Kolka_Type015_Retouch_2026-11-18.json"
     },
     {
       "code": "kolka035",
       "object": "kolka",
       "caption": "взъерошенная шапка",
       "source_file": "docs/World/characters/kolka/images/kolka035.png",
-      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
-      "sha256": "ef1f3d92837f85d3ecadf1fd160219aba5d779238f964a8356042484558e50da",
+      "source_commit": "cbbb72ac88775cccdc50bff852dd8c0ea7220422",
+      "sha256": "345fb5df9f51249cf9247daf6e34897987acf589ad62dd196c4de8f779282edf",
       "aliases": [
         "docs/World/characters/kolka/images/kolka035.png"
       ],
@@ -13263,15 +13263,15 @@
       ],
       "series": "current",
       "visibility": "active",
-      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+      "generation_manifest": "Production/Dashboard/Kolka_Type015_Retouch_2026-11-18.json"
     },
     {
       "code": "kolka036",
       "object": "kolka",
       "caption": "косой вихор",
       "source_file": "docs/World/characters/kolka/images/kolka036.png",
-      "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
-      "sha256": "886e4acc1f893403bb6dd8688e2ff27d6c6bd7bbcb5571f6b8ba4b2800f8e6fc",
+      "source_commit": "cbbb72ac88775cccdc50bff852dd8c0ea7220422",
+      "sha256": "8ac2fb10404fdd8a507f46af92fdaf5b5ac231cafa528b82ca351b3372b5b6a6",
       "aliases": [
         "docs/World/characters/kolka/images/kolka036.png"
       ],
@@ -13289,7 +13289,7 @@
       ],
       "series": "current",
       "visibility": "active",
-      "generation_manifest": "Production/Dashboard/Face_Tone_Refinements_2026-11-15.json"
+      "generation_manifest": "Production/Dashboard/Kolka_Type015_Retouch_2026-11-18.json"
     },
     {
       "code": "kolka037",
