@@ -16,10 +16,12 @@
       "original": "docs/World/scenes/tais-emma-vending/frames/01.png",
       "preview": "docs/World/scenes/tais-emma-vending/previews/01.webp",
       "source_name": "d01-master.png",
-      "sha256": "1473179cc3a41351886f2b14df4877f642caf2c0f9e45d71c6f6a6706ff70498",
+      "sha256": "3afe61191ddba0655d571a956156c7e5445d987be3a26c69942439dfeb5777f1",
       "meta": "01 · Низкий общий · 28 мм",
       "title": "Подход",
-      "caption": "Автомат задаёт левый край. Эмма входит справа, Таис у выдачи."
+      "caption": "Автомат задаёт левый край. Эмма входит справа, Таис у выдачи.",
+      "previous_sha256": "1473179cc3a41351886f2b14df4877f642caf2c0f9e45d71c6f6a6706ff70498",
+      "revision": "Лицо по tais053 и пыль на ботинках Таис"
     },
     {
       "shot": "02",
@@ -56,10 +58,12 @@
       "original": "docs/World/scenes/tais-emma-vending/frames/05.png",
       "preview": "docs/World/scenes/tais-emma-vending/previews/05.webp",
       "source_name": "d05-tais-ots.png",
-      "sha256": "2a15f974c0743c1cb350d30b978adce939e92b99e5b4b476d195b46fcadae214",
+      "sha256": "22ef3e0a528744601d69656c64330bfb7a381d960f25c613146b80f561914371",
       "meta": "05 · Крупный через плечо · 85 мм",
       "title": "Таис замечает взгляд",
-      "caption": "Таис смотрит вправо и на секунду замирает."
+      "caption": "Таис смотрит вправо и на секунду замирает.",
+      "previous_sha256": "2a15f974c0743c1cb350d30b978adce939e92b99e5b4b476d195b46fcadae214",
+      "revision": "Уточнение сходства с tais053"
     },
     {
       "shot": "06",
@@ -76,10 +80,12 @@
       "original": "docs/World/scenes/tais-emma-vending/frames/07.png",
       "preview": "docs/World/scenes/tais-emma-vending/previews/07.webp",
       "source_name": "d07-call.png",
-      "sha256": "87650e6320f4782757de6a7414ddfe93c130a810bfac553c22014af6dbc9133e",
+      "sha256": "0c5fe94953649bf102ae37dbc3aaabf624ce9aa893d3959028859f3d805c0a73",
       "meta": "07 · Средне-общий · 40 мм",
       "title": "Эмма зовёт Дона",
-      "caption": "Поворот Эммы к правому концу прохода виден в кадре."
+      "caption": "Поворот Эммы к правому концу прохода виден в кадре.",
+      "previous_sha256": "87650e6320f4782757de6a7414ddfe93c130a810bfac553c22014af6dbc9133e",
+      "revision": "Лицо по tais053 и пыль на ботинках Таис"
     },
     {
       "shot": "08",
@@ -96,10 +102,12 @@
       "original": "docs/World/scenes/tais-emma-vending/frames/09.png",
       "preview": "docs/World/scenes/tais-emma-vending/previews/09.webp",
       "source_name": "d09-exit.png",
-      "sha256": "af0f689f28f345341b2b861875df5925dff18c3b4ea2b6102302aedc478ecd49",
+      "sha256": "7f725627ef1de9cc63a7d12a60a1090d63fe3109927cf43684a30a865372eb7a",
       "meta": "09 · Общий · 55 мм",
       "title": "Таис уходит",
-      "caption": "Таис уходит вправо. Эмма остаётся у автомата."
+      "caption": "Таис уходит вправо. Эмма остаётся у автомата.",
+      "previous_sha256": "af0f689f28f345341b2b861875df5925dff18c3b4ea2b6102302aedc478ecd49",
+      "revision": "Пыль на ботинках Таис"
     }
   ],
   "camera_plan": {
