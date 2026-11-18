@@ -420,7 +420,8 @@
       "lon012",
       "lon013",
       "lon014",
-      "lon015"
+      "lon015",
+      "lon016"
     ]
   },
   {
@@ -600,6 +601,22 @@
     "term": "Alive/World/locations/main-square/reference",
     "page": "locations/main-square/reference.html",
     "title": "Главная Площадь · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/locations/green-highway/",
+    "page": "locations/green-highway/",
+    "title": "Зелёная магистраль",
+    "variantCodes": [
+      "green001",
+      "green002",
+      "green003"
+    ]
+  },
+  {
+    "term": "Alive/World/locations/green-highway/reference",
+    "page": "locations/green-highway/reference.html",
+    "title": "Зелёная магистраль · справка",
     "variantCodes": []
   },
   {
@@ -929,7 +946,10 @@
       "frik006",
       "frik007",
       "frik008",
-      "frik009"
+      "frik009",
+      "frik010",
+      "frik011",
+      "frik012"
     ]
   },
   {
