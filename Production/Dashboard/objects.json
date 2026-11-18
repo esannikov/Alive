@@ -2808,6 +2808,11 @@
           "id": "chocolate-bars",
           "title": "Шоколадные батончики",
           "path": "props/chocolate-bars"
+        },
+        {
+          "id": "tais-emma-vending",
+          "title": "Сцена у автомата",
+          "path": "scenes/tais-emma-vending"
         }
       ],
       "variant_notes": {
@@ -3362,6 +3367,20 @@
       "body_file": "Production/Dashboard/additional_cast_body.html",
       "label": "Подборка для выбора",
       "button_label": "Открыть шесть персонажей"
+    },
+    {
+      "id": "tais-emma-vending",
+      "title": "Таис и Эмма у автомата",
+      "path": "scenes/tais-emma-vending",
+      "group": "delivery",
+      "task_ids": [
+        "scene-kit"
+      ],
+      "summary": "Раскадровка в девяти кадрах",
+      "image": "scenes/tais-emma-vending/previews/01.webp",
+      "body_file": "Production/Dashboard/vending_scene_body.html",
+      "label": "Сцена",
+      "button_label": "Открыть раскадровку"
     }
   ],
   "collections": [
