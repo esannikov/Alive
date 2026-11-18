@@ -15,7 +15,7 @@
     "moag": 47,
     "emma": 39,
     "kolka": 38,
-    "lon": 16,
+    "lon": 17,
     "don": 34,
     "martin": 22,
     "valek": 21,
@@ -34,7 +34,7 @@
     "alc": 37,
     "kir": 7,
     "push": 19,
-    "frik": 10,
+    "frik": 13,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -49,7 +49,8 @@
     "mw": 9,
     "kaluzhsky": 7,
     "liza": 7,
-    "zheka": 7
+    "zheka": 7,
+    "green": 4
   },
   "assets": [
     {
@@ -14266,6 +14267,177 @@
       "series": "main-square-citrus-valley",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Eden_Citrus_Valley_2026-11-18.json"
+    },
+    {
+      "code": "lon016",
+      "object": "lon",
+      "caption": "Лон с платком · корпус вне интерьера",
+      "source_file": "docs/World/robots/lon/images/lon016.png",
+      "sha256": "9aea1d93b9392fd8587c74cce0c6daa39e9344a41cbd585da012ed3be03e4feb",
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "derived_from": "lon013",
+      "kind": "appearance",
+      "series": "lon-scarf",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/robots/lon/images/lon016.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "lon"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "frik010",
+      "object": "friki",
+      "caption": "На лестнице · исправленный хват",
+      "source_file": "docs/World/creatures/friki/images/frik010.png",
+      "sha256": "37b83ffee6e42ae5ae091b0a4367c351315f3ba4c465f0b8c98dfec5597f372d",
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "derived_from": "frik005",
+      "kind": "appearance",
+      "series": "friki-stair-study",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik010.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "frik011",
+      "object": "friki",
+      "caption": "На лестнице · звериная настороженность",
+      "source_file": "docs/World/creatures/friki/images/frik011.png",
+      "sha256": "2b8a06fc03b37397a6025780800f23e1f443d566d4dcce662785b1b78ec80575",
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "derived_from": "frik005",
+      "kind": "appearance",
+      "series": "friki-stair-study",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik011.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "frik012",
+      "object": "friki",
+      "caption": "На лестнице · пластика челюсти",
+      "source_file": "docs/World/creatures/friki/images/frik012.png",
+      "sha256": "8bd86123d4921693ea8e567f27f2d0f1c64854550aba40da9af9c54cf91a7420",
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "derived_from": "frik005",
+      "kind": "appearance",
+      "series": "friki-stair-study",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik012.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "green001",
+      "object": "green-highway",
+      "caption": "Архитектурный макет кольца и переходов",
+      "source_file": "docs/World/locations/green-highway/images/green001.png",
+      "sha256": "f49abfaf35a91e745a25c35c84049cf168d1473fca3c5210d23bf3ee2efedb6d",
+      "galleries": [
+        "World/locations/green-highway"
+      ],
+      "derived_from": null,
+      "kind": "interior",
+      "series": "green-highway-route",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/locations/green-highway/images/green001.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "green002",
+      "object": "green-highway",
+      "caption": "Поперечный тоннель к Оранжевой магистрали",
+      "source_file": "docs/World/locations/green-highway/images/green002.png",
+      "sha256": "dfe0a270817f508b70b8f1ba51065ba54c73785d457faa4302e11055509e15e2",
+      "galleries": [
+        "World/locations/green-highway"
+      ],
+      "derived_from": "square008",
+      "kind": "interior",
+      "series": "green-highway-route",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/locations/green-highway/images/green002.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
+    },
+    {
+      "code": "green003",
+      "object": "green-highway",
+      "caption": "Указатель к Шестым тоннелям",
+      "source_file": "docs/World/locations/green-highway/images/green003.png",
+      "sha256": "6b17c6e4e4344f13bba82a3261900578b33dfdc4dcd70c38e2d2d7119a2666db",
+      "galleries": [
+        "World/locations/green-highway"
+      ],
+      "derived_from": "square014",
+      "kind": "interior",
+      "series": "green-highway-route",
+      "status": "candidate",
+      "visibility": "active",
+      "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+      "aliases": [
+        "docs/World/locations/green-highway/images/green003.png"
+      ],
+      "renditions": [],
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "generation_manifest": "Production/Dashboard/ALIVE_Priorities_2026-11-18.json"
     }
   ],
   "deleted_codes": [

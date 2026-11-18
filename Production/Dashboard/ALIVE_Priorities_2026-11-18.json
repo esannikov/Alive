@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-18",
+  "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+  "items": [
+    {
+      "code": "lon016",
+      "object": "lon",
+      "caption": "Лон с платком · корпус вне интерьера",
+      "source_file": "docs/World/robots/lon/images/lon016.png",
+      "source_image": "lon.png",
+      "sha256": "9aea1d93b9392fd8587c74cce0c6daa39e9344a41cbd585da012ed3be03e4feb",
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "derived_from": "lon013",
+      "kind": "appearance",
+      "series": "lon-scarf",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    },
+    {
+      "code": "frik010",
+      "object": "friki",
+      "caption": "На лестнице · исправленный хват",
+      "source_file": "docs/World/creatures/friki/images/frik010.png",
+      "source_image": "frik-grip.png",
+      "sha256": "37b83ffee6e42ae5ae091b0a4367c351315f3ba4c465f0b8c98dfec5597f372d",
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "derived_from": "frik005",
+      "kind": "appearance",
+      "series": "friki-stair-study",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    },
+    {
+      "code": "frik011",
+      "object": "friki",
+      "caption": "На лестнице · звериная настороженность",
+      "source_file": "docs/World/creatures/friki/images/frik011.png",
+      "source_image": "frikA-wild-gaze.png",
+      "sha256": "2b8a06fc03b37397a6025780800f23e1f443d566d4dcce662785b1b78ec80575",
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "derived_from": "frik005",
+      "kind": "appearance",
+      "series": "friki-stair-study",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    },
+    {
+      "code": "frik012",
+      "object": "friki",
+      "caption": "На лестнице · пластика челюсти",
+      "source_file": "docs/World/creatures/friki/images/frik012.png",
+      "source_image": "frikB-portrait.png",
+      "sha256": "8bd86123d4921693ea8e567f27f2d0f1c64854550aba40da9af9c54cf91a7420",
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "derived_from": "frik005",
+      "kind": "appearance",
+      "series": "friki-stair-study",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    },
+    {
+      "code": "green001",
+      "object": "green-highway",
+      "caption": "Архитектурный макет кольца и переходов",
+      "source_file": "docs/World/locations/green-highway/images/green001.png",
+      "source_image": "route-model.png",
+      "sha256": "f49abfaf35a91e745a25c35c84049cf168d1473fca3c5210d23bf3ee2efedb6d",
+      "galleries": [
+        "World/locations/green-highway"
+      ],
+      "derived_from": null,
+      "kind": "interior",
+      "series": "green-highway-route",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    },
+    {
+      "code": "green002",
+      "object": "green-highway",
+      "caption": "Поперечный тоннель к Оранжевой магистрали",
+      "source_file": "docs/World/locations/green-highway/images/green002.png",
+      "source_image": "junction.png",
+      "sha256": "dfe0a270817f508b70b8f1ba51065ba54c73785d457faa4302e11055509e15e2",
+      "galleries": [
+        "World/locations/green-highway"
+      ],
+      "derived_from": "square008",
+      "kind": "interior",
+      "series": "green-highway-route",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    },
+    {
+      "code": "green003",
+      "object": "green-highway",
+      "caption": "Указатель к Шестым тоннелям",
+      "source_file": "docs/World/locations/green-highway/images/green003.png",
+      "source_image": "navigation.png",
+      "sha256": "6b17c6e4e4344f13bba82a3261900578b33dfdc4dcd70c38e2d2d7119a2666db",
+      "galleries": [
+        "World/locations/green-highway"
+      ],
+      "derived_from": "square014",
+      "kind": "interior",
+      "series": "green-highway-route",
+      "status": "candidate",
+      "visibility": "active",
+      "method": "gpt-image-2.5-sunburst, OpenAI Image API"
+    }
+  ],
+  "tracker": {
+    "lon": [
+      "KPP-R045",
+      "MAT-R041"
+    ],
+    "friki": [
+      "KPP-R052",
+      "MAT-R196"
+    ],
+    "green-highway": [
+      "KPP-R080",
+      "MAT-R118"
+    ]
+  }
+}
