@@ -15,7 +15,7 @@
     "moag": 47,
     "emma": 39,
     "kolka": 38,
-    "lon": 17,
+    "lon": 18,
     "don": 34,
     "martin": 22,
     "valek": 21,
@@ -8942,7 +8942,7 @@
     },
     {
       "code": "lon013",
-      "object": "lon",
+      "object": "lon-emma",
       "caption": "Шейный платок Лона",
       "source_file": "docs/World/robots/lon/images/lon013.webp",
       "source_commit": "ae9c3614adcdd4388431e7f40f4134133f87a9ad",
@@ -8951,7 +8951,7 @@
         "docs/World/robots/lon/images/lon013.webp"
       ],
       "galleries": [
-        "World/robots/lon"
+        "World/robots/lon-emma"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -8960,7 +8960,10 @@
         "lon"
       ],
       "series": "lon-scarf",
-      "visibility": "active"
+      "visibility": "active",
+      "previous_objects": [
+        "lon"
+      ]
     },
     {
       "code": "emma011",
@@ -9688,7 +9691,7 @@
     },
     {
       "code": "lon014",
-      "object": "lon",
+      "object": "lon-emma",
       "caption": "Поймать мяч",
       "source_file": "docs/World/robots/lon/images/lon014.webp",
       "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
@@ -9697,7 +9700,7 @@
         "docs/World/robots/lon/images/lon014.webp"
       ],
       "galleries": [
-        "World/robots/lon"
+        "World/robots/lon-emma"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -9707,11 +9710,14 @@
       ],
       "series": "lon-scarf",
       "visibility": "active",
-      "derived_from": "lon013"
+      "derived_from": "lon013",
+      "previous_objects": [
+        "lon"
+      ]
     },
     {
       "code": "lon015",
-      "object": "lon",
+      "object": "lon-emma",
       "caption": "По дороге в детскую",
       "source_file": "docs/World/robots/lon/images/lon015.webp",
       "source_commit": "2271a05229c2acb0d76d2c78890624ab23331028",
@@ -9720,7 +9726,7 @@
         "docs/World/robots/lon/images/lon015.webp"
       ],
       "galleries": [
-        "World/robots/lon"
+        "World/robots/lon-emma"
       ],
       "kind": "appearance",
       "status": "candidate",
@@ -9730,7 +9736,10 @@
       ],
       "series": "lon-scarf",
       "visibility": "active",
-      "derived_from": "lon013"
+      "derived_from": "lon013",
+      "previous_objects": [
+        "lon"
+      ]
     },
     {
       "code": "masha008",
@@ -14270,12 +14279,12 @@
     },
     {
       "code": "lon016",
-      "object": "lon",
+      "object": "lon-emma",
       "caption": "Лон · узорный шёлковый платок",
       "source_file": "docs/World/robots/lon/images/lon016.png",
       "sha256": "69749637b72bbcc880281c4043ce33ca0617ec8573032357dc4fa1731f0fdcc3",
       "galleries": [
-        "World/robots/lon"
+        "World/robots/lon-emma"
       ],
       "derived_from": "lon013",
       "kind": "appearance",
@@ -14290,7 +14299,10 @@
       "task_ids": [
         "lon"
       ],
-      "generation_manifest": "Production/Dashboard/Lon_Frik_Detail_Fixes_2026-11-18.json"
+      "generation_manifest": "Production/Dashboard/Lon_Frik_Detail_Fixes_2026-11-18.json",
+      "previous_objects": [
+        "lon"
+      ]
     },
     {
       "code": "frik010",
@@ -14486,6 +14498,30 @@
       "series": "friki-stair-study",
       "visibility": "active",
       "generation_manifest": "Production/Dashboard/Frik_Anatomy_2026-11-18.json"
+    },
+    {
+      "code": "lon017",
+      "object": "lon",
+      "caption": "Лон · базовый корпус",
+      "source_file": "docs/World/robots/lon/images/lon017.png",
+      "source_commit": "13e78159c9ffb227c8e59990edc86b3e7cee32f6",
+      "sha256": "6baa19759f5c932be269c9bde05595f072cd998a57a54d743d08a261319c5d04",
+      "aliases": [
+        "docs/World/robots/lon/images/lon017.png"
+      ],
+      "galleries": [
+        "World/robots/lon"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "lon016",
+      "series": "lon-standard",
+      "task_ids": [
+        "lon"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Lon_Emma_Split_2026-11-18.json"
     }
   ],
   "deleted_codes": [

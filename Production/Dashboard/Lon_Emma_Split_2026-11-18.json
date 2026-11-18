@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-18",
+  "source_commit": "13e78159c9ffb227c8e59990edc86b3e7cee32f6",
+  "model": "gpt-image-2.5-sunburst",
+  "items": [
+    {
+      "code": "lon017",
+      "source_file": "docs/World/robots/lon/images/lon017.png",
+      "sha256": "6baa19759f5c932be269c9bde05595f072cd998a57a54d743d08a261319c5d04",
+      "derived_from": "lon016"
+    }
+  ],
+  "relocated_assets": [
+    "lon016",
+    "lon013",
+    "lon014",
+    "lon015"
+  ],
+  "existing_approval": "KPP-R045 / MAT-R041 v2"
+}
