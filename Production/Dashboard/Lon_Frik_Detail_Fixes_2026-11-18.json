@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-18",
+  "source_commit": "6e10e103984c837d2f0f056b68e26f3f41b5073f",
+  "model": "gpt-image-2.5-sunburst",
+  "mode": "in-place correction at approved user request",
+  "items": [
+    {
+      "code": "lon016",
+      "object": "lon",
+      "source_file": "docs/World/robots/lon/images/lon016.png",
+      "caption": "Лон · узорный шёлковый платок",
+      "source_image": "lon.png",
+      "sha256": "69749637b72bbcc880281c4043ce33ca0617ec8573032357dc4fa1731f0fdcc3",
+      "previous": {
+        "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+        "sha256": "9aea1d93b9392fd8587c74cce0c6daa39e9344a41cbd585da012ed3be03e4feb"
+      }
+    },
+    {
+      "code": "frik010",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik010.png",
+      "caption": "На лестнице · уточнённый хват поручня",
+      "source_image": "frik-final.png",
+      "sha256": "d2457877bf1b54679967d0fb3cc283fb9bcf0d5f8080fbc1a138dfe65f8c58b0",
+      "previous": {
+        "source_commit": "40c7b541cd4c64adb619372b35e5b30bc2b6cb37",
+        "sha256": "37b83ffee6e42ae5ae091b0a4367c351315f3ba4c465f0b8c98dfec5597f372d"
+      }
+    }
+  ]
+}
