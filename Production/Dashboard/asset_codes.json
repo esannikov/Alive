@@ -50,7 +50,11 @@
     "kaluzhsky": 7,
     "liza": 7,
     "zheka": 7,
-    "green": 4
+    "green": 4,
+    "orange": 7,
+    "vendplaza": 5,
+    "vend": 5,
+    "bar": 5
   },
   "assets": [
     {
@@ -14522,6 +14526,400 @@
       "visibility": "active",
       "renditions": [],
       "generation_manifest": "Production/Dashboard/Lon_Emma_Split_2026-11-18.json"
+    },
+    {
+      "code": "orange001",
+      "object": "orange-highway",
+      "caption": "Торговая галерея",
+      "source_file": "docs/World/locations/orange-highway/images/orange001.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "503de30c0da0ca782c28f741086c9f81340a36c2b12fa0097a2085afb6a2f853",
+      "aliases": [
+        "docs/World/locations/orange-highway/images/orange001.png"
+      ],
+      "galleries": [
+        "World/locations/orange-highway"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "green002",
+      "series": "orange-highway-01",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "orange002",
+      "object": "orange-highway",
+      "caption": "Ритм порталов",
+      "source_file": "docs/World/locations/orange-highway/images/orange002.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "60bc4bbc3e82a59be7bf18991588896b01369d88a631826983584150f9ff1ea8",
+      "aliases": [
+        "docs/World/locations/orange-highway/images/orange002.png"
+      ],
+      "galleries": [
+        "World/locations/orange-highway"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "green002",
+      "series": "orange-highway-02",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "orange003",
+      "object": "orange-highway",
+      "caption": "Переход к школе",
+      "source_file": "docs/World/locations/orange-highway/images/orange003.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "237f76d1b63287b8a019cd0724dd30e1736cc5d72e5b9938a2ef79c9f39d6749",
+      "aliases": [
+        "docs/World/locations/orange-highway/images/orange003.png"
+      ],
+      "galleries": [
+        "World/locations/orange-highway"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "green002",
+      "series": "orange-highway-03",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "orange004",
+      "object": "orange-highway",
+      "caption": "Длинная дуга",
+      "source_file": "docs/World/locations/orange-highway/images/orange004.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "cf5c7839f347d566d36404539c37584c0b820181ff5350df7920ab2eaab6bf43",
+      "aliases": [
+        "docs/World/locations/orange-highway/images/orange004.png"
+      ],
+      "galleries": [
+        "World/locations/orange-highway"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "green002",
+      "series": "orange-highway-04",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "orange005",
+      "object": "orange-highway",
+      "caption": "Фронт снабжения",
+      "source_file": "docs/World/locations/orange-highway/images/orange005.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "46e1d9e4c57c519b832e63350c7a69992f49c6966b3f6426f9b077c8e19d30fc",
+      "aliases": [
+        "docs/World/locations/orange-highway/images/orange005.png"
+      ],
+      "galleries": [
+        "World/locations/orange-highway"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "green002",
+      "series": "orange-highway-05",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "orange006",
+      "object": "orange-highway",
+      "caption": "Переход на Зелёную",
+      "source_file": "docs/World/locations/orange-highway/images/orange006.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "5d1e6a48a8e9492176d140d387e1d0ff7f29fcaca390cc7b95001698d2c91bb6",
+      "aliases": [
+        "docs/World/locations/orange-highway/images/orange006.png"
+      ],
+      "galleries": [
+        "World/locations/orange-highway"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": "green002",
+      "series": "orange-highway-06",
+      "task_ids": [
+        "public",
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vendplaza001",
+      "object": "vending-plaza",
+      "caption": "Настенная ниша",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza001.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "76e94dcbe12c97848d17daee4d914d237ab1ba199102ac62b26c711ae7f0e326",
+      "aliases": [
+        "docs/World/locations/vending-plaza/images/vendplaza001.png"
+      ],
+      "galleries": [
+        "World/locations/vending-plaza"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-plaza-01",
+      "task_ids": [
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vendplaza002",
+      "object": "vending-plaza",
+      "caption": "Карман между витринами",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza002.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "35c2c283a272a0631a0d0739a4af2535f515970bf7063b9b9e863653ad7304ac",
+      "aliases": [
+        "docs/World/locations/vending-plaza/images/vendplaza002.png"
+      ],
+      "galleries": [
+        "World/locations/vending-plaza"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-plaza-02",
+      "task_ids": [
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vendplaza003",
+      "object": "vending-plaza",
+      "caption": "У выхода из туннеля",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza003.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "2b2fd5a317d4a3f613dfc679a8169a3c5c0050d4bc61fa951f59951b98d9be40",
+      "aliases": [
+        "docs/World/locations/vending-plaza/images/vendplaza003.png"
+      ],
+      "galleries": [
+        "World/locations/vending-plaza"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-plaza-03",
+      "task_ids": [
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vendplaza004",
+      "object": "vending-plaza",
+      "caption": "Двусторонний островок",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza004.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "d8bf6fa7e2b6209f3cd38099bf1013db33479bfe9cca178d032433c7dac178f1",
+      "aliases": [
+        "docs/World/locations/vending-plaza/images/vendplaza004.png"
+      ],
+      "galleries": [
+        "World/locations/vending-plaza"
+      ],
+      "kind": "interior",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-plaza-04",
+      "task_ids": [
+        "everyday"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vend001",
+      "object": "vending-machine",
+      "caption": "Скошенная витрина",
+      "source_file": "docs/World/props/vending-machine/images/vend001.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "87346dca774cbddbf7c145c3aab7ee8f50a90c248ae94b216f0d636ddc20617f",
+      "aliases": [
+        "docs/World/props/vending-machine/images/vend001.png"
+      ],
+      "galleries": [
+        "World/props/vending-machine"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-machine-01",
+      "task_ids": [
+        "houseware",
+        "food"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vend002",
+      "object": "vending-machine",
+      "caption": "Прозрачная капсула",
+      "source_file": "docs/World/props/vending-machine/images/vend002.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "691983805fe6e3d44beb07132aaad24f49bd9e1e0de35561364d8069117be6c3",
+      "aliases": [
+        "docs/World/props/vending-machine/images/vend002.png"
+      ],
+      "galleries": [
+        "World/props/vending-machine"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-machine-02",
+      "task_ids": [
+        "houseware",
+        "food"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vend003",
+      "object": "vending-machine",
+      "caption": "Кассета с приёмной нишей",
+      "source_file": "docs/World/props/vending-machine/images/vend003.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "2e01cf94ac048f00d211fe17f8e3cdb6f35631439377312837ece89043cc6914",
+      "aliases": [
+        "docs/World/props/vending-machine/images/vend003.png"
+      ],
+      "galleries": [
+        "World/props/vending-machine"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-machine-03",
+      "task_ids": [
+        "houseware",
+        "food"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "vend004",
+      "object": "vending-machine",
+      "caption": "Выдвижной лоток",
+      "source_file": "docs/World/props/vending-machine/images/vend004.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "60c1051f4e2f565805c7f8bc9f3eb173500221fc8b80193d7d68b13b4d8a5eb2",
+      "aliases": [
+        "docs/World/props/vending-machine/images/vend004.png"
+      ],
+      "galleries": [
+        "World/props/vending-machine"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "vending-machine-04",
+      "task_ids": [
+        "houseware",
+        "food"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "bar002",
+      "object": "chocolate-bars",
+      "caption": "Графика 02 · округлая типографика",
+      "source_file": "docs/World/props/chocolate-bars/images/bar002.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "a563c00cafabb23f808f895ee33116b2a74c304d75bb69559499c2663c380598",
+      "aliases": [
+        "docs/World/props/chocolate-bars/images/bar002.png"
+      ],
+      "galleries": [
+        "World/props/chocolate-bars"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "chocolate-bars-02",
+      "task_ids": [
+        "food"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "bar004",
+      "object": "chocolate-bars",
+      "caption": "Графика 04 · звёзды",
+      "source_file": "docs/World/props/chocolate-bars/images/bar004.png",
+      "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+      "sha256": "1df9e066c1f4ec85ba9c8201cde1997d73fc4088c85111318fb894fc4a6a249a",
+      "aliases": [
+        "docs/World/props/chocolate-bars/images/bar004.png"
+      ],
+      "galleries": [
+        "World/props/chocolate-bars"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "chocolate-bars-04",
+      "task_ids": [
+        "food"
+      ],
+      "visibility": "active",
+      "renditions": [],
+      "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
     }
   ],
   "deleted_codes": [
