@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T10:47:00.160553+00:00",
+  "generatedAt": "2026-11-18T20:41:16.201617+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BLLOL",
@@ -306,6 +306,14 @@
       "messageCount": 0,
       "last": null
     },
+    "robots/lon-emma/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/lon-emma/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
     "robots/don15/": {
       "messageCount": 11,
       "last": {
@@ -584,6 +592,38 @@
       "messageCount": 0,
       "last": null
     },
+    "locations/orange-highway/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "locations/orange-highway/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "locations/vending-plaza/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "locations/vending-plaza/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "props/vending-machine/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "props/vending-machine/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "props/chocolate-bars/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "props/chocolate-bars/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
     "search.html": {
       "messageCount": 0,
       "last": null
@@ -608,6 +648,10 @@
       "last": null
     },
     "characters/additional-cast/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "scenes/tais-emma-vending/": {
       "messageCount": 0,
       "last": null
     }
