@@ -1272,6 +1272,21 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/props/laser-sword/",
+    "page": "props/laser-sword/",
+    "title": "Лазерный меч",
+    "variantCodes": [
+      "sword003",
+      "sword006"
+    ]
+  },
+  {
+    "term": "Alive/World/props/laser-sword/reference",
+    "page": "props/laser-sword/reference.html",
+    "title": "Лазерный меч · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/props/vending-machine/",
     "page": "props/vending-machine/",
     "title": "Товарный автомат",

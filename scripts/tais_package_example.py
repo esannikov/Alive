@@ -16,21 +16,10 @@ def section_example(section):
   identity=a['code'].lower();links=' · '.join(f'<a href="{SOURCE}#page={p}" target="_blank" rel="noopener">{p}</a>' for p in a['pages'])
   out+=f'''<figure class="tais-sheet" id="{identity}"><a class="tais-image-link" href="{a['file']}" data-package-image="{a['file']}" data-caption="{esc(a['code']+' · '+a['title'])}" aria-label="Увеличить: {esc(a['title'])}"><img src="{a['preview']}" width="{a['width']}" height="{a['height']}" loading="lazy" decoding="async" alt="{esc(a['title'])} "></a><figcaption><div class="tais-caption-heading"><strong><span class="mono">{a['code']}</span> {esc(a['title'])}</strong><a href="{a['file']}" download>PNG ↓</a></div><p>{esc(a['caption'])}</p>'''
   if links:out+='<p class="tais-source">Роман, страницы PDF: '+links+'</p>'
+  gallery=a.get('gallery')
+  if gallery:
+   out+=f'<p id="{identity}-variants"><a href="@ROOT@{esc(gallery["path"])}/">{esc(gallery["title"])}</a></p>'
   out+='</figcaption></figure>'
-  variants=a.get('design_variants', [])
-  if variants:
-   out+=f'<section aria-labelledby="{identity}-variants"><h4 id="{identity}-variants">Варианты дизайна меча</h4>'
-   for variant in variants:
-    title=esc(variant['id']+' · '+variant['title'])
-    file=esc(variant['file'])
-    preview=esc(variant['preview'])
-    caption=esc(variant['caption'])
-    out+=f'''<figure class="tais-sheet" id="{identity}-{variant['id']}">
-<a class="tais-image-link" href="{file}" data-package-image="{file}" data-caption="{title}" aria-label="Увеличить: {title}">
-<img src="{preview}" width="{variant['width']}" height="{variant['height']}" loading="lazy" decoding="async" alt="{caption}"></a>
-<figcaption><div class="tais-caption-heading"><strong>{title}</strong><a href="{file}" download>PNG ↓</a></div><p>{caption}</p></figcaption>
-</figure>'''
-   out+='</section>'
  if section=='continuity':
   rows=[('TC01 · ранняя вылазка','43–44','Косы и бандана; серая куртка и бриджи','Рюкзак и магнитная доска'),('TC02 · куртка сохнет','52','Тёмно-синяя пайта; длинные штаны','Повторно используются доступные вещи'),('Ранение и перевязка','317–319','Пайта разрезана. Сторона плеча остаётся открытым решением','Скобы, марлевая салфетка и лейкопластырь'),('TC03 · вещи из каюты','377','Найденная джинсовая рубашка','Куртки с активными нашивками не берут'),('Заживление','417','Скобы рассасываются; ожидается шрам плеча','Лазерный меч — позднее снаряжение'),('TC04 · новые вещи','458','Спортивные штаны, полосатый верх; волосы распущены','Предыдущий комплект заменён')]
   out+='<div class="package-table-wrap"><table><caption>Таис: преемственность по событиям</caption><thead><tr><th>Состояние</th><th>Страницы</th><th>Одежда, волосы, повреждения</th><th>Вещи</th></tr></thead><tbody>'+''.join('<tr>'+''.join('<td>'+esc(v)+'</td>' for v in row)+'</tr>' for row in rows)+'</tbody></table></div>'

@@ -14920,6 +14920,48 @@
       "visibility": "active",
       "renditions": [],
       "generation_manifest": "Production/Dashboard/Orange_Highway_Italian_Design_2026-11-18.json"
+    },
+    {
+      "code": "sword003",
+      "object": "laser-sword",
+      "caption": "03 · Стоячая волна",
+      "source_file": "docs/World/characters/final-package/tais/images/tp19-03-standing-wave.png",
+      "source_commit": "140245e76b29f1c8e0f5de937b607ce6720fbe0e",
+      "sha256": "48612de3801d8c93feeb53dcded2548973a4862c01a45f4857f78e7a345b1db7",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
+    },
+    {
+      "code": "sword006",
+      "object": "laser-sword",
+      "caption": "06 · Ячейки",
+      "source_file": "docs/World/characters/final-package/tais/images/tp19-06-cells.png",
+      "source_commit": "140245e76b29f1c8e0f5de937b607ce6720fbe0e",
+      "sha256": "51b59704d9fbfd1f35f63d235e860c727e9c30977511d669f3b3469caff38616",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
     }
   ],
   "deleted_codes": [
