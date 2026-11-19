@@ -1,6 +1,6 @@
 {
   "title": "Таис — пример финального фотореалистического пакета",
-  "version": "1.0",
+  "version": "2.0",
   "identity": "tais053",
   "approval": {
     "work": "KPP-R024",
@@ -12,7 +12,7 @@
   },
   "new_sheets_status": "Иллюстрированный пример для обсуждения; не автоматическое утверждение M2/M3",
   "animation": "Отложена по указанию пользователя: пока только фотореализм",
-  "background": "Светлый бежевый #eee6d9",
+  "background": "Светло-бежевый фон обзорных листов и контрольного кадра. Нейтральный свет для контроля цвета.",
   "assets": [
     {
       "code": "TAIS-TP01",
@@ -28,7 +28,28 @@
         43,
         44
       ],
-      "sha256": "12bf83fc7a685508a64b4ce73e7e312c80aa52c343a173e7907f7dce44c970c1"
+      "sha256": "12bf83fc7a685508a64b4ce73e7e312c80aa52c343a173e7907f7dce44c970c1",
+      "asset_id": "TAIS-TP01",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP21",
@@ -42,7 +63,28 @@
       "pages": [
         19
       ],
-      "sha256": "5d20966a72074cc661caa0628a4a1b6435dd816c1c7e449f117c6c37e0cac81c"
+      "sha256": "5d20966a72074cc661caa0628a4a1b6435dd816c1c7e449f117c6c37e0cac81c",
+      "asset_id": "TAIS-TP21",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP02",
@@ -57,7 +99,32 @@
         43,
         44
       ],
-      "sha256": "fe70ed5b7dfe14567756960ec60ab4608c3925e242e81556acfff6780b278c85"
+      "sha256": "fe70ed5b7dfe14567756960ec60ab4608c3925e242e81556acfff6780b278c85",
+      "asset_id": "TAIS-TP02",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        },
+        {
+          "asset_id": "TAIS-TP01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP03",
@@ -67,12 +134,37 @@
       "preview": "tais/images/tp03.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Спина, противоположный профиль и задние три четверти. Это визуальный лист, не ортографическая 3D-проверка.",
+      "caption": "Обзор задних ракурсов. Силуэт можно сверять по листу. Швы спинки и косы требуют проверки против TP17 и правила TC01.",
       "pages": [
         43,
         44
       ],
-      "sha256": "cabf120c639f041b20b29f4c2270a2c93622aa4d38a9560911084c50c5942771"
+      "sha256": "cabf120c639f041b20b29f4c2270a2c93622aa4d38a9560911084c50c5942771",
+      "asset_id": "TAIS-TP03",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        },
+        {
+          "asset_id": "TAIS-TP17",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP04",
@@ -87,7 +179,28 @@
         19,
         231
       ],
-      "sha256": "86f1bb663a5f53b9c187102e801cabc36a1a00f3006f8b248089db4734e18f4f"
+      "sha256": "86f1bb663a5f53b9c187102e801cabc36a1a00f3006f8b248089db4734e18f4f",
+      "asset_id": "TAIS-TP04",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP05",
@@ -101,7 +214,24 @@
       "pages": [
         231
       ],
-      "sha256": "370280dc4706349694698e0c663090e24393cb01b1027e63cabb98486e25de69"
+      "sha256": "370280dc4706349694698e0c663090e24393cb01b1027e63cabb98486e25de69",
+      "asset_id": "TAIS-TP05",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP06",
@@ -113,7 +243,24 @@
       "height": 1024,
       "caption": "Лоб; область глаза; нос; внешняя щека; губы; линия волос. Возрастная фактура без равномерного шума.",
       "pages": [],
-      "sha256": "58f7a1a4e61b4f833ccb096722574227a43c583b338598b2da8b21446d804e26"
+      "sha256": "58f7a1a4e61b4f833ccb096722574227a43c583b338598b2da8b21446d804e26",
+      "asset_id": "TAIS-TP06",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP07",
@@ -123,9 +270,30 @@
       "preview": "tais/images/tp07.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Ладонные и тыльные поверхности. Форма кистей предложена для персонажа; постоянные шрамы не выдуманы.",
+      "caption": "Верхний ряд: правая ладонь, левая ладонь. Нижний: тыл левой кисти, тыл правой кисти. Сторона определяется относительно тела Таис.",
       "pages": [],
-      "sha256": "3f3051bfba727614e6c53b8aba1d44497f9c3f8eb2aedbdaf1681cf9e6787c38"
+      "sha256": "3f3051bfba727614e6c53b8aba1d44497f9c3f8eb2aedbdaf1681cf9e6787c38",
+      "asset_id": "TAIS-TP07",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP08",
@@ -135,11 +303,32 @@
       "preview": "tais/images/tp08.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Фронт, бок, задняя часть, подошва и компактный ориентир стопы. Потёртые ботинки описаны на с. 44; конструкция предложена.",
+      "caption": "Тёмные вытертые ботинки с сухой светлой пылью. Цвет и пыль сверять по кадру 04 сцены у автомата (роман, с. 44).",
       "pages": [
         44
       ],
-      "sha256": "2b91b86ae8f4c6e1a138d47267b1add75be856a8912043258ee7730fc8ed5875"
+      "sha256": "2b91b86ae8f4c6e1a138d47267b1add75be856a8912043258ee7730fc8ed5875",
+      "asset_id": "TAIS-TP08",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP09",
@@ -149,13 +338,34 @@
       "preview": "tais/images/tp09.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Косы, пробор, узел банданы и собранные волосы.",
+      "caption": "Конструкция причёски. Для TC01 использовать две косы спереди, рисунок TP18 и узел банданы сзади.",
       "pages": [
         19,
         26,
         43
       ],
-      "sha256": "29f0fdb14d4b6dab917eae3b1b4de8c35e66fb158cee00beaacc2fac9cb3588e"
+      "sha256": "29f0fdb14d4b6dab917eae3b1b4de8c35e66fb158cee00beaacc2fac9cb3588e",
+      "asset_id": "TAIS-TP09",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP10",
@@ -170,7 +380,24 @@
         26,
         458
       ],
-      "sha256": "f989a50bc2c46238574e6ade4f5d1c4842d3e063f3f7ab36d7689fa4fa974526"
+      "sha256": "f989a50bc2c46238574e6ade4f5d1c4842d3e063f3f7ab36d7689fa4fa974526",
+      "asset_id": "TAIS-TP10",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP11",
@@ -182,7 +409,24 @@
       "height": 1024,
       "caption": "Слева направо, сверху вниз: базовое состояние; сосредоточенность; любопытство; скепсис; тихая улыбка; смех.",
       "pages": [],
-      "sha256": "6757ce376a9c6387c892fdbd01dc39bf97badd6ccdf61a97da485d8a53ede8f6"
+      "sha256": "6757ce376a9c6387c892fdbd01dc39bf97badd6ccdf61a97da485d8a53ede8f6",
+      "asset_id": "TAIS-TP11",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP12",
@@ -194,7 +438,24 @@
       "height": 1024,
       "caption": "Раздражение; сдержанный гнев; испуг; боль; печаль; облегчение. Разница интенсивности не меняет типаж.",
       "pages": [],
-      "sha256": "7d1e9cf2857e33e4635a3a62245b1563ad026c67a1cf06f06d33cd89ce474fe1"
+      "sha256": "7d1e9cf2857e33e4635a3a62245b1563ad026c67a1cf06f06d33cd89ce474fe1",
+      "asset_id": "TAIS-TP12",
+      "revision": 1,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP13",
@@ -204,11 +465,36 @@
       "preview": "tais/images/tp13.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Стойка, сидение, шаг и приседание. Четыре отдельные позы.",
+      "caption": "Обзор четырёх поз. Следующая итерация — отдельные полноразмерные кадры, затем обзорная сборка.",
       "pages": [
         458
       ],
-      "sha256": "9041fc32a47b5a3ddaa505fb9c87a8cca3592392bef24f3ed3ad1a2d98125f3d"
+      "sha256": "9041fc32a47b5a3ddaa505fb9c87a8cca3592392bef24f3ed3ad1a2d98125f3d",
+      "asset_id": "TAIS-TP13",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        },
+        {
+          "asset_id": "TAIS-TP01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP14",
@@ -218,13 +504,38 @@
       "preview": "tais/images/tp14.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Старт бега, торможение, низкое перемещение и вытянутая рука. Четыре отдельные позы.",
+      "caption": "Обзор четырёх активных поз. Для анимации проверить возраст и пропорции по одиночным ракурсам.",
       "pages": [
         11,
         13,
         458
       ],
-      "sha256": "6e1f690391d5fafb5de339bb948a8acbcd49bda419d3540e8a46816a864d0002"
+      "sha256": "6e1f690391d5fafb5de339bb948a8acbcd49bda419d3540e8a46816a864d0002",
+      "asset_id": "TAIS-TP14",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        },
+        {
+          "asset_id": "TAIS-TP01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP15",
@@ -234,13 +545,38 @@
       "preview": "tais/images/tp15.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Верхний ряд: ранний комплект спереди и сзади. Нижний: тёмно-синяя пайта и длинные штаны.",
+      "caption": "Верх: ранний TC01, черновые ракурсы. Низ: тёмно-синяя пайта и длинные штаны TC02. Крой сверять отдельно.",
       "pages": [
         43,
         44,
         52
       ],
-      "sha256": "4286f6d14fe95b7e43b73ebc40f2efcbb2f4a6308ebd5572b1a1c9d043cd41a7"
+      "sha256": "4286f6d14fe95b7e43b73ebc40f2efcbb2f4a6308ebd5572b1a1c9d043cd41a7",
+      "asset_id": "TAIS-TP15",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        },
+        {
+          "asset_id": "TAIS-TP17",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP16",
@@ -250,12 +586,29 @@
       "preview": "tais/images/tp16.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Верх: найденная джинсовая рубашка. Низ: новые спортивные штаны и полосатый верх.",
+      "caption": "Верх: джинсовая рубашка TC03. Низ: спортивный комплект TC04. Спорное положение кос в видах TC03 требует сверки.",
       "pages": [
         377,
         458
       ],
-      "sha256": "267e09601970aa69d3c7747ad2778ff71b8c168f76ff6772951a08151e4418cc"
+      "sha256": "267e09601970aa69d3c7747ad2778ff71b8c168f76ff6772951a08151e4418cc",
+      "asset_id": "TAIS-TP16",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP17",
@@ -265,12 +618,33 @@
       "preview": "tais/images/tp17.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Куртка спереди/сзади, бриджи, манжета и карман. Конструкция служит примером детализации.",
+      "caption": "Рабочий эталон формы карманов, манжет, капюшона и швов. Закрытая молния показывает раскладку вещи. Положение молнии на фигуре задаёт сцена.",
       "pages": [
         43,
         44
       ],
-      "sha256": "67efea70ef300f3e6e2579230feeaa86e32505e6e1ef67ba4203aed1959e6f77"
+      "sha256": "67efea70ef300f3e6e2579230feeaa86e32505e6e1ef67ba4203aed1959e6f77",
+      "asset_id": "TAIS-TP17",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP18",
@@ -280,14 +654,35 @@
       "preview": "tais/images/tp18.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Рюкзак и бандана. Два состояния каждого предмета; силуэт ладони даёт условный масштаб. Размеры предложены.",
+      "caption": "Рюкзак и бандана. Развёрнутый вид банданы задаёт рисунок TC01. Узел сзади берётся с референса образа.",
       "pages": [
         11,
         13,
         43,
         44
       ],
-      "sha256": "628e07f4483aa728ce939447d07ef0f5190063183c5adba6aed214826877d6ff"
+      "sha256": "628e07f4483aa728ce939447d07ef0f5190063183c5adba6aed214826877d6ff",
+      "asset_id": "TAIS-TP18",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        }
+      ]
     },
     {
       "code": "TAIS-TP23",
@@ -297,26 +692,57 @@
       "preview": "tais/images/tp23.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Дека около 80 × 24 см; телескопический руль около 90 см над декой. Эти размеры предложены для примера, не взяты из романа. Слева рабочее, справа сложенное состояние; колёс нет.",
+      "caption": "Слева рабочий вид доски для сверки силуэта. Справа эскиз складывания. Согласование стойки и ручек требуется до моделирования.",
       "pages": [
         11
       ],
-      "sha256": "b773b1c2f8491d67ea86eff8718ddccd472dd8785e0540fec471e81fde470ae6"
+      "sha256": "b773b1c2f8491d67ea86eff8718ddccd472dd8785e0540fec471e81fde470ae6",
+      "asset_id": "TAIS-TP23",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP19",
-      "title": "Позднее снаряжение",
+      "title": "Лазерный меч · выключен и активен",
       "section": "props",
-      "file": "tais/images/tp19.png",
-      "preview": "tais/images/tp19.webp",
+      "file": "tais/images/tp19-v2.png",
+      "preview": "tais/images/tp19-v2.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Лазерный меч: выключенный вид, деталь рукояти, включённый вид. Концепт реквизита; не утверждённая инженерная конструкция.",
+      "caption": "Верх: луч убран в рукоять. Низ: рабочая полная длина. Цвет и плоское сечение — предложение адаптации.",
       "pages": [
-        377,
-        417
+        374,
+        375,
+        376,
+        380
       ],
-      "sha256": "e34ed3743a9d6202cb13c032e3a8bf8a2bd9dea5ffb58552c3a47e75d264bfbf"
+      "sha256": "abd2551f4083a16198d5504d596c7ff1db96589c20d83be47e5433da97dfb305",
+      "asset_id": "TAIS-TP19",
+      "revision": 2,
+      "look_id": null,
+      "costume_id": null,
+      "state_id": "tais-late-equipment",
+      "status": "candidate",
+      "rights": {
+        "origin": "OpenAI Sunburst",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": []
     },
     {
       "code": "TAIS-TP22",
@@ -326,12 +752,37 @@
       "preview": "tais/images/tp22.webp",
       "width": 2400,
       "height": 1650,
-      "caption": "На раннем костюме не добавлены неподтверждённые номер, погоны или эмблема.",
+      "caption": "Справка об отсутствии маркировки. Изображение кроя остаётся иллюстрацией.",
       "pages": [
         43,
         44
       ],
-      "sha256": "8a67abf043b25115d6a59800ed39519f64bcf16ef94574e801dec0bcba51a90c"
+      "sha256": "8a67abf043b25115d6a59800ed39519f64bcf16ef94574e801dec0bcba51a90c",
+      "asset_id": "TAIS-TP22",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": "tais-tc01",
+      "state_id": "tais-early",
+      "status": "needs_continuity_review",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
+          "revision": 1
+        },
+        {
+          "asset_id": "TAIS-TP17",
+          "revision": 2
+        }
+      ]
     },
     {
       "code": "TAIS-TP20",
@@ -341,7 +792,7 @@
       "preview": "tais/images/tp20.webp",
       "width": 2400,
       "height": 1650,
-      "caption": "Четыре комплекта связаны с событиями; повреждение пайты, перевязка и заживление описаны отдельно.",
+      "caption": "Карта костюмов. Скобы, марлевая салфетка и лейкопластырь (с. 317–319), смена и заживление (с. 415–417). Сторона плеча остаётся открытой.",
       "pages": [
         43,
         44,
@@ -349,10 +800,144 @@
         317,
         319,
         377,
+        415,
         417,
         458
       ],
-      "sha256": "894960ef5f42dd062f07d915ba628608a467e69189a02fc3b7ceaddba7c4fef5"
+      "sha256": "894960ef5f42dd062f07d915ba628608a467e69189a02fc3b7ceaddba7c4fef5",
+      "asset_id": "TAIS-TP20",
+      "revision": 2,
+      "look_id": "tais-type-053",
+      "costume_id": null,
+      "state_id": null,
+      "status": "candidate",
+      "rights": {
+        "origin": "ALIVE pilot v1",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      },
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ]
     }
-  ]
+  ],
+  "schema_version": 2,
+  "entity_id": "tais",
+  "entity_kind": "character",
+  "look_id": "tais-type-053",
+  "tier": "core",
+  "production_status": "submitted_candidate",
+  "costumes": [
+    {
+      "costume_id": "tais-tc01",
+      "revision": 1
+    },
+    {
+      "costume_id": "tais-tc02",
+      "revision": 1
+    },
+    {
+      "costume_id": "tais-tc03",
+      "revision": 1
+    },
+    {
+      "costume_id": "tais-tc04",
+      "revision": 1
+    }
+  ],
+  "states": [
+    {
+      "state_id": "tais-early",
+      "status": "reference"
+    },
+    {
+      "state_id": "tais-drying",
+      "status": "reference"
+    },
+    {
+      "state_id": "tais-borrowed",
+      "status": "reference"
+    },
+    {
+      "state_id": "tais-new-clothes",
+      "status": "reference"
+    },
+    {
+      "state_id": "tais-shoulder-dressing",
+      "status": "adaptation_pending"
+    },
+    {
+      "state_id": "tais-late-equipment",
+      "status": "reference"
+    }
+  ],
+  "contract_types": {
+    "character": [
+      "look_id",
+      "costume_id",
+      "state_id"
+    ],
+    "robot": [
+      "shell_revision",
+      "drive_type",
+      "pose_ids"
+    ],
+    "creature": [
+      "life_stage",
+      "anatomy_notes",
+      "size_reference"
+    ]
+  },
+  "stale_rule": "При смене ревизии зависимости сравнить метаданные и пометить все зависимые артефакты stale до проверки.",
+  "identity_reference": {
+    "asset_id": "tais053",
+    "revision": 2,
+    "source": "https://esannikov.github.io/Alive/World/characters/tais/#tais053",
+    "status": "approved_identity",
+    "sha256": "2f9f84e02a02c8ee99e5daf03e3130b3d1de53246d27db70b921d3c635948db2"
+  },
+  "color_control": {
+    "file": "tais/images/tp-control-v2.png",
+    "preview": "tais/images/tp-control-v2.webp",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "5539c05a99e32d8492cdbc72a88e4fc9191c7d63c4ee5007d2bb021d8f591441",
+    "asset_id": "TAIS-COLOR-REF",
+    "revision": 1,
+    "look_id": "tais-type-053",
+    "costume_id": "tais-tc01",
+    "state_id": "tais-early",
+    "status": "visual_reference",
+    "dependencies": [
+      {
+        "asset_id": "tais053",
+        "revision": 2
+      },
+      {
+        "asset_id": "tais-tc01",
+        "revision": 1
+      }
+    ],
+    "rights": {
+      "origin": "OpenAI Sunburst, reference-based",
+      "usage": "internal_review",
+      "commercial_clearance": "pending"
+    }
+  },
+  "adaptation_decisions": {
+    "shoulder_dressing": {
+      "source": "ALIVE.pdf",
+      "page": 319,
+      "status": "adaptation_pending",
+      "coverage": "Плечо: марля и пластырь показаны в описании. Сторона и графический лист ждут выбора."
+    },
+    "folded_magnetic_board": {
+      "source": "ALIVE.pdf",
+      "page": 11,
+      "status": "needs_continuity_review"
+    }
+  }
 }
