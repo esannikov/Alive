@@ -14962,6 +14962,111 @@
       ],
       "visibility": "active",
       "renditions": []
+    },
+    {
+      "code": "sword001",
+      "object": "laser-sword",
+      "caption": "01 · Фрактал",
+      "source_file": "docs/World/props/laser-sword/images/sword001.png",
+      "source_commit": "d950192de8c3e0f96102554d101535cfcdbdc0f9",
+      "sha256": "64b7912f8f03a1cb8f4c5e04a71aa6dde774896b182bd2069a8b9f479075206d",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
+    },
+    {
+      "code": "sword002",
+      "object": "laser-sword",
+      "caption": "02 · Кристалл",
+      "source_file": "docs/World/props/laser-sword/images/sword002.png",
+      "source_commit": "d950192de8c3e0f96102554d101535cfcdbdc0f9",
+      "sha256": "0aca33713bb17adf7721c5529072ed2d85641821147ed0503402d1dca44dadfa",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
+    },
+    {
+      "code": "sword004",
+      "object": "laser-sword",
+      "caption": "04 · Муар",
+      "source_file": "docs/World/props/laser-sword/images/sword004.png",
+      "source_commit": "d950192de8c3e0f96102554d101535cfcdbdc0f9",
+      "sha256": "676a86645d7b7f92953a1d401920dbff0f8498c2873ccb74bf3e2179d9dd00bf",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
+    },
+    {
+      "code": "sword005",
+      "object": "laser-sword",
+      "caption": "05 · Двойная спираль",
+      "source_file": "docs/World/props/laser-sword/images/sword005.png",
+      "source_commit": "d950192de8c3e0f96102554d101535cfcdbdc0f9",
+      "sha256": "b37bd6bc30d37999fc85645392bb07e1f8e792d514e915b8511afdee5c6e8421",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "approved",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
+    },
+    {
+      "code": "sword007",
+      "object": "laser-sword",
+      "caption": "Катана · стилизация №06",
+      "source_file": "docs/World/props/laser-sword/images/sword007.png",
+      "source_commit": "d950192de8c3e0f96102554d101535cfcdbdc0f9",
+      "sha256": "cd539ca1e50dcb319c27ba06eb8289fa86ff2c97bf9fa417a689155bd8ceeea0",
+      "aliases": [],
+      "galleries": [
+        "World/props/laser-sword"
+      ],
+      "kind": "prop",
+      "status": "candidate",
+      "derived_from": null,
+      "series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "visibility": "active",
+      "renditions": []
     }
   ],
   "deleted_codes": [
