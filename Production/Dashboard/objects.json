@@ -63,6 +63,11 @@
         {
           "id": "belongings",
           "title": "Личные вещи"
+        },
+        {
+          "id": "laser-sword",
+          "title": "Лазерный меч",
+          "path": "props/laser-sword"
         }
       ],
       "selection": {
@@ -2823,6 +2828,52 @@
       }
     },
     {
+      "id": "laser-sword",
+      "title": "Лазерный меч",
+      "group": "props",
+      "kind": "prop",
+      "path": "props/laser-sword",
+      "subtitle": "Позднее снаряжение Таис",
+      "summary": "Два варианта рукояти и светового клинка",
+      "cover": "sword006",
+      "default_series": "laser-sword-design",
+      "task_ids": [
+        "gear"
+      ],
+      "source_pages": [
+        331,
+        374,
+        375,
+        380,
+        381
+      ],
+      "source_doc": "Bible/Technology/Transport_and_Weapons.md",
+      "source_label": "Снаряжение и оружие в романе",
+      "evidence": "AD058",
+      "source_summary": "Таис впервые берёт лазерный меч на с. 374–375. На с. 380–381 она и Федор стоят спиной друг к другу, каждый со своим мечом. На с. 331 в записи профессора упоминаются лазерные мечи из арсенала.",
+      "source_note": "Галерея посвящена мечу Таис. Материалы рукоятей, оттенки и рисунок луча предложены для экранизации.",
+      "reading_note": "Варианты 03 и 06 показывают разные силуэты рукояти и структуру светового клинка. Оба можно сравнить в галерее.",
+      "gallery_order": [
+        "sword003",
+        "sword006"
+      ],
+      "derivatives": [
+        {
+          "id": "appearance",
+          "title": "Варианты"
+        },
+        {
+          "id": "tais",
+          "title": "Таис",
+          "path": "characters/tais"
+        }
+      ],
+      "variant_notes": {
+        "sword003": "Лавандовый луч с волновыми узлами и компактная гранёная бронзовая рукоять.",
+        "sword006": "Бирюзовый луч и рукоять в духе итальянской шпаги без гарды, с матовой вставкой и скошенным торцом."
+      }
+    },
+    {
       "id": "vending-machine",
       "title": "Товарный автомат",
       "group": "props",
@@ -3256,6 +3307,10 @@
     {
       "id": "vending-plaza-04",
       "title": "Двусторонний островок"
+    },
+    {
+      "id": "laser-sword-design",
+      "title": "Дизайн меча"
     },
     {
       "id": "vending-machine-01",
