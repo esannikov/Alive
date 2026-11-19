@@ -272,7 +272,7 @@ Magnetic board with NO wheels. Horizontal deck about 80x24cm, vertical telescopi
 Входные референсы: предыдущий принятый лист предмета; лицо не требуется.
 
 ```text
-Two aligned studio views of the same station-issued industrial prop with a low rectangular aged bronze housing, compact open grip and grey-black ribbed rubber pads. Off state: hilt only. Full state: long translucent desaturated ice-blue beam with thin internal layers and softly refracted optical grain. Softly lit very pale warm beige background. No lettering or labels.
+Two aligned studio views of the same station-issued industrial prop with a asymmetric palm-shaped aged bronze housing, sculptural oval hand opening and grey-black ribbed rubber pads. Off state: hilt only. Full state: long desaturated ice-blue energy beam with transparent sparse optical layers and finely spaced refracted filaments. Softly lit very pale warm beige background. No lettering or labels.
 ```
 
 Роман, с. 374–376, 380. Тяжёлая рукоять с ребристой резиной. Луч регулируется по длине и ширине, полностью убирается.
