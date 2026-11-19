@@ -732,6 +732,26 @@
       ],
       "sha256": "404e60bae743c61632ce3edac17bba9657fd149d0d082a2bdba1fc905e0e60c1",
       "asset_id": "TAIS-TP19",
+      "design_variants": [
+        {
+          "id": "03",
+          "title": "Стоячая волна",
+          "caption": "Лавандовый луч с волновыми узлами и компактная гранёная бронзовая рукоять.",
+          "file": "tais/images/tp19-03-standing-wave.png",
+          "preview": "tais/images/tp19-03-standing-wave.webp",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "id": "06",
+          "title": "Ячейки",
+          "caption": "Бирюзовый луч и рукоять в духе итальянской шпаги без гарды, с матовой вставкой и скошенным торцом.",
+          "file": "tais/images/tp19-06-cells.png",
+          "preview": "tais/images/tp19-06-cells.webp",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
       "revision": 2,
       "look_id": null,
       "costume_id": null,
