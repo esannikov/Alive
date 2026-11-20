@@ -130,6 +130,8 @@ def build():
             if group and o['group'] != group: continue
             a=bycode[o['cover']]
             cards.append(f'''<article class="object-card" data-kind="{o.get('kind','character')}" data-filter-kind="{'style' if o.get('group') == 'style' else 'locations' if o.get('kind') == 'location' else 'ship' if o.get('kind') == 'ship' else 'robots' if o.get('group') == 'robots' else 'props' if o.get('group') == 'props' else 'people'}"><a class="card-image" href="@ROOT@{object_path(o)}/"><img src="@ROOT@{a['preview']}" width="1440" height="810" alt="{esc(o['title'])}: {esc(a['title'])}"></a><div class="card-body"><span class="code mono">{a['code']}</span><h3><a href="@ROOT@{object_path(o)}/">{o['title']}</a></h3><p class="card-meta">{o['summary']}</p>{discussion_summary(object_path(o))}<a class="button primary-button" href="@ROOT@{object_path(o)}/">Открыть галерею {ARROW}</a></div></article>''')
+            if o['id'] == 'moag':
+                cards.append(f'''<article class="object-card" id="moag-interactive" data-kind="ship" data-filter-kind="ship"><a class="card-image" href="@ROOT@ships/moag/section/"><img src="@ROOT@ships/moag/section/preview.webp" width="960" height="540" loading="lazy" alt="Станция Моаг в разрезе"></a><div class="card-body"><span class="code mono">Моаг · WebGL</span><h3><a href="@ROOT@ships/moag/section/">Интерактивная модель</a></h3><p class="card-meta">4 режима просмотра · 10 ракурсов</p><a class="button primary-button" href="@ROOT@ships/moag/section/">Открыть модель {ARROW}</a></div></article>''')
         if not collection_id:
             for c in collections.values():
                 if group and c['group'] != group: continue
