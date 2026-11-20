@@ -15067,6 +15067,160 @@
       ],
       "visibility": "active",
       "renditions": []
+    },
+    {
+      "code": "alc037",
+      "object": "alc-14",
+      "caption": "Перед экзаменом",
+      "source_file": "docs/World/styles/alc-14/images/alc037.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "aa4d87b52d4c110a46e45719443106d158c49b13abf6ba65a07c0ea9bd0f5df6",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc037.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc038",
+      "object": "alc-14",
+      "caption": "У Шестых туннелей",
+      "source_file": "docs/World/styles/alc-14/images/alc038.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "67422ee4abf5f6256ef49cfd2d39147f4f8bbc6f1337cd31a97ff7f47ebf95da",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc038.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc039",
+      "object": "alc-14",
+      "caption": "Погасшие витрины",
+      "source_file": "docs/World/styles/alc-14/images/alc039.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "58b26c7c4e0815b9e386ade8d16aa69bec6340ea45c96801fab77f4654008281",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc039.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc040",
+      "object": "alc-14",
+      "caption": "Колька и Лон в мастерской",
+      "source_file": "docs/World/styles/alc-14/images/alc040.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "3e9a727d4c6062ac9e97e7846b6d90e347f4ce854c57ca231c9b48e89dd0c334",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc040.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc041",
+      "object": "alc-14",
+      "caption": "Маша приносит блины",
+      "source_file": "docs/World/styles/alc-14/images/alc041.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "85b0c4ec31a66a9b92bd4c657f2616f86882163a7a0b4c5d85622a53155e46db",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc041.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc042",
+      "object": "alc-14",
+      "caption": "Письма профессора",
+      "source_file": "docs/World/styles/alc-14/images/alc042.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "d720041aaed6dfba21994739d26765a1e10e9eeb9dd2cb2725a2b0bbcceb8be8",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc042.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc043",
+      "object": "alc-14",
+      "caption": "Таис кормит Пушистика",
+      "source_file": "docs/World/styles/alc-14/images/alc043.png",
+      "source_commit": "1bb8d004c5843361d08e1b6ac8351065accca1ac",
+      "sha256": "4e505b7bcd57b82f9d1822e08e7caf1e1286b946d7e43eb1650e9677390e0aed",
+      "aliases": [
+        "docs/World/styles/alc-14/images/alc043.png"
+      ],
+      "galleries": [
+        "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
