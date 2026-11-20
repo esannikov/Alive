@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T10:06:27.117075+00:00",
+  "generatedAt": "2026-11-20T01:09:15.902282+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -6491,6 +6491,127 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
+    "sword001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "sword002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "sword003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "sword004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "sword005": {
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-11-19T14:43:37Z",
+          "reactionId": "REA_lAXOVCLQyc4ArUIJzgAtbP0"
+        }
+      ],
+      "scores": {
+        "for": 1,
+        "against": 0
+      },
+      "people": {
+        "for": 1,
+        "against": 0
+      },
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 251,
+      "url": "https://github.com/esannikov/Alive/discussions/251"
+    },
+    "sword006": {
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-11-19T14:43:46Z",
+          "reactionId": "REA_lAXOVCLQyc4ArUINzgAtbP4"
+        }
+      ],
+      "scores": {
+        "for": 1,
+        "against": 0
+      },
+      "people": {
+        "for": 1,
+        "against": 0
+      },
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 252,
+      "url": "https://github.com/esannikov/Alive/discussions/252"
+    },
+    "sword007": {
+      "votes": [
+        {
+          "login": "esannikov",
+          "choice": "for",
+          "weight": 1,
+          "createdAt": "2026-11-19T14:44:06Z",
+          "reactionId": "REA_lAXOVCLQyc4ArUIRzgAtbP8"
+        }
+      ],
+      "scores": {
+        "for": 1,
+        "against": 0
+      },
+      "people": {
+        "for": 1,
+        "against": 0
+      },
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 253,
+      "url": "https://github.com/esannikov/Alive/discussions/253"
+    },
     "tais001": {
       "votes": [
         {
@@ -8038,5 +8159,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-19T09"
+  "refreshSlot": "2026-11-19T21"
 }
