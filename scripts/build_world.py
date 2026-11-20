@@ -171,7 +171,7 @@ def build():
         if any(v['character']==o['id'] for v in identity_variants):tab_count=len(aa)
         tabs=''.join(f'<a class="derivative" href="@ROOT@{esc(d["path"])}/">{esc(d["title"])}</a>' if d.get('path') else f'<button class="derivative {"active" if d["id"]=="appearance" else ""}"'+(' aria-current="page"' if d['id']=='appearance' else ' aria-disabled="true" data-pending title="Пока не подготовлено"')+f'>{d["title"]}{f" <span class=mono>{tab_count}</span>" if d["id"]=="appearance" else ""}</button>' for d in o.get('derivatives',config['derivatives']))
         if o['id'] == 'moag':
-            tabs = tabs.replace('<button class="derivative " aria-disabled="true" data-pending title="Пока не подготовлено">3D-модель</button>', '<a class="derivative" href="model/">3D-модель</a>')
+            tabs = tabs.replace('<button class="derivative " aria-disabled="true" data-pending title="Пока не подготовлено">3D-модель</button>', '<a class="derivative" href="model/">3D-модель</a><a class="derivative" href="section/">Интерактивный разрез</a>')
         series=[s for s in config['series'] if any(a['series']==s['id'] for a in aa)]
         options=''.join(f'<option value="{s["id"]}">{s["title"]} · {sum(a["series"]==s["id"] for a in aa)}</option>' for s in series)+('<option value="all">Все варианты</option>' if o.get('kind')=='ship' else '<option value="all">Все серии</option>')
         is_ship=o.get('kind')=='ship'
