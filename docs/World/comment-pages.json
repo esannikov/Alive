@@ -1137,6 +1137,26 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/styles/alc-14/",
+    "page": "styles/alc-14/",
+    "title": "Графический научно-фантастический неонуар",
+    "variantCodes": [
+      "alc037",
+      "alc038",
+      "alc039",
+      "alc040",
+      "alc041",
+      "alc042",
+      "alc043"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-14/reference",
+    "page": "styles/alc-14/reference.html",
+    "title": "Графический научно-фантастический неонуар · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/clothing/tais/",
     "page": "clothing/tais/",
     "title": "Одежда Таис",
