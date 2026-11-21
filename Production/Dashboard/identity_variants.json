@@ -2098,6 +2098,178 @@
         "New independent casting candidate; not an identity-preserving edit of Nitka or Masha007."
       ],
       "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-001",
+      "character": "andryushka",
+      "label": "Типаж 001 · каштановые кудри",
+      "anchor_asset": "andryushka001",
+      "cover_asset": "andryushka001",
+      "member_codes": [
+        "andryushka001",
+        "andryushka007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-002",
+      "character": "andryushka",
+      "label": "Типаж 002 · светлые кудри",
+      "anchor_asset": "andryushka002",
+      "cover_asset": "andryushka002",
+      "member_codes": [
+        "andryushka002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-003",
+      "character": "andryushka",
+      "label": "Типаж 003 · тёмные кудри",
+      "anchor_asset": "andryushka003",
+      "cover_asset": "andryushka003",
+      "member_codes": [
+        "andryushka003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-004",
+      "character": "andryushka",
+      "label": "Типаж 004 · рыжие кольца",
+      "anchor_asset": "andryushka004",
+      "cover_asset": "andryushka004",
+      "member_codes": [
+        "andryushka004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-005",
+      "character": "andryushka",
+      "label": "Типаж 005 · короткие чёрные кудри",
+      "anchor_asset": "andryushka005",
+      "cover_asset": "andryushka005",
+      "member_codes": [
+        "andryushka005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-006",
+      "character": "andryushka",
+      "label": "Типаж 006 · русые кудри",
+      "anchor_asset": "andryushka006",
+      "cover_asset": "andryushka006",
+      "member_codes": [
+        "andryushka006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-001",
+      "character": "zoya",
+      "label": "Типаж 001 · чёрное каре",
+      "anchor_asset": "zoya001",
+      "cover_asset": "zoya001",
+      "member_codes": [
+        "zoya001",
+        "zoya007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-002",
+      "character": "zoya",
+      "label": "Типаж 002 · полусобранные волосы",
+      "anchor_asset": "zoya002",
+      "cover_asset": "zoya002",
+      "member_codes": [
+        "zoya002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-003",
+      "character": "zoya",
+      "label": "Типаж 003 · короткая стрижка",
+      "anchor_asset": "zoya003",
+      "cover_asset": "zoya003",
+      "member_codes": [
+        "zoya003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-004",
+      "character": "zoya",
+      "label": "Типаж 004 · мягкие волны",
+      "anchor_asset": "zoya004",
+      "cover_asset": "zoya004",
+      "member_codes": [
+        "zoya004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-005",
+      "character": "zoya",
+      "label": "Типаж 005 · низкий хвост",
+      "anchor_asset": "zoya005",
+      "cover_asset": "zoya005",
+      "member_codes": [
+        "zoya005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-006",
+      "character": "zoya",
+      "label": "Типаж 006 · коса",
+      "anchor_asset": "zoya006",
+      "cover_asset": "zoya006",
+      "member_codes": [
+        "zoya006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
     }
   ],
   "assets": {
@@ -3807,6 +3979,132 @@
       },
       "roles": {
         "masha": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka001": {
+      "variants": {
+        "andryushka": "andryushka-type-001"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka002": {
+      "variants": {
+        "andryushka": "andryushka-type-002"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka003": {
+      "variants": {
+        "andryushka": "andryushka-type-003"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka004": {
+      "variants": {
+        "andryushka": "andryushka-type-004"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka005": {
+      "variants": {
+        "andryushka": "andryushka-type-005"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka006": {
+      "variants": {
+        "andryushka": "andryushka-type-006"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka007": {
+      "variants": {
+        "andryushka": "andryushka-type-001"
+      },
+      "roles": {
+        "andryushka": "scene"
+      },
+      "review_required": {}
+    },
+    "zoya001": {
+      "variants": {
+        "zoya": "zoya-type-001"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya002": {
+      "variants": {
+        "zoya": "zoya-type-002"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya003": {
+      "variants": {
+        "zoya": "zoya-type-003"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya004": {
+      "variants": {
+        "zoya": "zoya-type-004"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya005": {
+      "variants": {
+        "zoya": "zoya-type-005"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya006": {
+      "variants": {
+        "zoya": "zoya-type-006"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya007": {
+      "variants": {
+        "zoya": "zoya-type-001"
+      },
+      "roles": {
+        "zoya": "scene"
       },
       "review_required": {}
     }

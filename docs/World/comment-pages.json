@@ -1372,6 +1372,46 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/characters/andryushka/",
+    "page": "characters/andryushka/",
+    "title": "Андрюшка",
+    "variantCodes": [
+      "andryushka001",
+      "andryushka002",
+      "andryushka003",
+      "andryushka004",
+      "andryushka005",
+      "andryushka006",
+      "andryushka007"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/andryushka/reference",
+    "page": "characters/andryushka/reference.html",
+    "title": "Андрюшка · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/zoya/",
+    "page": "characters/zoya/",
+    "title": "Зоя",
+    "variantCodes": [
+      "zoya001",
+      "zoya002",
+      "zoya003",
+      "zoya004",
+      "zoya005",
+      "zoya006",
+      "zoya007"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/zoya/reference",
+    "page": "characters/zoya/reference.html",
+    "title": "Зоя · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",

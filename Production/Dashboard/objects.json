@@ -3111,6 +3111,103 @@
         "bar002": "Изумрудный фон, голубые поля и крупный срез с арахисом и нугой.",
         "bar004": "Кобальт, яркая зелень, жёлтое поле с названием и срезом начинки."
       }
+    },
+    {
+      "id": "andryushka",
+      "title": "Андрюшка",
+      "group": "people",
+      "path": "characters/andryushka",
+      "cover": "andryushka001",
+      "default_series": "current",
+      "summary": "6 кастинговых типажей и сюжетная проба",
+      "subtitle": "Сосед Эммы · Второй уровень",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        43,
+        44,
+        45
+      ],
+      "evidence": "Роман",
+      "source_doc": "Sources/Novel.md",
+      "source_label": "Текст романа по страницам",
+      "source_summary": "Кудрявый сосед Эммы. У торгового автомата замечает Таис и поднимает тревогу, сжимая в руке пластинку нейтфона.",
+      "source_note": "Возраст около 13 лет — рабочий ориентир. Черты лица, цвет волос и одежда предложены для кастинга.",
+      "reading_note": "Шесть самостоятельных портретных проб. Седьмой кадр показывает типаж 001 в сцене. Окончательный типаж предстоит выбрать.",
+      "gallery_order": [
+        "andryushka001",
+        "andryushka002",
+        "andryushka003",
+        "andryushka004",
+        "andryushka005",
+        "andryushka006",
+        "andryushka007"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "andryushka001",
+          "andryushka002",
+          "andryushka003",
+          "andryushka004",
+          "andryushka005",
+          "andryushka006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      },
+      "variant_notes": {
+        "andryushka007": "Постановочная проба по сцене у автомата с Эммой и Таис."
+      }
+    },
+    {
+      "id": "zoya",
+      "title": "Зоя",
+      "group": "people",
+      "path": "characters/zoya",
+      "cover": "zoya001",
+      "default_series": "current",
+      "summary": "6 кастинговых типажей и сюжетная проба",
+      "subtitle": "Подруга Сони · Второй уровень",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        268,
+        269
+      ],
+      "evidence": "Роман",
+      "source_doc": "Sources/Novel.md",
+      "source_label": "Текст романа по страницам",
+      "source_summary": "Невысокая черноволосая подруга Сони. Встречает Эмму у выхода из туннеля и, теребя мочку уха, спрашивает, есть ли люди на Третьем уровне.",
+      "source_note": "Точный возраст, черты лица, причёска и одежда оставлены для выбора на кастинге.",
+      "reading_note": "Шесть самостоятельных портретных проб. Седьмой кадр показывает типаж 001 в сцене. Окончательный типаж предстоит выбрать.",
+      "gallery_order": [
+        "zoya001",
+        "zoya002",
+        "zoya003",
+        "zoya004",
+        "zoya005",
+        "zoya006",
+        "zoya007"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "zoya001",
+          "zoya002",
+          "zoya003",
+          "zoya004",
+          "zoya005",
+          "zoya006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      },
+      "variant_notes": {
+        "zoya007": "Постановочная проба по встрече Зои с Эммой у выхода из туннеля."
+      }
     }
   ],
   "derivatives": [

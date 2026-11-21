@@ -2832,6 +2832,240 @@
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/masha/",
       "url": "https://esannikov.github.io/Alive/World/characters/masha/#masha-type-009"
+    },
+    {
+      "id": "andryushka-type-001",
+      "character": "andryushka",
+      "label": "Типаж 001 · каштановые кудри",
+      "anchor_asset": "andryushka001",
+      "cover_asset": "andryushka001",
+      "member_codes": [
+        "andryushka001",
+        "andryushka007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka001",
+        "andryushka007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-001"
+    },
+    {
+      "id": "andryushka-type-002",
+      "character": "andryushka",
+      "label": "Типаж 002 · светлые кудри",
+      "anchor_asset": "andryushka002",
+      "cover_asset": "andryushka002",
+      "member_codes": [
+        "andryushka002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-002"
+    },
+    {
+      "id": "andryushka-type-003",
+      "character": "andryushka",
+      "label": "Типаж 003 · тёмные кудри",
+      "anchor_asset": "andryushka003",
+      "cover_asset": "andryushka003",
+      "member_codes": [
+        "andryushka003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-003"
+    },
+    {
+      "id": "andryushka-type-004",
+      "character": "andryushka",
+      "label": "Типаж 004 · рыжие кольца",
+      "anchor_asset": "andryushka004",
+      "cover_asset": "andryushka004",
+      "member_codes": [
+        "andryushka004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-004"
+    },
+    {
+      "id": "andryushka-type-005",
+      "character": "andryushka",
+      "label": "Типаж 005 · короткие чёрные кудри",
+      "anchor_asset": "andryushka005",
+      "cover_asset": "andryushka005",
+      "member_codes": [
+        "andryushka005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-005"
+    },
+    {
+      "id": "andryushka-type-006",
+      "character": "andryushka",
+      "label": "Типаж 006 · русые кудри",
+      "anchor_asset": "andryushka006",
+      "cover_asset": "andryushka006",
+      "member_codes": [
+        "andryushka006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-006"
+    },
+    {
+      "id": "zoya-type-001",
+      "character": "zoya",
+      "label": "Типаж 001 · чёрное каре",
+      "anchor_asset": "zoya001",
+      "cover_asset": "zoya001",
+      "member_codes": [
+        "zoya001",
+        "zoya007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya001",
+        "zoya007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-001"
+    },
+    {
+      "id": "zoya-type-002",
+      "character": "zoya",
+      "label": "Типаж 002 · полусобранные волосы",
+      "anchor_asset": "zoya002",
+      "cover_asset": "zoya002",
+      "member_codes": [
+        "zoya002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-002"
+    },
+    {
+      "id": "zoya-type-003",
+      "character": "zoya",
+      "label": "Типаж 003 · короткая стрижка",
+      "anchor_asset": "zoya003",
+      "cover_asset": "zoya003",
+      "member_codes": [
+        "zoya003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-003"
+    },
+    {
+      "id": "zoya-type-004",
+      "character": "zoya",
+      "label": "Типаж 004 · мягкие волны",
+      "anchor_asset": "zoya004",
+      "cover_asset": "zoya004",
+      "member_codes": [
+        "zoya004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-004"
+    },
+    {
+      "id": "zoya-type-005",
+      "character": "zoya",
+      "label": "Типаж 005 · низкий хвост",
+      "anchor_asset": "zoya005",
+      "cover_asset": "zoya005",
+      "member_codes": [
+        "zoya005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-005"
+    },
+    {
+      "id": "zoya-type-006",
+      "character": "zoya",
+      "label": "Типаж 006 · коса",
+      "anchor_asset": "zoya006",
+      "cover_asset": "zoya006",
+      "member_codes": [
+        "zoya006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-006"
     }
   ],
   "assets": {
@@ -5110,6 +5344,174 @@
       "archived": false,
       "page": "characters/masha/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/7ce9c429b59cc0ce5cea16fdba93d5933bc23b58/docs/World/characters/masha/images/masha009.png"
+    },
+    "andryushka001": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka001.png"
+    },
+    "andryushka002": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka002.png"
+    },
+    "andryushka003": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka003.png"
+    },
+    "andryushka004": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka004.png"
+    },
+    "andryushka005": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka005.png"
+    },
+    "andryushka006": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka006.png"
+    },
+    "andryushka007": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "scene"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka007.png"
+    },
+    "zoya001": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya001.png"
+    },
+    "zoya002": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya002.png"
+    },
+    "zoya003": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya003.png"
+    },
+    "zoya004": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya004.png"
+    },
+    "zoya005": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya005.png"
+    },
+    "zoya006": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya006.png"
+    },
+    "zoya007": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "scene"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya007.png"
     }
   },
   "notes": [
