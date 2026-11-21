@@ -54,7 +54,9 @@
     "orange": 7,
     "vendplaza": 5,
     "vend": 5,
-    "bar": 5
+    "bar": 5,
+    "andryushka": 8,
+    "zoya": 8
   },
   "assets": [
     {
@@ -15419,6 +15421,316 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "andryushka001",
+      "object": "andryushka",
+      "caption": "01 · Каштановые кудри · живой взгляд",
+      "source_file": "docs/World/characters/andryushka/images/andryushka001.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "643add5c6de6730a202a5da0f7f5691f32beab14bcf301df9d11e50a95ac762c",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka001.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andryushka002",
+      "object": "andryushka",
+      "caption": "02 · Светлые кудри · широкая линия скул",
+      "source_file": "docs/World/characters/andryushka/images/andryushka002.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "39f9ae6cda3c296607164200774ce5170b55d43c9ec0b0e77d57ea905cf3a006",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka002.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andryushka003",
+      "object": "andryushka",
+      "caption": "03 · Тёмные кудри · вытянутое лицо",
+      "source_file": "docs/World/characters/andryushka/images/andryushka003.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "95f9d1e7b862c0f035d16c73beab7d0d8af8da8ecd643ae9fe73841cecdf638e",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka003.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andryushka004",
+      "object": "andryushka",
+      "caption": "04 · Рыжие кудри · мягкие щёки",
+      "source_file": "docs/World/characters/andryushka/images/andryushka004.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "0f3e784ea357bf9900a3fe43ddb567c94ab7586dfa4d568e61e1e5c5ba10e518",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka004.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andryushka005",
+      "object": "andryushka",
+      "caption": "05 · Короткие чёрные кудри · сдержанная улыбка",
+      "source_file": "docs/World/characters/andryushka/images/andryushka005.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "dda7785eb3839b45a24ae64da6277863df49cb60fdee936e81f4acb7ce6d4b51",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka005.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andryushka006",
+      "object": "andryushka",
+      "caption": "06 · Русые кудри · настороженный взгляд",
+      "source_file": "docs/World/characters/andryushka/images/andryushka006.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "e3e4ff52164208845d25133505abde28db26e704717f203845458be48e45fcf3",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka006.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "andryushka007",
+      "object": "andryushka",
+      "caption": "Кадр у автомата · Андрюшка поднимает тревогу",
+      "source_file": "docs/World/characters/andryushka/images/andryushka007.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "f0243a2c15e3bc7d68586324bca6f435b4247cdf92d3b88c0bfab28103412c40",
+      "aliases": [
+        "docs/World/characters/andryushka/images/andryushka007.png"
+      ],
+      "galleries": [
+        "World/characters/andryushka"
+      ],
+      "kind": "scene",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "andryushka001"
+    },
+    {
+      "code": "zoya001",
+      "object": "zoya",
+      "caption": "01 · Чёрное каре · лёгкая улыбка",
+      "source_file": "docs/World/characters/zoya/images/zoya001.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "0fe158e22d15aafdecb7919b12ce7a25d15c5ca3f1279be399a27e18f5249efc",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya001.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zoya002",
+      "object": "zoya",
+      "caption": "02 · Полусобранные волосы · открытый взгляд",
+      "source_file": "docs/World/characters/zoya/images/zoya002.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "2c48fdec172ef3b7bdb161570e2685d825a672f3649a6511c797284f83c1e080",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya002.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zoya003",
+      "object": "zoya",
+      "caption": "03 · Короткая стрижка · вытянутый овал",
+      "source_file": "docs/World/characters/zoya/images/zoya003.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "710f21676068e57929a8cf582cfe80c32a728b6c1af4e50bbc4fdb4a1d8c7715",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya003.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zoya004",
+      "object": "zoya",
+      "caption": "04 · Мягкие волны · широкие скулы",
+      "source_file": "docs/World/characters/zoya/images/zoya004.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "e8cbdf98266c4262f831528a70a90f1ad52bd1f646166804e26ec7815607f5df",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya004.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zoya005",
+      "object": "zoya",
+      "caption": "05 · Низкий хвост · лёгкая чёлка",
+      "source_file": "docs/World/characters/zoya/images/zoya005.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "994fcfcca7048fadc0a45b18fad59ccdf222462a38d4c1f782976f1a8072f0f3",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya005.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zoya006",
+      "object": "zoya",
+      "caption": "06 · Коса · мягкий овал лица",
+      "source_file": "docs/World/characters/zoya/images/zoya006.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "a8b93d059d2636f025066f9f9a59466afa16170d0a73ef013aba64fb5d2462b6",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya006.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "zoya007",
+      "object": "zoya",
+      "caption": "Кадр у выхода из туннеля · вопрос Эмме",
+      "source_file": "docs/World/characters/zoya/images/zoya007.png",
+      "source_commit": "7b3316cf1d96b945ea999a7efee5f08d29db61fd",
+      "sha256": "8e0b50831872fecc9733151b661dae34c518f1a3e93c5d1060547ce0fea64dc2",
+      "aliases": [
+        "docs/World/characters/zoya/images/zoya007.png"
+      ],
+      "galleries": [
+        "World/characters/zoya"
+      ],
+      "kind": "scene",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "zoya001"
     }
   ],
   "deleted_codes": [
