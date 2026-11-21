@@ -31,7 +31,7 @@
     "vovik": 7,
     "square": 16,
     "donteacher": 2,
-    "alc": 37,
+    "alc": 53,
     "kir": 7,
     "push": 19,
     "frik": 15,
@@ -15212,6 +15212,204 @@
       ],
       "galleries": [
         "World/styles/alc-14"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc044",
+      "object": "alc-15",
+      "caption": "Перед экзаменом",
+      "source_file": "docs/World/styles/alc-15/images/alc044.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "dae233a0f11602d07d4cb5e5e517067a6dd9d2cd788b330d8f30cfa8e2cef542",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc044.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc045",
+      "object": "alc-15",
+      "caption": "Таис у Шестых туннелей",
+      "source_file": "docs/World/styles/alc-15/images/alc045.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "21468b0ab4087d7ffc9d8df30224c476021f4ab8905f7a1055868b1edc69bc70",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc045.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc046",
+      "object": "alc-15",
+      "caption": "Погасшие витрины",
+      "source_file": "docs/World/styles/alc-15/images/alc046.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "d3a177b7beb22926eced42f207c2da2a8be653a80702dd7bd3f732ecd4e9d155",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc046.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc047",
+      "object": "alc-15",
+      "caption": "Колька и Лон в мастерской",
+      "source_file": "docs/World/styles/alc-15/images/alc047.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "d933f03f5afb626e737b5285642841cfc79f15acee5fed3ebe47b37d0a02314d",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc047.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc048",
+      "object": "alc-15",
+      "caption": "Маша приносит блины",
+      "source_file": "docs/World/styles/alc-15/images/alc048.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "0c6167b1e90fae92467f5ce8e41b9914ee94200d0c57a6a55363ccbbf31d418d",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc048.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc049",
+      "object": "alc-15",
+      "caption": "Письма профессора",
+      "source_file": "docs/World/styles/alc-15/images/alc049.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "f22355012e0844048ef53e77ea70be17b2af92ce9003478002e9f3e41badc293",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc049.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc050",
+      "object": "alc-15",
+      "caption": "Таис кормит Пушистика",
+      "source_file": "docs/World/styles/alc-15/images/alc050.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "e00826ee441cc300786ab382b69f598f22b77bd0bc7816864a92a9bdbde8f45e",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc050.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc051",
+      "object": "alc-15",
+      "caption": "Таис и Эмма у автомата",
+      "source_file": "docs/World/styles/alc-15/images/alc051.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "bee5ea2d5b936c4a8e55189868b4f6a070eb635ef24c3332a6f9c1443b4cf52c",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc051.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "style"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "alc052",
+      "object": "alc-15",
+      "caption": "Эдем с фонтаном",
+      "source_file": "docs/World/styles/alc-15/images/alc052.png",
+      "source_commit": "716fb03518158934ef344dcbdb32dcc198ce93cd",
+      "sha256": "d54989c30e2ce7e7c71f16750029ecaed6537ffa205a6b7366d3723f13699ce5",
+      "aliases": [
+        "docs/World/styles/alc-15/images/alc052.png"
+      ],
+      "galleries": [
+        "World/styles/alc-15"
       ],
       "kind": "appearance",
       "status": "candidate",

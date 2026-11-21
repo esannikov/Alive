@@ -1157,6 +1157,34 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/styles/alc-15/",
+    "page": "styles/alc-15/",
+    "title": "Перьевая графика с плоскостным цветом",
+    "variantCodes": [
+      "alc044",
+      "alc045",
+      "alc046",
+      "alc047",
+      "alc048",
+      "alc049",
+      "alc050",
+      "alc051",
+      "alc052"
+    ]
+  },
+  {
+    "term": "Alive/World/styles/alc-15/reference",
+    "page": "styles/alc-15/reference.html",
+    "title": "Перьевая графика с плоскостным цветом · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/styles/alc-15/prompts/",
+    "page": "styles/alc-15/prompts/",
+    "title": "Перьевая графика с плоскостным цветом · промпты",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/clothing/tais/",
     "page": "clothing/tais/",
     "title": "Одежда Таис",
