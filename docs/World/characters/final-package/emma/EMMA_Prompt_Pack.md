@@ -17,6 +17,18 @@
 - [Arc’teryx Altira Cropped](https://arcteryx.com/us/en/shop/womens/altira-cropped-jacket-0094?colour=17657) · короткая посадка, мягкая линия плеча, складки для движения.
 - [Hyein Seo Cropped Shell Jacket](https://hbx.com/women/brands/hyein-seo-1/cropped-shell-jacket-light-grey-us) · асимметричная застёжка и короткий верх в сочетании с широкими брюками.
 
+## Знаки отделения операторов
+
+Роман, с. 173–174. Эмма получает узкие золотые погоны и треугольные шевроны с синими звёздами. Встроенный в коробку чип показывает голограмму нашивки.
+
+В адаптации число звёзд обозначает ступень внутри отделения. Оно одинаково на каждом погоне, каждом шевроне и в голограмме. Три звезды — знак капитана отделения, который носит Эмма.
+
+На погонах звёзды идут в ряд. На шевроне для капитана две звезды расположены сверху, одна снизу. Голограмма повторяет весь контур шеврона и расстановку звёзд.
+
+Шкала из трёх ступеней, названия первых двух ступеней и количество звёзд предложены для адаптации.
+
+[Схема знаков](operator-insignia.svg).
+
 ## Запросы по листам
 
 ### EMMA-P01 · Контрольный портрет
@@ -171,14 +183,14 @@ Reference 1 is the existing shot to edit in place. References 2 and 3 are the ex
 
 ### EMMA-EC03 · Форма капитана отделения операторов
 
-Костюмная проба. В романе форма лежит в коробке. На узких погонах и треугольных шевронах видны синие звёзды на золоте. Для адаптации предложен форменный комплект из матовой костюмной ткани. У жакета низкий воротник и скрытая застёжка, у прямых брюк — стрелки.
+Костюмная проба. В романе форма лежит в коробке. На узких погонах и треугольных шевронах видны синие звёзды на золоте. Для адаптации предложен форменный комплект из матовой костюмной ткани. В адаптации у капитана по три синие звезды на каждом погоне и шевроне.
 
 Страницы романа · 173, 174.
 
-Референсы · Лист EC03 из v1.3, Контрольный портрет, Контрольный ракурс три четверти.
+Референсы · Кадр EC03 из версии v1.4.
 
 ```text
-Reference 1 is the existing shot to edit in place. References 2 and 3 are the exact frontal and three-quarter photographic casting identity for the fictional original ALIVE character Emma Raum, age 15. Their natural blue-gray eyes, eyelid geometry, brow shape, copper hairline, nose bridge/tip, mouth shape, jaw, ears and irregular faint freckles lock identity. Restore camera-real detail to every visibly seen face of Emma in image 1, without recasting or changing her expression, age, pose, head size, angle or hair shape. Copy the reference skin's real fine texture, actual translucency and subtle natural colour on cheeks, individual eyelashes and eyebrow hairs, fine individual hair strands, normal optical and eyelid shadows, relaxed mouth anatomy. Premium documentary production photograph with physically correct soft window key and realistic bounce, faces in crisp natural optical focus at their scale, photos without beauty filter, no plastic, painted or overly smooth skin, no manga or illustration contours, no orange color exaggeration or stylized sharpening. Reference 1 remains exact source for figure placement, camera angle, anatomy, hair styling, the design of every garment and shoe from collar to sole, panel design, colors and accessories, beige background, crop, pose, numbers of figures and their expressions. Do a localized photo-real facial refinement. Material and identity must be credible. Preserve size, margins, floor line, number and sequence of frames exactly. Do not add text, props, graphics, separate portrait inset or any other aesthetics. One full-length Emma in exact formal ink-blue uniform with gold narrow shoulder bars, gold triangular blue-star badges, low collar, hidden seam and black formal shoes. Preserve insignia positions and exact material. Preserve unobstructed shoulders.
+Retouch insignia only, preserving exact lighting, photographic material texture and every pixel subject outside the insignia as closely as possible. The new consistent OFFICIAL CAPTAIN insignia has precisely THREE evenly spaced small, dark cobalt blue five-point stars in ONE straight centered row along the long axis of EACH narrow matte-gold shoulder bar: star, star, star. Re-space the two stars already present and add one matching star, to make a clearly countable sequence of exactly three on the left strip and exactly three on the right strip, not two, and with no space left for more. Count each side independently. The two down-pointing gold sleeve triangles already show exactly three cobalt blue stars, two across above and one centered below. Preserve those THREE stars, sizes and places on EACH down-pointing gold triangle. Keep the bars and triangles the same original size, position, perspective and material and preserve realistic relief. This is full-length photographic Emma Raum, preserve her exact approved face and hair, original blue jacket, silhouette, clothes and pose, beige background. No device or floating display in this shot.
 ```
 
 [Оригинал PNG](images/ec03.png)
@@ -297,14 +309,14 @@ Landscape tabletop studio three-area macro object study of the novel jewelry and
 
 ### EMMA-EP17 · Коробка с формой
 
-Форма в сложенном виде и чип, показывающий голограмму нашивки.
+Чип показывает треугольный шеврон с тремя звёздами. Та же тройка повторяется на погонах и нарукавных шевронах.
 
 Страницы романа · 173, 174.
 
-Референсы · Референс коробки и голограммы, Предыдущая проба формы для сверки нашивок и типажа.
+Референсы · Кадр EP17 из версии v1.4.
 
 ```text
-Premium photo of the FIRST reference's open uniform box in pale beige neutral light, same form and existing flush rank-display chip with a single blue holographic star on the right, realistic and restrained hologram. Inside the box replace clothes with a neatly folded jacket matching the following design of the fictional ALIVE captain. Take only navy colors and narrow gold rank bars and blue star triangles from reference 2. Original contemporary FORMAL institutional captain uniform: impeccably tailored, dark deep ink blue monochrome matte fine-gauge tropical wool–technical-fiber suiting, a precise professional FALL OF CLOTH. Clean compact straight jacket to high hip, slightly relaxed chest and waist and without hourglass or flaring, a natural crisply defined shoulder line with no padding bulk. Low upright collar, fine crisp fabric edges, concealed fine center-front placket with its line shifted slightly left of center, one fine diagonal seam connecting upper chest to collar, all in the same color matte suiting cloth. Jacket looks like high-end future station service dress. No sporty yoke color blocks, stretch jerseys, track jacket, padded inserts, perforated elbow panels, elastic hem, banded cuffs, visible external zips, athletic mesh or old military drama. Modern without changing formal visual language: quiet single-tone tonal satin-bound collar edge, hidden construction, neatly set smooth sleeves with tiny invisible closures. Jacket has two slim matte flat gold shoulder bars with two small dark blue stars on each and small matte gold triangular badges with three tiny blue stars on both upper sleeves. Straight tailored trousers with subtle crisp uninterrupted front crease and orderly slight break, medium-fitted natural through hip and thigh, deep blue matching jacket. Refined black leather formal slip-on station shoes, small architectural seam and smooth formal leather, slightly squared almond toe, discreet thin sole. No retro tall collar, piping down torso, visible rows of buttons, ribbons, weapon, belt, costume epaulette decoration, combat shoes, logos or text. The photograph shows folded jacket ONLY inside box. Top layer lies flat with trim collar exposed, original muted dark ink-blue solid matte fine suiting, no color block, slim slightly off-center invisible closure, two gold bars with blue stars and triangular gold insignia with blue stars visible on neatly folded shoulder or sleeve. One landscape photograph, close-up framing, premium realistic textile and underplayed light, no humans, no trousers outside box, no extra design details or typography.
+Retouch insignia only, preserving exact lighting, photographic material texture and every pixel subject outside the insignia as closely as possible. The new consistent OFFICIAL CAPTAIN insignia has precisely THREE evenly spaced small, dark cobalt blue five-point stars in ONE straight centered row along the long axis of EACH narrow matte-gold shoulder bar: star, star, star. Re-space the two stars already present and add one matching star, to make a clearly countable sequence of exactly three on the left strip and exactly three on the right strip, not two, and with no space left for more. Count each side independently. The two down-pointing gold sleeve triangles already show exactly three cobalt blue stars, two across above and one centered below. Preserve those THREE stars, sizes and places on EACH down-pointing gold triangle. Keep the bars and triangles the same original size, position, perspective and material and preserve realistic relief. This is a photo of the folded uniform in its opened case. ALSO replace the projected SINGLE star on the hologram at the right with an exact three-star TRIANGULAR CHEVRON: a thin, clear downward-pointing triangle, as projected crisp cobalt/cool light blue luminous lines, containing precisely THREE distinct clearly separated glowing blue five-point stars positioned exactly like the adjacent physical sleeve triangle, two above and one in the center below. The hologram is one badge in perspective, projected by the existing small rectangular chip. Keep box, fabric, folded position and scene unchanged. No letters, new objects, other lights, or added panels.
 ```
 
 [Оригинал PNG](images/ep17.png)
@@ -331,19 +343,15 @@ Premium unretouched photographic casting still for the fictional ALIVE character
 
 ### EMMA-EC03 · Крупный портрет
 
-Референсы · контрольный портрет и костюмная проба из пакета v1.3.
-
-```text
-Photographic close-up edit of original fictional ALIVE Emma Raum age 15. PHOTO 1 is the actual face and photography master: exactly preserve face proportions, eyes, lips, nose, chin, brow, freckles, head scale, hair color, tiny natural details and the photographic rendering of that real casting image. Keep the same crop and angles, natural soft window light on warm beige, camera lens texture with accurately resolved lashes, subtle real skin texture without digital retouch. Photo 2 provides clothing only. Replace clothing in the first photo with the high-hip, deep ink blue matte uniform jacket's low collar and slightly off-center concealed placket, narrow flat gold shoulder insignia with navy stars. Copy the exact formal tailoring and shape, without visible lace or necklace. Calm attentive eyes and a slightly relaxed brow. One close head-and-shoulders studio photograph with evidence of the actual real skin, hair and fibers. No fake sharpening, beauty filtering, illustrative or digital art treatment. No written text.
+Референсы · Крупный портрет в форме из пакета v1.4.\n\n```text
+Retouch insignia only, preserving exact lighting, photographic material texture and every pixel subject outside the insignia as closely as possible. The new consistent OFFICIAL CAPTAIN insignia has precisely THREE evenly spaced small, dark cobalt blue five-point stars in ONE straight centered row along the long axis of EACH narrow matte-gold shoulder bar: star, star, star. Re-space the two stars already present and add one matching star, to make a clearly countable sequence of exactly three on the left strip and exactly three on the right strip, not two, and with no space left for more. Count each side independently. The two down-pointing gold sleeve triangles already show exactly three cobalt blue stars, two across above and one centered below. Preserve those THREE stars, sizes and places on EACH down-pointing gold triangle. Keep the bars and triangles the same original size, position, perspective and material and preserve realistic relief. This is the existing sharp Emma portrait. Preserve the entire exact identity, visible freckles, hair strands, face direction, light, shoulder silhouette, collar and seam. Keep the original close-up crop and portrait photo quality. Preserve all existing sleeve badges even if the cropping is tight.
 ```
 
 [Оригинал PNG](references/ec03-portrait.png)
 
 ### EMMA-EC04 · Крупный портрет
 
-Референсы · контрольный портрет и костюмная проба из пакета v1.3.
-
-```text
+Референсы · Контрольный портрет и костюмная проба из пакета v1.3.\n\n```text
 Photographic close-up edit of original fictional ALIVE Emma Raum age 15. PHOTO 1 is the actual face and photography master: exactly preserve face proportions, eyes, lips, nose, chin, brow, freckles, head scale, hair color, tiny natural details and the photographic rendering of that real casting image. Keep the same crop and angles, natural soft window light on warm beige, camera lens texture with accurately resolved lashes, subtle real skin texture without digital retouch. Photo 2 provides clothing only. Replace clothing in the first photo with the sand techwear hood and shirt from photo 2, same wide asymmetric oat yoke and terracotta lining, and the same red ladybug on its thin black cord, shoulder of the same blue backpack if its reference side is visible. Keep the same copper hair and distinct face. One close head-and-shoulders studio photograph with evidence of the actual real skin, hair and fibers. No fake sharpening, beauty filtering, illustrative or digital art treatment. No written text.
 ```
 
@@ -351,9 +359,7 @@ Photographic close-up edit of original fictional ALIVE Emma Raum age 15. PHOTO 1
 
 ### EMMA-EC05 · Крупный портрет
 
-Референсы · контрольный портрет и костюмная проба из пакета v1.3.
-
-```text
+Референсы · Контрольный портрет и костюмная проба из пакета v1.3.\n\n```text
 Photographic close-up edit of original fictional ALIVE Emma Raum age 15. PHOTO 1 is the actual face and photography master: exactly preserve face proportions, eyes, lips, nose, chin, brow, freckles, head scale, hair color, tiny natural details and the photographic rendering of that real casting image. Keep the same crop and angles, natural soft window light on warm beige, camera lens texture with accurately resolved lashes, subtle real skin texture without digital retouch. Photo 2 provides clothing only. Replace clothing in the first photo with the soft warm apricot textured pajama top and its slate-blue collar from reference two, red ladybug on thin knotted black cord and a single loose copper side braid. Preserve the subtle genuine closed-mouth smile and eyes. One close head-and-shoulders studio photograph with evidence of the actual real skin, hair and fibers. No fake sharpening, beauty filtering, illustrative or digital art treatment. No written text.
 ```
 

@@ -37,6 +37,8 @@ small{font:600 .72rem/1.2 ui-monospace,monospace;color:var(--accent)}
 @media(max-width:760px){.card.tall{grid-column:span 6}.card.wide{grid-column:1/-1}}
 @media(max-width:480px){header{grid-template-columns:1fr}.hero img{height:auto;max-height:470px;object-fit:contain}.card.tall,#look .card.tall{grid-column:1/-1}.links{margin-top:15px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.rank-spec img{width:100%;max-width:1030px;height:auto;display:block}.rank-spec p{max-width:84ch}
 </style></head>
 <body><main>
 <header>
@@ -44,7 +46,7 @@ small{font:600 .72rem/1.2 ui-monospace,monospace;color:var(--accent)}
     <p class="brand">ALIVE / ПАКЕТ ПЕРСОНАЖА</p>
     <h1>Эмма</h1>
     <p class="lead">Фотореалистический пакет</p>
-    <p class="meta">24 листа · 6 костюмов · типаж 009 · v1.4</p>
+    <p class="meta">24 листа · 6 костюмов · типаж 009 · v1.5</p>
     <div class="links"><a class="primary" href="EMMA_Photoreal_Package.pdf">Скачать PDF</a>
     <a href="EMMA_Prompt_Pack.md">Пакет промптов</a>
     <a href="../../emma/#emma038">Карточка Эммы</a>
@@ -52,7 +54,7 @@ small{font:600 .72rem/1.2 ui-monospace,monospace;color:var(--accent)}
   </div>
   <a class="hero" href="images/portrait-front.png"><img src="images/portrait-front.webp" alt="Контрольный фронтальный портрет Эммы"></a>
 </header>
-<nav aria-label="Разделы пакета"><a href="#look">Типаж и модельные листы</a><a href="#acting">Мимика и пластика</a><a href="#wardrobe">Гардероб по роману</a><a href="#details">Детали и реквизит</a></nav>
+<nav aria-label="Разделы пакета"><a href="#look">Типаж и модельные листы</a><a href="#acting">Мимика и пластика</a><a href="#wardrobe">Гардероб по роману</a><a href="#details">Детали и реквизит</a><a href="#insignia">Знаки операторов</a></nav>
 <section id="look"><h2>Типаж и модельные листы</h2><div class="grid"><article class="card tall" id="portrait-front">
       <a class="photo" href="images/portrait-front.png" aria-label="Открыть оригинал · Контрольный портрет">
         <img src="images/portrait-front.webp" width="1024" height="1536" alt="Контрольный портрет" loading="lazy" decoding="async">
@@ -122,7 +124,7 @@ small{font:600 .72rem/1.2 ui-monospace,monospace;color:var(--accent)}
       <a class="photo" href="images/ec03.png" aria-label="Открыть оригинал · Форма капитана отделения операторов">
         <img src="images/ec03.webp" width="1024" height="1536" alt="Форма капитана отделения операторов" loading="lazy" decoding="async">
       </a>
-      <div class="details"><h3>Форма капитана отделения операторов</h3><p>Костюмная проба. В романе форма лежит в коробке. На узких погонах и треугольных шевронах видны синие звёзды на золоте. Для адаптации предложен форменный комплект из матовой костюмной ткани. У жакета низкий воротник и скрытая застёжка, у прямых брюк — стрелки.</p><p><a href="references/ec03-portrait.png">Крупный портрет в костюме</a></p><p class="pages">Страницы романа · 173, 174</p></div>
+      <div class="details"><h3>Форма капитана отделения операторов</h3><p>Костюмная проба. В романе форма лежит в коробке. На узких погонах и треугольных шевронах видны синие звёзды на золоте. Для адаптации предложен форменный комплект из матовой костюмной ткани. В адаптации у капитана по три синие звезды на каждом погоне и шевроне.</p><p><a href="references/ec03-portrait.png">Крупный портрет в костюме</a></p><p><a href="#insignia">Система знаков операторов</a></p><p class="pages">Страницы романа · 173, 174</p></div>
     </article><article class="card tall" id="ec04">
       <a class="photo" href="images/ec04.png" aria-label="Открыть оригинал · Песочное худи Нижнего уровня">
         <img src="images/ec04.webp" width="1024" height="1536" alt="Песочное худи Нижнего уровня" loading="lazy" decoding="async">
@@ -172,6 +174,12 @@ small{font:600 .72rem/1.2 ui-monospace,monospace;color:var(--accent)}
       <a class="photo" href="images/ep17.png" aria-label="Открыть оригинал · Коробка с формой">
         <img src="images/ep17.webp" width="1536" height="1024" alt="Коробка с формой" loading="lazy" decoding="async">
       </a>
-      <div class="details"><h3>Коробка с формой</h3><p>Форма в сложенном виде и чип, показывающий голограмму нашивки.</p><p class="pages">Страницы романа · 173, 174</p></div>
-    </article></div></section>
+      <div class="details"><h3>Коробка с формой</h3><p>Чип показывает треугольный шеврон с тремя звёздами. Та же тройка повторяется на погонах и нарукавных шевронах.</p><p><a href="#insignia">Система знаков операторов</a></p><p class="pages">Страницы романа · 173, 174</p></div>
+    </article></div></section><section id="insignia" class="rank-spec">
+<h2>Знаки отделения операторов</h2>
+<p>В адаптации число звёзд обозначает ступень внутри отделения. Оно одинаково на каждом погоне, каждом шевроне и в голограмме. Три звезды — знак капитана отделения, который носит Эмма.</p>
+<img src="operator-insignia.svg" width="1030" height="350" alt="Одна звезда у оператора, две у старшего оператора, три у капитана. Число одинаково на погоне, шевроне и в голограмме.">
+<p>На погонах звёзды идут в ряд. На шевроне для капитана две звезды расположены сверху, одна снизу. Голограмма повторяет весь контур шеврона и расстановку звёзд.</p>
+<p>Роман, с. 173–174. Эмма получает узкие золотые погоны и треугольные шевроны с синими звёздами. Встроенный в коробку чип показывает голограмму нашивки. Шкала из трёх ступеней, названия первых двух ступеней и количество звёзд предложены для адаптации.</p>
+</section>
 </main></body></html>
