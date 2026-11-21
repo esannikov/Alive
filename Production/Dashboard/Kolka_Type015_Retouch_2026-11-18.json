@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-18",
+  "identity": "kolka-type-015",
+  "source_commit": "cbbb72ac88775cccdc50bff852dd8c0ea7220422",
+  "model": "gpt-image-2.5-sunburst",
+  "method": "Masked under-eye retouch",
+  "items": [
+    {
+      "code": "kolka033",
+      "source_file": "docs/World/characters/kolka/images/kolka033.png",
+      "sha256": "be3129d3f67ac517ab01432fb42d03a57b8ca886868e684c1503e7362bf4f4ce",
+      "previous": {
+        "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+        "sha256": "eb038d67106655aab6faf4af2687c04b4ab3699bcb5dabd2a43cf4c91a39fd62"
+      }
+    },
+    {
+      "code": "kolka034",
+      "source_file": "docs/World/characters/kolka/images/kolka034.png",
+      "sha256": "845d91c2b5deb38af194b5fd94b7d7026fba3097c864f87ae5bb995d3e67585a",
+      "previous": {
+        "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+        "sha256": "25c8db5e0c6120bdcfb0ea71ddaab327c79c9ab80bc9fa3aa09071a5c927652b"
+      }
+    },
+    {
+      "code": "kolka035",
+      "source_file": "docs/World/characters/kolka/images/kolka035.png",
+      "sha256": "345fb5df9f51249cf9247daf6e34897987acf589ad62dd196c4de8f779282edf",
+      "previous": {
+        "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+        "sha256": "ef1f3d92837f85d3ecadf1fd160219aba5d779238f964a8356042484558e50da"
+      }
+    },
+    {
+      "code": "kolka036",
+      "source_file": "docs/World/characters/kolka/images/kolka036.png",
+      "sha256": "8ac2fb10404fdd8a507f46af92fdaf5b5ac231cafa528b82ca351b3372b5b6a6",
+      "previous": {
+        "source_commit": "5666627618c51b3017269062394eeb0b6289ea7c",
+        "sha256": "886e4acc1f893403bb6dd8688e2ff27d6c6bd7bbcb5571f6b8ba4b2800f8e6fc"
+      }
+    }
+  ]
+}

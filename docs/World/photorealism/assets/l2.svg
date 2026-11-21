@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507" height="205" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 205" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507" height="205"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-205)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="1" y="1" width="505" height="203" rx="8" ry="0" style="stroke: rgb(77%,82%,79%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,95%,93%); fill-rule: evenodd;"/>
+			<text x="18" y="183" style="font-family: Arial; font-size: 14px;fill: rgb(20%,27%,25%); stroke:none;" transform="translate(0,366) scale(1,-1)">ПЛАН ЗВЕРХУ</text>
+			<circle cx="211" cy="102" r="15" style="stroke: rgb(20%,27%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,71%,59%); fill-rule: evenodd;"/>
+			<text x="203" y="99" style="font-family: Arial; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,198) scale(1,-1)">A</text>
+			<path d="M 229,102 L 246,102 Z" style="stroke: rgb(20%,27%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="246 102, 239.6969 105.0448, 239.6969 98.95524" style="stroke: rgb(20%,27%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(20%,27%,25%); fill-rule: evenodd;"/>
+			<circle cx="294" cy="102" r="15" style="stroke: rgb(20%,27%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,71%,59%); fill-rule: evenodd;"/>
+			<text x="286" y="99" style="font-family: Arial; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,198) scale(1,-1)">B</text>
+			<path d="M 276,102 L 259,102 Z" style="stroke: rgb(20%,27%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="259 102, 265.3031 98.95524, 265.3031 105.0448" style="stroke: rgb(20%,27%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(20%,27%,25%); fill-rule: evenodd;"/>
+			<rect x="228" y="28" width="42" height="19" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(20%,27%,25%); fill-rule: evenodd;"/>
+			<text x="225" y="14" style="font-family: Arial; font-size: 14px;fill: rgb(20%,27%,25%); stroke:none;" transform="translate(0,28) scale(1,-1)">КАМЕРА</text>
+			<rect x="395" y="104" width="14" height="48" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,42%,35%); fill-rule: evenodd;"/>
+			<text x="372" y="161" style="font-family: Arial; font-size: 14px;fill: rgb(14%,42%,35%); stroke:none;" transform="translate(0,322) scale(1,-1)">KEY</text>
+			<path d="M 390,128 L 229,102 Z" style="stroke: rgb(14%,42%,35%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="229 102, 235.7079 99.99906, 234.7371 106.0107" style="stroke: rgb(14%,42%,35%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,42%,35%); fill-rule: evenodd;"/>
+			<path d="M 390,128 L 312,102 Z" style="stroke: rgb(14%,42%,35%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="312 102, 318.9425 101.1047, 317.0168 106.8817" style="stroke: rgb(14%,42%,35%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,42%,35%); fill-rule: evenodd;"/>
+			<circle cx="125" cy="158" r="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,54%,27%); fill-rule: evenodd;"/>
+			<text x="97" y="170" style="font-family: Arial; font-size: 14px;fill: rgb(20%,27%,25%); stroke:none;" transform="translate(0,340) scale(1,-1)">ЛАМПА</text>
+			<path d="M 125,149 L 211,120 Z" style="stroke: rgb(77%,54%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="211 120, 206.0002 124.8992, 204.0544 119.1289" style="stroke: rgb(77%,54%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,54%,27%); fill-rule: evenodd;"/>
+			<rect x="218" y="59" width="64" height="6" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,78%,70%); fill-rule: evenodd;"/>
+			<text x="220" y="43" style="font-family: Arial; font-size: 14px;fill: rgb(20%,27%,25%); stroke:none;" transform="translate(0,86) scale(1,-1)">BOUNCE</text>
+		</g>
+	</g>
+</svg>

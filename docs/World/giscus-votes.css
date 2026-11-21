@@ -1,0 +1,14 @@
+@import url("https://giscus.app/themes/dark.css");
+html,body,main{background:#090a0b!important;color:#f3f3ef;color-scheme:dark}
+.gsc-comments,.gsc-reactions-count,.gsc-direct-reaction-buttons,.gsc-reactions-menu>summary{display:none!important}
+.gsc-main,.gsc-reactions{margin:0!important;padding:0!important;gap:0!important}
+.gsc-reactions>div{justify-content:flex-start!important;margin:0!important}
+.gsc-reactions-menu::details-content{display:contents!important;content-visibility:visible!important}
+.gsc-reactions-popover{display:block!important;visibility:visible!important;position:static!important;transform:none!important;border:0!important;box-shadow:none!important;background:transparent!important;padding:0!important}
+.gsc-reactions-popover:before,.gsc-reactions-popover:after,.gsc-reactions-popover>div.border-t{display:none!important}
+.gsc-reactions-popover>p{font-size:12px;margin:2px 0!important}
+.gsc-reactions-popover>p:not(:has(a)){display:none!important}
+.gsc-reactions-popover>div{margin:0!important}
+.gsc-emoji-button:nth-child(n+3){display:none!important}
+.gsc-emoji-button{font-size:20px;min-width:44px;min-height:36px;padding:4px 10px;border:1px solid #30363b;border-radius:5px;margin-right:6px}
+.gsc-emoji-button.has-reacted{background:#c6ec6a!important;color:#090a0b!important}

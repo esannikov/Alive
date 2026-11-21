@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-16",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "items": [
+    {
+      "code": "kaluzhsky001",
+      "object": "kaluzhsky",
+      "caption": "Высокий лоб · живая асимметрия",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky001.png",
+      "sha256": "7bb1ee3aa9e6656e046d0c0dbc3481021469905df762378ffeaef4501a79fa51",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nPROFESSOR KALUZHSKY before illness, a living adult scientist in the old spacecraft civilization. Book anchors: a SHORT-STATURED BROWN-EYED man with an intelligent mobile expressive face, a mild self-assured smile while presenting his research; persuasive conviction and bureaucratic certainty, not a cartoon evil genius. Exact age, hair, facial geometry and clothing are casting proposals. Portray about50–60years, compact ordinary build with natural adult proportions; no muscular hero body. Brown eyes mandatory. Modest clean slate-grey civilian research jacket over a soft off-white shirt, no lab coat, glasses, medals or science gadgets. A softly blurred quiet pale station meeting-room wall with a subtle warm practical. Calm alert analytical gaze, slight closed-mouth confidence. No illness, transformation or injuries in this state.\n\nCASTING VARIANT: A tall domed forehead with a receding dark-brown hairline, narrow temples, compact lower face, small slightly crooked nose, one brow naturally higher, small expressive brown eyes, clean-shaven. Age52. A quick perceptive closed-mouth half-smile.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "kaluzhsky002",
+      "object": "kaluzhsky",
+      "caption": "Сухой овал · точный взгляд",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky002.png",
+      "sha256": "7df963031f344333d23a43171a38d0e2757fa071caee99ff683bb5f11c6d7730",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nPROFESSOR KALUZHSKY before illness, a living adult scientist in the old spacecraft civilization. Book anchors: a SHORT-STATURED BROWN-EYED man with an intelligent mobile expressive face, a mild self-assured smile while presenting his research; persuasive conviction and bureaucratic certainty, not a cartoon evil genius. Exact age, hair, facial geometry and clothing are casting proposals. Portray about50–60years, compact ordinary build with natural adult proportions; no muscular hero body. Brown eyes mandatory. Modest clean slate-grey civilian research jacket over a soft off-white shirt, no lab coat, glasses, medals or science gadgets. A softly blurred quiet pale station meeting-room wall with a subtle warm practical. Calm alert analytical gaze, slight closed-mouth confidence. No illness, transformation or injuries in this state.\n\nCASTING VARIANT: A long lean oval face, a prominent gently convex nose, thin horizontal lips, close-set deep brown eyes, straight low brows, short neatly side-parted salt-and-pepper hair, clean-shaven. Age56, slight under-eye tiredness.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "kaluzhsky003",
+      "object": "kaluzhsky",
+      "caption": "Округлые скулы · мягкая уверенность",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky003.png",
+      "sha256": "62601941c6f06bfd49207946057fdd4eb8019b013559c53629bd565c7a1281f2",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nPROFESSOR KALUZHSKY before illness, a living adult scientist in the old spacecraft civilization. Book anchors: a SHORT-STATURED BROWN-EYED man with an intelligent mobile expressive face, a mild self-assured smile while presenting his research; persuasive conviction and bureaucratic certainty, not a cartoon evil genius. Exact age, hair, facial geometry and clothing are casting proposals. Portray about50–60years, compact ordinary build with natural adult proportions; no muscular hero body. Brown eyes mandatory. Modest clean slate-grey civilian research jacket over a soft off-white shirt, no lab coat, glasses, medals or science gadgets. A softly blurred quiet pale station meeting-room wall with a subtle warm practical. Calm alert analytical gaze, slight closed-mouth confidence. No illness, transformation or injuries in this state.\n\nCASTING VARIANT: A rounder broad cheek structure tapering into a small smooth chin, a short broad nose, widely spaced warm brown eyes, coarse wavy greying hair brushed back without styling, clean-shaven. Age58, amused precise attention.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "kaluzhsky004",
+      "object": "kaluzhsky",
+      "caption": "Квадратный типаж · сдержанная улыбка",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky004.png",
+      "sha256": "0afdc6e4596429ba8ecfb59139735c1557655e47c273f9fee84652a687bb0f68",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nPROFESSOR KALUZHSKY before illness, a living adult scientist in the old spacecraft civilization. Book anchors: a SHORT-STATURED BROWN-EYED man with an intelligent mobile expressive face, a mild self-assured smile while presenting his research; persuasive conviction and bureaucratic certainty, not a cartoon evil genius. Exact age, hair, facial geometry and clothing are casting proposals. Portray about50–60years, compact ordinary build with natural adult proportions; no muscular hero body. Brown eyes mandatory. Modest clean slate-grey civilian research jacket over a soft off-white shirt, no lab coat, glasses, medals or science gadgets. A softly blurred quiet pale station meeting-room wall with a subtle warm practical. Calm alert analytical gaze, slight closed-mouth confidence. No illness, transformation or injuries in this state.\n\nCASTING VARIANT: A compact square face with gentle asymmetric jaw corners, broad forehead, small straight nose, narrow mobile brown eyes, very short greying hair and a neat small natural grey moustache, no beard. Age55, restrained affable authority.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "kaluzhsky005",
+      "object": "kaluzhsky",
+      "caption": "Тонкие черты · волнистые волосы",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky005.png",
+      "sha256": "1671ab4012494b85f33166b59d06ea452975044185081d0da6d79780fda034b5",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nPROFESSOR KALUZHSKY before illness, a living adult scientist in the old spacecraft civilization. Book anchors: a SHORT-STATURED BROWN-EYED man with an intelligent mobile expressive face, a mild self-assured smile while presenting his research; persuasive conviction and bureaucratic certainty, not a cartoon evil genius. Exact age, hair, facial geometry and clothing are casting proposals. Portray about50–60years, compact ordinary build with natural adult proportions; no muscular hero body. Brown eyes mandatory. Modest clean slate-grey civilian research jacket over a soft off-white shirt, no lab coat, glasses, medals or science gadgets. A softly blurred quiet pale station meeting-room wall with a subtle warm practical. Calm alert analytical gaze, slight closed-mouth confidence. No illness, transformation or injuries in this state.\n\nCASTING VARIANT: An elongated fine-boned face, slightly prominent ears, thin arched nose, expressive large but natural brown eyes under oblique brows, soft medium-length dark wavy hair greying at temples, clean-shaven. Age49, curious animated expression.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "kaluzhsky006",
+      "object": "kaluzhsky",
+      "caption": "Низкие брови · спокойная настойчивость",
+      "source_file": "docs/World/characters/kaluzhsky/images/kaluzhsky006.png",
+      "sha256": "325d2435441c5ba8789455f62746a76ce575cde9beac7a048f7a3426714ee725",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nPROFESSOR KALUZHSKY before illness, a living adult scientist in the old spacecraft civilization. Book anchors: a SHORT-STATURED BROWN-EYED man with an intelligent mobile expressive face, a mild self-assured smile while presenting his research; persuasive conviction and bureaucratic certainty, not a cartoon evil genius. Exact age, hair, facial geometry and clothing are casting proposals. Portray about50–60years, compact ordinary build with natural adult proportions; no muscular hero body. Brown eyes mandatory. Modest clean slate-grey civilian research jacket over a soft off-white shirt, no lab coat, glasses, medals or science gadgets. A softly blurred quiet pale station meeting-room wall with a subtle warm practical. Calm alert analytical gaze, slight closed-mouth confidence. No illness, transformation or injuries in this state.\n\nCASTING VARIANT: A broad upper face and narrower rounded lower jaw, modest straight nose with broad tip, low straight brows and alert dark brown eyes, short ash-brown hair with silver streaks and an uneven side part, clean-shaven. Age57. Smooth chin, patient knowing look.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "liza001",
+      "object": "liza",
+      "caption": "Сердцевидный типаж · тёмные волны",
+      "source_file": "docs/World/characters/liza/images/liza001.png",
+      "sha256": "4f9d574ab1b2b67bacf969bddf075451183c0b7025638604bbfd638ef577b2fa",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nLIZA SHEREMETYEVA, adult woman and wife of Andrey, mother of Fedor, in the old spacecraft civilization BEFORE her final injury. The novel gives no precise face, eye color, hair or exact age: those are explicitly casting proposals. A credible woman about35–45years, lived-in ordinary beauty, attentive steady gaze, restrained warmth and resilience, not a glossy young fashion model. Healthy uninjured state, no wounds or victim pose. Simple modest fully opaque light oatmeal cotton shirt under a muted blue-grey civilian cardigan/work jacket, natural fit, no status insignia or invented professional tools. Quiet softly blurred pale station residential corridor, practical architecture. No glamour makeup, jewelry, elaborate hair styling or romantic backlight. Do not copy Emma, Tais or Fedor's face; an independent original adult identity.\n\nCASTING VARIANT: Compact heart-shaped face, softly defined cheekbones, short straight nose, grey-green eyes, dark chestnut wavy shoulder-length hair loosely tucked behind one ear, slight asymmetry of brows. About38years, quietly determined mouth.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "liza002",
+      "object": "liza",
+      "caption": "Удлинённый овал · светло-русая",
+      "source_file": "docs/World/characters/liza/images/liza002.png",
+      "sha256": "e665ac09ba430a3aa67300696a210dd2ecae6ea9df3b64ec73f3df1d230f9bb0",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nLIZA SHEREMETYEVA, adult woman and wife of Andrey, mother of Fedor, in the old spacecraft civilization BEFORE her final injury. The novel gives no precise face, eye color, hair or exact age: those are explicitly casting proposals. A credible woman about35–45years, lived-in ordinary beauty, attentive steady gaze, restrained warmth and resilience, not a glossy young fashion model. Healthy uninjured state, no wounds or victim pose. Simple modest fully opaque light oatmeal cotton shirt under a muted blue-grey civilian cardigan/work jacket, natural fit, no status insignia or invented professional tools. Quiet softly blurred pale station residential corridor, practical architecture. No glamour makeup, jewelry, elaborate hair styling or romantic backlight. Do not copy Emma, Tais or Fedor's face; an independent original adult identity.\n\nCASTING VARIANT: Longer oval face, open forehead, gently convex slender nose, blue-grey eyes, ash-dark-blond straight hair tied loosely low, soft natural under-eye lines. About41years, steady thoughtful gaze.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "liza003",
+      "object": "liza",
+      "caption": "Широкие скулы · каштановая",
+      "source_file": "docs/World/characters/liza/images/liza003.png",
+      "sha256": "098a6a7049c1eac5896cd608432e3089fd5360e10b9ae734743cfa017ef2ee3b",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nLIZA SHEREMETYEVA, adult woman and wife of Andrey, mother of Fedor, in the old spacecraft civilization BEFORE her final injury. The novel gives no precise face, eye color, hair or exact age: those are explicitly casting proposals. A credible woman about35–45years, lived-in ordinary beauty, attentive steady gaze, restrained warmth and resilience, not a glossy young fashion model. Healthy uninjured state, no wounds or victim pose. Simple modest fully opaque light oatmeal cotton shirt under a muted blue-grey civilian cardigan/work jacket, natural fit, no status insignia or invented professional tools. Quiet softly blurred pale station residential corridor, practical architecture. No glamour makeup, jewelry, elaborate hair styling or romantic backlight. Do not copy Emma, Tais or Fedor's face; an independent original adult identity.\n\nCASTING VARIANT: Broad cheekbones above a tapered smooth jaw, medium broad nose, hazel eyes, thick chestnut collar-length loose waves, ordinary fine smile lines. About40years, a subtle reserved half-smile.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "liza004",
+      "object": "liza",
+      "caption": "Округлый типаж · открытый взгляд",
+      "source_file": "docs/World/characters/liza/images/liza004.png",
+      "sha256": "a55979b091ad5cd80287cc722a3fb1b1bc9e5a3c9f9c5e73eb745c2e30b78012",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nLIZA SHEREMETYEVA, adult woman and wife of Andrey, mother of Fedor, in the old spacecraft civilization BEFORE her final injury. The novel gives no precise face, eye color, hair or exact age: those are explicitly casting proposals. A credible woman about35–45years, lived-in ordinary beauty, attentive steady gaze, restrained warmth and resilience, not a glossy young fashion model. Healthy uninjured state, no wounds or victim pose. Simple modest fully opaque light oatmeal cotton shirt under a muted blue-grey civilian cardigan/work jacket, natural fit, no status insignia or invented professional tools. Quiet softly blurred pale station residential corridor, practical architecture. No glamour makeup, jewelry, elaborate hair styling or romantic backlight. Do not copy Emma, Tais or Fedor's face; an independent original adult identity.\n\nCASTING VARIANT: Rounded face with soft cheek volume, small broad-tipped nose, warmly spaced brown eyes, dark-blond lightly wavy short shoulder-length hair, small natural mouth asymmetry. About37years, warm but composed, not childish.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "liza005",
+      "object": "liza",
+      "caption": "Чёткая челюсть · короткое каре",
+      "source_file": "docs/World/characters/liza/images/liza005.png",
+      "sha256": "9c2d175f01b93629b9415b2fe0c94985d447b4494c8769da63517a010aa25109",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nLIZA SHEREMETYEVA, adult woman and wife of Andrey, mother of Fedor, in the old spacecraft civilization BEFORE her final injury. The novel gives no precise face, eye color, hair or exact age: those are explicitly casting proposals. A credible woman about35–45years, lived-in ordinary beauty, attentive steady gaze, restrained warmth and resilience, not a glossy young fashion model. Healthy uninjured state, no wounds or victim pose. Simple modest fully opaque light oatmeal cotton shirt under a muted blue-grey civilian cardigan/work jacket, natural fit, no status insignia or invented professional tools. Quiet softly blurred pale station residential corridor, practical architecture. No glamour makeup, jewelry, elaborate hair styling or romantic backlight. Do not copy Emma, Tais or Fedor's face; an independent original adult identity.\n\nCASTING VARIANT: Long softly squared face, clear unexaggerated jaw corners, straight medium nose, light hazel eyes beneath distinct straight brows, practical dark brown jaw-length bob with an imperfect side part. About43years, calm resilience without stern hostility.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "liza006",
+      "object": "liza",
+      "caption": "Тонкие черты · тёмно-русая",
+      "source_file": "docs/World/characters/liza/images/liza006.png",
+      "sha256": "bea03f5eeb0e4d5541ca8b92a15795921a56744af2a73ea901e507e2ac35eea6",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nLIZA SHEREMETYEVA, adult woman and wife of Andrey, mother of Fedor, in the old spacecraft civilization BEFORE her final injury. The novel gives no precise face, eye color, hair or exact age: those are explicitly casting proposals. A credible woman about35–45years, lived-in ordinary beauty, attentive steady gaze, restrained warmth and resilience, not a glossy young fashion model. Healthy uninjured state, no wounds or victim pose. Simple modest fully opaque light oatmeal cotton shirt under a muted blue-grey civilian cardigan/work jacket, natural fit, no status insignia or invented professional tools. Quiet softly blurred pale station residential corridor, practical architecture. No glamour makeup, jewelry, elaborate hair styling or romantic backlight. Do not copy Emma, Tais or Fedor's face; an independent original adult identity.\n\nCASTING VARIANT: Fine narrow oval face, prominent natural ears, a slightly long nose with a soft tip, pale grey eyes, medium ash-brown hair loosely gathered back with a few unstyled wisps, realistic faint forehead lines. About42years, intelligent watchful gentleness.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "zheka001",
+      "object": "zheka",
+      "caption": "Узкий овал · острые скулы",
+      "source_file": "docs/World/characters/zheka/images/zheka001.png",
+      "sha256": "05ce734b0fcf7b6f1a7e6d8478ff035a801db9528fec54ec50a7ad8e290a6583",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nZHEKA from the Wild group, a late-adolescent boy older than16; portray approximately18years as a casting proposal. The FIRST ENCOUNTER illness state, still recognizably HUMAN and fully clothed, not a transformed animal. Canonical anchors: clumped dirty shaggy hair falling in irregular strands, THIN lips, a BROAD FLATTENED nose, unnaturally very DARK eyes with enlarged dark irises leaving no clearly visible whites. Natural soft ocular wetness but no glowing eyes or deep empty sockets. Restless watchful unease, slightly hunched guarded shoulders, tired irritated face rather than a theatrical monster grimace. Slim ordinary young body, not emaciated skeletal horror or bodybuilder. Short worn dark olive/brown station jacket with greasy frayed sleeves over a dark faded undershirt. Subtle dust and grime, no blood, gore, exposed wounds, fangs, extra anatomy or violence. A simple maintenance compartment wall with pipes, clear soft side illumination enough to see the face and dark eyes, not an obscuring horror shadow. Preserve youth, no adult wrinkles or beard. His threatening quality comes from gaze and restrained tension, not a grotesque caricature.\n\nCASTING VARIANT: Narrow longish youthful oval face, high cheekbones, prominent ears, thin pressed lips, wide flattened nose, straight dark-brown clumped hair hanging across forehead. Blackened enlarged irises, tired oblique brows.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "zheka002",
+      "object": "zheka",
+      "caption": "Широкий лоб · короткие пряди",
+      "source_file": "docs/World/characters/zheka/images/zheka002.png",
+      "sha256": "8d18388f610589af5790707ca276689f9087794679bea21fb328eab6b7476d41",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nZHEKA from the Wild group, a late-adolescent boy older than16; portray approximately18years as a casting proposal. The FIRST ENCOUNTER illness state, still recognizably HUMAN and fully clothed, not a transformed animal. Canonical anchors: clumped dirty shaggy hair falling in irregular strands, THIN lips, a BROAD FLATTENED nose, unnaturally very DARK eyes with enlarged dark irises leaving no clearly visible whites. Natural soft ocular wetness but no glowing eyes or deep empty sockets. Restless watchful unease, slightly hunched guarded shoulders, tired irritated face rather than a theatrical monster grimace. Slim ordinary young body, not emaciated skeletal horror or bodybuilder. Short worn dark olive/brown station jacket with greasy frayed sleeves over a dark faded undershirt. Subtle dust and grime, no blood, gore, exposed wounds, fangs, extra anatomy or violence. A simple maintenance compartment wall with pipes, clear soft side illumination enough to see the face and dark eyes, not an obscuring horror shadow. Preserve youth, no adult wrinkles or beard. His threatening quality comes from gaze and restrained tension, not a grotesque caricature.\n\nCASTING VARIANT: Broad forehead and compact face, slightly projecting cheekbones, small rounded smooth chin, broad flattened nose, very thin lips, short uneven clumped black hair, one brow subtly higher. Enlarged near-black irises.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "zheka003",
+      "object": "zheka",
+      "caption": "Вытянутый типаж · светлые спутанные волосы",
+      "source_file": "docs/World/characters/zheka/images/zheka003.png",
+      "sha256": "ab2bef8008d77903ebad6dcc4713334bab9488112f0b9e0439e42609cb2b237a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nZHEKA from the Wild group, a late-adolescent boy older than16; portray approximately18years as a casting proposal. The FIRST ENCOUNTER illness state, still recognizably HUMAN and fully clothed, not a transformed animal. Canonical anchors: clumped dirty shaggy hair falling in irregular strands, THIN lips, a BROAD FLATTENED nose, unnaturally very DARK eyes with enlarged dark irises leaving no clearly visible whites. Natural soft ocular wetness but no glowing eyes or deep empty sockets. Restless watchful unease, slightly hunched guarded shoulders, tired irritated face rather than a theatrical monster grimace. Slim ordinary young body, not emaciated skeletal horror or bodybuilder. Short worn dark olive/brown station jacket with greasy frayed sleeves over a dark faded undershirt. Subtle dust and grime, no blood, gore, exposed wounds, fangs, extra anatomy or violence. A simple maintenance compartment wall with pipes, clear soft side illumination enough to see the face and dark eyes, not an obscuring horror shadow. Preserve youth, no adult wrinkles or beard. His threatening quality comes from gaze and restrained tension, not a grotesque caricature.\n\nCASTING VARIANT: Elongated youthful face with hollowed but not skeletal cheeks, soft narrow jaw, wide flattened nose, thin pale lips, dirty ash-blond shaggy hair in separated greasy strands, dark enlarged irises strongly contrasting light hair.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "zheka004",
+      "object": "zheka",
+      "caption": "Угловатый типаж · тяжёлые брови",
+      "source_file": "docs/World/characters/zheka/images/zheka004.png",
+      "sha256": "a4b1fba89e09c759b415b3da63b643b66c6c5551ec9f1445e31af23fe21c110e",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nZHEKA from the Wild group, a late-adolescent boy older than16; portray approximately18years as a casting proposal. The FIRST ENCOUNTER illness state, still recognizably HUMAN and fully clothed, not a transformed animal. Canonical anchors: clumped dirty shaggy hair falling in irregular strands, THIN lips, a BROAD FLATTENED nose, unnaturally very DARK eyes with enlarged dark irises leaving no clearly visible whites. Natural soft ocular wetness but no glowing eyes or deep empty sockets. Restless watchful unease, slightly hunched guarded shoulders, tired irritated face rather than a theatrical monster grimace. Slim ordinary young body, not emaciated skeletal horror or bodybuilder. Short worn dark olive/brown station jacket with greasy frayed sleeves over a dark faded undershirt. Subtle dust and grime, no blood, gore, exposed wounds, fangs, extra anatomy or violence. A simple maintenance compartment wall with pipes, clear soft side illumination enough to see the face and dark eyes, not an obscuring horror shadow. Preserve youth, no adult wrinkles or beard. His threatening quality comes from gaze and restrained tension, not a grotesque caricature.\n\nCASTING VARIANT: Angular youthful face, broad lower cheek planes, asymmetric jaw but smooth uncleft chin, wide flattened nose, thin closed lips, naturally heavy straight brows, dark chestnut shaggy hair. Near-black eyes with minimal visible sclera.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "zheka005",
+      "object": "zheka",
+      "caption": "Круглые скулы · провалившийся взгляд",
+      "source_file": "docs/World/characters/zheka/images/zheka005.png",
+      "sha256": "e3d877f01cc2d3e8c4b49cb6cd2065d28cc09d6323322e4a808ee0bc886394db",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nZHEKA from the Wild group, a late-adolescent boy older than16; portray approximately18years as a casting proposal. The FIRST ENCOUNTER illness state, still recognizably HUMAN and fully clothed, not a transformed animal. Canonical anchors: clumped dirty shaggy hair falling in irregular strands, THIN lips, a BROAD FLATTENED nose, unnaturally very DARK eyes with enlarged dark irises leaving no clearly visible whites. Natural soft ocular wetness but no glowing eyes or deep empty sockets. Restless watchful unease, slightly hunched guarded shoulders, tired irritated face rather than a theatrical monster grimace. Slim ordinary young body, not emaciated skeletal horror or bodybuilder. Short worn dark olive/brown station jacket with greasy frayed sleeves over a dark faded undershirt. Subtle dust and grime, no blood, gore, exposed wounds, fangs, extra anatomy or violence. A simple maintenance compartment wall with pipes, clear soft side illumination enough to see the face and dark eyes, not an obscuring horror shadow. Preserve youth, no adult wrinkles or beard. His threatening quality comes from gaze and restrained tension, not a grotesque caricature.\n\nCASTING VARIANT: Broad rounded upper cheeks narrowing into a short smooth chin, slightly protruding ears, wide flattened nose, small thin-lipped mouth, unruly dirty medium-brown hair clumped at temples. Pale-greyish tired skin but living human, very dark irises.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    },
+    {
+      "code": "zheka006",
+      "object": "zheka",
+      "caption": "Тонкое лицо · длинная чёлка",
+      "source_file": "docs/World/characters/zheka/images/zheka006.png",
+      "sha256": "dbb7a3befd3e46feb0beb30cb6812e748eb6e7cd05267a77ea5aa673ea5c3d10",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "prompt": "Create a fresh independent PHOTOGRAPHIC casting portrait for the fictional world ALIVE. One original person, no resemblance to a named celebrity, not a generic fashion model. A real live-action film still with honest regional skin texture, soft natural pores, subtle uneven local skin color, convincing eyelids, natural lips and individual asymmetry. No wax, porcelain skin, beauty filter, procedural pore noise, embossed cracks, heavy grain, oversharpening or illustration. Naturally BRIGHT clear color with shaped contrast and restrained saturation, realistic skin tones, deep but readable shadows and detailed highlights. Broad softly directional window key, weak room bounce, restrained warm practical behind, optically coherent 80mm-equivalent view, eye-level camera, f5.6 depth. Portrait 2:3 from upper waist upward, both shoulders visible, complete head and all hair with generous10percent background above crown. Natural relaxed front/three-quarter posture, no fashionable pose, no hands near face. No text, watermark, split panels, collage or extra people. The chin has a continuous naturally rounded surface: NO chin dimple, cleft, pit, split or vertical groove. Keep normal shallow fold below lower lip.\nZHEKA from the Wild group, a late-adolescent boy older than16; portray approximately18years as a casting proposal. The FIRST ENCOUNTER illness state, still recognizably HUMAN and fully clothed, not a transformed animal. Canonical anchors: clumped dirty shaggy hair falling in irregular strands, THIN lips, a BROAD FLATTENED nose, unnaturally very DARK eyes with enlarged dark irises leaving no clearly visible whites. Natural soft ocular wetness but no glowing eyes or deep empty sockets. Restless watchful unease, slightly hunched guarded shoulders, tired irritated face rather than a theatrical monster grimace. Slim ordinary young body, not emaciated skeletal horror or bodybuilder. Short worn dark olive/brown station jacket with greasy frayed sleeves over a dark faded undershirt. Subtle dust and grime, no blood, gore, exposed wounds, fangs, extra anatomy or violence. A simple maintenance compartment wall with pipes, clear soft side illumination enough to see the face and dark eyes, not an obscuring horror shadow. Preserve youth, no adult wrinkles or beard. His threatening quality comes from gaze and restrained tension, not a grotesque caricature.\n\nCASTING VARIANT: Fine triangular youthful face with a broad forehead, narrow lower jaw, prominent temples and ears, wide flattened nose, thin tense lips, long greasy dark ash-brown fringe falling irregularly around dark enlarged irises. Subtle facial asymmetry, no monster prosthetics.\nThis must be a genuinely distinct facial identity within the shared character brief. Keep all canonical anchors above.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "status": "candidate"
+    }
+  ],
+  "source_notes": {
+    "kaluzhsky": {
+      "pages": [
+        491,
+        492
+      ],
+      "facts": "Short, brown eyes, intelligent mobile face; persuasive smile in historical recording.",
+      "proposals": "Exact age49–58, individual face, hair, clothes and room staging. Before illness."
+    },
+    "liza": {
+      "pages": [
+        326,
+        336,
+        337
+      ],
+      "facts": "Wife of Andrey Sheremetyev, mother of Fedor; injured at the end of the station catastrophe.",
+      "proposals": "All precise appearance and age37–43 are casting proposals. These portraits deliberately show an earlier uninjured state, not the last recording."
+    },
+    "zheka": {
+      "pages": [
+        99,
+        206,
+        207,
+        208
+      ],
+      "facts": "Wild group older than16; matted hair, thin lips, broad flattened nose, very dark eyes without visible whites at first encounter.",
+      "proposals": "About18years, individual facial geometry and original hair color; human illness state, not full animal transformation. Absence of lashes was uncertain in Tais perception."
+    }
+  },
+  "qa": "All18 portraits reviewed individually for complete head framing, natural skin, readable differences, appropriate state and no chin cleft. No final casting selection inferred."
+}

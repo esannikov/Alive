@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-18",
+  "object": "main-square",
+  "series": "main-square-citrus-valley",
+  "status": "candidate",
+  "source_commit": "6fd35967ee9df335a92c22a862d5d11f43fe7217",
+  "model": "gpt-image-2.5-sunburst",
+  "provider": "OpenAI Image API",
+  "scope": "Five paired daytime and nighttime views of one adaptation concept.",
+  "items": [
+    {
+      "code": "square006",
+      "caption": "Главная площадь с моста · день",
+      "source_file": "docs/World/locations/main-square/images/square006.png",
+      "sha256": "0eae91f78eda95469a6f65ac7b98bba1ef82a087f7169bbbad91d9cbf6b075b6",
+      "source_image": "eden-valley-01-bridge-reverse-section.png",
+      "camera": "01-bridge-reverse",
+      "lighting": "day",
+      "paired_with": "square007"
+    },
+    {
+      "code": "square007",
+      "caption": "Главная площадь с моста · ночь",
+      "source_file": "docs/World/locations/main-square/images/square007.png",
+      "sha256": "8031ff18b32a731b033bd1c0dc7e3f2d19811f672f67a73c547c6ad1da63613d",
+      "source_image": "eden-valley-01-bridge-reverse-night.png",
+      "camera": "01-bridge-reverse",
+      "lighting": "night",
+      "paired_with": "square006"
+    },
+    {
+      "code": "square008",
+      "caption": "Тропа под цитрусами · день",
+      "source_file": "docs/World/locations/main-square/images/square008.png",
+      "sha256": "c598d87081f4a18f059a3e0b69ac78b3ebc5977a2f9cfca8a38fea1e2ab634fc",
+      "source_image": "eden-valley-02-citrus-path-section.png",
+      "camera": "02-citrus-path",
+      "lighting": "day",
+      "paired_with": "square009"
+    },
+    {
+      "code": "square009",
+      "caption": "Тропа под цитрусами · ночь",
+      "source_file": "docs/World/locations/main-square/images/square009.png",
+      "sha256": "3bd7edc81e0825df8aece8c71a4ab6b4e527bf8acf4811bff01716f968ef3eb1",
+      "source_image": "eden-valley-02-citrus-path-night.png",
+      "camera": "02-citrus-path",
+      "lighting": "night",
+      "paired_with": "square008"
+    },
+    {
+      "code": "square010",
+      "caption": "Водяная завеса с берега · день",
+      "source_file": "docs/World/locations/main-square/images/square010.png",
+      "sha256": "7acfcf42f6b6ab44c0e095f45d345ac6e9c867cb5d9cf292ee8b8ff92aa7457f",
+      "source_image": "eden-valley-03-lake-veil-section.png",
+      "camera": "03-lake-veil",
+      "lighting": "day",
+      "paired_with": "square011"
+    },
+    {
+      "code": "square011",
+      "caption": "Водяная завеса с берега · ночь",
+      "source_file": "docs/World/locations/main-square/images/square011.png",
+      "sha256": "6814664eb8d583234e37b5d353026ce488b28c23287b1636b60236c7103eadb3",
+      "source_image": "eden-valley-03-lake-veil-night.png",
+      "camera": "03-lake-veil",
+      "lighting": "night",
+      "paired_with": "square010"
+    },
+    {
+      "code": "square012",
+      "caption": "Галерея к мосту · день",
+      "source_file": "docs/World/locations/main-square/images/square012.png",
+      "sha256": "e829bd2a588b99bd781cf79433446dba571060d404accfe723ca5844808b4b39",
+      "source_image": "eden-valley-04-gallery-bridge-section.png",
+      "camera": "04-gallery-bridge",
+      "lighting": "day",
+      "paired_with": "square013"
+    },
+    {
+      "code": "square013",
+      "caption": "Галерея к мосту · ночь",
+      "source_file": "docs/World/locations/main-square/images/square013.png",
+      "sha256": "aac9610dbd67ca4120600d87f25f253547905983e3b5136fb2d7bbe7cd516c73",
+      "source_image": "eden-valley-04-gallery-bridge-night.png",
+      "camera": "04-gallery-bridge",
+      "lighting": "night",
+      "paired_with": "square012"
+    },
+    {
+      "code": "square014",
+      "caption": "Игровая площадка и тоннели · день",
+      "source_file": "docs/World/locations/main-square/images/square014.png",
+      "sha256": "b1b08262fffed116da4cd47bb105fea496494e0bee0837b5aa294eecb83f93db",
+      "source_image": "eden-valley-05-play-tunnels.png",
+      "camera": "05-play-tunnels",
+      "lighting": "day",
+      "paired_with": "square015"
+    },
+    {
+      "code": "square015",
+      "caption": "Игровая площадка и тоннели · ночь",
+      "source_file": "docs/World/locations/main-square/images/square015.png",
+      "sha256": "89c7c7f20380fbbe28ec911ae609c76ced775631f5d0c0c25cfd34dc1b6f2115",
+      "source_image": "eden-valley-05-play-tunnels-night.png",
+      "camera": "05-play-tunnels",
+      "lighting": "night",
+      "paired_with": "square014"
+    }
+  ]
+}

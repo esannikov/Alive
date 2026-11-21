@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-27",
+  "tool": "built-in image_gen",
+  "mode": "generate",
+  "reference_pages": [
+    287,
+    308,
+    499,
+    500,
+    501
+  ],
+  "variants": [
+    {
+      "code": "rita001",
+      "title": "A · удлинённый овал",
+      "prompt": "Create one original cinematic photograph of RITA, a fictional late-teen young woman approximately 18 years old from the science-fiction novel ALIVE. A normal everyday portrait before illness, quietly attentive and approachable with a steady thoughtful gaze, relaxed mouth, not smiling for a fashion advertisement. Simple modest practical clothing: a faded umber-brown long-sleeve work shirt with a few discreet repaired seams over a plain muted slate-blue crew-neck top, dark charcoal trousers. She stands comfortably holding a small plain enamel mug with both hands at waist height. Natural youthful facial features and realistic proportions, no makeup or glamour retouching. Setting: the Oval Base, a modest converted maintenance compartment in the lower levels of an old spacecraft made welcoming by its residents: repaired pale-grey metal walls with a FEW small hand-painted flowers and butterflies, repurposed table and chairs, a warm practical lamp. Understated lived-in hand-made details, not a fantasy palace or decorative cafe. No windows to Earth or space, no other people. Soft balanced photographic light with gentle warm accents, detailed natural skin and fabric. Horizontal 16:9 medium portrait: complete head and hair with headroom, full torso and forearms down to hips, eye-level normal lens. Face is the main focus. No text or collage. Each image is a different original casting option; no real actor likeness. Hair color, eye color, facial shape and skin tone vary according to the direction below; all share the same clothing, setting and composure.\nCASTING DIRECTION: Fair neutral skin, dark ash-blond straight shoulder-length hair loosely tucked behind one ear, grey eyes, elongated oval face, high forehead, a distinctive narrow gently convex nose, fine straight brows, small square chin. Slight natural facial asymmetry, no polished beauty look.",
+      "generation_file": "exec-c83e7d79-4b42-45d6-8ef9-7139be82b943.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/rita/images/rita001.png",
+      "sha256": "6bd2433c11fcf7879475f54689c705db5f32e11ee5e73074671f5fe958380a72"
+    },
+    {
+      "code": "rita002",
+      "title": "B · тёплый оливковый типаж",
+      "prompt": "Create one original cinematic photograph of RITA, a fictional late-teen young woman approximately 18 years old from the science-fiction novel ALIVE. A normal everyday portrait before illness, quietly attentive and approachable with a steady thoughtful gaze, relaxed mouth, not smiling for a fashion advertisement. Simple modest practical clothing: a faded umber-brown long-sleeve work shirt with a few discreet repaired seams over a plain muted slate-blue crew-neck top, dark charcoal trousers. She stands comfortably holding a small plain enamel mug with both hands at waist height. Natural youthful facial features and realistic proportions, no makeup or glamour retouching. Setting: the Oval Base, a modest converted maintenance compartment in the lower levels of an old spacecraft made welcoming by its residents: repaired pale-grey metal walls with a FEW small hand-painted flowers and butterflies, repurposed table and chairs, a warm practical lamp. Understated lived-in hand-made details, not a fantasy palace or decorative cafe. No windows to Earth or space, no other people. Soft balanced photographic light with gentle warm accents, detailed natural skin and fabric. Horizontal 16:9 medium portrait: complete head and hair with headroom, full torso and forearms down to hips, eye-level normal lens. Face is the main focus. No text or collage. Each image is a different original casting option; no real actor likeness. Hair color, eye color, facial shape and skin tone vary according to the direction below; all share the same clothing, setting and composure.\nCASTING DIRECTION: Warm olive skin, medium-length dark brown wavy hair loosely tied low with several escaping strands, brown eyes, broad soft cheekbones and a short firm jaw, medium-width straight nose, strong natural brows, a wider relaxed mouth. Grounded everyday young woman, not stylized ethnicity.",
+      "generation_file": "exec-a315ecaf-5ac0-4619-86df-55296985a08e.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/rita/images/rita002.png",
+      "sha256": "c7a4ea0d331f96b07eb2d8ce5eb2f6328bcce94821fa9c69fbe26856237d29ee"
+    },
+    {
+      "code": "rita003",
+      "title": "C · короткие естественные кудри",
+      "prompt": "Create one original cinematic photograph of RITA, a fictional late-teen young woman approximately 18 years old from the science-fiction novel ALIVE. A normal everyday portrait before illness, quietly attentive and approachable with a steady thoughtful gaze, relaxed mouth, not smiling for a fashion advertisement. Simple modest practical clothing: a faded umber-brown long-sleeve work shirt with a few discreet repaired seams over a plain muted slate-blue crew-neck top, dark charcoal trousers. She stands comfortably holding a small plain enamel mug with both hands at waist height. Natural youthful facial features and realistic proportions, no makeup or glamour retouching. Setting: the Oval Base, a modest converted maintenance compartment in the lower levels of an old spacecraft made welcoming by its residents: repaired pale-grey metal walls with a FEW small hand-painted flowers and butterflies, repurposed table and chairs, a warm practical lamp. Understated lived-in hand-made details, not a fantasy palace or decorative cafe. No windows to Earth or space, no other people. Soft balanced photographic light with gentle warm accents, detailed natural skin and fabric. Horizontal 16:9 medium portrait: complete head and hair with headroom, full torso and forearms down to hips, eye-level normal lens. Face is the main focus. No text or collage. Each image is a different original casting option; no real actor likeness. Hair color, eye color, facial shape and skin tone vary according to the direction below; all share the same clothing, setting and composure.\nCASTING DIRECTION: Deep brown skin, short natural tightly coiled black hair, dark brown eyes, broad cheekbones, a softly triangular face, a broad natural nose and defined softly rounded chin. Natural individual features and subtle skin texture. Warmth conveyed through attentive eyes without a big smile.",
+      "generation_file": "exec-8f0a312c-3da9-4458-8eb2-69ccffdfb9e3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/rita/images/rita003.png",
+      "sha256": "b59fddcc6640c9efcf4c8c7b03d04ca2356b864658cb1a2170ac98b434ed3bd2"
+    },
+    {
+      "code": "rita004",
+      "title": "D · прямое каре",
+      "prompt": "Create one original cinematic photograph of RITA, a fictional late-teen young woman approximately 18 years old from the science-fiction novel ALIVE. A normal everyday portrait before illness, quietly attentive and approachable with a steady thoughtful gaze, relaxed mouth, not smiling for a fashion advertisement. Simple modest practical clothing: a faded umber-brown long-sleeve work shirt with a few discreet repaired seams over a plain muted slate-blue crew-neck top, dark charcoal trousers. She stands comfortably holding a small plain enamel mug with both hands at waist height. Natural youthful facial features and realistic proportions, no makeup or glamour retouching. Setting: the Oval Base, a modest converted maintenance compartment in the lower levels of an old spacecraft made welcoming by its residents: repaired pale-grey metal walls with a FEW small hand-painted flowers and butterflies, repurposed table and chairs, a warm practical lamp. Understated lived-in hand-made details, not a fantasy palace or decorative cafe. No windows to Earth or space, no other people. Soft balanced photographic light with gentle warm accents, detailed natural skin and fabric. Horizontal 16:9 medium portrait: complete head and hair with headroom, full torso and forearms down to hips, eye-level normal lens. Face is the main focus. No text or collage. Each image is a different original casting option; no real actor likeness. Hair color, eye color, facial shape and skin tone vary according to the direction below; all share the same clothing, setting and composure.\nCASTING DIRECTION: Fair warm-beige skin, straight black chin-length bob with an uneven side part, dark brown almond-shaped eyes, subtle upper eyelid folds, straight fine brows, rounded nose bridge and soft square jaw. An original East-Asian-adjacent casting direction, natural and individual, without ethnic costume or exaggerated traits.",
+      "generation_file": "exec-b42ed7b4-0a9c-4f25-b310-18c2811b2cc3.png",
+      "size": [
+        1672,
+        940
+      ],
+      "output": "docs/World/characters/rita/images/rita004.png",
+      "sha256": "f1190d87d4649826edb45d0acc4c7f926b6c98df22bdb9fe1234e9753dfff7a1"
+    },
+    {
+      "code": "rita005",
+      "title": "E · веснушки и выраженный нос",
+      "prompt": "Create one original cinematic photograph of RITA, a fictional late-teen young woman approximately 18 years old from the science-fiction novel ALIVE. A normal everyday portrait before illness, quietly attentive and approachable with a steady thoughtful gaze, relaxed mouth, not smiling for a fashion advertisement. Simple modest practical clothing: a faded umber-brown long-sleeve work shirt with a few discreet repaired seams over a plain muted slate-blue crew-neck top, dark charcoal trousers. She stands comfortably holding a small plain enamel mug with both hands at waist height. Natural youthful facial features and realistic proportions, no makeup or glamour retouching. Setting: the Oval Base, a modest converted maintenance compartment in the lower levels of an old spacecraft made welcoming by its residents: repaired pale-grey metal walls with a FEW small hand-painted flowers and butterflies, repurposed table and chairs, a warm practical lamp. Understated lived-in hand-made details, not a fantasy palace or decorative cafe. No windows to Earth or space, no other people. Soft balanced photographic light with gentle warm accents, detailed natural skin and fabric. Horizontal 16:9 medium portrait: complete head and hair with headroom, full torso and forearms down to hips, eye-level normal lens. Face is the main focus. No text or collage. Each image is a different original casting option; no real actor likeness. Hair color, eye color, facial shape and skin tone vary according to the direction below; all share the same clothing, setting and composure.\nCASTING DIRECTION: Light warm skin with scattered natural freckles, sandy light-brown hair in a loose practical braid over one shoulder, hazel-green eyes, a longer face with a prominent straight nose, slightly uneven brows, thin upper lip and broader chin. A believable ordinary late-teen face, not a glamorous model.",
+      "generation_file": "exec-935f6a84-4b4a-44f4-b0ec-af0a16414fc8.png",
+      "size": [
+        1672,
+        940
+      ],
+      "output": "docs/World/characters/rita/images/rita005.png",
+      "sha256": "58f25a09a16aea3d864c1abfb8d90c24e3fb46b62b774abc0761242019e5b43b"
+    },
+    {
+      "code": "rita006",
+      "title": "F · тёмные волны и высокие скулы",
+      "prompt": "Create one original cinematic photograph of RITA, a fictional late-teen young woman approximately 18 years old from the science-fiction novel ALIVE. A normal everyday portrait before illness, quietly attentive and approachable with a steady thoughtful gaze, relaxed mouth, not smiling for a fashion advertisement. Simple modest practical clothing: a faded umber-brown long-sleeve work shirt with a few discreet repaired seams over a plain muted slate-blue crew-neck top, dark charcoal trousers. She stands comfortably holding a small plain enamel mug with both hands at waist height. Natural youthful facial features and realistic proportions, no makeup or glamour retouching. Setting: the Oval Base, a modest converted maintenance compartment in the lower levels of an old spacecraft made welcoming by its residents: repaired pale-grey metal walls with a FEW small hand-painted flowers and butterflies, repurposed table and chairs, a warm practical lamp. Understated lived-in hand-made details, not a fantasy palace or decorative cafe. No windows to Earth or space, no other people. Soft balanced photographic light with gentle warm accents, detailed natural skin and fabric. Horizontal 16:9 medium portrait: complete head and hair with headroom, full torso and forearms down to hips, eye-level normal lens. Face is the main focus. No text or collage. Each image is a different original casting option; no real actor likeness. Hair color, eye color, facial shape and skin tone vary according to the direction below; all share the same clothing, setting and composure.\nCASTING DIRECTION: Medium warm bronze-olive skin, dark nearly black wavy hair cut to the neck, brown eyes, high cheekbones, a long gently aquiline nose, close straight eyebrows and a small tapered chin. A subtle West-Asian/Mediterranean-adjacent casting option with natural asymmetry and distinctive individuality. Quiet open expression, no stereotyped character cues.",
+      "generation_file": "exec-43ef205c-40ae-44cd-b512-1c2882e12c5f.png",
+      "size": [
+        1672,
+        941
+      ],
+      "output": "docs/World/characters/rita/images/rita006.png",
+      "sha256": "2b005cfaf6f3fdaeecf2607bf889d2526d9ec40b34417756a49ecde544623793"
+    }
+  ]
+}

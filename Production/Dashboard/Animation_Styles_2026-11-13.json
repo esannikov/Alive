@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-13",
+  "status": "publication_authorized",
+  "audience": "12–36",
+  "correction": "Ретростиль: менее детская пластика, без общей обшарпанности поверхностей. Книжный возраст сохранён.",
+  "images": [
+    {
+      "code": "alc023",
+      "object": "alc-10",
+      "local_variant": "R01-tais-refined",
+      "caption": "Таис: поворот"
+    },
+    {
+      "code": "alc024",
+      "object": "alc-10",
+      "local_variant": "R02-lon-refined",
+      "caption": "Проверка хвата Лона"
+    },
+    {
+      "code": "alc025",
+      "object": "alc-10",
+      "local_variant": "R03-gardener-refined",
+      "caption": "Садовник в оранжерее"
+    },
+    {
+      "code": "alc026",
+      "object": "alc-10",
+      "local_variant": "R04-elevator-refined",
+      "caption": "У лифта"
+    },
+    {
+      "code": "alc027",
+      "object": "alc-10",
+      "local_variant": "R05-service-passage-final",
+      "caption": "Свет в проходе"
+    },
+    {
+      "code": "alc028",
+      "object": "alc-10",
+      "local_variant": "R06-gardener-control",
+      "caption": "Управление садовником"
+    },
+    {
+      "code": "alc029",
+      "object": "alc-10",
+      "local_variant": "R07-paper-flight",
+      "caption": "Бумажная ракета"
+    },
+    {
+      "code": "alc030",
+      "object": "alc-11",
+      "local_variant": "O01-tais",
+      "caption": "Таис: поворот"
+    },
+    {
+      "code": "alc031",
+      "object": "alc-11",
+      "local_variant": "O02-lon",
+      "caption": "Проверка хвата Лона"
+    },
+    {
+      "code": "alc032",
+      "object": "alc-11",
+      "local_variant": "O03-gardener",
+      "caption": "Садовник в оранжерее"
+    },
+    {
+      "code": "alc033",
+      "object": "alc-11",
+      "local_variant": "O04-vault-garden",
+      "caption": "В глубине сада"
+    },
+    {
+      "code": "alc034",
+      "object": "alc-11",
+      "local_variant": "O05-wall-diagnostic",
+      "caption": "Диагностика"
+    },
+    {
+      "code": "alc035",
+      "object": "alc-11",
+      "local_variant": "O06-seedling",
+      "caption": "Саженцы"
+    },
+    {
+      "code": "alc036",
+      "object": "alc-11",
+      "local_variant": "O07-gardener-overhead-final",
+      "caption": "Работа с рассадой"
+    }
+  ]
+}

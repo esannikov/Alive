@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-26",
+  "provider": "built-in imagegen",
+  "status": "candidate",
+  "novel_pages": [
+    33,
+    40
+  ],
+  "framing": "16:9, medium / waist-up, 1672 × 941",
+  "variants": [
+    {
+      "code": "katya001",
+      "caption": "A · узкое лицо",
+      "prompt": "Generate a single natural cinematic portrait of Katya Tuns, a teenage fictional character aged about fifteen from the novel ALIVE. Horizontal 16:9 landscape frame, 1672x941, medium waist-up composition with head about 28% of frame height and space on both sides. She stands in a plain bright spacecraft school hallway, wearing a loose white long-sleeve collared shirt made of thick opaque cotton, buttoned, and holding a plain tablet at her side. Natural ordinary school-day appearance. She is slight, has pale skin and a slender neck. Her hair is very pale straw blond, completely straight, flat, unstyled, cut to the neck, with some loose strands. She listens to a classmate just beside the camera while waiting for her exam. Quiet attentive expression. Real live-action cinematography, softly lit face in sharp focus, natural skin and hair detail, no retouch, no dramatic distress, no text, no collage. Create a new face according to the casting notes, retaining all novel traits. Facial structure and eye colour below are design proposals.\nCASTING NOTES: Long narrow oval face, high forehead, long straight narrow nose, small pointed chin, thin naturally pale lips, closely spaced pale grey eyes, very light straight brows. Flat off-centre parted straw-blond neck-length hair with wispy loose strands. Quiet youthful angular delicacy. Cool neutral soft window light.",
+      "edit_prompt": "Edit this fictional character casting image. Preserve her exact face, age, straight pale neck-length hair, expression, opaque white school shirt and tablet. Change ONLY composition: pull camera back to show her from head to upper hips, including both elbows and hands, top of grey pleated skirt at lower edge, with head taking only 28 percent of frame height. The canvas stays horizontal 16:9. Remove ALL other people from foreground and background, leaving the pale spacecraft hallway completely empty except her. No person or shoulder at either edge. Her gaze stays at the same point just off-camera. Natural photographic detail, no text or borders.",
+      "source_file": "docs/World/characters/katya/images/katya001.png",
+      "sha256": "fa23d435e5f580a4b711844755d0f3a14ababf9a45ee3f65da1445b1219c1cc2",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "code": "katya002",
+      "caption": "B · мягкое округлое лицо",
+      "prompt": "Create ONE new cinematic live-action character casting photograph, photorealistic-natural. HORIZONTAL LANDSCAPE 16:9, target 1672x941 like the ALIVE gallery. Single subject, single unbroken image, no grid, captions or borders. Medium waist-up shot to upper hips: head about 28% frame height, both shoulders and arms visible, roomy environment on both sides. Realistic 50mm perspective, crisp facial focus, subtle skin texture, restrained natural film grain, no beauty retouch, no soft-focus haze.\nKATYA TUNS from the novel, before escape, in a clean bright but modest spacecraft school corridor with plain pale wall panels and doors out of focus. She is a school graduate around fifteen years old, visibly a teenage girl, slim slight build, pale skin, thin pale neck. Straight very pale ash/straw blond hair cut at neck length, unstyled and flat, strands falling into her eyes or tucked behind ears. Plain opaque white button-up collared school shirt, comfortably loose and fully covering torso, top of a modest grey pleated school skirt only visible at lower frame. No makeup, no jewellery, no glamour posing, no sexualization. One plain thin tablet held to her side, as in the novel.\nNOVEL SOURCE: pp33 and40 describe her slimness, pale skin/neck, straight pale neck-length hair, white shirt, pleated skirt and tablet; Emma perceives a sad face and uncertain gaze. This is a casting proposal, not a definitive face.\nACTING TASK as still-frame interpretation of the full exam-hall exchange: Katya wants reassurance she can get through the exam; she watches the off-camera classmate just beside lens, checking whether she will answer and take the worry seriously. Keep this quiet and natural, no crying or exaggerated distressed expression, no frozen vacant eyes.\nMake a completely new individual face for this casting direction; facial skeleton, nose, chin and eye spacing must reflect the distinct description below. Do not reuse a face from other outputs. Keep all required novel traits.\nCASTING DIRECTION: Soft round youthful face on a thin neck and slight body, round full cheeks without a heavy build, short upturned nose with a wide round tip, wide-set large muted hazel eyes, broad soft mouth and small rounded chin. Pale straight hair at neck length, uneven wispy short fringe, tucked behind one ear. Clearly round bone structure unlike a long oval. Warm-neutral school daylight.",
+      "edit_prompt": null,
+      "source_file": "docs/World/characters/katya/images/katya002.png",
+      "sha256": "4a7aad293cbb0d6b87f5bd8ce63f38962ed768a5be30f14a81aafb93ddc990c1",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "code": "katya003",
+      "caption": "C · широкие скулы",
+      "prompt": "Generate a single natural cinematic portrait of Katya Tuns, a teenage fictional character aged about fifteen from the novel ALIVE. Horizontal 16:9 landscape frame, 1672x941, medium waist-up composition with head about 28% of frame height and space on both sides. She stands in a plain bright spacecraft school hallway, wearing a loose white long-sleeve collared shirt made of thick opaque cotton, buttoned, and holding a plain tablet at her side. Natural ordinary school-day appearance. She is slight, has pale skin and a slender neck. Her hair is very pale straw blond, completely straight, flat, unstyled, cut to the neck, with some loose strands. She listens to a classmate just beside the camera while waiting for her exam. Quiet attentive expression. Real live-action cinematography, softly lit face in sharp focus, natural skin and hair detail, no retouch, no dramatic distress, no text, no collage. Create a new face according to the casting notes, retaining all novel traits. Facial structure and eye colour below are design proposals.\nCASTING NOTES: Distinct pale East Asian casting interpretation: broad high flat cheekbones, softly square jaw, a small straight broad-bridge nose, wide-set dark brown almond eyes with low lid crease, straight low light brows, naturally small lips. Flat extremely pale ash-blond hair to neck with centre part. Slight teenage figure, not adult glamour. Pale appearance and very light hair as novel requires.",
+      "edit_prompt": "Edit this fictional character casting image. Preserve her exact face, age, straight pale neck-length hair, expression, opaque white school shirt and tablet. Change ONLY composition: pull camera back to show her from head to upper hips, including both elbows and hands, top of grey pleated skirt at lower edge, with head taking only 28 percent of frame height. The canvas stays horizontal 16:9. Remove ALL other people from foreground and background, leaving the pale spacecraft hallway completely empty except her. No person or shoulder at either edge. Her gaze stays at the same point just off-camera. Natural photographic detail, no text or borders.",
+      "source_file": "docs/World/characters/katya/images/katya003.png",
+      "sha256": "7e6fd187d50752d5ee44630a652e0527525f2584f6553e705267075dbb136c8b",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "code": "katya004",
+      "caption": "D · выраженный нос",
+      "prompt": "Generate a single natural cinematic portrait of Katya Tuns, a teenage fictional character aged about fifteen from the novel ALIVE. Horizontal 16:9 landscape frame, 1672x941, medium waist-up composition with head about 28% of frame height and space on both sides. She stands in a plain bright spacecraft school hallway, wearing a loose white long-sleeve collared shirt made of thick opaque cotton, buttoned, and holding a plain tablet at her side. Natural ordinary school-day appearance. She is slight, has pale skin and a slender neck. Her hair is very pale straw blond, completely straight, flat, unstyled, cut to the neck, with some loose strands. She listens to a classmate just beside the camera while waiting for her exam. Quiet attentive expression. Real live-action cinematography, softly lit face in sharp focus, natural skin and hair detail, no retouch, no dramatic distress, no text, no collage. Create a new face according to the casting notes, retaining all novel traits. Facial structure and eye colour below are design proposals.\nCASTING NOTES: Distinct long angular face with a prominent gently convex aquiline nose, high narrow bridge, deep-set grey-green eyes, long midface, thin upper lip and slightly fuller lower lip, strong narrow jaw and small chin. Pale skin, a few subtle freckles. Flat straight colourless straw-blond neck-length hair behind both ears with flyaway strands. Very individual adolescent face, no idealized tiny nose.",
+      "edit_prompt": "Edit this fictional character casting image. Preserve her exact face, age, straight pale neck-length hair, expression, opaque white school shirt and tablet. Change ONLY composition: pull camera back to show her from head to upper hips, including both elbows and hands, top of grey pleated skirt at lower edge, with head taking only 28 percent of frame height. The canvas stays horizontal 16:9. Remove ALL other people from foreground and background, leaving the pale spacecraft hallway completely empty except her. No person or shoulder at either edge. Her gaze stays at the same point just off-camera. Natural photographic detail, no text or borders.",
+      "source_file": "docs/World/characters/katya/images/katya004.png",
+      "sha256": "41d263edd888bbc9e710bc05020cd011d003ee9d2ca21c396032cb490e63e894",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "code": "katya005",
+      "caption": "E · широкое лицо",
+      "prompt": "Generate a single natural cinematic portrait of Katya Tuns, a teenage fictional character aged about fifteen from the novel ALIVE. Horizontal 16:9 landscape frame, 1672x941, medium waist-up composition with head about 28% of frame height and space on both sides. She stands in a plain bright spacecraft school hallway, wearing a loose white long-sleeve collared shirt made of thick opaque cotton, buttoned, and holding a plain tablet at her side. Natural ordinary school-day appearance. She is slight, has pale skin and a slender neck. Her hair is very pale straw blond, completely straight, flat, unstyled, cut to the neck, with some loose strands. She is waiting for her exam, attentive gaze just beside the lens. ONLY ONE PERSON IN THE IMAGE, empty corridor, no foreground shoulders or other students. Camera pulled back, frame from top of head down to upper hips with both elbows and hands visible, top of grey pleated skirt at lower edge. Head occupies no more than 28 percent of frame height. Quiet attentive expression. Real live-action cinematography, softly lit face in sharp focus, natural skin and hair detail, no retouch, no dramatic distress, no text, no collage. Create a new face according to the casting notes, retaining all novel traits. Facial structure and eye colour below are design proposals.\nCASTING NOTES: Clearly broad square youthful face with a short forehead, wide lower jaw and a small central chin dimple, short straight wide nose, large round dark grey eyes, long eye-to-brow distance, broad thin-lipped mouth, sparse very pale eyebrows. Slight slender body and pale thin neck. Straight straw-blond hair cut bluntly at neck, irregular side part, some strands falling across forehead. Distinct broad facial skeleton.",
+      "edit_prompt": null,
+      "source_file": "docs/World/characters/katya/images/katya005.png",
+      "sha256": "9ce8e435593cbec1e02dc2f059b9e4ac3b2c5d8e441ce2faf0e7429f5060bbcb",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "code": "katya006",
+      "caption": "F · треугольное лицо",
+      "prompt": "Generate a single natural cinematic portrait of Katya Tuns, a teenage fictional character aged about fifteen from the novel ALIVE. Horizontal 16:9 landscape frame, 1672x941, medium waist-up composition with head about 28% of frame height and space on both sides. She stands in a plain bright spacecraft school hallway, wearing a loose white long-sleeve collared shirt made of thick opaque cotton, buttoned, and holding a plain tablet at her side. Natural ordinary school-day appearance. She is slight, has pale skin and a slender neck. Her hair is very pale straw blond, completely straight, flat, unstyled, cut to the neck, with some loose strands. She is waiting for her exam, attentive gaze just beside the lens. ONLY ONE PERSON IN THE IMAGE, empty corridor, no foreground shoulders or other students. Camera pulled back, frame from top of head down to upper hips with both elbows and hands visible, top of grey pleated skirt at lower edge. Head occupies no more than 28 percent of frame height. Quiet attentive expression. Real live-action cinematography, softly lit face in sharp focus, natural skin and hair detail, no retouch, no dramatic distress, no text, no collage. Create a new face according to the casting notes, retaining all novel traits. Facial structure and eye colour below are design proposals.\nCASTING NOTES: Distinct heart-shaped adolescent face: broad high forehead, wide temples tapering to a very small chin, prominent slightly projecting ears, wide-spaced large blue-grey eyes, short narrow nose, a natural full upper lip and smaller lower lip. Very pale skin, unstyled flat straight pale blond neck-length hair tucked behind one ear, long uneven fringe. Slim shoulders. Gentle individual youthful face.",
+      "edit_prompt": null,
+      "source_file": "docs/World/characters/katya/images/katya006.png",
+      "sha256": "c401dd80376182307a07a753106a3e1030a2c1652e6c1b8bfaf73c98c89bcf96",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

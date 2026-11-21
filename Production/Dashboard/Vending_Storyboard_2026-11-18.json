@@ -1,0 +1,117 @@
+{
+  "scene": "tais-emma-vending",
+  "title": "Таис и Эмма у автомата",
+  "locale": "ru",
+  "asset_refs": [
+    "tais053",
+    "emma038",
+    "vendplaza001",
+    "don022",
+    "bar002"
+  ],
+  "origin": "Producer storyboard for ALIVE",
+  "shots": [
+    {
+      "shot": "01",
+      "original": "docs/World/scenes/tais-emma-vending/frames/01.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/01.webp",
+      "source_name": "d01-master.png",
+      "sha256": "3afe61191ddba0655d571a956156c7e5445d987be3a26c69942439dfeb5777f1",
+      "meta": "01 · Низкий общий · 28 мм",
+      "title": "Подход",
+      "caption": "Автомат задаёт левый край. Эмма входит справа, Таис у выдачи.",
+      "previous_sha256": "1473179cc3a41351886f2b14df4877f642caf2c0f9e45d71c6f6a6706ff70498",
+      "revision": "Лицо по tais053 и пыль на ботинках Таис"
+    },
+    {
+      "shot": "02",
+      "original": "docs/World/scenes/tais-emma-vending/frames/02.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/02.webp",
+      "source_name": "d02-machine.png",
+      "sha256": "2e39c916b7d7ffc16fb73940bb283b3d1bb037c8fd8c902fc5050618e3085001",
+      "meta": "02 · Предметная вставка · 70 мм",
+      "title": "Батончик в лотке",
+      "caption": "Упаковка ложится на край лотка, рядом появляется рюкзак."
+    },
+    {
+      "shot": "03",
+      "original": "docs/World/scenes/tais-emma-vending/frames/03.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/03.webp",
+      "source_name": "d03-emma-discovery.png",
+      "sha256": "8ebf20bb94e4e50df726e71f6feeed0081fde8164827cc1e1442bbc4a4866845",
+      "meta": "03 · Крупный · 85 мм",
+      "title": "Взгляд Эммы",
+      "caption": "Улыбка гаснет, глаза уходят вниз и влево."
+    },
+    {
+      "shot": "04",
+      "original": "docs/World/scenes/tais-emma-vending/frames/04.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/04.webp",
+      "source_name": "d04-boots-pov.png",
+      "sha256": "ec4bbaa9ef14903c9878abe6c45de64958b7b4dc4569f9c4e2b7bbe533bf82e2",
+      "meta": "04 · Точка зрения Эммы · 65 мм",
+      "title": "Пыль на ботинках",
+      "caption": "Зритель видит причину её настороженности."
+    },
+    {
+      "shot": "05",
+      "original": "docs/World/scenes/tais-emma-vending/frames/05.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/05.webp",
+      "source_name": "d05-tais-ots.png",
+      "sha256": "22ef3e0a528744601d69656c64330bfb7a381d960f25c613146b80f561914371",
+      "meta": "05 · Крупный через плечо · 85 мм",
+      "title": "Таис замечает взгляд",
+      "caption": "Таис смотрит вправо и на секунду замирает.",
+      "previous_sha256": "2a15f974c0743c1cb350d30b978adce939e92b99e5b4b476d195b46fcadae214",
+      "revision": "Уточнение сходства с tais053"
+    },
+    {
+      "shot": "06",
+      "original": "docs/World/scenes/tais-emma-vending/frames/06.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/06.webp",
+      "source_name": "d06-emma-ots.png",
+      "sha256": "72aa05eafbb0423fb0224c013f8c6e834374558dbbef80091617f43ab6f476e4",
+      "meta": "06 · Встречный крупный · 90 мм",
+      "title": "Ответный взгляд Эммы",
+      "caption": "Эмма смотрит влево. Теперь она проверяет догадку."
+    },
+    {
+      "shot": "07",
+      "original": "docs/World/scenes/tais-emma-vending/frames/07.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/07.webp",
+      "source_name": "d07-call.png",
+      "sha256": "0c5fe94953649bf102ae37dbc3aaabf624ce9aa893d3959028859f3d805c0a73",
+      "meta": "07 · Средне-общий · 40 мм",
+      "title": "Эмма зовёт Дона",
+      "caption": "Поворот Эммы к правому концу прохода виден в кадре.",
+      "previous_sha256": "87650e6320f4782757de6a7414ddfe93c130a810bfac553c22014af6dbc9133e",
+      "revision": "Лицо по tais053 и пыль на ботинках Таис"
+    },
+    {
+      "shot": "08",
+      "original": "docs/World/scenes/tais-emma-vending/frames/08.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/08.webp",
+      "source_name": "d08-don-reaction.png",
+      "sha256": "e9b0ad6404ae9c5809027f03eca25aa62c0fa7fdf96138f903fd3cf3eebe29bf",
+      "meta": "08 · Крупный · 85 мм",
+      "title": "Дон реагирует",
+      "caption": "Дон переводит взгляд влево и остаётся на посту."
+    },
+    {
+      "shot": "09",
+      "original": "docs/World/scenes/tais-emma-vending/frames/09.png",
+      "preview": "docs/World/scenes/tais-emma-vending/previews/09.webp",
+      "source_name": "d09-exit.png",
+      "sha256": "7f725627ef1de9cc63a7d12a60a1090d63fe3109927cf43684a30a865372eb7a",
+      "meta": "09 · Общий · 55 мм",
+      "title": "Таис уходит",
+      "caption": "Таис уходит вправо. Эмма остаётся у автомата.",
+      "previous_sha256": "af0f689f28f345341b2b861875df5925dff18c3b4ea2b6102302aedc478ecd49",
+      "revision": "Пыль на ботинках Таис"
+    }
+  ],
+  "camera_plan": {
+    "path": "docs/World/scenes/tais-emma-vending/camera-plan.png",
+    "sha256": "e223c815b82e9c308a7743d85a19fceac08d69996fc205359e5e6f8957fd0f02"
+  }
+}

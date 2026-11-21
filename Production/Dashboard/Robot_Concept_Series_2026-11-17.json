@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-17",
+  "status": "candidate",
+  "generation_method": "built-in image_gen",
+  "prompts": [
+    "don031-prompt.txt",
+    "don032-prompt.txt",
+    "don033-prompt.txt"
+  ],
+  "series": {
+    "lon": [
+      {
+        "id": "lon-orbit",
+        "title": "Орбита",
+        "codes": [
+          "lon001"
+        ]
+      },
+      {
+        "id": "lon-quiet",
+        "title": "Тихий",
+        "codes": [
+          "lon002"
+        ]
+      },
+      {
+        "id": "lon-arch",
+        "title": "Арка",
+        "codes": [
+          "lon007"
+        ]
+      },
+      {
+        "id": "lon-karakuri",
+        "title": "Каракури",
+        "codes": [
+          "lon009"
+        ]
+      },
+      {
+        "id": "lon-contour",
+        "title": "Контур",
+        "codes": [
+          "lon010",
+          "lon011"
+        ]
+      },
+      {
+        "id": "lon-display",
+        "title": "Экранная индикация",
+        "codes": [
+          "lon012"
+        ]
+      },
+      {
+        "id": "lon-scarf",
+        "title": "Лон Эммы · платок и сцены",
+        "codes": [
+          "lon013",
+          "lon014",
+          "lon015"
+        ]
+      }
+    ],
+    "don15": [
+      {
+        "id": "don15-knight",
+        "title": "Рыцарь",
+        "codes": [
+          "don022",
+          "don028",
+          "don031"
+        ]
+      },
+      {
+        "id": "don15-knight-scout",
+        "title": "Рыцарь · разведчик",
+        "codes": [
+          "don033"
+        ]
+      },
+      {
+        "id": "don15-wedge",
+        "title": "Клин",
+        "codes": [
+          "don014"
+        ]
+      },
+      {
+        "id": "don15-tendon",
+        "title": "Сухожилие",
+        "codes": [
+          "don015"
+        ]
+      },
+      {
+        "id": "don15-zero",
+        "title": "Ноль",
+        "codes": [
+          "don006"
+        ]
+      },
+      {
+        "id": "don15-milan",
+        "title": "Милан",
+        "codes": [
+          "don018"
+        ]
+      },
+      {
+        "id": "don15-lamella",
+        "title": "Ламелла",
+        "codes": [
+          "don019"
+        ]
+      },
+      {
+        "id": "don15-beak",
+        "title": "Клюв",
+        "codes": [
+          "don023",
+          "don024"
+        ]
+      },
+      {
+        "id": "don15-visor",
+        "title": "Визор · состояния",
+        "codes": [
+          "don027"
+        ]
+      },
+      {
+        "id": "don15-hand-shell",
+        "title": "Кисть · защитный кожух",
+        "codes": [
+          "don029"
+        ]
+      },
+      {
+        "id": "don15-forearm-module",
+        "title": "Кисть · наружный модуль",
+        "codes": [
+          "don030"
+        ]
+      }
+    ],
+    "don12": [
+      {
+        "id": "don12-mentor",
+        "title": "Наставник",
+        "codes": [
+          "martin001"
+        ]
+      },
+      {
+        "id": "don12-curator",
+        "title": "Куратор",
+        "codes": [
+          "martin002"
+        ]
+      },
+      {
+        "id": "don12-clinic",
+        "title": "Клиника",
+        "codes": [
+          "martin003"
+        ]
+      },
+      {
+        "id": "don12-linea",
+        "title": "Linea",
+        "codes": [
+          "martin004"
+        ]
+      },
+      {
+        "id": "don12-frame",
+        "title": "Каркас",
+        "codes": [
+          "martin006"
+        ]
+      },
+      {
+        "id": "don12-rosa",
+        "title": "Rosa",
+        "codes": [
+          "martin008"
+        ]
+      },
+      {
+        "id": "don12-warm-rubber",
+        "title": "Тёплая резина",
+        "codes": [
+          "donteacher001"
+        ]
+      }
+    ]
+  },
+  "new_assets": {
+    "don031": {
+      "code": "don031",
+      "object": "don15",
+      "caption": "Рыцарь · уточнение конструкции",
+      "sha256": "597a9f507ec6cd262d7207ca570f9074147a1acdb9c2c7b7be144cb67af16c8a",
+      "source_commit": "f6f1a42180bd3f7e22b1b9e334fe661b9936fa80",
+      "source_file": "docs/World/robots/don15/images/don031.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don031.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don022",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "don15-knight",
+      "visibility": "active"
+    },
+    "don032": {
+      "code": "don032",
+      "object": "robot-reserve",
+      "caption": "Рыцарь · прожекторы и разведчик",
+      "sha256": "01bfe709437e0f8a9466ebd87a5c011e6889a5932031b740c3b8bd8704a533f7",
+      "source_commit": "1984ac678f22f0997c6723d7350d78987cafc55a",
+      "source_file": "docs/World/robots/don15/images/don032.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don032.png"
+      ],
+      "galleries": [
+        "World/robots/reserve"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don031",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "robot-reserve",
+      "visibility": "active",
+      "previous_objects": [
+        "don15"
+      ],
+      "replaced_by": "don033"
+    },
+    "don033": {
+      "code": "don033",
+      "object": "don15",
+      "caption": "Рыцарь · центральный прожектор и малый разведчик",
+      "sha256": "087ccc56c2b7c2baaa73e4f50dccb99b7581573dc95104afccf504ff7f356738",
+      "source_commit": "4a4e3b20d33eb5aa9b5de7baa93f0bb155302487",
+      "source_file": "docs/World/robots/don15/images/don033.png",
+      "aliases": [
+        "docs/World/robots/don15/images/don033.png"
+      ],
+      "galleries": [
+        "World/robots/don15"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "derived_from": "don032",
+      "derivation_kind": "design_revision",
+      "renditions": [],
+      "task_ids": [
+        "don15"
+      ],
+      "series": "don15-knight-scout",
+      "visibility": "active"
+    }
+  },
+  "design_notes": [
+    "Прежние кадры, коды, обложки и голоса продюсеров сохранены.",
+    "don031 — развитие don022; don033 — новая комплектация с одним центральным прожектором, одинаковыми плечами и малым угловатым разведчиком. Отклонённая проба don032 сохранена в резерве.",
+    "Визор и две альтернативы кисти выделены для самостоятельного обсуждения; это детали семейства Рыцарь, а не новые корпуса.",
+    "Тепловизор пассивно регистрирует тепловое излучение; активная ИК-подсветка нужна отдельной камере ближнего ИК-диапазона. Белые прожекторы служат для видимого освещения.",
+    "Дрон предназначен для разведки пространства. Его полёт, освобождение плеча, посадка и зарядка требуют отдельной разработки; изображение их не подтверждает."
+  ],
+  "technical_sources": [
+    "https://whitepapers.axis.com/en-us/ir-in-surveillance",
+    "https://www.flir.com/discover/home-outdoor/can-thermal-imaging-see-through-walls/"
+  ]
+}
