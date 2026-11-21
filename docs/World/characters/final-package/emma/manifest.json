@@ -14,6 +14,9 @@
       "portrait": "references/ec02-portrait.png"
     }
   },
+  "wardrobe_portraits": {
+    "EMMA-EC06": "references/ec06-portrait.png"
+  },
   "proposed_wardrobe": [
     "EMMA-EC03",
     "EMMA-EC04",
@@ -270,13 +273,13 @@
       "pages": [
         439
       ],
-      "caption": "Тёплые спортивные брюки с резинкой и карманами, водолазка и трикотажное худи с капюшоном и карманами. В адаптации широкие брюки выполнены из плотной ткани с фактурой тёмного денима. Брюки держат форму благодаря плотной ткани и прямому крою. Карман спрятан в боковом шве. Худи до пояса с умеренным объёмом и компактным капюшоном.",
+      "caption": "В романе у Эммы спортивные брюки на резинке, водолазка и худи. Для адаптации разработаны широкие брюки из плотной ткани с фактурой денима и карманом в шве, а также короткое худи умеренного объёма.",
       "code": "EMMA-EC06",
       "file": "images/ec06.png",
       "preview": "images/ec06.webp",
       "width": 1024,
       "height": 1536,
-      "sha256": "9a56c20b3d989c857503266942f8683ab9aafe6a49cd6480f09e133c3e82d928"
+      "sha256": "a5b76bdeb3ad7b88a01d34bd0d02418df4b28c0c82f9448c97e57a297a86cae2"
     },
     {
       "id": "wardrobe-overview",
@@ -289,7 +292,7 @@
       "preview": "images/wardrobe-overview.webp",
       "width": 1992,
       "height": 590,
-      "sha256": "207cce413e1686d0a442d676a26d6bda75200f873afb8286e3ebb40124d55f67"
+      "sha256": "2d918171e8effd951e140aaa909fc8a2ea2b6191dd32de51c95626c99041e9b6"
     },
     {
       "id": "ep12",
@@ -370,7 +373,7 @@
       "preview": "images/ep16.webp",
       "width": 1558,
       "height": 720,
-      "sha256": "3fa1aeebb9ffc2282c9025e3a20df85d3b7fd4d99826bd041e1e30eaa011d6a8"
+      "sha256": "7a4813929db67cb922ebc87189a17342b30a268ecd5287bd58841dcc707f6c6a"
     },
     {
       "id": "ep17",
