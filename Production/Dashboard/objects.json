@@ -3582,11 +3582,11 @@
         "acting",
         "states"
       ],
-      "summary": "v2 · 23 листа Таис и производственный регламент",
+      "summary": "Таис v3.0 · 24 листа и производственный регламент",
       "image": "characters/final-package/cover.svg",
       "body_file": "Production/Dashboard/character_package_body.html",
       "label": "Для продюсеров",
-      "button_label": "Прочитать предложение"
+      "button_label": "Открыть пакет"
     },
     {
       "id": "robot-scale",

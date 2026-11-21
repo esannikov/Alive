@@ -1,6 +1,6 @@
 {
-  "title": "Таис — пример финального фотореалистического пакета",
-  "version": "2.0",
+  "title": "Таис · финальный фотореалистический пакет",
+  "version": "3.0",
   "identity": "tais053",
   "approval": {
     "work": "KPP-R024",
@@ -10,33 +10,33 @@
     "lena": true,
     "igor": true
   },
-  "new_sheets_status": "Иллюстрированный пример для обсуждения; не автоматическое утверждение M2/M3",
+  "new_sheets_status": "Фотореалистический комплект для просмотра в обновлённом базовом костюме.",
   "animation": "Отложена по указанию пользователя: пока только фотореализм",
-  "background": "Светло-бежевый фон обзорных листов и контрольного кадра. Нейтральный свет для контроля цвета.",
+  "background": "Светло-бежевый нейтральный фон, мягкий направленный свет, естественная детализация кожи и ткани.",
   "assets": [
     {
       "code": "TAIS-TP01",
       "title": "Паспорт образа",
       "section": "passport",
-      "file": "tais/images/tp01.png",
-      "preview": "tais/images/tp01.webp",
+      "file": "tais/images/v3/tp01.png",
+      "preview": "tais/images/v3/tp01.webp",
       "width": 1024,
       "height": 1536,
-      "caption": "Утверждённая основа лица — tais053. Полная фигура и костюм TC01 разработаны для примера; их утверждение отдельно.",
+      "caption": "Типаж А (tais053) в согласованном костюме TC01, редакция 2. Тёмно-синий анорак, длинные брюки карго и приглушённо-красная бандана с сакурой.",
       "pages": [
         19,
         43,
         44
       ],
-      "sha256": "12bf83fc7a685508a64b4ce73e7e312c80aa52c343a173e7907f7dce44c970c1",
+      "sha256": "6ea43c7c9156efe6b1b94ada618a14f3135b1ef4697107d35c3b3a96f3088eb8",
       "asset_id": "TAIS-TP01",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -47,7 +47,7 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
@@ -55,23 +55,23 @@
       "code": "TAIS-TP21",
       "title": "Рост и пропорции",
       "section": "scale",
-      "file": "tais/images/tp21.png",
-      "preview": "tais/images/tp21.webp",
-      "width": 2400,
-      "height": 1650,
-      "caption": "154 см — рабочая оценка, а не число из романа.",
+      "file": "tais/images/v3/tp21.png",
+      "preview": "tais/images/v3/tp21.webp",
+      "width": 1920,
+      "height": 1200,
+      "caption": "154 см — рабочая оценка для сопоставления кадров. В романе Таис едва до плеча Федору.",
       "pages": [
         19
       ],
-      "sha256": "5d20966a72074cc661caa0628a4a1b6435dd816c1c7e449f117c6c37e0cac81c",
+      "sha256": "014ff4e74447b15b2d60f55c8892e8725754c5cdb03b8050173525401d99011c",
       "asset_id": "TAIS-TP21",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -82,32 +82,63 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
+    },
+    {
+      "code": "TAIS-TP24",
+      "asset_id": "TAIS-TP24",
+      "section": "scale",
+      "pages": [
+        19
+      ],
+      "costume_id": null,
+      "state_id": null,
+      "look_id": "tais-type-053",
+      "revision": 1,
+      "status": "candidate",
+      "dependencies": [
+        {
+          "asset_id": "tais053",
+          "revision": 2
+        }
+      ],
+      "title": "Модельный лист фигуры",
+      "caption": "",
+      "file": "tais/images/v3/tp24.png",
+      "preview": "tais/images/v3/tp24.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e5931f51f6864a3387ab9c9896067794c80d273c3e90e0fa5ffe1f008aeb685b",
+      "rights": {
+        "origin": "ALIVE v3, reference-based image generation or compilation",
+        "usage": "internal_review",
+        "commercial_clearance": "pending"
+      }
     },
     {
       "code": "TAIS-TP02",
       "title": "Передние ракурсы",
       "section": "model",
-      "file": "tais/images/tp02.png",
-      "preview": "tais/images/tp02.webp",
+      "file": "tais/images/v3/tp02.png",
+      "preview": "tais/images/v3/tp02.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Фронт, профиль и передние три четверти. Единый ранний костюм TC01.",
+      "caption": "Фронт, профиль и передние три четверти. Карман на левой груди Таис и усиление на её правом рукаве задают асимметрию костюма.",
       "pages": [
         43,
         44
       ],
-      "sha256": "fe70ed5b7dfe14567756960ec60ab4608c3925e242e81556acfff6780b278c85",
+      "sha256": "9e7ee04c816cbe8cd923b8c72eb34120c5492165446db63c404ab19c4cc06688",
       "asset_id": "TAIS-TP02",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -117,12 +148,12 @@
           "revision": 2
         },
         {
-          "asset_id": "tais-tc01",
+          "asset_id": "TAIS-TP01",
           "revision": 1
         },
         {
-          "asset_id": "TAIS-TP01",
-          "revision": 1
+          "asset_id": "tais-tc01",
+          "revision": 2
         }
       ]
     },
@@ -130,24 +161,24 @@
       "code": "TAIS-TP03",
       "title": "Задние ракурсы",
       "section": "model",
-      "file": "tais/images/tp03.png",
-      "preview": "tais/images/tp03.webp",
+      "file": "tais/images/v3/tp03.png",
+      "preview": "tais/images/v3/tp03.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Обзор задних ракурсов. Силуэт можно сверять по листу. Швы спинки и косы требуют проверки против TP17 и правила TC01.",
+      "caption": "Задние три четверти с обеих сторон и вид со спины. Швы спинки и положение узла — рабочие детали для моделирования.",
       "pages": [
         43,
         44
       ],
-      "sha256": "cabf120c639f041b20b29f4c2270a2c93622aa4d38a9560911084c50c5942771",
+      "sha256": "3d987b62ceb4abca7474e14e0d4ac3ffce69e9fbebe86c092a36e7da0a7bfd08",
       "asset_id": "TAIS-TP03",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -157,11 +188,11 @@
           "revision": 2
         },
         {
-          "asset_id": "tais-tc01",
-          "revision": 1
+          "asset_id": "TAIS-TP17",
+          "revision": 2
         },
         {
-          "asset_id": "TAIS-TP17",
+          "asset_id": "tais-tc01",
           "revision": 2
         }
       ]
@@ -170,24 +201,24 @@
       "code": "TAIS-TP04",
       "title": "Голова в ракурсах",
       "section": "face",
-      "file": "tais/images/tp04.png",
-      "preview": "tais/images/tp04.webp",
+      "file": "tais/images/v3/tp04.png",
+      "preview": "tais/images/v3/tp04.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Одна личность в шести ракурсах; бандана и две косы.",
+      "caption": "Шесть ракурсов типажа А. Сверяйте пропорции лица, косы и посадку банданы по утверждённому портрету.",
       "pages": [
         19,
         231
       ],
-      "sha256": "86f1bb663a5f53b9c187102e801cabc36a1a00f3006f8b248089db4734e18f4f",
+      "sha256": "333dd08d05ed718b7197d97713e7b764e44ffac03e0e1f354af7476c5fcf78ea",
       "asset_id": "TAIS-TP04",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -198,7 +229,7 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
@@ -206,23 +237,23 @@
       "code": "TAIS-TP05",
       "title": "Макроплан глаза",
       "section": "face",
-      "file": "tais/images/tp05.png",
-      "preview": "tais/images/tp05.webp",
-      "width": 1536,
-      "height": 1024,
-      "caption": "Светло-карий, медовый оттенок. Рисунок радужки — разработка образа, не буквальный рисунок из текста.",
+      "file": "tais/images/v3/tp05.png",
+      "preview": "tais/images/v3/tp05.webp",
+      "width": 1920,
+      "height": 1200,
+      "caption": "Медово-карий глаз. Фрагмент контрольного портрета, увеличенный для сравнения радужки, век и брови.",
       "pages": [
         231
       ],
-      "sha256": "370280dc4706349694698e0c663090e24393cb01b1027e63cabb98486e25de69",
+      "sha256": "97a7b9d46d1ecd82df3e40ebce6a39db4c9ca7041aa1237f2f8b9e58ce367ccd",
       "asset_id": "TAIS-TP05",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -237,21 +268,21 @@
       "code": "TAIS-TP06",
       "title": "Фактура лица по зонам",
       "section": "face",
-      "file": "tais/images/tp06.png",
-      "preview": "tais/images/tp06.webp",
-      "width": 1536,
-      "height": 1024,
-      "caption": "Лоб; область глаза; нос; внешняя щека; губы; линия волос. Возрастная фактура без равномерного шума.",
+      "file": "tais/images/v3/tp06.png",
+      "preview": "tais/images/v3/tp06.webp",
+      "width": 1920,
+      "height": 1200,
+      "caption": "Крупные фрагменты одного контрольного портрета. Рельеф под носом оставлен мягким и неглубоким.",
       "pages": [],
-      "sha256": "58f7a1a4e61b4f833ccb096722574227a43c583b338598b2da8b21446d804e26",
+      "sha256": "064fca5dc003232ae6421aeea560d30d873c160a66d888ce2e8671c0c7858070",
       "asset_id": "TAIS-TP06",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -266,21 +297,21 @@
       "code": "TAIS-TP07",
       "title": "Левая и правая кисти",
       "section": "hands",
-      "file": "tais/images/tp07.png",
-      "preview": "tais/images/tp07.webp",
+      "file": "tais/images/v3/tp07.png",
+      "preview": "tais/images/v3/tp07.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Верхний ряд: правая ладонь, левая ладонь. Нижний: тыл левой кисти, тыл правой кисти. Сторона определяется относительно тела Таис.",
+      "caption": "Сверху — правая и левая ладони. Снизу — тыльная сторона левой и правой кисти. Стороны определены относительно Таис.",
       "pages": [],
-      "sha256": "3f3051bfba727614e6c53b8aba1d44497f9c3f8eb2aedbdaf1681cf9e6787c38",
+      "sha256": "9ffdde3beb652e49903cc177bf3d25b30b6c57a82d8556826126fe5dac85d47f",
       "asset_id": "TAIS-TP07",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -291,31 +322,31 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
     {
       "code": "TAIS-TP08",
-      "title": "Стопа и обувь",
+      "title": "Обувь и пыль",
       "section": "hands",
-      "file": "tais/images/tp08.png",
-      "preview": "tais/images/tp08.webp",
-      "width": 1536,
-      "height": 1024,
-      "caption": "Тёмные вытертые ботинки с сухой светлой пылью. Цвет и пыль сверять по кадру 04 сцены у автомата (роман, с. 44).",
+      "file": "tais/images/v3/tp08.png",
+      "preview": "tais/images/v3/tp08.webp",
+      "width": 1923,
+      "height": 818,
+      "caption": "Низкая тёмно-коричневая обувь с потёртостями и сухой пылью. В кадре сохранён широкий низ серо-бежевых брюк.",
       "pages": [
         44
       ],
-      "sha256": "2b91b86ae8f4c6e1a138d47267b1add75be856a8912043258ee7730fc8ed5875",
+      "sha256": "cc38b6d7c6b7318a9eee759f7d06677934983149ecd461ae3fb07852eb7a8b0e",
       "asset_id": "TAIS-TP08",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -326,7 +357,7 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
@@ -334,25 +365,25 @@
       "code": "TAIS-TP09",
       "title": "Конструкция причёски",
       "section": "hair",
-      "file": "tais/images/tp09.png",
-      "preview": "tais/images/tp09.webp",
+      "file": "tais/images/v3/tp09.png",
+      "preview": "tais/images/v3/tp09.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Конструкция причёски. Для TC01 использовать две косы спереди, рисунок TP18 и узел банданы сзади.",
+      "caption": "Две косы, естественная линия волос, завязанный сзади платок из красной ткани с мелкой сакурой.",
       "pages": [
         19,
         26,
         43
       ],
-      "sha256": "29f0fdb14d4b6dab917eae3b1b4de8c35e66fb158cee00beaacc2fac9cb3588e",
+      "sha256": "4bb58a95c468ea8072d78a8a608417ead254e8e34b4286539bc43a0223bb44fc",
       "asset_id": "TAIS-TP09",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -363,7 +394,7 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
@@ -371,24 +402,24 @@
       "code": "TAIS-TP10",
       "title": "Состояния волос",
       "section": "hair",
-      "file": "tais/images/tp10.png",
-      "preview": "tais/images/tp10.webp",
-      "width": 1536,
-      "height": 1024,
-      "caption": "Косы; сухие распущенные; мокрые; убранные под бандану. Во всех видах закрытая повседневная одежда.",
+      "file": "tais/images/v3/tp10.png",
+      "preview": "tais/images/v3/tp10.webp",
+      "width": 2172,
+      "height": 724,
+      "caption": "Косы в бандане, сухие распущенные, влажные распущенные, собранные под банданой. Силуэт анорака служит общей опорой.",
       "pages": [
         26,
         458
       ],
-      "sha256": "f989a50bc2c46238574e6ade4f5d1c4842d3e063f3f7ab36d7689fa4fa974526",
+      "sha256": "48b4ab45364891914042f2cacaa1cdd6b9ea1bc8671e7c29cbf31e1a139f1202",
       "asset_id": "TAIS-TP10",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -403,21 +434,21 @@
       "code": "TAIS-TP11",
       "title": "Мимика: внимание и доверие",
       "section": "expressions",
-      "file": "tais/images/tp11.png",
-      "preview": "tais/images/tp11.webp",
+      "file": "tais/images/v3/tp11.png",
+      "preview": "tais/images/v3/tp11.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Слева направо, сверху вниз: базовое состояние; сосредоточенность; любопытство; скепсис; тихая улыбка; смех.",
+      "caption": "Шесть выражений: нейтральное, сосредоточенность, любопытство, скепсис, улыбка и смех.",
       "pages": [],
-      "sha256": "6757ce376a9c6387c892fdbd01dc39bf97badd6ccdf61a97da485d8a53ede8f6",
+      "sha256": "9b946d190276a67879b240771a8ef681ea9ef2203e20f04b6996e99835470bc1",
       "asset_id": "TAIS-TP11",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -432,21 +463,21 @@
       "code": "TAIS-TP12",
       "title": "Мимика: напряжение и уязвимость",
       "section": "expressions",
-      "file": "tais/images/tp12.png",
-      "preview": "tais/images/tp12.webp",
+      "file": "tais/images/v3/tp12.png",
+      "preview": "tais/images/v3/tp12.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Раздражение; сдержанный гнев; испуг; боль; печаль; облегчение. Разница интенсивности не меняет типаж.",
+      "caption": "Шесть выражений: раздражение, гнев, испуг, дискомфорт, печаль и облегчение.",
       "pages": [],
-      "sha256": "7d1e9cf2857e33e4635a3a62245b1563ad026c67a1cf06f06d33cd89ce474fe1",
+      "sha256": "7df1c89ead9a5f4ec1d1d34a309e5390e65bd2cf2871a12b5e6dd3cf90353d99",
       "asset_id": "TAIS-TP12",
-      "revision": 1,
+      "revision": 2,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -461,23 +492,23 @@
       "code": "TAIS-TP13",
       "title": "Повседневная пластика",
       "section": "poses",
-      "file": "tais/images/tp13.png",
-      "preview": "tais/images/tp13.webp",
+      "file": "tais/images/v3/tp13.png",
+      "preview": "tais/images/v3/tp13.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Обзор четырёх поз. Следующая итерация — отдельные полноразмерные кадры, затем обзорная сборка.",
+      "caption": "Четыре состояния в базовом костюме: стойка, сидя, поворот на оклик и шаг.",
       "pages": [
         458
       ],
-      "sha256": "9041fc32a47b5a3ddaa505fb9c87a8cca3592392bef24f3ed3ad1a2d98125f3d",
+      "sha256": "1b464e27f4263770b42fb7e5071408c130e52f50eb1c85bbff142d05fa18d5e4",
       "asset_id": "TAIS-TP13",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -487,12 +518,12 @@
           "revision": 2
         },
         {
-          "asset_id": "tais-tc01",
+          "asset_id": "TAIS-TP01",
           "revision": 1
         },
         {
-          "asset_id": "TAIS-TP01",
-          "revision": 1
+          "asset_id": "tais-tc01",
+          "revision": 2
         }
       ]
     },
@@ -500,25 +531,25 @@
       "code": "TAIS-TP14",
       "title": "Активная пластика",
       "section": "poses",
-      "file": "tais/images/tp14.png",
-      "preview": "tais/images/tp14.webp",
+      "file": "tais/images/v3/tp14.png",
+      "preview": "tais/images/v3/tp14.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Обзор четырёх активных поз. Для анимации проверить возраст и пропорции по одиночным ракурсам.",
+      "caption": "Четыре состояния в базовом костюме: бег, присед, движение рукой вверх и шаг на опору.",
       "pages": [
         11,
         13,
         458
       ],
-      "sha256": "6e1f690391d5fafb5de339bb948a8acbcd49bda419d3540e8a46816a864d0002",
+      "sha256": "6a247f23f2a993f9d4fa1fdae471798375d23219b24db7cd2c12f9aa8a9888f8",
       "asset_id": "TAIS-TP14",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -528,12 +559,12 @@
           "revision": 2
         },
         {
-          "asset_id": "tais-tc01",
+          "asset_id": "TAIS-TP01",
           "revision": 1
         },
         {
-          "asset_id": "TAIS-TP01",
-          "revision": 1
+          "asset_id": "tais-tc01",
+          "revision": 2
         }
       ]
     },
@@ -541,25 +572,25 @@
       "code": "TAIS-TP15",
       "title": "Костюмы TC01 и TC02",
       "section": "wardrobe",
-      "file": "tais/images/tp15.png",
-      "preview": "tais/images/tp15.webp",
-      "width": 1536,
-      "height": 1024,
-      "caption": "Верх: ранний TC01, черновые ракурсы. Низ: тёмно-синяя пайта и длинные штаны TC02. Крой сверять отдельно.",
+      "file": "tais/images/v3/tp15.png",
+      "preview": "tais/images/v3/tp15.webp",
+      "width": 1774,
+      "height": 887,
+      "caption": "Слева — базовый анорак и карго, справа — тёмно-синяя пайта и тёмные длинные брюки для отдельного эпизода.",
       "pages": [
         43,
         44,
         52
       ],
-      "sha256": "4286f6d14fe95b7e43b73ebc40f2efcbb2f4a6308ebd5572b1a1c9d043cd41a7",
+      "sha256": "0126757a4966be83d4fa30efefb53a92130438e721e5d58bd6402ca46986f91f",
       "asset_id": "TAIS-TP15",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -569,11 +600,11 @@
           "revision": 2
         },
         {
-          "asset_id": "tais-tc01",
-          "revision": 1
+          "asset_id": "TAIS-TP17",
+          "revision": 2
         },
         {
-          "asset_id": "TAIS-TP17",
+          "asset_id": "tais-tc01",
           "revision": 2
         }
       ]
@@ -582,24 +613,24 @@
       "code": "TAIS-TP16",
       "title": "Костюмы TC03 и TC04",
       "section": "wardrobe",
-      "file": "tais/images/tp16.png",
-      "preview": "tais/images/tp16.webp",
-      "width": 1536,
-      "height": 1024,
-      "caption": "Верх: джинсовая рубашка TC03. Низ: спортивный комплект TC04. Спорное положение кос в видах TC03 требует сверки.",
+      "file": "tais/images/v3/tp16.png",
+      "preview": "tais/images/v3/tp16.webp",
+      "width": 1774,
+      "height": 887,
+      "caption": "Слева — найденная джинсовая рубашка. Справа — полосатый верх, спортивные брюки и распущенные волосы.",
       "pages": [
         377,
         458
       ],
-      "sha256": "267e09601970aa69d3c7747ad2778ff71b8c168f76ff6772951a08151e4418cc",
+      "sha256": "464be756bbf581306bac7c9e981e2a0d5f5e76b3eb606d8fe06877cd4df5fe6e",
       "asset_id": "TAIS-TP16",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -614,24 +645,24 @@
       "code": "TAIS-TP17",
       "title": "Крой и крупные детали",
       "section": "wardrobe",
-      "file": "tais/images/tp17.png",
-      "preview": "tais/images/tp17.webp",
+      "file": "tais/images/v3/tp17.png",
+      "preview": "tais/images/v3/tp17.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Рабочий эталон формы карманов, манжет, капюшона и швов. Закрытая молния показывает раскладку вещи. Положение молнии на фигуре задаёт сцена.",
+      "caption": "Крупные планы воротника со смещённой застёжкой, накладного кармана, усиления на правом рукаве и манжеты.",
       "pages": [
         43,
         44
       ],
-      "sha256": "67efea70ef300f3e6e2579230feeaa86e32505e6e1ef67ba4203aed1959e6f77",
+      "sha256": "7b8371afd4364d8e52362d57d7d83a138bb801a809dc7b0c2ebed748b60e28b5",
       "asset_id": "TAIS-TP17",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -642,34 +673,34 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
     {
       "code": "TAIS-TP18",
-      "title": "Ранние личные вещи",
+      "title": "Рюкзак и бандана",
       "section": "props",
-      "file": "tais/images/tp18.png",
-      "preview": "tais/images/tp18.webp",
+      "file": "tais/images/v3/tp18.png",
+      "preview": "tais/images/v3/tp18.webp",
       "width": 1536,
       "height": 1024,
-      "caption": "Рюкзак и бандана. Развёрнутый вид банданы задаёт рисунок TC01. Узел сзади берётся с референса образа.",
+      "caption": "Графитовый рюкзак и матовая красная хлопковая бандана. На развороте видны мелкие цветы сакуры и тонкая кайма.",
       "pages": [
         11,
         13,
         43,
         44
       ],
-      "sha256": "628e07f4483aa728ce939447d07ef0f5190063183c5adba6aed214826877d6ff",
+      "sha256": "a7b818be5625d4690c5d6067a520652f513dacaea74ebc74cc26f1bf5649714a",
       "asset_id": "TAIS-TP18",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -680,7 +711,7 @@
         },
         {
           "asset_id": "tais-tc01",
-          "revision": 1
+          "revision": 2
         }
       ]
     },
@@ -752,24 +783,24 @@
       "code": "TAIS-TP22",
       "title": "Маркировка костюма",
       "section": "marks",
-      "file": "tais/images/tp22.png",
-      "preview": "tais/images/tp22.webp",
-      "width": 2400,
-      "height": 1650,
-      "caption": "Справка об отсутствии маркировки. Изображение кроя остаётся иллюстрацией.",
+      "file": "tais/images/v3/tp22.png",
+      "preview": "tais/images/v3/tp22.webp",
+      "width": 1920,
+      "height": 1200,
+      "caption": "Базовый анорак без номера, форменных нашивок и эмблем. Цветочный рисунок относится к бандане.",
       "pages": [
         43,
         44
       ],
-      "sha256": "8a67abf043b25115d6a59800ed39519f64bcf16ef94574e801dec0bcba51a90c",
+      "sha256": "2e00335afc0e29a7a052baaf4c84dbb3a6b81255415fa001d5d1a93524a8aaeb",
       "asset_id": "TAIS-TP22",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": "tais-tc01",
       "state_id": "tais-early",
       "status": "needs_continuity_review",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
@@ -779,11 +810,11 @@
           "revision": 2
         },
         {
-          "asset_id": "tais-tc01",
-          "revision": 1
+          "asset_id": "TAIS-TP17",
+          "revision": 2
         },
         {
-          "asset_id": "TAIS-TP17",
+          "asset_id": "tais-tc01",
           "revision": 2
         }
       ]
@@ -792,11 +823,11 @@
       "code": "TAIS-TP20",
       "title": "Карта изменений",
       "section": "continuity",
-      "file": "tais/images/tp20.png",
-      "preview": "tais/images/tp20.webp",
-      "width": 2400,
-      "height": 1650,
-      "caption": "Карта костюмов. Скобы, марлевая салфетка и лейкопластырь (с. 317–319), смена и заживление (с. 415–417). Сторона плеча остаётся открытой.",
+      "file": "tais/images/v3/tp20.png",
+      "preview": "tais/images/v3/tp20.webp",
+      "width": 1920,
+      "height": 1200,
+      "caption": "Последовательность костюмов TC01–TC04 для визуальной непрерывности. Сторона ранения плеча остаётся открытым решением.",
       "pages": [
         43,
         44,
@@ -808,21 +839,25 @@
         417,
         458
       ],
-      "sha256": "894960ef5f42dd062f07d915ba628608a467e69189a02fc3b7ceaddba7c4fef5",
+      "sha256": "6b7697283b42f121d8ca628eb70d314aa5d00a95d7de253cc3327106074a5618",
       "asset_id": "TAIS-TP20",
-      "revision": 2,
+      "revision": 3,
       "look_id": "tais-type-053",
       "costume_id": null,
       "state_id": null,
       "status": "candidate",
       "rights": {
-        "origin": "ALIVE pilot v1",
+        "origin": "ALIVE v3, reference-based image generation or compilation",
         "usage": "internal_review",
         "commercial_clearance": "pending"
       },
       "dependencies": [
         {
           "asset_id": "tais053",
+          "revision": 2
+        },
+        {
+          "asset_id": "tais-tc01",
           "revision": 2
         }
       ]
@@ -837,7 +872,9 @@
   "costumes": [
     {
       "costume_id": "tais-tc01",
-      "revision": 1
+      "revision": 2,
+      "status": "approved_adaptation_reference",
+      "description": "Тёмно-синий анорак с асимметричным воротником, накладным карманом и усилением на рукаве. Широкие серо-бежевые брюки карго, пыльная обувь и приглушённо-красная бандана с сакурой."
     },
     {
       "costume_id": "tais-tc02",
@@ -904,13 +941,13 @@
     "sha256": "2f9f84e02a02c8ee99e5daf03e3130b3d1de53246d27db70b921d3c635948db2"
   },
   "color_control": {
-    "file": "tais/images/tp-control-v2.png",
-    "preview": "tais/images/tp-control-v2.webp",
+    "file": "tais/images/v3/tp-control.png",
+    "preview": "tais/images/v3/tp-control.webp",
     "width": 1024,
     "height": 1536,
-    "sha256": "5539c05a99e32d8492cdbc72a88e4fc9191c7d63c4ee5007d2bb021d8f591441",
+    "sha256": "f56015710e3a83bfaa46b88bd8db37c4b7c51d3a0676010da80748919e321ca1",
     "asset_id": "TAIS-COLOR-REF",
-    "revision": 1,
+    "revision": 2,
     "look_id": "tais-type-053",
     "costume_id": "tais-tc01",
     "state_id": "tais-early",
@@ -922,11 +959,11 @@
       },
       {
         "asset_id": "tais-tc01",
-        "revision": 1
+        "revision": 2
       }
     ],
     "rights": {
-      "origin": "OpenAI Sunburst, reference-based",
+      "origin": "ALIVE v3, reference-based image generation",
       "usage": "internal_review",
       "commercial_clearance": "pending"
     }
@@ -942,6 +979,24 @@
       "source": "ALIVE.pdf",
       "page": 11,
       "status": "needs_continuity_review"
+    },
+    "base_costume": {
+      "status": "approved_by_project_owner",
+      "costume_id": "tais-tc01",
+      "revision": 2,
+      "source": "Пользовательский визуальный референс и согласованный портрет от 21.11.2026."
     }
+  },
+  "publication": {
+    "date": "21.11.2026",
+    "pdf": "tais/TAIS_Photoreal_Package_v3.pdf",
+    "prompt_pack": "tais/TAIS_Prompt_Pack_v3.md",
+    "page_count": 27
+  },
+  "portrait_reference": {
+    "file": "tais/images/v3/face-master.png",
+    "look_id": "tais-type-053",
+    "status": "approved_reference_for_v3",
+    "sha256": "71eeb57b7b861099288b347bdffa670012f5da3010247a2e57a9e26251ad5944"
   }
 }
