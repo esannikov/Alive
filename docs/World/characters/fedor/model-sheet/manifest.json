@@ -3,7 +3,7 @@
   "version": "1.2",
   "identity": {
     "variant": "fedor-type-009",
-    "original": "references/premium-009.png",
+    "original": "images/fp01.png",
     "frontal_reference": "fp02",
     "approved_outfits": [
       "fc02",
@@ -18,7 +18,7 @@
   "prompt_pack": "FEDOR_Prompt_Pack.md",
   "prompt_library": "prompts/face-by-zones.md",
   "references": [
-    "references/premium-009.png",
+    "images/fp01.png",
     "references/front-009.png",
     "references/approved-sweater.png",
     "references/worker-trousers.png",
