@@ -7,11 +7,12 @@
       "character": "fedor",
       "label": "Типаж 009",
       "anchor_asset": "fedor009",
-      "cover_asset": "fedor031",
+      "cover_asset": "fedor034",
       "member_codes": [
         "fedor009",
         "fedor031",
-        "fedor033"
+        "fedor033",
+        "fedor034"
       ],
       "grouping_basis": [
         "Independent casting candidate",
@@ -21,7 +22,8 @@
       "active_asset_codes": [
         "fedor009",
         "fedor031",
-        "fedor033"
+        "fedor033",
+        "fedor034"
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/fedor/",
       "url": "https://esannikov.github.io/Alive/World/characters/fedor/#fedor-type-009"
@@ -5512,6 +5514,18 @@
       "archived": false,
       "page": "characters/zoya/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya007.png"
+    },
+    "fedor034": {
+      "identity_variant_ids": {
+        "fedor": "fedor-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "fedor": "portrait"
+      },
+      "archived": false,
+      "page": "characters/fedor/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/cadd270c54bf0e387497ba0c0e69235d7750745f/docs/World/characters/fedor/model-sheet/images/fp01.png"
     }
   },
   "notes": [

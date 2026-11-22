@@ -11,7 +11,7 @@
   ],
   "next_numbers": {
     "tais": 62,
-    "fedor": 34,
+    "fedor": 35,
     "moag": 47,
     "emma": 39,
     "kolka": 38,
@@ -15731,6 +15731,29 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "zoya001"
+    },
+    {
+      "code": "fedor034",
+      "object": "fedor",
+      "caption": "Премиальный портрет · типаж 009",
+      "source_file": "docs/World/characters/fedor/model-sheet/images/fp01.png",
+      "source_commit": "cadd270c54bf0e387497ba0c0e69235d7750745f",
+      "sha256": "78c3aa1230e8c396d9bcb7108b69d48c521549df420dd8292c1f2d48d1ba27e2",
+      "aliases": [
+        "docs/World/characters/fedor/model-sheet/images/fp01.png"
+      ],
+      "galleries": [
+        "World/characters/fedor"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "fedor"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "fedor031"
     }
   ],
   "deleted_codes": [

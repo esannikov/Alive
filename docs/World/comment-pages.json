@@ -91,13 +91,20 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/characters/fedor/model-sheet/",
+    "page": "characters/fedor/model-sheet/",
+    "title": "Федор · модельный лист",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/characters/fedor/",
     "page": "characters/fedor/",
     "title": "Федор",
     "variantCodes": [
       "fedor009",
       "fedor031",
-      "fedor033"
+      "fedor033",
+      "fedor034"
     ]
   },
   {

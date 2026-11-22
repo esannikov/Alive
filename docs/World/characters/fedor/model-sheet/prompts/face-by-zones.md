@@ -22,7 +22,7 @@ Create a new photographic exposure. Prioritize character identity, believable an
 
 ## Федор · типаж 009
 
-Входные изображения в порядке подачи. [Премиальный портрет 009](../references/premium-009.png) и [контрольный анфас](../images/fp02.png). Первый задаёт черты и цвет. Второй помогает сверять пропорции анфаса.
+Входные изображения в порядке подачи. [Премиальный портрет 009](../images/fp01.png) и [контрольный анфас](../images/fp02.png). Первый задаёт черты и цвет. Второй помогает сверять пропорции анфаса.
 
 ```text
 Reference 1 is the approved premium three-quarter portrait of the original fictional character Fedor Sheremetev, ALIVE type 009. Reference 2 is his straight frontal control. Keep the exact identity of image 1 and use image 2 for frontal geometry and feature placement. Preserve his late-teen appearance, eye spacing, muted olive gray-green irises, low naturally straight dark brows, exact observed nasal dorsum, tip and nostril shape, mouth width, natural lip contours, asymmetry, jaw, faint freckles and occasional short stubble. Ash-brown grown-out hair with subtly lighter strands. Reference 1 settles any ambiguity about color or features.

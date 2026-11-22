@@ -1,6 +1,6 @@
 # Федор · Фотореалистический пакет
 
-- [Исходный премиальный портрет типажа 009](references/premium-009.png) и [контрольный анфас](images/fp02.png).
+- [Исходный премиальный портрет типажа 009](images/fp01.png) и [контрольный анфас](images/fp02.png).
 - [Согласованный образ со свитером](references/approved-sweater.png) и [финальная примерка с ремнём и ботинками](images/fc02.png).
 - [Библиотека · Лицо по зонам](prompts/face-by-zones.md) содержит утверждённый блок ALIVE и его адаптацию для Федора 009.
 - [Библиотека одежды](prompts/wardrobe-reference.md) содержит инструкции для переноса костюмов в новые сцены.
@@ -30,7 +30,7 @@ Source image precise localized collar-only edit. Preserve the exact front-on sym
 
 ### FEDOR-FP03 · Эталон пропорций
 
-Референсы · [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -42,7 +42,7 @@ Horizontal 3:2 equal-size three frames, straight front, exact left-facing profil
 
 ### FEDOR-FP04 · Голова · шесть ракурсов
 
-Референсы · [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -58,7 +58,7 @@ Horizontal 3:2 portrait sheet 3 by 2 exact: top row front level, 45° facing lef
 
 Страницы романа · 25, 26.
 
-Референсы · [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -70,7 +70,7 @@ Horizontal three hairstyle views, clear left profile, fully rear showing irregul
 
 ### FEDOR-FP12 · Вощёный канвас · три ракурса
 
-Референсы · [fc06](images/fc06.png), [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [fc06](images/fc06.png), [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -81,7 +81,7 @@ Make a 3:2 landscape premium costume turnaround for the exact accepted canvas lo
 
 ### FEDOR-FP16 · Морской свитер · три ракурса
 
-Референсы · [fc02](images/fc02.png), [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [fc02](images/fc02.png), [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -96,7 +96,7 @@ Make a wide landscape studio costume view sheet for the exact slim young male fr
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1024x1536`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png).
 
 ```text
 Reference 1 is the approved premium three-quarter portrait of the original fictional character Fedor Sheremetev, ALIVE type 009. Reference 2 is his straight frontal control. Keep the exact identity of image 1 and use image 2 for frontal geometry and feature placement. Preserve his late-teen appearance, eye spacing, muted olive gray-green irises, low naturally straight dark brows, exact observed nasal dorsum, tip and nostril shape, mouth width, natural lip contours, asymmetry, jaw, faint freckles and occasional short stubble. Ash-brown grown-out hair with subtly lighter strands. Reference 1 settles any ambiguity about color or features.
@@ -114,7 +114,7 @@ Real live-action casting photography, neutral broad directional studio daylight 
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1536x1024`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png).
 
 ```text
 Reference 1 is the approved premium three-quarter portrait of the original fictional character Fedor Sheremetev, ALIVE type 009. Reference 2 is his straight frontal control. Keep the exact identity of image 1 and use image 2 for frontal geometry and feature placement. Preserve his late-teen appearance, eye spacing, muted olive gray-green irises, low naturally straight dark brows, exact observed nasal dorsum, tip and nostril shape, mouth width, natural lip contours, asymmetry, jaw, faint freckles and occasional short stubble. Ash-brown grown-out hair with subtly lighter strands. Reference 1 settles any ambiguity about color or features.
@@ -134,7 +134,7 @@ Real live-action casting photography, neutral broad directional studio daylight 
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1536x1024`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png), [fp18](images/fp18.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png), [fp18](images/fp18.png).
 
 ```text
 Extreme photographic macro of ONE eye of the original fictional ALIVE character Fedor 009, specifically Fedor's anatomical RIGHT eye, found on viewer-left in the frontal photo. Reference 1 premium portrait locks identity and muted gray-green olive iris color. Reference 2 gives frontal position, eyelid shape and spacing. Reference 3 is the high-detail two-eye master. Compose a single 3:2 landscape close-up with only the right eye both corners visible, about 65–80% of frame width, centered and naturally open at relaxed eye level. Neither the other eye nor the nose crosses into the shot. The upper frame may include the lower edge of the right eyebrow and full lid crease. Preserve original recognizable upper lid arch, fine lower lid margin, actual subtly cream sclera, dark natural separated lashes, restrained natural under-eye temperature and softly uneven adjacent skin. One uninterrupted iris with fine radial detail, green-gray olive undertone, natural gray-brown flecks around the pupil, correct pupil shape and one broad soft directional studio catchlight in the same position as the reference. Long macro photographic perspective, no lens distortion, microrelief naturally varying by area, highlights roll off softly. No colored contact lens, cosmetics, uniform pores, AI grain, cracks, face reshaping, sharpening halos, text, collage or second eye. Genuine photographic single eye macro for continuity.
@@ -146,7 +146,7 @@ Extreme photographic macro of ONE eye of the original fictional ALIVE character 
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1536x1024`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png).
 
 ```text
 EXTREME DETAIL MAGNIFICATION of Fedor's nose in landscape framing. This image has NO EYES at all, no brows and no lips. Camera is very close with a long macro lens from 12 degrees off center. Frame bounds are the mid nasal bridge at the top, just above the lip at the bottom, and only the immediate narrow planes of inner cheeks on either side. Crop out all facial landmarks beyond the nose. The nose tip is the central subject at about 55% height, both nostril margins and nose wings clearly shown with natural shape, bridge continues up out of frame. The tip of the nose plus wings occupies most of the width. Match the nose exactly from the supplied references, with realistic small skin pores and native faint freckles, translucent detail and very restrained nose-only sheen, not a cosmetic ad. Make a tight optical macro exposure reconstructed at a higher scale, keep authentic anatomy and lighting.
@@ -164,7 +164,7 @@ Real live-action casting photography, neutral broad directional studio daylight 
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1536x1024`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png).
 
 ```text
 Reference 1 is the approved premium three-quarter portrait of the original fictional character Fedor Sheremetev, ALIVE type 009. Reference 2 is his straight frontal control. Keep the exact identity of image 1 and use image 2 for frontal geometry and feature placement. Preserve his late-teen appearance, eye spacing, muted olive gray-green irises, low naturally straight dark brows, exact observed nasal dorsum, tip and nostril shape, mouth width, natural lip contours, asymmetry, jaw, faint freckles and occasional short stubble. Ash-brown grown-out hair with subtly lighter strands. Reference 1 settles any ambiguity about color or features.
@@ -182,7 +182,7 @@ Real live-action casting photography, neutral broad directional studio daylight 
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1536x1024`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png).
 
 ```text
 EXTREME DETAIL MACRO of both eyebrows at a very close magnification, like a natural hair direction reference for makeup continuity. The entire photo is the supraorbital region ONLY. Boundaries: Mid forehead at top, just 2–4 millimeters below the two eyebrow arches at bottom. Both irises and the entire eyes are outside the BOTTOM EDGE of the image; no visible eyes, nose tip, cheeks, mouth or other elements. Both eyebrows are fully visible across the width, from their outer tails to the short upright inner heads separated by the glabella. The eyebrow hair pattern is the subject at the lower center, rendered from real individual tapered hair, soft matte skin and natural fine microrelief. Weight and placement of the brows follow Fedor's original face. Plain soft directional light, precise lifelike focus, no cosmetic shaping or retouch.
@@ -202,7 +202,7 @@ Real live-action casting photography, neutral broad directional studio daylight 
 
 OpenAI Image API · `gpt-image-2.5-sunburst` · `high` · `1536x1024`.
 
-Референсы · [premium-009](references/premium-009.png), [fp02](images/fp02.png).
+Референсы · [premium-009](images/fp01.png), [fp02](images/fp02.png).
 
 ```text
 Reference 1 is the approved premium three-quarter portrait of the original fictional character Fedor Sheremetev, ALIVE type 009. Reference 2 is his straight frontal control. Keep the exact identity of image 1 and use image 2 for frontal geometry and feature placement. Preserve his late-teen appearance, eye spacing, muted olive gray-green irises, low naturally straight dark brows, exact observed nasal dorsum, tip and nostril shape, mouth width, natural lip contours, asymmetry, jaw, faint freckles and occasional short stubble. Ash-brown grown-out hair with subtly lighter strands. Reference 1 settles any ambiguity about color or features.
@@ -232,7 +232,7 @@ Exact source grid edit, preserve all six photos and particularly six head direct
 
 Верхний ряд · ирония, раздражение, усталость. Нижний ряд · неприятная новость, сочувствие, облегчение.
 
-Референсы · [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -344,7 +344,7 @@ First reference is the accepted same-person base kit, keep exact face identity a
 
 Плотная морская вязка с небольшими протёртостями. Брюки из выстиранного сатина выцветшего армейского зелёного цвета, с накладными карманами и подворотами.
 
-Референсы · [navy-costume-color-lock](references/navy-costume-color-lock.png), [premium-009](references/premium-009.png), [front-009](references/front-009.png).
+Референсы · [navy-costume-color-lock](references/navy-costume-color-lock.png), [premium-009](images/fp01.png), [front-009](references/front-009.png).
 
 ```text
 Exact regional facial clarity repair of reference 1. Keep its full figure, all styling, Army green fatigues, position and colors, taupe warm photo background, navy high roll-neck collar, cuff-to-boot overlap and soft studio light. Modify only the head area to restore photographic optical focus using originals 2 and 3 as texture and identity lock. Preserve exact landmarks, hair length, single hairs against backdrop, eye direction, eyebrows and existing 3/4 direction and expression. Lock exact Fedor 009 face geometry, apparent age and olive gray-green eyes from latest premium portrait. Render individual realistic pores, crisp limbal edges and lashes, freckling in sparse groups and single real stubble hairs. Maintain natural contrast, no HDR, halo or sharpening filter. Wear exact clothing as accepted reference, unchanged identity and no synthetic look. Thoroughly resolve iris fiber, skin around eyelids, lips and fine hairs realistically within available resolution. Preserve same crop, no zoom and no additional objects.
@@ -374,7 +374,7 @@ Precise local jacket material edit of this exact premium live-action studio phot
 
 Низкая тёмно-синяя шерстяная шапка с подворотом и потёртой кромкой.
 
-Референсы · [fc06](images/fc06.png), [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [fc06](images/fc06.png), [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Exact wardrobe accessory addition on this accepted canvas jacket outfit photo. One vintage dark midnight NAVY BLUE wool fisherman's watch cap, small/shallow shape sitting close to crown, slightly rounded on top where decreases meet, fine dense matte rib stitch with single single-fold turned-up thick uniform brim, no logo, pin, signs, label or pom-pom. Brim sits above ears, temples and entire brows, not touching face. Slight loss of blue at the folded edge, few soft wool pills at repeated contact, small thread fuzz, tiny wear visible, no hole. A few authentic ash-brown strands still spill out from the sides and nape. Preserve exact head size, original Fedor features, eyes, brow line, pose, full-body crop and jacket and pants shape of image 1. Keep all original panel shades, material wear and warm studio background. Only add hat in image 1. Photograph, no added visual script. Keep tall raised canvas collar, old jacket in original olive brown tones, taupe sweater, worn cloth trousers, trouser belt threaded correctly, ankle cuffs directly on boots. Turn only eyes a tiny bit toward the viewer, head stays calm and natural.
@@ -386,7 +386,7 @@ Exact wardrobe accessory addition on this accepted canvas jacket outfit photo. O
 
 Та же шапка с потёртым песочным лайнером и чёрными карго.
 
-Референсы · [fc08](images/fc08.png), [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [fc08](images/fc08.png), [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Exact wardrobe accessory addition on this accepted faded khaki quilted liner outfit photo. One vintage dark midnight NAVY BLUE wool fisherman's watch cap, small/shallow shape sitting close to crown, slightly rounded on top where decreases meet, fine dense matte rib stitch with single single-fold turned-up thick uniform brim, no logo, pin, signs, label or pom-pom. Brim sits above ears, temples and entire brows, not touching face. Slight loss of blue at the folded edge, few soft wool pills at repeated contact, small thread fuzz, tiny wear visible, no hole. A few authentic ash-brown strands still spill out from the sides and nape. Preserve exact head size, original Fedor features, eyes, brow line, pose, full-body crop and jacket and pants shape of image 1. Keep all original panel shades, material wear and warm studio background. Only add hat in image 1. Photograph, no added visual script. Preserve matte worn sand liner with lightly frayed edge and wave stitching, black cotton T-shirt, black straight cargo pants with low side pockets and dark brown boots. No new objects. Eye direction slightly away, face clarity preserved.
@@ -400,7 +400,7 @@ Exact wardrobe accessory addition on this accepted faded khaki quilted liner out
 
 Страницы романа · 25, 26.
 
-Референсы · [fc02](images/fc02.png), [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [fc02](images/fc02.png), [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -415,7 +415,7 @@ Horizontal cinematic live-action still on Dark Base. Exact Fedor type 009 and ba
 
 Страницы романа · 146, 147.
 
-Референсы · [fc03](images/fc03.png), [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [fc03](images/fc03.png), [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -446,7 +446,7 @@ Keep Fedor's face, hair, upper wardrobe, posture, scale, hands, shoe design and 
 
 Страницы романа · 146, 147.
 
-Референсы · [fp09-source-1](references/fp09-source-1.png), [fc02](images/fc02.png), [premium-009](references/premium-009.png).
+Референсы · [fp09-source-1](references/fp09-source-1.png), [fc02](images/fc02.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.
@@ -469,7 +469,7 @@ Exact wardrobe-only edit to the beige studio two by two prop gestures in first r
 
 Страницы романа · 25, 26, 146, 147.
 
-Референсы · [front-009](references/front-009.png), [premium-009](references/premium-009.png).
+Референсы · [front-009](references/front-009.png), [premium-009](images/fp01.png).
 
 ```text
 Premium photoreal live-action character reference, natural soft directional high-CRI studio daylight, soft bounced shadows, neutral skin tones, realistic regional skin texture with fine pores and subtle freckles, sharp eyes and individual strands of hair, material-specific woven fibers, coherent seams and folds, restrained local contrast, natural photographic depth, clean very light warm beige seamless background. Worn garments show ordinary patina at contact points with physically plausible folds and stitching, with no synthetic surface pattern, crackle, embossed skin, grain clumps, beauty retouch or excessive sharpening.

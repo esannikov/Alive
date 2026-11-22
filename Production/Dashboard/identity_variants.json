@@ -8,11 +8,12 @@
       "character": "fedor",
       "label": "Типаж 009",
       "anchor_asset": "fedor009",
-      "cover_asset": "fedor031",
+      "cover_asset": "fedor034",
       "member_codes": [
         "fedor009",
         "fedor031",
-        "fedor033"
+        "fedor033",
+        "fedor034"
       ],
       "grouping_basis": [
         "Independent casting candidate",
@@ -4105,6 +4106,15 @@
       },
       "roles": {
         "zoya": "scene"
+      },
+      "review_required": {}
+    },
+    "fedor034": {
+      "variants": {
+        "fedor": "fedor-type-009"
+      },
+      "roles": {
+        "fedor": "portrait"
       },
       "review_required": {}
     }

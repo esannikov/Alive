@@ -9,6 +9,8 @@ import os
 import re
 import subprocess
 
+import fedor_model_sheet
+
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'docs/World'
 REGISTRY = ROOT / 'Production/Dashboard/asset_codes.json'
@@ -173,13 +175,19 @@ def build():
         if any(v['character']==o['id'] for v in identity_variants):tab_count=len(aa)
         tabs=''.join(f'<a class="derivative" href="@ROOT@{esc(d["path"])}/">{esc(d["title"])}</a>' if d.get('path') else f'<button class="derivative {"active" if d["id"]=="appearance" else ""}"'+(' aria-current="page"' if d['id']=='appearance' else ' aria-disabled="true" data-pending title="Пока не подготовлено"')+f'>{d["title"]}{f" <span class=mono>{tab_count}</span>" if d["id"]=="appearance" else ""}</button>' for d in o.get('derivatives',config['derivatives']))
         package_link = ''
-        fedor_manifest = OUT/'characters/final-package/fedor/manifest.json'
+        fedor_manifest = OUT/'characters/fedor/model-sheet/manifest.json'
         if o['id'] == 'fedor' and fedor_manifest.is_file():
-            package_path = '@ROOT@characters/final-package/fedor/'
-            package_version = esc(json.loads(fedor_manifest.read_text())['version'])
+            package_path = '@ROOT@characters/fedor/model-sheet/'
+            sheet = json.loads(fedor_manifest.read_text())
+            package_version = esc(sheet['version'])
+            shared = 'characters/final-package/'
+            package_head = (f'<link rel="stylesheet" href="@ROOT@{asset_version(shared + "package.css")}">'
+                            f'<script defer src="@ROOT@{asset_version(shared + "package.js")}"></script>')
+            page('characters/fedor/model-sheet/index.html', 'Федор · модельный лист',
+                 fedor_model_sheet.render(sheet), category='people', extra_head=package_head)
             package_link = f'<a class="quiet-link" href="{package_path}">Фотореалистический пакет v{package_version} ↗</a>'
             package_sections = (
-                ('Модельный лист', 'fp03'), ('Костюм', 'wardrobe'), ('Мимика и позы', 'acting'),
+                ('Модельный лист', 'look'), ('Лицо крупным планом', 'face'), ('Костюм', 'wardrobe'), ('Мимика и позы', 'acting'),
                 ('Состояния', 'scenes'), ('Личные вещи', 'details'), ('Библиотека одежды', 'clothes'),
             )
             tabs = (f'<button class="derivative active" aria-current="page">Внешность <span class=mono>{tab_count}</span></button>'
