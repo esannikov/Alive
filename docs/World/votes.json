@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T19:30:28.930597+00:00",
+  "generatedAt": "2026-11-22T14:39:24.649780+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -2795,6 +2795,19 @@
       "automaticRemoval": false
     },
     "fedor033": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "fedor034": {
       "votes": [],
       "scores": {
         "for": 0,
@@ -8549,5 +8562,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-21T21"
+  "refreshSlot": "2026-11-22T09"
 }
