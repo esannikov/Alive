@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T20:51:13.728284+00:00",
+  "generatedAt": "2026-11-23T09:09:49.545908+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -3665,6 +3665,123 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
+    "klin001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin006": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin007": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin008": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "klin009": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
     "kolka001": {
       "votes": [],
       "scores": {
@@ -4147,6 +4264,19 @@
       "automaticRemoval": false,
       "discussionNumber": 216,
       "url": "https://github.com/esannikov/Alive/discussions/216"
+    },
+    "kolka038": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
     },
     "krendel001": {
       "votes": [
@@ -6493,6 +6623,45 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
+    "senka008": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "senka009": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "senka010": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
     "sonya001": {
       "votes": [],
       "scores": {
@@ -8072,6 +8241,84 @@
       "status": "unvoted",
       "automaticRemoval": false
     },
+    "vaska001": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vaska002": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vaska003": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vaska004": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vaska005": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
+    "vaska006": {
+      "votes": [],
+      "scores": {
+        "for": 0,
+        "against": 0
+      },
+      "people": {
+        "for": 0,
+        "against": 0
+      },
+      "status": "unvoted",
+      "automaticRemoval": false
+    },
     "vend001": {
       "votes": [],
       "scores": {
@@ -8562,5 +8809,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-22T21"
+  "refreshSlot": "2026-11-23T09"
 }
