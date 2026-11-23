@@ -58,7 +58,7 @@
     "andryushka": 8,
     "zoya": 8,
     "vaska": 7,
-    "klin": 7
+    "klin": 9
   },
   "assets": [
     {
@@ -16055,7 +16055,8 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "replaced_by": "klin007"
     },
     {
       "code": "klin004",
@@ -16099,7 +16100,8 @@
         "support"
       ],
       "series": "current",
-      "visibility": "active"
+      "visibility": "archived",
+      "replaced_by": "klin008"
     },
     {
       "code": "klin006",
@@ -16122,6 +16124,52 @@
       ],
       "series": "current",
       "visibility": "active"
+    },
+    {
+      "code": "klin007",
+      "object": "klin",
+      "caption": "03 · Короткие завитки · выраженная линия челюсти",
+      "source_file": "docs/World/characters/klin/images/klin007.png",
+      "source_commit": "10e00bec31fbe26f95d6a7e17404023d64ba9d89",
+      "sha256": "a9add383df420c2e85d558825a74e5a868b6f4d369e438769527fba4cfa55442",
+      "aliases": [
+        "docs/World/characters/klin/images/klin007.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "klin003"
+    },
+    {
+      "code": "klin008",
+      "object": "klin",
+      "caption": "05 · Широкая переносица · удлинённый овал",
+      "source_file": "docs/World/characters/klin/images/klin008.png",
+      "source_commit": "10e00bec31fbe26f95d6a7e17404023d64ba9d89",
+      "sha256": "3950396d3f1c209d0aea80656081c70589b119b420a92c7315448ce81ab1382f",
+      "aliases": [
+        "docs/World/characters/klin/images/klin008.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "klin005"
     }
   ],
   "deleted_codes": [
