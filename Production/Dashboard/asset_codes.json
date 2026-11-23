@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 53,
+    "frik": 60,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16874,9 +16874,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "c22bbdc3123890ef48d67442925b9918461d39eb",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik053"
     },
     {
       "code": "frik045",
@@ -16897,9 +16898,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "c22bbdc3123890ef48d67442925b9918461d39eb",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik054"
     },
     {
       "code": "frik046",
@@ -16944,9 +16946,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik056"
     },
     {
       "code": "frik048",
@@ -16967,9 +16970,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik057"
     },
     {
       "code": "frik049",
@@ -17014,9 +17018,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik059"
     },
     {
       "code": "frik051",
@@ -17037,9 +17042,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "95abbc228468b7b6ef885e1063fb9e961e5242c4",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik055"
     },
     {
       "code": "frik052",
@@ -17060,9 +17066,171 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "95abbc228468b7b6ef885e1063fb9e961e5242c4",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik058"
+    },
+    {
+      "code": "frik053",
+      "caption": "Лицо медсестры · основной вариант",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik053.webp",
+      "sha256": "722f5ff01c41fefa0a925af8c3b85213f529fe627c7ee5ed51f8af6d34efd10d",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik053.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik044"
+    },
+    {
+      "code": "frik054",
+      "caption": "Лицо медсестры · альтернативный вариант",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik054.webp",
+      "sha256": "7fafdf16f6a8e0da0f140e194042a94e47cd3a1c9371be3ba249bd240955ed87",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik054.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik045"
+    },
+    {
+      "code": "frik055",
+      "caption": "Впалые щёки",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik055.webp",
+      "sha256": "2bb7a12b0f77cde217f7c31612f54e25e9355bba924721097e711851c45924e1",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik055.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik051"
+    },
+    {
+      "code": "frik056",
+      "caption": "Косая линия рта",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik056.webp",
+      "sha256": "05ba08b3c84ddb62cad5ddf5fe565ddf09c8a9d05d070b7a7d86b91a1b7be5ce",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik056.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik047"
+    },
+    {
+      "code": "frik057",
+      "caption": "Глубокие глазницы",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik057.webp",
+      "sha256": "643b3c1d10ed17e2eda97651d714b62ec4f2a88d4b2322a12ad69bf995514ca3",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik057.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik048"
+    },
+    {
+      "code": "frik058",
+      "caption": "Сужение век",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik058.webp",
+      "sha256": "7fed992dc113f5c72137742d17185f5285e707a88284caaf5f7c05cc0bd85d02",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik058.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik052"
+    },
+    {
+      "code": "frik059",
+      "caption": "Выступающая верхняя челюсть",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik059.webp",
+      "sha256": "6608f9abe169a00d10000dbbcda36a20026693d232f387172f07f3006aad1042",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik059.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "1cfd3f080664bd5d465677d56481f61a800b421b",
+      "derived_from": "frik050"
     }
   ],
   "deleted_codes": [
