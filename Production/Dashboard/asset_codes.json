@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 27,
+    "frik": 33,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16346,8 +16346,9 @@
         "character-concepts"
       ],
       "series": "friki-flashlight",
-      "visibility": "active",
-      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+      "visibility": "archived",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab",
+      "replaced_by": "frik027"
     },
     {
       "code": "frik022",
@@ -16368,8 +16369,9 @@
         "character-concepts"
       ],
       "series": "friki-flashlight",
-      "visibility": "active",
-      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+      "visibility": "archived",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab",
+      "replaced_by": "frik028"
     },
     {
       "code": "frik023",
@@ -16390,8 +16392,9 @@
         "character-concepts"
       ],
       "series": "friki-flashlight",
-      "visibility": "active",
-      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+      "visibility": "archived",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab",
+      "replaced_by": "frik029"
     },
     {
       "code": "frik024",
@@ -16412,8 +16415,9 @@
         "character-concepts"
       ],
       "series": "friki-flashlight",
-      "visibility": "active",
-      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+      "visibility": "archived",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab",
+      "replaced_by": "frik030"
     },
     {
       "code": "frik025",
@@ -16434,8 +16438,9 @@
         "character-concepts"
       ],
       "series": "friki-flashlight",
-      "visibility": "active",
-      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+      "visibility": "archived",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab",
+      "replaced_by": "frik031"
     },
     {
       "code": "frik026",
@@ -16456,8 +16461,147 @@
         "character-concepts"
       ],
       "series": "friki-flashlight",
+      "visibility": "archived",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab",
+      "replaced_by": "frik032"
+    },
+    {
+      "code": "frik027",
+      "caption": "07 · Узкие глаза",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik027.webp",
+      "sha256": "0680f47cdefa5d9d23c832d541792efada28390abf95f0d4e1f5e8379ba77b5e",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik027.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
       "visibility": "active",
-      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+      "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
+      "derived_from": "frik015"
+    },
+    {
+      "code": "frik028",
+      "caption": "08 · Тень над глазами",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik028.webp",
+      "sha256": "ee96c74ad0840f6392fb3cfcb64bfec2102321a606f05c1c77d00bc7e854c787",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik028.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
+      "derived_from": "frik016"
+    },
+    {
+      "code": "frik029",
+      "caption": "09 · Асимметрия скул",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik029.webp",
+      "sha256": "ec9d569f91be5389b049138016412dca04fff8b239db169a0c84049a3d39bdb0",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik029.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
+      "derived_from": "frik017"
+    },
+    {
+      "code": "frik030",
+      "caption": "10 · Взгляд с лестницы",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik030.webp",
+      "sha256": "1954ce48fa7b03a9f29c87fd2ed9d9fa4fb92ff2a5131b4e9fcd593001f1b7a3",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik030.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
+      "derived_from": "frik018"
+    },
+    {
+      "code": "frik031",
+      "caption": "11 · Перед броском",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik031.webp",
+      "sha256": "77751f864863312c1a4bfd5d7a5074ae03ff05bbd8ec399b7775414e49dd72ff",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik031.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
+      "derived_from": "frik019"
+    },
+    {
+      "code": "frik032",
+      "caption": "12 · Вожак у стаи",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik032.webp",
+      "sha256": "057df1d43e34af18555f02847efd72095ff7fbe26acd33e06e948ea913e1ae66",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik032.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
+      "derived_from": "frik020"
     }
   ],
   "deleted_codes": [
