@@ -377,7 +377,10 @@
       "cover_asset": "rita008",
       "member_codes": [
         "rita003",
-        "rita008"
+        "rita008",
+        "senka008",
+        "senka009",
+        "senka010"
       ],
       "grouping_basis": [
         "Independent casting candidate",
@@ -1787,7 +1790,7 @@
       "character": "kolka",
       "label": "Типаж 015",
       "anchor_asset": "kolka015",
-      "cover_asset": "kolka033",
+      "cover_asset": "kolka038",
       "member_codes": [
         "kolka033",
         "kolka034",
@@ -1796,7 +1799,8 @@
         "kolka015",
         "kolka016",
         "kolka017",
-        "kolka018"
+        "kolka018",
+        "kolka038"
       ],
       "grouping_basis": [
         "Explicit identity-preserving provenance",
@@ -4115,6 +4119,48 @@
       },
       "roles": {
         "fedor": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka008": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      }
+    },
+    "senka009": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      }
+    },
+    "senka010": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      }
+    },
+    "kolka038": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "portrait"
       },
       "review_required": {}
     }

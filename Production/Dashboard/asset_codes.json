@@ -14,7 +14,7 @@
     "fedor": 35,
     "moag": 47,
     "emma": 39,
-    "kolka": 38,
+    "kolka": 39,
     "lon": 18,
     "don": 34,
     "martin": 22,
@@ -41,7 +41,7 @@
     "inna": 7,
     "semen": 7,
     "ira": 8,
-    "senka": 8,
+    "senka": 11,
     "dimka": 13,
     "andrey": 7,
     "gardener": 7,
@@ -15754,6 +15754,108 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "fedor031"
+    },
+    {
+      "code": "senka008",
+      "object": "senka",
+      "caption": "Рита и Сенька · анфас",
+      "sha256": "a8990ab450700bb674110714c358c1dff378542f66c1550bff2769171ca0a1a6",
+      "source_commit": "f715f5f69f7ec6ac736f4229574575cdeea6e95a",
+      "source_file": "docs/World/characters/senka/images/siblings-01.png",
+      "aliases": [
+        "docs/World/characters/senka/images/siblings-01.png"
+      ],
+      "galleries": [
+        "World/characters/senka",
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "additional_objects": [
+        "rita"
+      ]
+    },
+    {
+      "code": "senka009",
+      "object": "senka",
+      "caption": "Рита и Сенька · разговор",
+      "sha256": "a04589ad943ccfaa89a81ae872e6ee66ca62d3c223511035813032f33c127817",
+      "source_commit": "f715f5f69f7ec6ac736f4229574575cdeea6e95a",
+      "source_file": "docs/World/characters/senka/images/siblings-02.png",
+      "aliases": [
+        "docs/World/characters/senka/images/siblings-02.png"
+      ],
+      "galleries": [
+        "World/characters/senka",
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "additional_objects": [
+        "rita"
+      ]
+    },
+    {
+      "code": "senka010",
+      "object": "senka",
+      "caption": "Рита и Сенька · за планшетом",
+      "sha256": "9180ffad0ed4e18a2a4b1e963a053bdc520b11165d08469d0e54ce64c14804c8",
+      "source_commit": "f715f5f69f7ec6ac736f4229574575cdeea6e95a",
+      "source_file": "docs/World/characters/senka/images/siblings-03.png",
+      "aliases": [
+        "docs/World/characters/senka/images/siblings-03.png"
+      ],
+      "galleries": [
+        "World/characters/senka",
+        "World/characters/rita"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "additional_objects": [
+        "rita"
+      ]
+    },
+    {
+      "code": "kolka038",
+      "object": "kolka",
+      "caption": "Премиальный портрет · типаж 015",
+      "sha256": "718a28af86bb0fa8f3fe2583dd05484280f2314ed34a0a5bc3282bbb3ffd337a",
+      "source_commit": "f715f5f69f7ec6ac736f4229574575cdeea6e95a",
+      "source_file": "docs/World/characters/kolka/model-sheet/images/kp01.png",
+      "aliases": [
+        "docs/World/characters/kolka/model-sheet/images/kp01.png"
+      ],
+      "galleries": [
+        "World/characters/kolka"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "kolka",
+        "character-concepts"
+      ],
+      "series": "current",
+      "visibility": "active",
+      "derived_from": "kolka033"
     }
   ],
   "deleted_codes": [

@@ -114,6 +114,12 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/characters/kolka/model-sheet/",
+    "page": "characters/kolka/model-sheet/",
+    "title": "Колька · Колючий · модельный лист",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/characters/kolka/",
     "page": "characters/kolka/",
     "title": "Колька · Колючий",
@@ -135,7 +141,8 @@
       "kolka034",
       "kolka035",
       "kolka036",
-      "kolka037"
+      "kolka037",
+      "kolka038"
     ]
   },
   {
@@ -327,7 +334,10 @@
       "rita006",
       "rita007",
       "senka007",
-      "rita008"
+      "rita008",
+      "senka008",
+      "senka009",
+      "senka010"
     ]
   },
   {
@@ -1031,7 +1041,10 @@
       "senka004",
       "senka005",
       "senka006",
-      "senka007"
+      "senka007",
+      "senka008",
+      "senka009",
+      "senka010"
     ]
   },
   {

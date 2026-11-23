@@ -500,7 +500,10 @@
       "cover_asset": "rita008",
       "member_codes": [
         "rita003",
-        "rita008"
+        "rita008",
+        "senka008",
+        "senka009",
+        "senka010"
       ],
       "grouping_basis": [
         "Independent casting candidate",
@@ -509,7 +512,10 @@
       "design_acceptance": "not_implied",
       "active_asset_codes": [
         "rita003",
-        "rita008"
+        "rita008",
+        "senka008",
+        "senka009",
+        "senka010"
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
       "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-003"
@@ -2409,7 +2415,7 @@
       "character": "kolka",
       "label": "Типаж 015",
       "anchor_asset": "kolka015",
-      "cover_asset": "kolka033",
+      "cover_asset": "kolka038",
       "member_codes": [
         "kolka033",
         "kolka034",
@@ -2418,7 +2424,8 @@
         "kolka015",
         "kolka016",
         "kolka017",
-        "kolka018"
+        "kolka018",
+        "kolka038"
       ],
       "grouping_basis": [
         "Explicit identity-preserving provenance",
@@ -2429,7 +2436,8 @@
         "kolka033",
         "kolka034",
         "kolka035",
-        "kolka036"
+        "kolka036",
+        "kolka038"
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
       "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-015"
@@ -5526,6 +5534,60 @@
       "archived": false,
       "page": "characters/fedor/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/cadd270c54bf0e387497ba0c0e69235d7750745f/docs/World/characters/fedor/model-sheet/images/fp01.png"
+    },
+    "senka008": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/senka/images/siblings-01.png"
+    },
+    "senka009": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/senka/images/siblings-02.png"
+    },
+    "senka010": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/senka/images/siblings-03.png"
+    },
+    "kolka038": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/kolka/model-sheet/images/kp01.png"
     }
   },
   "notes": [
