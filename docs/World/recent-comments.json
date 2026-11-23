@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:38:49.454462+00:00",
+  "generatedAt": "2026-11-23T09:09:12.502956+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BLLOL",
@@ -129,6 +129,10 @@
       }
     },
     "characters/fedor/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/kolka/model-sheet/": {
       "messageCount": 0,
       "last": null
     },
@@ -669,6 +673,22 @@
       "last": null
     },
     "characters/zoya/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/vaska/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/vaska/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/klin/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "characters/klin/reference.html": {
       "messageCount": 0,
       "last": null
     },
