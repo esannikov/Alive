@@ -1432,6 +1432,44 @@
     "variantCodes": []
   },
   {
+    "term": "Alive/World/characters/vaska/",
+    "page": "characters/vaska/",
+    "title": "Васька",
+    "variantCodes": [
+      "vaska001",
+      "vaska002",
+      "vaska003",
+      "vaska004",
+      "vaska005",
+      "vaska006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/vaska/reference",
+    "page": "characters/vaska/reference.html",
+    "title": "Васька · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/characters/klin/",
+    "page": "characters/klin/",
+    "title": "Клин",
+    "variantCodes": [
+      "klin001",
+      "klin002",
+      "klin003",
+      "klin004",
+      "klin005",
+      "klin006"
+    ]
+  },
+  {
+    "term": "Alive/World/characters/klin/reference",
+    "page": "characters/klin/reference.html",
+    "title": "Клин · справка",
+    "variantCodes": []
+  },
+  {
     "term": "Alive/World/search",
     "page": "search.html",
     "title": "Поиск",

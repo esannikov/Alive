@@ -56,7 +56,9 @@
     "vend": 5,
     "bar": 5,
     "andryushka": 8,
-    "zoya": 8
+    "zoya": 8,
+    "vaska": 7,
+    "klin": 7
   },
   "assets": [
     {
@@ -15856,6 +15858,270 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "kolka033"
+    },
+    {
+      "code": "vaska001",
+      "object": "vaska",
+      "caption": "01 · Широкие скулы",
+      "source_file": "docs/World/characters/vaska/images/vaska001.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "46b82696854f086d5c0b79dec5c7a1d5b190b2a7c8c5023c9a122c24e9f0bc6a",
+      "aliases": [
+        "docs/World/characters/vaska/images/vaska001.png"
+      ],
+      "galleries": [
+        "World/characters/vaska"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vaska002",
+      "object": "vaska",
+      "caption": "02 · Веснушки и курчавые волосы",
+      "source_file": "docs/World/characters/vaska/images/vaska002.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "0c5ab339618420c975314d4125d5dfef0787a40a879335fce7b4d2762280515b",
+      "aliases": [
+        "docs/World/characters/vaska/images/vaska002.png"
+      ],
+      "galleries": [
+        "World/characters/vaska"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vaska003",
+      "object": "vaska",
+      "caption": "03 · Прямые брови",
+      "source_file": "docs/World/characters/vaska/images/vaska003.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "6195a213790b636c1d096c4a45a963ff894b9fa101f215ff3df3e7a06b4556b7",
+      "aliases": [
+        "docs/World/characters/vaska/images/vaska003.png"
+      ],
+      "galleries": [
+        "World/characters/vaska"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vaska004",
+      "object": "vaska",
+      "caption": "04 · Узкий овал",
+      "source_file": "docs/World/characters/vaska/images/vaska004.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "e9667309fae7aef49aa0bc8d9d7dbbb8b601e76eb1e9a74edbbf8cbfe714a9ba",
+      "aliases": [
+        "docs/World/characters/vaska/images/vaska004.png"
+      ],
+      "galleries": [
+        "World/characters/vaska"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vaska005",
+      "object": "vaska",
+      "caption": "05 · Округлая челюсть",
+      "source_file": "docs/World/characters/vaska/images/vaska005.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "7d3f8ead098feab4571869b3d385bd0ea118040efca0b2f8c947401b39b0944e",
+      "aliases": [
+        "docs/World/characters/vaska/images/vaska005.png"
+      ],
+      "galleries": [
+        "World/characters/vaska"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vaska006",
+      "object": "vaska",
+      "caption": "06 · Выраженная переносица",
+      "source_file": "docs/World/characters/vaska/images/vaska006.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "02dd13416e96feb4f9efcc58774048e8a7389d1c64c29e0b56196bf594f70add",
+      "aliases": [
+        "docs/World/characters/vaska/images/vaska006.png"
+      ],
+      "galleries": [
+        "World/characters/vaska"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "klin001",
+      "object": "klin",
+      "caption": "01 · Вытянутое лицо",
+      "source_file": "docs/World/characters/klin/images/klin001.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "cfbe54a39b76fcbf6ea14f6a9560754be71521e9138c6289e7b9a46e4f95e4a5",
+      "aliases": [
+        "docs/World/characters/klin/images/klin001.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "klin002",
+      "object": "klin",
+      "caption": "02 · Тяжёлые веки",
+      "source_file": "docs/World/characters/klin/images/klin002.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "6a37a1d7fc479cbbbc3d9d9cb805940b2173f8d4c68f9fb45cac90bd12526d78",
+      "aliases": [
+        "docs/World/characters/klin/images/klin002.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "klin003",
+      "object": "klin",
+      "caption": "03 · Мягкий овал",
+      "source_file": "docs/World/characters/klin/images/klin003.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "4cd0c0590673d027bc1c86ad7e34208583a77c6289189706f451ac8fe1c24e95",
+      "aliases": [
+        "docs/World/characters/klin/images/klin003.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "klin004",
+      "object": "klin",
+      "caption": "04 · Острые скулы",
+      "source_file": "docs/World/characters/klin/images/klin004.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "7b4b574dafecb0f6efa2090349a98f853cd4b2c6f7a78e05cc8ce3ee03486838",
+      "aliases": [
+        "docs/World/characters/klin/images/klin004.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "klin005",
+      "object": "klin",
+      "caption": "05 · Широкая переносица",
+      "source_file": "docs/World/characters/klin/images/klin005.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "169682e2dbc149faa0870d26c49cbe2fb148d41f4c679bd8954264b33c584294",
+      "aliases": [
+        "docs/World/characters/klin/images/klin005.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "klin006",
+      "object": "klin",
+      "caption": "06 · Ломаная линия бровей",
+      "source_file": "docs/World/characters/klin/images/klin006.png",
+      "source_commit": "9909436f63da7ddf3071b12e57c8b296cfe97e22",
+      "sha256": "c73ad00e39ea7ba4520a160ef2b4a9020477cfa3c7ae78519b3b8db71cad975c",
+      "aliases": [
+        "docs/World/characters/klin/images/klin006.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
