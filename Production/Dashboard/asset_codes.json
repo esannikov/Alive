@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 15,
+    "frik": 27,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16194,6 +16194,270 @@
       "series": "current",
       "visibility": "active",
       "derived_from": "klin008"
+    },
+    {
+      "code": "frik015",
+      "caption": "01 · Поворот к свету",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik015.webp",
+      "sha256": "deba746a46eef8c9f20dd237f2381a15b86dbe8816ff14280e25011dd8c2f2c5",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik015.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik016",
+      "caption": "02 · Пробуждение",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik016.webp",
+      "sha256": "c12ecd19cf0a12a55a8a160b5a0eaa1d962ffc6a4e42a1d08179f28a402ab6f7",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik016.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik017",
+      "caption": "03 · Профиль взрослой особи",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik017.webp",
+      "sha256": "80e37ffbb1e9bb24cec1fec1d72f52a94fe7eac5542b91629910e9e901fbb774",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik017.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik018",
+      "caption": "04 · Старшая особь",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik018.webp",
+      "sha256": "187d13c8a6f10beec69bf886ab44fece1c58b73e2ef61e00edacbb4bb0258552",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik018.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik019",
+      "caption": "05 · Перед прыжком",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik019.webp",
+      "sha256": "e00ec38d391265009902960d0c7e48c0105a272d1364d593171025d42350d241",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik019.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik020",
+      "caption": "06 · Широкомордый вожак",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik020.webp",
+      "sha256": "7395f9bb5388a48d43826d6eca3f2f3144a2f601f0d829f164907a35be41661a",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik020.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik021",
+      "caption": "07 · Разворот нижней челюсти",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik021.webp",
+      "sha256": "1ac25e019fae1fd8337c527ef27ab12da0b6aaf7cda07590fd24ec209a2e9070",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik021.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik022",
+      "caption": "08 · Глубокие глазницы",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik022.webp",
+      "sha256": "9e3c49c4a1619aef7c9f546f2205ffe29d7d219e8bd99816c0203d44bc804415",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik022.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik023",
+      "caption": "09 · Асимметричный прикус",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik023.webp",
+      "sha256": "0842cd41c214783391cfae0eec8b574d795a0f0d8a46b5ed5cf206f75cc0f8e8",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik023.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik024",
+      "caption": "10 · Выступающие скуловые дуги",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik024.webp",
+      "sha256": "ee972953084b52552dc3ec48815c04472b4f240953827e49d658026978144546",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik024.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik025",
+      "caption": "11 · Мощная нижняя челюсть",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik025.webp",
+      "sha256": "305b3be29f7ba013b67797d9bef2eab76949167549a90218812436ad91e42ee0",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik025.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
+    },
+    {
+      "code": "frik026",
+      "caption": "12 · Оскал вожака",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik026.webp",
+      "sha256": "50ded3f8b38323643c0f3af0ad37a756261cf062f263107c3757e58085afd582",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik026.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-flashlight",
+      "visibility": "active",
+      "source_commit": "d19ae60f030d5416902ec0c1bbd9f7df042064ab"
     }
   ],
   "deleted_codes": [
