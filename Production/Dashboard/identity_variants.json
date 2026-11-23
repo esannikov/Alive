@@ -2420,12 +2420,13 @@
     {
       "id": "klin-type-005",
       "character": "klin",
-      "label": "Типаж 005 · широкая переносица · удлинённый овал",
+      "label": "Типаж 005 · корейский типаж · удлинённый овал",
       "anchor_asset": "klin005",
-      "cover_asset": "klin008",
+      "cover_asset": "klin009",
       "member_codes": [
         "klin005",
-        "klin008"
+        "klin008",
+        "klin009"
       ],
       "grouping_basis": [
         "Самостоятельная кастинговая проба"
@@ -4452,6 +4453,15 @@
       "review_required": {}
     },
     "klin008": {
+      "variants": {
+        "klin": "klin-type-005"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin009": {
       "variants": {
         "klin": "klin-type-005"
       },

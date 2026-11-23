@@ -58,7 +58,7 @@
     "andryushka": 8,
     "zoya": 8,
     "vaska": 7,
-    "klin": 9
+    "klin": 10
   },
   "assets": [
     {
@@ -16101,7 +16101,7 @@
       ],
       "series": "current",
       "visibility": "archived",
-      "replaced_by": "klin008"
+      "replaced_by": "klin009"
     },
     {
       "code": "klin006",
@@ -16168,8 +16168,32 @@
         "support"
       ],
       "series": "current",
+      "visibility": "archived",
+      "derived_from": "klin005",
+      "replaced_by": "klin009"
+    },
+    {
+      "code": "klin009",
+      "object": "klin",
+      "caption": "05 · Корейский типаж · удлинённый овал",
+      "source_file": "docs/World/characters/klin/images/klin009.png",
+      "source_commit": "8dc6518642a2e14957539b66365374e597b116b7",
+      "sha256": "19271e6aba9ff726d4c05df80dad57b691923ea418b35ba7ca31faf9ab896686",
+      "aliases": [
+        "docs/World/characters/klin/images/klin009.png"
+      ],
+      "galleries": [
+        "World/characters/klin"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "support"
+      ],
+      "series": "current",
       "visibility": "active",
-      "derived_from": "klin005"
+      "derived_from": "klin008"
     }
   ],
   "deleted_codes": [

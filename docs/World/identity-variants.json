@@ -3271,19 +3271,20 @@
     {
       "id": "klin-type-005",
       "character": "klin",
-      "label": "Типаж 005 · широкая переносица · удлинённый овал",
+      "label": "Типаж 005 · корейский типаж · удлинённый овал",
       "anchor_asset": "klin005",
-      "cover_asset": "klin008",
+      "cover_asset": "klin009",
       "member_codes": [
         "klin005",
-        "klin008"
+        "klin008",
+        "klin009"
       ],
       "grouping_basis": [
         "Самостоятельная кастинговая проба"
       ],
       "design_acceptance": "not_implied",
       "active_asset_codes": [
-        "klin008"
+        "klin009"
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
       "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-005"
@@ -5983,9 +5984,21 @@
       "roles": {
         "klin": "portrait"
       },
-      "archived": false,
+      "archived": true,
       "page": "characters/klin/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/10e00bec31fbe26f95d6a7e17404023d64ba9d89/docs/World/characters/klin/images/klin008.png"
+    },
+    "klin009": {
+      "identity_variant_ids": {
+        "klin": "klin-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/8dc6518642a2e14957539b66365374e597b116b7/docs/World/characters/klin/images/klin009.png"
     }
   },
   "notes": [
