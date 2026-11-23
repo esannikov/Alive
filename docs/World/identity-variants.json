@@ -3076,6 +3076,234 @@
       ],
       "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
       "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-006"
+    },
+    {
+      "id": "vaska-type-001",
+      "character": "vaska",
+      "label": "Типаж 001 · широкие скулы",
+      "anchor_asset": "vaska001",
+      "cover_asset": "vaska001",
+      "member_codes": [
+        "vaska001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-001"
+    },
+    {
+      "id": "vaska-type-002",
+      "character": "vaska",
+      "label": "Типаж 002 · веснушки и курчавые волосы",
+      "anchor_asset": "vaska002",
+      "cover_asset": "vaska002",
+      "member_codes": [
+        "vaska002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-002"
+    },
+    {
+      "id": "vaska-type-003",
+      "character": "vaska",
+      "label": "Типаж 003 · прямые брови",
+      "anchor_asset": "vaska003",
+      "cover_asset": "vaska003",
+      "member_codes": [
+        "vaska003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-003"
+    },
+    {
+      "id": "vaska-type-004",
+      "character": "vaska",
+      "label": "Типаж 004 · узкий овал",
+      "anchor_asset": "vaska004",
+      "cover_asset": "vaska004",
+      "member_codes": [
+        "vaska004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-004"
+    },
+    {
+      "id": "vaska-type-005",
+      "character": "vaska",
+      "label": "Типаж 005 · округлая челюсть",
+      "anchor_asset": "vaska005",
+      "cover_asset": "vaska005",
+      "member_codes": [
+        "vaska005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-005"
+    },
+    {
+      "id": "vaska-type-006",
+      "character": "vaska",
+      "label": "Типаж 006 · выраженная переносица",
+      "anchor_asset": "vaska006",
+      "cover_asset": "vaska006",
+      "member_codes": [
+        "vaska006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-006"
+    },
+    {
+      "id": "klin-type-001",
+      "character": "klin",
+      "label": "Типаж 001 · вытянутое лицо",
+      "anchor_asset": "klin001",
+      "cover_asset": "klin001",
+      "member_codes": [
+        "klin001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-001"
+    },
+    {
+      "id": "klin-type-002",
+      "character": "klin",
+      "label": "Типаж 002 · тяжёлые веки",
+      "anchor_asset": "klin002",
+      "cover_asset": "klin002",
+      "member_codes": [
+        "klin002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-002"
+    },
+    {
+      "id": "klin-type-003",
+      "character": "klin",
+      "label": "Типаж 003 · мягкий овал",
+      "anchor_asset": "klin003",
+      "cover_asset": "klin003",
+      "member_codes": [
+        "klin003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-003"
+    },
+    {
+      "id": "klin-type-004",
+      "character": "klin",
+      "label": "Типаж 004 · острые скулы",
+      "anchor_asset": "klin004",
+      "cover_asset": "klin004",
+      "member_codes": [
+        "klin004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-004"
+    },
+    {
+      "id": "klin-type-005",
+      "character": "klin",
+      "label": "Типаж 005 · широкая переносица",
+      "anchor_asset": "klin005",
+      "cover_asset": "klin005",
+      "member_codes": [
+        "klin005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-005"
+    },
+    {
+      "id": "klin-type-006",
+      "character": "klin",
+      "label": "Типаж 006 · ломаная линия бровей",
+      "anchor_asset": "klin006",
+      "cover_asset": "klin006",
+      "member_codes": [
+        "klin006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-006"
     }
   ],
   "assets": {
@@ -5588,6 +5816,150 @@
       "archived": false,
       "page": "characters/kolka/",
       "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/kolka/model-sheet/images/kp01.png"
+    },
+    "vaska001": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska001.png"
+    },
+    "vaska002": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska002.png"
+    },
+    "vaska003": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska003.png"
+    },
+    "vaska004": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska004.png"
+    },
+    "vaska005": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska005.png"
+    },
+    "vaska006": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska006.png"
+    },
+    "klin001": {
+      "identity_variant_ids": {
+        "klin": "klin-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin001.png"
+    },
+    "klin002": {
+      "identity_variant_ids": {
+        "klin": "klin-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin002.png"
+    },
+    "klin003": {
+      "identity_variant_ids": {
+        "klin": "klin-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin003.png"
+    },
+    "klin004": {
+      "identity_variant_ids": {
+        "klin": "klin-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin004.png"
+    },
+    "klin005": {
+      "identity_variant_ids": {
+        "klin": "klin-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin005.png"
+    },
+    "klin006": {
+      "identity_variant_ids": {
+        "klin": "klin-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin006.png"
     }
   },
   "notes": [

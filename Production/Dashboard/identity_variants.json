@@ -2275,6 +2275,174 @@
         "Самостоятельная кастинговая проба"
       ],
       "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-001",
+      "character": "vaska",
+      "label": "Типаж 001 · широкие скулы",
+      "anchor_asset": "vaska001",
+      "cover_asset": "vaska001",
+      "member_codes": [
+        "vaska001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-002",
+      "character": "vaska",
+      "label": "Типаж 002 · веснушки и курчавые волосы",
+      "anchor_asset": "vaska002",
+      "cover_asset": "vaska002",
+      "member_codes": [
+        "vaska002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-003",
+      "character": "vaska",
+      "label": "Типаж 003 · прямые брови",
+      "anchor_asset": "vaska003",
+      "cover_asset": "vaska003",
+      "member_codes": [
+        "vaska003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-004",
+      "character": "vaska",
+      "label": "Типаж 004 · узкий овал",
+      "anchor_asset": "vaska004",
+      "cover_asset": "vaska004",
+      "member_codes": [
+        "vaska004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-005",
+      "character": "vaska",
+      "label": "Типаж 005 · округлая челюсть",
+      "anchor_asset": "vaska005",
+      "cover_asset": "vaska005",
+      "member_codes": [
+        "vaska005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-006",
+      "character": "vaska",
+      "label": "Типаж 006 · выраженная переносица",
+      "anchor_asset": "vaska006",
+      "cover_asset": "vaska006",
+      "member_codes": [
+        "vaska006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-001",
+      "character": "klin",
+      "label": "Типаж 001 · вытянутое лицо",
+      "anchor_asset": "klin001",
+      "cover_asset": "klin001",
+      "member_codes": [
+        "klin001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-002",
+      "character": "klin",
+      "label": "Типаж 002 · тяжёлые веки",
+      "anchor_asset": "klin002",
+      "cover_asset": "klin002",
+      "member_codes": [
+        "klin002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-003",
+      "character": "klin",
+      "label": "Типаж 003 · мягкий овал",
+      "anchor_asset": "klin003",
+      "cover_asset": "klin003",
+      "member_codes": [
+        "klin003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-004",
+      "character": "klin",
+      "label": "Типаж 004 · острые скулы",
+      "anchor_asset": "klin004",
+      "cover_asset": "klin004",
+      "member_codes": [
+        "klin004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-005",
+      "character": "klin",
+      "label": "Типаж 005 · широкая переносица",
+      "anchor_asset": "klin005",
+      "cover_asset": "klin005",
+      "member_codes": [
+        "klin005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-006",
+      "character": "klin",
+      "label": "Типаж 006 · ломаная линия бровей",
+      "anchor_asset": "klin006",
+      "cover_asset": "klin006",
+      "member_codes": [
+        "klin006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
     }
   ],
   "assets": {
@@ -4161,6 +4329,114 @@
       },
       "roles": {
         "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska001": {
+      "variants": {
+        "vaska": "vaska-type-001"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska002": {
+      "variants": {
+        "vaska": "vaska-type-002"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska003": {
+      "variants": {
+        "vaska": "vaska-type-003"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska004": {
+      "variants": {
+        "vaska": "vaska-type-004"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska005": {
+      "variants": {
+        "vaska": "vaska-type-005"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska006": {
+      "variants": {
+        "vaska": "vaska-type-006"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin001": {
+      "variants": {
+        "klin": "klin-type-001"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin002": {
+      "variants": {
+        "klin": "klin-type-002"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin003": {
+      "variants": {
+        "klin": "klin-type-003"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin004": {
+      "variants": {
+        "klin": "klin-type-004"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin005": {
+      "variants": {
+        "klin": "klin-type-005"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin006": {
+      "variants": {
+        "klin": "klin-type-006"
+      },
+      "roles": {
+        "klin": "portrait"
       },
       "review_required": {}
     }

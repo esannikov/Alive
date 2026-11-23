@@ -3216,6 +3216,92 @@
       "variant_notes": {
         "zoya007": "Постановочная проба по встрече Зои с Эммой у выхода из туннеля."
       }
+    },
+    {
+      "id": "vaska",
+      "title": "Васька",
+      "group": "people",
+      "path": "characters/vaska",
+      "cover": "vaska001",
+      "default_series": "current",
+      "summary": "Шесть портретных проб до болезни",
+      "subtitle": "База Диких · до болезни",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        264
+      ],
+      "evidence": "Роман",
+      "source_doc": "Sources/Novel.md",
+      "source_label": "Страничный текст романа",
+      "source_summary": "По рассказу Кренделя, Жека подрался с Васькой, после чего Васька посерел.",
+      "source_note": "Возраст на пробах, черты лица, причёска и одежда предложены для экранизации.",
+      "reading_note": "Шесть самостоятельных портретных проб. Окончательный типаж предстоит выбрать.",
+      "gallery_order": [
+        "vaska001",
+        "vaska002",
+        "vaska003",
+        "vaska004",
+        "vaska005",
+        "vaska006"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "vaska001",
+          "vaska002",
+          "vaska003",
+          "vaska004",
+          "vaska005",
+          "vaska006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      }
+    },
+    {
+      "id": "klin",
+      "title": "Клин",
+      "group": "people",
+      "path": "characters/klin",
+      "cover": "klin001",
+      "default_series": "current",
+      "summary": "Шесть портретных проб до болезни",
+      "subtitle": "База Диких · до болезни",
+      "task_ids": [
+        "character-concepts",
+        "support"
+      ],
+      "source_pages": [
+        264
+      ],
+      "evidence": "Роман",
+      "source_doc": "Sources/Novel.md",
+      "source_label": "Страничный текст романа",
+      "source_summary": "Крендель вспоминает, что Клин сначала ругался и кричал, а затем стал странно прыгать.",
+      "source_note": "Возраст на пробах, черты лица, причёска и одежда предложены для экранизации.",
+      "reading_note": "Шесть самостоятельных портретных проб. Окончательный типаж предстоит выбрать.",
+      "gallery_order": [
+        "klin001",
+        "klin002",
+        "klin003",
+        "klin004",
+        "klin005",
+        "klin006"
+      ],
+      "selection": {
+        "primary_code": null,
+        "candidate_codes": [
+          "klin001",
+          "klin002",
+          "klin003",
+          "klin004",
+          "klin005",
+          "klin006"
+        ],
+        "status": "casting_candidates_pending_choice"
+      }
     }
   ],
   "derivatives": [
