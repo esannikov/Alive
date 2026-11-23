@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 33,
+    "frik": 39,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16602,6 +16602,138 @@
       "visibility": "active",
       "source_commit": "d751b37b3b2350138151376dd0ce3bd0baa405a9",
       "derived_from": "frik020"
+    },
+    {
+      "code": "frik033",
+      "caption": "01 · До болезни",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik033.webp",
+      "sha256": "97199ddf320991d01c2126018d89224103dd2240c3085cd03c87c01d0d12008e",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik033.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+    },
+    {
+      "code": "frik034",
+      "caption": "02 · Первые симптомы",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik034.webp",
+      "sha256": "54be6df0f0e317097ce3e5752441ccba67780eebc833ee556fc943db537e7ba4",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik034.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+    },
+    {
+      "code": "frik035",
+      "caption": "03 · Изменение осанки",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik035.webp",
+      "sha256": "41dfae963d9e3e636c7385fa839860a693667512f7e70173c6118e2040efe8b6",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik035.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+    },
+    {
+      "code": "frik036",
+      "caption": "04 · Опора на кисть",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik036.webp",
+      "sha256": "5f60e637146df7f82d0ab10d07698a36c9eaa6deba296e1f9356d8bfc7808c04",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik036.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+    },
+    {
+      "code": "frik037",
+      "caption": "05 · Четыре точки опоры",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik037.webp",
+      "sha256": "87506e95af1c082ef24b9a9bbc6a60fbaf564d690864a06dee7c0a2112ded75c",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik037.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+    },
+    {
+      "code": "frik038",
+      "caption": "06 · Взрослый фрик",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik038.webp",
+      "sha256": "ac495ddf9745094160dbe97622598d6fcd9ef462f4976047c5f26950750da08e",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik038.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
     }
   ],
   "deleted_codes": [
