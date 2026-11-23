@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 44,
+    "frik": 46,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16854,6 +16854,52 @@
       "visibility": "active",
       "source_commit": "6dc807f777d8026ad56c1a2c1d7a92a96a43acd3",
       "derived_from": "frik037"
+    },
+    {
+      "code": "frik044",
+      "caption": "Лицо медсестры · основной вариант",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik044.webp",
+      "sha256": "6c3190d06dc657150a9e8d45530c3aa23bcdd1640de7d49686b2cd7e935f1c92",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik044.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "c22bbdc3123890ef48d67442925b9918461d39eb",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik045",
+      "caption": "Лицо медсестры · альтернативный вариант",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik045.webp",
+      "sha256": "20b80f94be421eddc61e1795ab2b14ad45431082d360a8c369c1263f3a22792e",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik045.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "c22bbdc3123890ef48d67442925b9918461d39eb",
+      "derived_from": "frik039"
     }
   ],
   "deleted_codes": [
