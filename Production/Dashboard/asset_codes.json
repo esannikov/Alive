@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 39,
+    "frik": 44,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16622,8 +16622,9 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
-      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+      "visibility": "archived",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b",
+      "replaced_by": "frik039"
     },
     {
       "code": "frik034",
@@ -16644,8 +16645,9 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
-      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+      "visibility": "archived",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b",
+      "replaced_by": "frik040"
     },
     {
       "code": "frik035",
@@ -16666,8 +16668,9 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
-      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+      "visibility": "archived",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b",
+      "replaced_by": "frik041"
     },
     {
       "code": "frik036",
@@ -16688,8 +16691,9 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
-      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+      "visibility": "archived",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b",
+      "replaced_by": "frik042"
     },
     {
       "code": "frik037",
@@ -16710,8 +16714,9 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
-      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+      "visibility": "archived",
+      "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b",
+      "replaced_by": "frik043"
     },
     {
       "code": "frik038",
@@ -16734,6 +16739,121 @@
       "series": "friki-mutation-stages",
       "visibility": "active",
       "source_commit": "7b8986b1d440b1be92e789612d96c167e3797a0b"
+    },
+    {
+      "code": "frik039",
+      "caption": "01 · До заражения",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik039.webp",
+      "sha256": "e67745513263df1bfa5fb1141e48fc2983bcafa06c53075b86e031d54a35a731",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik039.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "6dc807f777d8026ad56c1a2c1d7a92a96a43acd3",
+      "derived_from": "frik033"
+    },
+    {
+      "code": "frik040",
+      "caption": "02 · Первые симптомы",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik040.webp",
+      "sha256": "12ab328011c25f88b7039aff2f0205a4c7b88d0e9e0f2820441611e1f76e5265",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik040.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "6dc807f777d8026ad56c1a2c1d7a92a96a43acd3",
+      "derived_from": "frik034"
+    },
+    {
+      "code": "frik041",
+      "caption": "03 · Изменение осанки",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik041.webp",
+      "sha256": "2bc4bc04d54b780b3b37a40ffc68c2bd29087ee348925bdfc91c1229b9b36d44",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik041.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "6dc807f777d8026ad56c1a2c1d7a92a96a43acd3",
+      "derived_from": "frik035"
+    },
+    {
+      "code": "frik042",
+      "caption": "04 · Опора на кисть",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik042.webp",
+      "sha256": "2d9a6948bfb3447e9536d40a54b3c957095d0b329852519e1fa3d50dc050e74c",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik042.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "6dc807f777d8026ad56c1a2c1d7a92a96a43acd3",
+      "derived_from": "frik036"
+    },
+    {
+      "code": "frik043",
+      "caption": "05 · Опора на четыре конечности",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik043.webp",
+      "sha256": "1e9dbd076f53c0c3aa6931bbcfa3b42308fc7056664af09ed9e0a792166ffb05",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik043.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "6dc807f777d8026ad56c1a2c1d7a92a96a43acd3",
+      "derived_from": "frik037"
     }
   ],
   "deleted_codes": [
