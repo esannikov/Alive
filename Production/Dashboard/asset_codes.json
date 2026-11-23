@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 46,
+    "frik": 51,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16899,6 +16899,121 @@
       "series": "friki-mutation-stages",
       "visibility": "active",
       "source_commit": "c22bbdc3123890ef48d67442925b9918461d39eb",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik046",
+      "caption": "Широкое переносье",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik046.webp",
+      "sha256": "1fe0f98caec4adcae2e606986f4968f0561d2900f796fff5f5feb13539032cd6",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik046.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik047",
+      "caption": "Косая линия рта",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik047.webp",
+      "sha256": "31b678573be9d759f2900f182a3f869038f792642df2d2da2ef27b6b6ca269ec",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik047.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik048",
+      "caption": "Глубокие глазницы",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik048.webp",
+      "sha256": "30056f726cf07d2108645708161329f8d1ba54017db5da2cf644cbb40827f0cb",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik048.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik049",
+      "caption": "Складчатые уши",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik049.webp",
+      "sha256": "1bb9303610a2cd9f2102de40faaee5515b1765d7a3b054e95c95a5091119696f",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik049.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik050",
+      "caption": "Выступающая верхняя челюсть",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik050.webp",
+      "sha256": "5cdb93a0beb5a586451338ed8c3fd1694646b11c8f6f89b470bc42e446fdc2f2",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik050.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
       "derived_from": "frik039"
     }
   ],
