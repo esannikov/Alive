@@ -3285,9 +3285,9 @@
       "gallery_order": [
         "klin001",
         "klin002",
-        "klin003",
+        "klin007",
         "klin004",
-        "klin005",
+        "klin008",
         "klin006"
       ],
       "selection": {
@@ -3295,9 +3295,9 @@
         "candidate_codes": [
           "klin001",
           "klin002",
-          "klin003",
+          "klin007",
           "klin004",
-          "klin005",
+          "klin008",
           "klin006"
         ],
         "status": "casting_candidates_pending_choice"
