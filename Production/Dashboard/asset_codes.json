@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 51,
+    "frik": 53,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -16920,9 +16920,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik051"
     },
     {
       "code": "frik047",
@@ -16989,9 +16990,10 @@
         "character-concepts"
       ],
       "series": "friki-mutation-stages",
-      "visibility": "active",
+      "visibility": "archived",
       "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
-      "derived_from": "frik039"
+      "derived_from": "frik039",
+      "replaced_by": "frik052"
     },
     {
       "code": "frik050",
@@ -17014,6 +17016,52 @@
       "series": "friki-mutation-stages",
       "visibility": "active",
       "source_commit": "47d12dde8ec9a5311a3a003d611c75f6d60fa052",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik051",
+      "caption": "Впалые щёки",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik051.webp",
+      "sha256": "6874d62c9cbdfdc08b3f1bf01441184b72ed6ac626d047bcb06118d76eefff6a",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik051.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "95abbc228468b7b6ef885e1063fb9e961e5242c4",
+      "derived_from": "frik039"
+    },
+    {
+      "code": "frik052",
+      "caption": "Сужение век",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik052.webp",
+      "sha256": "e75533907aa0240cac00f283f0548b0d8cd16334218108e1e2029ceb432453d2",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik052.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-mutation-stages",
+      "visibility": "active",
+      "source_commit": "95abbc228468b7b6ef885e1063fb9e961e5242c4",
       "derived_from": "frik039"
     }
   ],
