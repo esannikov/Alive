@@ -1,0 +1,17 @@
+.eden section{border-top:1px solid var(--line);padding-top:26px;margin-top:48px}
+.eden-layout{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(290px,1fr);align-items:start;gap:clamp(20px,3vw,48px)}
+.eden-map{position:relative;margin-bottom:10px}.eden-map img{width:100%;height:auto;border-radius:var(--radius)}
+.eden-pin{position:absolute;transform:translate(-50%,-50%);display:grid;place-content:center;color:white;background:#151a19;border:1px solid white;border-radius:50%;width:26px;height:26px;font-size:11px;font-weight:600}
+.eden-pin:hover,.eden-pin:focus-visible{background:var(--accent);color:var(--bg);z-index:1}
+.eden p{color:var(--muted);max-width:76ch;margin:10px 0 18px}
+.eden-key{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 12px;margin:15px 0 22px}
+.eden-key a{font-size:14px;padding:5px 0}.eden-key span,.eden h3 span{color:var(--accent);margin-right:5px}
+.eden a:hover,.eden a:focus-visible{color:var(--accent)}.eden-pin:hover,.eden-pin:focus-visible{color:var(--bg)}
+.eden-grid,.eden-stills{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:26px 16px;margin-top:19px}
+.eden article,.eden figure{margin:0;scroll-margin-top:75px;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:var(--panel)}
+.eden article:target{outline:2px solid var(--accent)}.eden-picture,.eden-picture img{display:block;width:100%;height:auto}
+.eden h3,.eden figcaption{font-size:19px;margin:14px 16px 8px}.eden article p{margin:0 16px 16px;font-size:14px}.eden article>.quiet-link{margin:0 16px 16px;display:inline-flex}
+.eden-stills{grid-template-columns:repeat(2,minmax(0,1fr))}.eden figcaption{font-size:15px}
+.eden #profiles img{background:var(--panel);width:100%;max-width:900px}.eden #walk,.eden #profiles{scroll-margin-top:70px}
+@media(max-width:1120px){.eden-layout{grid-template-columns:1fr}.eden-map{max-width:760px}.eden-key{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:640px){.eden-key{grid-template-columns:repeat(2,minmax(0,1fr))}.eden-pin{width:21px;height:21px;font-size:9px}.eden-stills{grid-template-columns:1fr}}

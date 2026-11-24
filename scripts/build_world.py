@@ -134,6 +134,7 @@ def build():
             cards.append(f'''<article class="object-card" data-kind="{o.get('kind','character')}" data-filter-kind="{'style' if o.get('group') == 'style' else 'locations' if o.get('kind') == 'location' else 'ship' if o.get('kind') == 'ship' else 'robots' if o.get('group') == 'robots' else 'props' if o.get('group') == 'props' else 'people'}"><a class="card-image" href="@ROOT@{object_path(o)}/"><img src="@ROOT@{a['preview']}" width="1440" height="810" alt="{esc(o['title'])}: {esc(a['title'])}"></a><div class="card-body"><span class="code mono">{a['code']}</span><h3><a href="@ROOT@{object_path(o)}/">{o['title']}</a></h3><p class="card-meta">{o['summary']}</p>{discussion_summary(object_path(o))}<a class="button primary-button" href="@ROOT@{object_path(o)}/">Открыть галерею {ARROW}</a></div></article>''')
             if o['id'] == 'moag':
                 cards.append(f'''<article class="object-card" id="moag-interactive" data-kind="ship" data-filter-kind="ship"><a class="card-image" href="@ROOT@ships/moag/section/"><img src="@ROOT@ships/moag/section/preview.webp" width="960" height="540" loading="lazy" alt="Станция Моаг в разрезе"></a><div class="card-body"><span class="code mono">Моаг · WebGL</span><h3><a href="@ROOT@ships/moag/section/">Интерактивная модель</a></h3><p class="card-meta">4 режима просмотра · 10 ракурсов</p><a class="button primary-button" href="@ROOT@ships/moag/section/">Открыть модель {ARROW}</a></div></article>''')
+                cards.append(f'''<article class="object-card" id="eden-atlas" data-kind="ship" data-filter-kind="ship"><a class="card-image" href="@ROOT@ships/moag/eden/"><img src="@ROOT@ships/moag/eden/images/00-plan-small.webp" width="1120" height="1120" loading="lazy" alt="План озера и набережной Эдема"></a><div class="card-body"><span class="code mono">Моаг · II уровень</span><h3><a href="@ROOT@ships/moag/eden/">План Эдема</a></h3><p class="card-meta">Набережная, сады и мосты · 19 точек на плане</p><a class="button primary-button" href="@ROOT@ships/moag/eden/">Открыть атлас {ARROW}</a></div></article>''')
         if not collection_id:
             for c in collections.values():
                 if group and c['group'] != group: continue
@@ -166,6 +167,10 @@ def build():
     model_body = (ROOT/'Production/Dashboard/moag_model_viewer.html').read_text()
     model_assets = '<link rel="stylesheet" href="@ROOT@'+asset_version('ships/moag/model/viewer.css')+'"><script type="module" src="@ROOT@'+asset_version('ships/moag/model/viewer.js')+'"></script>'
     page('ships/moag/model/index.html', 'Моаг · 3D-модель', model_body, category='station', extra_head=model_assets)
+    eden_body = (ROOT/'Production/Dashboard/eden_atlas.html').read_text()
+    eden_css = asset_version('ships/moag/eden/atlas.css')
+    page('ships/moag/eden/index.html', 'План Эдема', eden_body, category='station',
+         extra_head=f'<link rel="stylesheet" href="@ROOT@{eden_css}">')
     for o in config['objects']:
         aa=[a for a in assets if (a['object']==o['id'] or o['id'] in a.get('additionalObjects',[])) and not a['archived']]
         order=o.get('gallery_order',[])
@@ -197,7 +202,7 @@ def build():
                               for title, fragment in package_sections))
 
         if o['id'] == 'moag':
-            tabs = tabs.replace('<button class="derivative " aria-disabled="true" data-pending title="Пока не подготовлено">3D-модель</button>', '<a class="derivative" href="model/">3D-модель</a><a class="derivative" href="section/">Интерактивный разрез</a>')
+            tabs = tabs.replace('<button class="derivative " aria-disabled="true" data-pending title="Пока не подготовлено">3D-модель</button>', '<a class="derivative" href="model/">3D-модель</a><a class="derivative" href="section/">Интерактивный разрез</a><a class="derivative" href="eden/">План Эдема</a>')
         series=[s for s in config['series'] if any(a['series']==s['id'] for a in aa)]
         options=''.join(f'<option value="{s["id"]}">{s["title"]} · {sum(a["series"]==s["id"] for a in aa)}</option>' for s in series)+('<option value="all">Все варианты</option>' if o.get('kind')=='ship' else '<option value="all">Все серии</option>')
         is_ship=o.get('kind')=='ship'
