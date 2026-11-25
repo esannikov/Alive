@@ -9,21 +9,22 @@
 | [03](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=03) | Круглий лаз між базами | с. 18–23 · 36-метрова труба до Овальної | basePipe |
 | [04](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=04) | Овальна база · розпис і побут | с. 99–100, 308 · Розпис, чотири ліжка, камбуз | ovalbase |
 | [05](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=05) | Сміттєвий цех · конвеєр і здобич | с. 102–104 · Конвеєр, жолоби й ящики деталей | trashSalvage |
-| [06](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=06) | Променева піч і вихід за цехом | с. 104 · Піч, люк і драбина за цехом | furnaceRear |
-| [07](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=07) | База Диких · глухий край B3 | с. 205–208 · Клейонка, труби й похмурі стіни | wildInterior |
-| [08](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=08) | Прямий коридор · «Они здесь» | с. 216–217 · Напис «Они здесь» у Прямому коридорі | straightcorrEye |
-| [09](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=09) | Квадратний колодязь (3 стани) | с. 63–64, 350 · Запаяний → Злам → Прохід | squarewellClose |
-| [10](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=10) | Холодний ангар 2 · візок і Стая | с. 358, 516, 520 · Барикада Колі ↔ порятунок на тросі | hangarCatwalk |
-| [11](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=11) | Пультова ручного керування шлюзами | с. 359 · Пульт керування шлюзами ангару | dispatchRoom |
-| [12](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=12) | Лабораторія й укриття Професора | с. 390–495 · Лабораторія й останні дні Професора | proflabInterior |
-| [13](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=13) | Мисливський хід · ліфтова шахта 1 | Рішення макета · нічний підйом дітей із B3 на II рівень | huntShaft |
-| [14](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=14) | Кімната Емми на II рівні | Житловий квартал над технічним підмістом | iiEmmaCarpet |
-| [15](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=15) | Озеро, Дерево й садові мости | Серце Другого рівня під куполом-окулюсом | fountain |
-| [16](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=16) | Медпункт III рівня · палата | с. 533 · Сюди роботи несуть Таїс і Федора | medWard |
-| [17](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=17) | Капітанська рубка III рівня | Рубка станції · пульт МОАГ | bridge |
-| [18](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=18) | Вантажний док і орбітальний Крейсер | с. 486 · Крейсери, що приходять за програмою | cruiser |
+| [06](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=06) | Променева піч і шахта на III рівень | с. 104–105 · Піч, люк і шахта до дверей із зірками | furnaceRear |
+| [07](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=07) | III · Круглий майданчик · Дон-15 | с. 110–112 · Ліфт A, ящики, слід плазми й процесор Дона | thirdDonPlatform |
+| [08](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=08) | База Диких · глухий край B3 | с. 205–208 · Клейонка, труби й похмурі стіни | wildInterior |
+| [09](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=09) | Прямий коридор · «Они здесь» | с. 216–217 · Напис «Они здесь» у Прямому коридорі | straightcorrEye |
+| [10](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=10) | Квадратний колодязь (3 стани) | с. 63–64, 350 · Запаяний → Злам → Прохід | squarewellClose |
+| [11](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=11) | Холодний ангар 2 · візок і Стая | с. 358, 516, 520 · Барикада Колі ↔ порятунок на тросі | hangarCatwalk |
+| [12](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=12) | Пультова шлюзів · шторка й Земля | с. 359, 532 · Бортовий ілюмінатор зі шторкою на Землю | dispatchRoom |
+| [13](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=13) | Лабораторія й укриття Професора | с. 390–495 · Лабораторія й останні дні Професора | proflabInterior |
+| [14](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=14) | Мисливський хід · ліфтова шахта B | Рішення макета · нічний підйом дітей із B3 на II рівень | huntShaft |
+| [15](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=15) | Кімната Емми на II рівні | Житловий квартал над технічним підмістом | iiEmmaCarpet |
+| [16](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=16) | Озеро, Дерево й садові мости | Серце Другого рівня під куполом-окулюсом | fountain |
+| [17](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=17) | Медпункт III рівня · палата | с. 533 · Сюди роботи несуть Таїс і Федора | medWard |
+| [18](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=18) | Капітанська рубка III рівня | с. 537–538 · Рубка станції Edem і вид на Землю | bridge |
+| [19](https://esannikov.github.io/Alive/StationModel/station-3d.html#story=19) | Вантажний док і орбітальний Крейсер | с. 486 · Крейсери, що приходять за програмою | cruiser |
 
-## 235 іменованих камер збірки
+## 237 іменованих камер збірки
 
 Координати (X, Y, Z) експортовано з CAMERA_PRESETS і заокруглено до п’яти десяткових знаків. Одиниця дорівнює 22 м. Y спрямована вгору. Для редагування використовуй вихідне визначення, що обчислює координати від геометрії. Деякі оглядові камери додатково враховують ширину екрана.
 
@@ -65,6 +66,18 @@
 |---|---|---|---|
 | [b4RadiatorSkin](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=b4RadiatorSkin) | Панель тепловіддачі ззовні | -23.37093, -21.50545, 9.55673 | -20.15388, -16.50545, 11.58336 |
 
+### EDEM · ЕКСТЕР’ЄР
+
+| ID | Ракурс | Око | Ціль |
+|---|---|---|---|
+| [orbit](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=orbit) | Станція Edem — орбітальний вигляд | 106, 21, 48 | 0, 0.4, 0 |
+
+### EDEM · ШПИЛЬ ШІ МОАГ
+
+| ID | Ракурс | Око | Ціль |
+|---|---|---|---|
+| [spire](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=spire) | Шпиль ШІ Моаг і система орбітальних антен | 18.5, 19.6, 17.5 | 0, 14.8, 0 |
+
 ### I · B1
 
 | ID | Ракурс | Око | Ціль |
@@ -99,7 +112,7 @@
 | [plantPower](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=plantPower) | Галерея розподільних щитів | 1.91831, -9.99, 14.67933 | 1.98117, -12.24, 12.79756 |
 | [plantCold](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=plantCold) | Холодильна машина Ангару 2 | 1.71811, -8.64, -26.09584 | 1.21681, -12.24, -23.21814 |
 | [plantAir](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=plantAir) | Очищення повітря | 14.02731, -9.89, 4.57381 | 12.4038, -12.24, 3.72132 |
-| [r4Strip](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=r4Strip) | D1 · Розбирання Дона | -25.67397, -12.03182, 11.95821 | -25.41573, -12.22955, 11.28098 |
+| [r4Strip](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=r4Strip) | D1 · Ремонт роботів (B3) | -25.67397, -12.03182, 11.95821 | -25.41573, -12.22955, 11.28098 |
 | [sectionGenerator](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=sectionGenerator) | Генератор секційного резерву | -2.26967, -12.06182, 33.8771 | -1.66952, -12.28909, 33.33257 |
 | [wasteStairs](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=wasteStairs) | Відчинені двері до сміттєвого цеху | 22.19289, -12.25636, 13.38415 | 22.79887, -12.24727, 13.67296 |
 | [lonLanding](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=lonLanding) | Ліфт Лона · повернення з другого рівня | -11.5049, -12.29836, 19.36014 | -11.71877, -12.31564, 19.54463 |
@@ -260,6 +273,12 @@
 | [iiPlay](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=iiPlay) | Ігрова та низькі столи | -13.41955, 4.50818, 16.16266 | -13.2325, 4.47909, 16.58017 |
 | [iiCribs](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=iiCribs) | Спальне відділення ясел | -12.00284, 4.51455, 17.53537 | -12.34058, 4.47545, 17.52385 |
 
+### III · ВАНТАЖНИЙ ФРОНТ · С. 110–112
+
+| ID | Ракурс | Око | Ціль |
+|---|---|---|---|
+| [thirdDonPlatform](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=thirdDonPlatform) | III · Круглий майданчик · Дон-15 (с. 110–112) | 33.19312, 7.42391, 31.02111 | 32.91646, 7.30118, 30.82447 |
+
 ### III · ДИТЯЧИЙ БЛОК
 
 | ID | Ракурс | Око | Ціль |
@@ -287,14 +306,14 @@
 | [medScan](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=medScan) | Променева діагностика | -42.11857, 7.53, -3.4615 | -42.42459, 7.29, -3.26439 |
 | [medLab](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=medLab) | Клінічна лабораторія | -47.50033, 7.52, -9.7998 | -47.69857, 7.29, -9.57441 |
 
-### АНГАР 2 · МЕЗОНІН
+### АНГАР 2 · БОРТОВИЙ МЕЗОНІН
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [proflab](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=proflab) | Від містка до пультової | -8.29217, -11.53091, -25.03859 | -8.56865, -11.89455, -24.21037 |
-| [labShelter](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=labShelter) | За другими дверима · житлова кімната | -8.86855, -11.84909, -24.07242 | -9.12298, -11.89409, -24.02676 |
-| [labOptics](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=labOptics) | На столі Професора · оптика | -9.00645, -11.87818, -24.11419 | -9.03439, -11.89273, -24.13878 |
-| [labLetters](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=labLetters) | Знахідка Колі · планшет біля приладів | -8.94326, -11.87364, -24.11225 | -8.97784, -11.895, -24.1562 |
+| [proflab](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=proflab) | Перехід підвісним містком до бортової пультової | -12.11865, -11.70364, -31.42368 | -11.95442, -11.88091, -32.2542 |
+| [labShelter](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=labShelter) | За другими дверима · житлова кімната | -11.87006, -11.84909, -32.29347 | -11.61563, -11.89409, -32.33913 |
+| [labOptics](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=labOptics) | На столі Професора · оптика | -11.73216, -11.87818, -32.2517 | -11.70422, -11.89273, -32.22711 |
+| [labLetters](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=labLetters) | Знахідка Колі · планшет біля приладів | -11.79535, -11.87364, -32.25364 | -11.76077, -11.895, -32.20969 |
 
 ### БІБЛІОТЕКА АСЕТІВ · 1:1
 
@@ -324,7 +343,7 @@
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [exploded](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=exploded) | Усі 7 рівнів станції МОАГ у рознесенні | 96, 32, 126 | 0, -5.5, 0 |
+| [exploded](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=exploded) | Усі 7 рівнів станції Edem у рознесенні | 96, 32, 126 | 0, -5.5, 0 |
 
 ### ДРУГИЙ РІВЕНЬ · ГОЛОВНА ПЛОЩА
 
@@ -356,7 +375,7 @@
 |---|---|---|---|
 | [route2stop0](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=route2stop0) | Вхід на набережну | -39.58, 8.45, -0.69 | -38.76, 7.29, 0.0 |
 | [route2stop1](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=route2stop1) | Житловий квартал | -38.41035, 8.45, -9.57588 | -37.76658, 7.29, -8.7191 |
-| [route2stop2](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=route2stop2) | Відгалуження до рубки | -33.93229, 8.45, -20.38756 | -33.56714, 7.29, -19.38 |
+| [route2stop2](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=route2stop2) | Відгалуження до рубки | -34.91291, 8.17, -18.82907 | -37.32569, 7.29, -21.55 |
 | [route2stop3](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=route2stop3) | Перепустковий пункт дитячого блоку | -31.94133, 8.45, -31.8046 | -31.83079, 7.29, -30.73863 |
 
 ### МОАГ
@@ -364,14 +383,8 @@
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
 | [panoramaLibrary](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=panoramaLibrary) | Панорамний читальний зал | 48.87872, 3.813, -11.77186 | 48.15751, 3.8, -12.1066 |
-| [dockDetail](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=dockDetail) | D 02 · Трансферний док | 24.2782, 9.53, 56.20562 | 21.54742, 8.88, 46.44522 |
+| [dockDetail](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=dockDetail) | D 02 · Трансферний док | 25.85, 10.05, 58.25 | 21.55, 8.85, 46.65 |
 | [dockService](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=dockService) | D 02 · Сервісний борт | 22.89137, 8.73, 47.19775 | 18.42982, 8.35, 47.56797 |
-
-### МОАГ · ЕКСТЕР’ЄР
-
-| ID | Ракурс | Око | Ціль |
-|---|---|---|---|
-| [orbit](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=orbit) | Станція МОАГ — орбітальний вигляд | 103, 28, 19 | 0, 1.8, 0 |
 
 ### МОАГ · КОРПУС
 
@@ -420,11 +433,11 @@
 |---|---|---|---|
 | [straightcorrEye](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=straightcorrEye) | Емма в Прямому коридорі перед написом «ОНИ ЗДЕСЬ» | -16.304, -12.272, 19.15 | -16.622, -12.315, 19.171 |
 
-### ПУЛЬТОВА ШЛЮЗІВ · 1:1
+### ПУЛЬТОВА ШЛЮЗІВ · ІЛЮМІНАТОР НА ЗЕМЛЮ
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [dispatchRoom](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=dispatchRoom) | Пультова ручного керування шлюзами Ангару 2 | -8.63264, -11.84636, -24.11708 | -8.78541, -11.89273, -24.19794 |
+| [dispatchRoom](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=dispatchRoom) | Пультова шлюзів Ангару 2 · шторка й вид на Землю | -11.88823, -11.86182, -32.15989 | -12.04193, -11.86909, -32.34067 |
 
 ### Пацієнти
 
@@ -453,13 +466,13 @@
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [half](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=half) | Повний діаметральний розріз МОАГ | 18, 25, 88 | 0, -2.5, 0 |
+| [half](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=half) | Повний діаметральний розріз станції Edem | 18, 25, 88 | 0, -2.5, 0 |
 
 ### РОЗРІЗ 90° · УСІ РІВНІ
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [cutaway](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=cutaway) | Архітектурний розріз станції МОАГ | 50, 29, 76 | 3, -1.5, 4 |
+| [cutaway](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=cutaway) | Архітектурний розріз станції Edem | 50, 29, 76 | 3, -1.5, 4 |
 
 ### Резервний обхід
 
@@ -480,7 +493,7 @@
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [furnaceRear](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=furnaceRear) | Променева піч, щупальця-клешні й прохід за цехом | 27.85, -11.12, 12.15 | 26.15, -11.88, 15.55 |
+| [furnaceRear](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=furnaceRear) | Променева піч, щупальця-клешні й шахта на III рівень | 27.85, -11.12, 12.15 | 26.15, -11.88, 15.55 |
 
 ### СМІТТЄВИЙ ЦЕХ · ПОШУК ДЕТАЛЕЙ
 
@@ -498,7 +511,7 @@
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [cruiser](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=cruiser) | Верхні ангари, митниця й пристикований Вантажний крейсер | 55.4, 16.2, 32.8 | 45.5, 8.8, 21.5 |
+| [cruiser](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=cruiser) | Верхній шлюз D 01 і важкий вантажний крейсер MOAG-FC01 | 52.88, 11.72, 30.38 | 46.92, 8.73, 21.55 |
 
 ### ТРЕТІЙ РІВЕНЬ · ВЕРХНІЙ ПОЯС (III)
 
@@ -540,7 +553,7 @@
 
 | ID | Ракурс | Око | Ціль |
 |---|---|---|---|
-| [proflabInterior](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=proflabInterior) | Лабораторія й укриття Професора усередині | -8.85, -11.845, -23.999 | -9.034, -11.896, -24.046 |
+| [proflabInterior](https://esannikov.github.io/Alive/StationModel/station-3d.html#view=proflabInterior) | Лабораторія й укриття Професора усередині | -11.88844, -11.845, -32.36711 | -11.70465, -11.89591, -32.32043 |
 
 ### ХОЛОДНИЙ АНГАР 2
 
