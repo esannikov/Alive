@@ -58,7 +58,9 @@
     "andryushka": 8,
     "zoya": 8,
     "vaska": 7,
-    "klin": 10
+    "klin": 10,
+    "loader": 7,
+    "vacuum": 7
   },
   "assets": [
     {
@@ -17405,6 +17407,270 @@
       "visibility": "active",
       "source_commit": "049318b9215d943c30588fd0162b6705562f4621",
       "derived_from": "frik059"
+    },
+    {
+      "code": "loader001",
+      "object": "loader",
+      "caption": "Портал",
+      "source_file": "docs/World/robots/loader/images/loader001.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "6db51047c97900d956aad330f0e21ccdd24bfa810d6bcc88a24f22bef8da639f",
+      "aliases": [
+        "docs/World/robots/loader/images/loader001.webp"
+      ],
+      "galleries": [
+        "World/robots/loader"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "loader002",
+      "object": "loader",
+      "caption": "Клин",
+      "source_file": "docs/World/robots/loader/images/loader002.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "1f5ef36122227fb80562cb87089ef1ea3016d9814165d5e30a6f5ecfd7e0d77c",
+      "aliases": [
+        "docs/World/robots/loader/images/loader002.webp"
+      ],
+      "galleries": [
+        "World/robots/loader"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "loader003",
+      "object": "loader",
+      "caption": "Боковой ход",
+      "source_file": "docs/World/robots/loader/images/loader003.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "194a512437dea7a7de57cf3b4024855c50b0b40eb5e4ffbbe488ddbc683d9148",
+      "aliases": [
+        "docs/World/robots/loader/images/loader003.webp"
+      ],
+      "galleries": [
+        "World/robots/loader"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "loader004",
+      "object": "loader",
+      "caption": "Обхват",
+      "source_file": "docs/World/robots/loader/images/loader004.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "acc7615f76d94e4b1286e6508ed4214b85869c7cfef9f7bb6521e1f06d989173",
+      "aliases": [
+        "docs/World/robots/loader/images/loader004.webp"
+      ],
+      "galleries": [
+        "World/robots/loader"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "loader005",
+      "object": "loader",
+      "caption": "Поворотная стрела",
+      "source_file": "docs/World/robots/loader/images/loader005.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "5368264aeeae430a917020e423120833a3e6cfb499dfe8a7872048299f5cfeb6",
+      "aliases": [
+        "docs/World/robots/loader/images/loader005.webp"
+      ],
+      "galleries": [
+        "World/robots/loader"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "loader006",
+      "object": "loader",
+      "caption": "Спарка",
+      "source_file": "docs/World/robots/loader/images/loader006.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "8171ccff9d84eaad81097c00fbab5ac45b0b6ea91c01f86c140cf3e92284051a",
+      "aliases": [
+        "docs/World/robots/loader/images/loader006.webp"
+      ],
+      "galleries": [
+        "World/robots/loader"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vacuum001",
+      "object": "vacuum",
+      "caption": "Подлавочник",
+      "source_file": "docs/World/robots/vacuum/images/vacuum001.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "3173d8fbe78a4bd9fdfdbe7cbf095d9a0bf5363bca5aa3163d45d93fe2789b39",
+      "aliases": [
+        "docs/World/robots/vacuum/images/vacuum001.webp"
+      ],
+      "galleries": [
+        "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vacuum002",
+      "object": "vacuum",
+      "caption": "Кромочник",
+      "source_file": "docs/World/robots/vacuum/images/vacuum002.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "dd4d39ae27de2db4c800265561d772a8879b5c69ecf925d31dcc0d702d7718af",
+      "aliases": [
+        "docs/World/robots/vacuum/images/vacuum002.webp"
+      ],
+      "galleries": [
+        "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vacuum003",
+      "object": "vacuum",
+      "caption": "Прозрачный купол",
+      "source_file": "docs/World/robots/vacuum/images/vacuum003.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "bc0c21aeeb71c5827e8348c728a296521044ecc090ab94425f66c953512fdb74",
+      "aliases": [
+        "docs/World/robots/vacuum/images/vacuum003.webp"
+      ],
+      "galleries": [
+        "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vacuum004",
+      "object": "vacuum",
+      "caption": "Скат",
+      "source_file": "docs/World/robots/vacuum/images/vacuum004.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "2faf4cf10cd3faba255a44bb6368752c33aba8f5a9655aa98671070789b29748",
+      "aliases": [
+        "docs/World/robots/vacuum/images/vacuum004.webp"
+      ],
+      "galleries": [
+        "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vacuum005",
+      "object": "vacuum",
+      "caption": "Шарнир",
+      "source_file": "docs/World/robots/vacuum/images/vacuum005.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "333a69986d73bb79951a703fedcd21b9d6acd3bd6843c2b1711323768494737f",
+      "aliases": [
+        "docs/World/robots/vacuum/images/vacuum005.webp"
+      ],
+      "galleries": [
+        "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "vacuum006",
+      "object": "vacuum",
+      "caption": "Катушка",
+      "source_file": "docs/World/robots/vacuum/images/vacuum006.webp",
+      "source_commit": "f53a7ac0b7c2e31095cc6f8967b01616b3667656",
+      "sha256": "68fed26e61440845fb01480c06d8b9b88d3652e890bbaaf2d5d1ae14b129fc5e",
+      "aliases": [
+        "docs/World/robots/vacuum/images/vacuum006.webp"
+      ],
+      "galleries": [
+        "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
     }
   ],
   "deleted_codes": [
