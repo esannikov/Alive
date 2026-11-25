@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T00:48:45.246825+00:00",
+  "generatedAt": "2026-11-25T09:15:47.021737+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -9485,5 +9485,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-24T21"
+  "refreshSlot": "2026-11-25T09"
 }
