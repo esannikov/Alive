@@ -243,6 +243,8 @@ def build():
     page('search.html','Поиск', '''<div class="page-heading"><h1>Поиск по миру</h1><p>Имя, постоянный код, предмет или нужный материал.</p></div><p class="mono" id="search-summary">Введите запрос в строке поиска.</p><div id="search-results" class="search-results"></div><noscript><p>Для поиска нужен JavaScript. <a href="catalog.html">Открыть полный каталог</a>.</p></noscript>''',active='search')
     for study in studies:
         page(study['path']+'/index.html', study['title'], (ROOT/study['body_file']).read_text(), category=study['group'])
+        for detail in study.get('pages', []):
+            page(detail['path']+'/index.html', detail['title'], (ROOT/detail['body_file']).read_text(), category=study['group'])
     mapping={}
     for t in plan['tasks']:
         related=[{'title':o['title'],'url':f'../World/{object_path(o)}/'} for o in config['objects']+studies if t['id'] in o['task_ids']]

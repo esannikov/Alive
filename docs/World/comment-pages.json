@@ -1571,5 +1571,17 @@
     "page": "scenes/tais-emma-vending/",
     "title": "Таис и Эмма у автомата",
     "variantCodes": []
+  },
+  {
+    "term": "Alive/World/locations/spatial-styles/",
+    "page": "locations/spatial-styles/",
+    "title": "Стилистики пространств",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/locations/spatial-styles/warm-eden/",
+    "page": "locations/spatial-styles/warm-eden/",
+    "title": "Тёплый Эдем",
+    "variantCodes": []
   }
 ]
