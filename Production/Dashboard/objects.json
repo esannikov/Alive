@@ -3814,6 +3814,28 @@
       "body_file": "Production/Dashboard/vending_scene_body.html",
       "label": "Сцена",
       "button_label": "Открыть раскадровку"
+    },
+    {
+      "id": "spatial-styles",
+      "title": "Стилистики пространств",
+      "path": "locations/spatial-styles",
+      "group": "locations",
+      "task_ids": [
+        "everyday",
+        "public"
+      ],
+      "summary": "Тёплый Эдем · 12 интерьеров детского уровня",
+      "image": "locations/spatial-styles/warm-eden/nursery-small.webp",
+      "body_file": "Production/Dashboard/spatial_styles_body.html",
+      "label": "Архитектура станции",
+      "button_label": "Открыть стилистики",
+      "pages": [
+        {
+          "path": "locations/spatial-styles/warm-eden",
+          "title": "Тёплый Эдем",
+          "body_file": "Production/Dashboard/warm_eden_body.html"
+        }
+      ]
     }
   ],
   "collections": [
