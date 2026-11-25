@@ -1583,5 +1583,43 @@
     "page": "locations/spatial-styles/warm-eden/",
     "title": "Тёплый Эдем",
     "variantCodes": []
+  },
+  {
+    "term": "Alive/World/robots/loader/",
+    "page": "robots/loader/",
+    "title": "Роботы-погрузчики",
+    "variantCodes": [
+      "loader001",
+      "loader002",
+      "loader003",
+      "loader004",
+      "loader005",
+      "loader006"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/loader/reference",
+    "page": "robots/loader/reference.html",
+    "title": "Роботы-погрузчики · справка",
+    "variantCodes": []
+  },
+  {
+    "term": "Alive/World/robots/vacuum/",
+    "page": "robots/vacuum/",
+    "title": "Роботы-пылесосы",
+    "variantCodes": [
+      "vacuum001",
+      "vacuum002",
+      "vacuum003",
+      "vacuum004",
+      "vacuum005",
+      "vacuum006"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/vacuum/reference",
+    "page": "robots/vacuum/reference.html",
+    "title": "Роботы-пылесосы · справка",
+    "variantCodes": []
   }
 ]
