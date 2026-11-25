@@ -4,11 +4,11 @@
 
 ## A-01 · Обігрівач спільної кімнати
 
-Темна база · спільна кімната. Світяться шість нагрівальних елементів за сталевою решіткою.
+Темна база · спільна кімната. Чорний прямокутний корпус: тепле повітря з нижнього отвору, згори плоский екран із штучними язиками полум’я (с. 21).
 
 | Варіант | GLB | Габарити, м | Трикутники | Опора | Матеріали |
 |---|---|---|---|---|---|
-| [default](https://esannikov.github.io/Alive/StationModel/station-3d.html#model=A-01) | A-01_heater.glb | 0.845 × 1.078 × 0.573 | 3120 | floor-center | heater, heater_emit |
+| [default](https://esannikov.github.io/Alive/StationModel/station-3d.html#model=A-01) | A-01_heater.glb | 0.878 × 0.89 × 0.48 | 1772 | floor-center | heater, heater_emit, heater_flame_emit, heater_ember_emit |
 
 ## A-02 · Пружинна койка з вовняною ковдрою
 
@@ -36,11 +36,11 @@
 
 ## A-06 · Двері «Чумацький шлях»
 
-Спільний вхід.
+Спільний вхід. Масивні розсувні металеві стулки без завіс із рифленим геометричним рельєфом старого квадратного знака «Млечного пути» з двох трикутників на обох сторонах стулок і щілиною флешки біля краю (с. 18, 65).
 
 | Варіант | GLB | Габарити, м | Трикутники | Опора | Матеріали |
 |---|---|---|---|---|---|
-| [default](https://esannikov.github.io/Alive/StationModel/station-3d.html#model=A-06) | A-06_milky_way_doors.glb | 1.92 × 2.32 × 0.2585 | 3252 | floor-center | milky_way_doors, milky_way_doors_emit |
+| [default](https://esannikov.github.io/Alive/StationModel/station-3d.html#model=A-06) | A-06_milky_way_doors.glb | 2.555 × 2.36 × 0.412 | 4296 | floor-center | milky_way_doors, milky_way_doors_emit |
 
 ## A-07 · Ліжко Овальної бази
 
