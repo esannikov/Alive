@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T11:27:32.963275+00:00",
+  "generatedAt": "2026-11-27T20:12:45.713855+00:00",
   "members": {
     "esannikov": 1,
     "ElenaAlive": 2,
@@ -426,17 +426,27 @@
       "automaticRemoval": false
     },
     "alc033": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-27T14:09:38Z",
+          "reactionId": "REA_lAXOVCLQyc4ArilZzgAtpAY"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 286,
+      "url": "https://github.com/esannikov/Alive/discussions/286"
     },
     "alc034": {
       "votes": [],
@@ -3016,17 +3026,27 @@
       "automaticRemoval": false
     },
     "frik016": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-27T15:06:30Z",
+          "reactionId": "REA_lAXOVCLQyc4AriquzgAtpH0"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 287,
+      "url": "https://github.com/esannikov/Alive/discussions/287"
     },
     "frik017": {
       "votes": [],
@@ -3601,17 +3621,27 @@
       "automaticRemoval": false
     },
     "frik061": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-27T15:11:33Z",
+          "reactionId": "REA_lAXOVCLQyc4ArirNzgAtpIg"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 290,
+      "url": "https://github.com/esannikov/Alive/discussions/290"
     },
     "frik062": {
       "votes": [],
@@ -3640,17 +3670,27 @@
       "automaticRemoval": false
     },
     "frik064": {
-      "votes": [],
+      "votes": [
+        {
+          "login": "ElenaAlive",
+          "choice": "for",
+          "weight": 2,
+          "createdAt": "2026-11-27T15:11:10Z",
+          "reactionId": "REA_lAXOVCLQyc4ArirJzgAtpIE"
+        }
+      ],
       "scores": {
-        "for": 0,
+        "for": 2,
         "against": 0
       },
       "people": {
-        "for": 0,
+        "for": 1,
         "against": 0
       },
-      "status": "unvoted",
-      "automaticRemoval": false
+      "status": "for",
+      "automaticRemoval": false,
+      "discussionNumber": 289,
+      "url": "https://github.com/esannikov/Alive/discussions/289"
     },
     "frik065": {
       "votes": [],
@@ -9641,5 +9681,5 @@
       "automaticRemoval": false
     }
   },
-  "refreshSlot": "2026-11-27T09"
+  "refreshSlot": "2026-11-27T21"
 }
