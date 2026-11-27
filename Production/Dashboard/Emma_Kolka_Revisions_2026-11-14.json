@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-14",
+  "status": "new_candidates_for_review",
+  "scope": "Две возрастные правки Эммы от emma009 и четыре зачёски одной новой основы Кольки. Прежние изображения Эммы сохранены. Новые кандидаты не подаются на утверждение автоматически.",
+  "items": [
+    {
+      "code": "emma012",
+      "character": "emma",
+      "title": "Эмма · мягкая возрастная правка",
+      "source_file": "docs/World/characters/emma/images/emma012.png",
+      "sha256": "7e605725504ecd919955518541dceda04a1c8b432ac8a64efb111bf20a4ed1b2",
+      "width": 1536,
+      "height": 1024,
+      "model": "gpt-image-2.5-sunburst",
+      "quality": "high",
+      "prompt": "Edit the supplied emma009 image to show the SAME fictional character a little older: unmistakably a roughly FIFTEEN-YEAR-OLD adolescent rather than a twelve/thirteen-year-old. Preserve her identity, heart-shaped facial family, pale blue eyes, freckle distribution, long golden-auburn hair, modest white knit blouse with lace collar and ladybird pendant, white inhabited spacecraft corridor and quiet guarded but open gaze. Change FACE maturation only, not body development. Slightly lengthen the middle/lower face, reduce the very round child-cheek fullness a little, clarify the high cheekbone planes subtly, allow the eye-to-cheek proportions and softly defined chin to read age fifteen. Keep soft youthful skin and no makeup. Do not turn her into an adult woman or a different actress. The producer's youthful Taylor Swift reference is a loose proportion/mood direction only; preserve the supplied original Emma, not a celebrity replacement. No change of hair color or costume. Keep pose close to source, modest upper-chest framing. FIRST CONTROLLED TEST: restrained natural age progression, mild facial-length change, softer of the two maturation options, attentive relaxed mouth.\n\nPhotographic ALIVE casting direction: entirely believable live-action film still, normal human anatomy, natural youthful skin, no illustration, game render or plastic CGI. Horizontal 3:2 single portrait, head and upper chest, entire hair silhouette and both ears inside frame, face large enough to judge. Eye-level 75–85mm full-frame perspective, f5.6 visual cues, both eyes/nose/lips in one coherent focus zone, background softer. Large soft neutral daylight key at 40 degrees camera-left, weak room bounce, controlled shadow-side fill, one restrained warm practical behind; natural skin colors and smooth highlight rolloff, no mandatory orange-blue grade. Regional age-appropriate skin: fine forehead/temples, delicate eyelids and moist lower rim, tiny irregular pores near nose/inner cheeks, matte outer cheeks, restrained nasal sheen, soft lip creases, growth-directed brow hairs, real irises and consistent catchlights. No uniform pore noise, oversharpening, grain overlay, beauty makeup, wax skin, restoration smoothing, adult wrinkles or exaggerated acne. Face has priority over textile detail. No text, graphic, collage, watermark or logo.",
+      "input_reference_codes": [
+        "emma009"
+      ]
+    },
+    {
+      "code": "emma013",
+      "character": "emma",
+      "title": "Эмма · более выраженные скулы",
+      "source_file": "docs/World/characters/emma/images/emma013.png",
+      "sha256": "ae5aa27d27bc0cc557bcd76de05e58963fed5dd1aac52e632ba609da201d29db",
+      "width": 1536,
+      "height": 1024,
+      "model": "gpt-image-2.5-sunburst",
+      "quality": "high",
+      "prompt": "Edit emma009 independently from the ORIGINAL reference, preserving the SAME fictional identity, but make her read as a FIFTEEN to SIXTEEN-year-old adolescent, not twelve/thirteen and not an adult. Same heart-shaped facial family, pale blue eyes, freckles, long golden-auburn hair, white knit blouse/lace collar and small ladybird pendant, same calm white spacecraft corridor. Change FACE maturation only; do not alter body development or sexualize. Slightly firmer high cheekbone definition and a subtly longer lower face, still small soft chin, normal youthful eyelids and lips. Reduce childlike cheek roundness more clearly than test 1 while preserving recognizable nose, eye spacing, natural lips, freckles and hairline. Expression open, self-possessed and alert, no frowning and no glamour. No adult wrinkles, makeup, stubble, enlarged coarse pores or sharp hollowed cheeks. A youthful Taylor Swift reference was named as a loose design direction, but this must remain the provided Emma rather than becoming a celebrity portrait. SECOND CONTROLLED TEST: stronger but still age-appropriate cheekbone/midface maturation and composed presence.\n\nPhotographic ALIVE casting direction: entirely believable live-action film still, normal human anatomy, natural youthful skin, no illustration, game render or plastic CGI. Horizontal 3:2 single portrait, head and upper chest, entire hair silhouette and both ears inside frame, face large enough to judge. Eye-level 75–85mm full-frame perspective, f5.6 visual cues, both eyes/nose/lips in one coherent focus zone, background softer. Large soft neutral daylight key at 40 degrees camera-left, weak room bounce, controlled shadow-side fill, one restrained warm practical behind; natural skin colors and smooth highlight rolloff, no mandatory orange-blue grade. Regional age-appropriate skin: fine forehead/temples, delicate eyelids and moist lower rim, tiny irregular pores near nose/inner cheeks, matte outer cheeks, restrained nasal sheen, soft lip creases, growth-directed brow hairs, real irises and consistent catchlights. No uniform pore noise, oversharpening, grain overlay, beauty makeup, wax skin, restoration smoothing, adult wrinkles or exaggerated acne. Face has priority over textile detail. No text, graphic, collage, watermark or logo.",
+      "input_reference_codes": [
+        "emma009"
+      ]
+    },
+    {
+      "code": "kolka015",
+      "character": "kolka",
+      "title": "Колька · неровный ёжик",
+      "source_file": "docs/World/characters/kolka/images/kolka015.png",
+      "sha256": "f512a7a2657cb7c3b372a56d559026017d83a9cceb786a410b6851815c99bb1f",
+      "width": 1536,
+      "height": 1024,
+      "model": "gpt-image-2.5-sunburst",
+      "quality": "high",
+      "prompt": "Generate an original new casting proposal for KOLKA from ALIVE. One FIFTEEN-YEAR-OLD fictional boy, clearly younger than the nineteen-year-old Fedor. Lean ordinary teenage neck and shoulders, slender agile build, no adult musculature, facial hair, stubble or rugged mature lines. Warm medium olive/tan complexion, very dark brown eyes, naturally BLACK hair. Modest worn dark denim work jacket over plain charcoal tee; quiet gray-blue station workshop corridor, very defocused, no props or weapons. Alert quick-witted, lightly mischievous look, mouth relaxed with the tiniest uneven corner, not an angry scowl, snarling bully or fashion model.\nNEW IDENTITY DESIGN: compact broad cheekbone spacing and a shorter overall face; a gently broad rounded lower jaw with a short blunt chin, visibly smaller lower-face height than Fedor; shorter nose with lower bridge, moderately broad base and soft rounded tip; medium-wide mouth with a straighter comparatively thin upper lip and natural moderate lower lip, no full model pout; thick uneven almost straight dark brows, slightly hooded almond eyes with expressive asymmetry, modest naturally projecting ears. Very slight left/right facial asymmetry. His face should look specific, resourceful, loyal and ordinary rather than classically glamorous. The producer mentioned the youthful Taylor Lautner type as a loose architecture contrast to Fedor's Pattinson-like family; use compact youthful cheek/jaw/nose relations as inspiration, not a celebrity lookalike or adult actor copy. Do not assign ethnicity as a story fact. Do NOT reproduce the long narrow nose, elongated lower face or model-like lip/jaw proportions of the old Fedor-derived Kolka. NO existing Fedor image is provided or used as identity reference.\nHAIR DIRECTION 01: self-cut uneven SHORT HEDGEHOG, about 2–3cm on crown with several irregular broken tufts pointing in different directions, slightly longer frontal piece and one stubborn cowlick. Natural broken grouped strands, dark soft roots, not a uniform gel-spike porcupine. Sides roughly scissor-short with small imperfections, no skin fade, shaved line, barbershop symmetry or professional styled crest. The haircut suggests a boy cutting his own hair who rarely bothers combing it. Entire top of hair in frame.\n\n\nPhotographic ALIVE casting direction: entirely believable live-action film still, normal human anatomy, natural youthful skin, no illustration, game render or plastic CGI. Horizontal 3:2 single portrait, head and upper chest, entire hair silhouette and both ears inside frame, face large enough to judge. Eye-level 75–85mm full-frame perspective, f5.6 visual cues, both eyes/nose/lips in one coherent focus zone, background softer. Large soft neutral daylight key at 40 degrees camera-left, weak room bounce, controlled shadow-side fill, one restrained warm practical behind; natural skin colors and smooth highlight rolloff, no mandatory orange-blue grade. Regional age-appropriate skin: fine forehead/temples, delicate eyelids and moist lower rim, tiny irregular pores near nose/inner cheeks, matte outer cheeks, restrained nasal sheen, soft lip creases, growth-directed brow hairs, real irises and consistent catchlights. No uniform pore noise, oversharpening, grain overlay, beauty makeup, wax skin, restoration smoothing, adult wrinkles or exaggerated acne. Face has priority over textile detail. No text, graphic, collage, watermark or logo.",
+      "input_reference_codes": [],
+      "framing_prompt": "Reframe this EXACT SAME fictional teenage Kolka portrait by pulling the camera BACK approximately 18 percent. Preserve the exact face, age fifteen, expression, tan complexion, eyes, nose, lips, jaw, skin texture, black self-cut chaotic hedgehog haircut, dark denim jacket, charcoal tee, light and background. The ONLY change is framing and enough extra surrounding background to show the COMPLETE HAIR SILHOUETTE. Place the tip of the HIGHEST HAIR TUFT at least 100 pixels BELOW the top edge of the 1536x1024 landscape frame. Leave generous clean headroom because this same frame will later hold a longer hairstyle. Include more upper chest at bottom, keep shoulders naturally complete. Do not enlarge the head to fill the frame again. No face redesign, hairstyle redesign, text or collage. A photographic casting exposure with the exact same individual, eye-level normal portrait lens, hair and face sharp, background soft. Complete hair with visible background above it is mandatory.\n"
+    },
+    {
+      "code": "kolka016",
+      "character": "kolka",
+      "title": "Колька · рваный кроп",
+      "source_file": "docs/World/characters/kolka/images/kolka016.png",
+      "sha256": "5f18bb73ce04679397aae91b11b3dbdc0c35c968544de0608c9ceef36b4ae2c4",
+      "width": 1536,
+      "height": 1024,
+      "model": "gpt-image-2.5-sunburst",
+      "quality": "high",
+      "prompt": "Edit reference image 1. CHANGE ONLY THE HAIRCUT. Preserve EXACTLY the SAME newly generated fictional Kolka face, youthful age fifteen, face shape, nose, lips, jaw, eyes, tan/olive complexion, facial asymmetry, expression, shoulders, costume, head angle, photographic framing, corridor background, light and skin texture. This is one consistent character testing different hair, not four new faces. Keep BLACK hair. Entire hair silhouette visible; expand breathing room minimally if needed. No stubble, beard, aging, muscular adult shoulders, makeup, text or collage. Hair should retain a resourceful teenage hooligan's unruly home-cut chaos, without modern barbershop perfection.\nNEW HAIRCUT: ROUGH FORWARD CROP. Top about 4–5cm with a BROKEN JAGGED FRINGE falling forward onto upper forehead at a slight diagonal. Three uneven clumps at fringe, one small cowlick lifts at crown, sides scissor-short about 1–2cm. The silhouette reads FORWARD AND LOW, unlike the upward hedgehog. No smooth bowl fringe, no razor-straight fringe edge, no skin fade. Rough home haircut, not salon product styling.\n\nPhotographic ALIVE casting direction: entirely believable live-action film still, normal human anatomy, natural youthful skin, no illustration, game render or plastic CGI. Horizontal 3:2 single portrait, head and upper chest, entire hair silhouette and both ears inside frame, face large enough to judge. Eye-level 75–85mm full-frame perspective, f5.6 visual cues, both eyes/nose/lips in one coherent focus zone, background softer. Large soft neutral daylight key at 40 degrees camera-left, weak room bounce, controlled shadow-side fill, one restrained warm practical behind; natural skin colors and smooth highlight rolloff, no mandatory orange-blue grade. Regional age-appropriate skin: fine forehead/temples, delicate eyelids and moist lower rim, tiny irregular pores near nose/inner cheeks, matte outer cheeks, restrained nasal sheen, soft lip creases, growth-directed brow hairs, real irises and consistent catchlights. No uniform pore noise, oversharpening, grain overlay, beauty makeup, wax skin, restoration smoothing, adult wrinkles or exaggerated acne. Face has priority over textile detail. No text, graphic, collage, watermark or logo.",
+      "input_reference_codes": [
+        "kolka015"
+      ]
+    },
+    {
+      "code": "kolka017",
+      "character": "kolka",
+      "title": "Колька · взъерошенная шапка",
+      "source_file": "docs/World/characters/kolka/images/kolka017.png",
+      "sha256": "5aa403448192d6e87cb92a14215c0ba9f178d18e194e9aa550efac6fdce51820",
+      "width": 1536,
+      "height": 1024,
+      "model": "gpt-image-2.5-sunburst",
+      "quality": "high",
+      "prompt": "Edit reference image 1. CHANGE ONLY THE HAIRCUT. Preserve EXACTLY the SAME newly generated fictional Kolka face, youthful age fifteen, face shape, nose, lips, jaw, eyes, tan/olive complexion, facial asymmetry, expression, shoulders, costume, head angle, photographic framing, corridor background, light and skin texture. This is one consistent character testing different hair, not four new faces. Keep BLACK hair. Entire hair silhouette visible; expand breathing room minimally if needed. No stubble, beard, aging, muscular adult shoulders, makeup, text or collage. Hair should retain a resourceful teenage hooligan's unruly home-cut chaos, without modern barbershop perfection.\nNEW HAIRCUT: MESSY SHORT SHAG / SHAGGY MOP. Top 6–8cm, irregular soft BLACK locks falling in several directions, some toward brows, some outward over temples and just touching tops of ears, lightly grown-out uneven nape. Clearly more voluminous and longer than a crop, airy separated tousled locks with no clean parting. Still practical short-to-medium teenage hair, not shoulder length, not a polished male model hairstyle. Deliberate authorized departure from novel's strict short spikes, retaining chaotic self-cut hooligan character.\n\nPhotographic ALIVE casting direction: entirely believable live-action film still, normal human anatomy, natural youthful skin, no illustration, game render or plastic CGI. Horizontal 3:2 single portrait, head and upper chest, entire hair silhouette and both ears inside frame, face large enough to judge. Eye-level 75–85mm full-frame perspective, f5.6 visual cues, both eyes/nose/lips in one coherent focus zone, background softer. Large soft neutral daylight key at 40 degrees camera-left, weak room bounce, controlled shadow-side fill, one restrained warm practical behind; natural skin colors and smooth highlight rolloff, no mandatory orange-blue grade. Regional age-appropriate skin: fine forehead/temples, delicate eyelids and moist lower rim, tiny irregular pores near nose/inner cheeks, matte outer cheeks, restrained nasal sheen, soft lip creases, growth-directed brow hairs, real irises and consistent catchlights. No uniform pore noise, oversharpening, grain overlay, beauty makeup, wax skin, restoration smoothing, adult wrinkles or exaggerated acne. Face has priority over textile detail. No text, graphic, collage, watermark or logo.",
+      "input_reference_codes": [
+        "kolka015"
+      ]
+    },
+    {
+      "code": "kolka018",
+      "character": "kolka",
+      "title": "Колька · косой вихор",
+      "source_file": "docs/World/characters/kolka/images/kolka018.png",
+      "sha256": "6cf0541c41cb277a316b1ed840590004649736a729adadd37068d6fdfc799de3",
+      "width": 1536,
+      "height": 1024,
+      "model": "gpt-image-2.5-sunburst",
+      "quality": "high",
+      "prompt": "Edit reference image 1. CHANGE ONLY THE HAIRCUT. Preserve EXACTLY the SAME newly generated fictional Kolka face, youthful age fifteen, face shape, nose, lips, jaw, eyes, tan/olive complexion, facial asymmetry, expression, shoulders, costume, head angle, photographic framing, corridor background, light and skin texture. This is one consistent character testing different hair, not four new faces. Keep BLACK hair. Entire hair silhouette visible; expand breathing room minimally if needed. No stubble, beard, aging, muscular adult shoulders, makeup, text or collage. Hair should retain a resourceful teenage hooligan's unruly home-cut chaos, without modern barbershop perfection.\nNEW HAIRCUT: ASYMMETRIC SELF-CUT SIDE-SWEPT COWLICK. One side roughly clipped short at 0.8–1.5cm, other side left uneven scissor length about 2–3cm; top about 5cm thrown SIDEWAYS AND UP in a broken off-center loose crest, several strands falling against the main direction. Strong asymmetric silhouette, hairline visible on short side, coarse natural imperfect transitions, no shaved skin or razor line. NOT a fashionable clean undercut, high mohawk or slick pompadour: the boy clearly did this himself and does not comb it neatly.\n\nPhotographic ALIVE casting direction: entirely believable live-action film still, normal human anatomy, natural youthful skin, no illustration, game render or plastic CGI. Horizontal 3:2 single portrait, head and upper chest, entire hair silhouette and both ears inside frame, face large enough to judge. Eye-level 75–85mm full-frame perspective, f5.6 visual cues, both eyes/nose/lips in one coherent focus zone, background softer. Large soft neutral daylight key at 40 degrees camera-left, weak room bounce, controlled shadow-side fill, one restrained warm practical behind; natural skin colors and smooth highlight rolloff, no mandatory orange-blue grade. Regional age-appropriate skin: fine forehead/temples, delicate eyelids and moist lower rim, tiny irregular pores near nose/inner cheeks, matte outer cheeks, restrained nasal sheen, soft lip creases, growth-directed brow hairs, real irises and consistent catchlights. No uniform pore noise, oversharpening, grain overlay, beauty makeup, wax skin, restoration smoothing, adult wrinkles or exaggerated acne. Face has priority over textile detail. No text, graphic, collage, watermark or logo.",
+      "input_reference_codes": [
+        "kolka015"
+      ]
+    }
+  ]
+}

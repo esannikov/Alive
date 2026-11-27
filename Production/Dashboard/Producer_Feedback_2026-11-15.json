@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-15",
+  "source_comments": {
+    "tais": "https://github.com/esannikov/Alive/discussions/56#discussioncomment-19630364",
+    "emma": "https://github.com/esannikov/Alive/discussions/57#discussioncomment-19630529",
+    "kolka": "https://github.com/esannikov/Alive/discussions/59#discussioncomment-19630758"
+  },
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "items": [
+    {
+      "code": "emma020",
+      "caption": "Компактное сердце · яркая медь",
+      "source_file": "docs/World/characters/emma/images/emma020.png",
+      "sha256": "286220267759d17f3199673773a7d34216eaf85696469cc0aecb182f55469032",
+      "prompt": "Generate a completely NEW original fictional face from scratch, no image inputs. A genuinely photographic ALIVE casting portrait of EMMA, a beautiful FIFTEEN-YEAR-OLD older adolescent with a compact youthful face, vivid naturally RED-COPPER long hair, clear PALE BLUE irises and pale lightly freckled skin. These colors are strongly distinct and luminous: copper-red rather than brown/blond, clear blue rather than dull grey. Natural healthy skin color, no makeup, no luminous neon eyes, no global HDR. A self-assured proper girl with cool assessing eyes and a quietly stubborn closed mouth; emotionally controlled, not dreamy, not smiling or fashion-posing. Upper chest portrait, opaque white fine-knit blouse closed at neck with a small restrained lace collar, ladybird pendant on a thin silver chain. Fully age-appropriate, no adult wrinkles or body development, no glamour styling.\n\nLiving skin with fine irregular pores by the nose, finer matte outer cheeks and forehead, natural delicate eyelids, soft lip lines and sparse irregular freckles. No plastic/wax, airbrushing, procedural pore-noise, heavy grain, sharpening halos, fake eyelashes or glossy lips. Broad softly directional NEUTRAL light with weak bounce and a gently darker shadow side; natural color separation between copper hair, ivory face and light-blue eyes. Quiet matte pale-gray inhabited station-study background, softly defocused cabinet, no polished sci-fi corridor or decorative bulbs. Face sharper than fabric and background. The visual appeal is slightly storybook-like through rich natural color and harmonious compact features, while rendering is an unretouched photograph of a real teenager.\n\nVertical 2:3, 1024x1536, head and shoulders, normal 85mm-equivalent perspective and f5.6 optical depth. COMPLETE head and highest hair strand within frame with ten percent clear background above. Do not elongate the midface or chin. Long natural red waves partly gathered behind ears, no celebrity hairdo. No text, watermark, collage, hands or extra people.\n\nDISTINCT ORIGINAL FACIAL ANATOMY:\nA compact heart-shaped face with a broad gentle forehead, rounded upper cheeks, small SHORT rounded chin and narrow soft lower jaw. Slightly wide-set BLUE eyes with rounded openings and straight, slightly heavy upper lids, no upswept outer corners; natural fairly dense STRAIGHT copper brows with a small irregular gap on one side. Medium-width short nose with a visible ordinary bridge and softly wide rounded tip, not a tiny pointed nose. Relatively wide closed mouth with a THIN straight upper lip, very shallow cupid bow and a fuller lower lip, one corner slightly lower. Modest ears slightly visible. Face directed nearly frontally, level skeptical gaze. Individuality comes from the unusual combination of rounded eyes, straight strong brows and broad-tipped short nose; ordinary subtle asymmetry.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "direction_sources": [
+        "emma013",
+        "emma016"
+      ],
+      "status": "candidate",
+      "review_note": "Fresh original casting: compact proportions, red-copper hair and blue eyes; resemblance and final choice remain for human review."
+    },
+    {
+      "code": "emma021",
+      "caption": "Мягкий овал · ясный взгляд",
+      "source_file": "docs/World/characters/emma/images/emma021.png",
+      "sha256": "8ee305b57ba895dbc19ea4b48dcff9be86eafeb25528e591d96e8698e78792db",
+      "prompt": "Generate a completely NEW original fictional face from scratch, no image inputs. A genuinely photographic ALIVE casting portrait of EMMA, a beautiful FIFTEEN-YEAR-OLD older adolescent with a compact youthful face, vivid naturally RED-COPPER long hair, clear PALE BLUE irises and pale lightly freckled skin. These colors are strongly distinct and luminous: copper-red rather than brown/blond, clear blue rather than dull grey. Natural healthy skin color, no makeup, no luminous neon eyes, no global HDR. A self-assured proper girl with cool assessing eyes and a quietly stubborn closed mouth; emotionally controlled, not dreamy, not smiling or fashion-posing. Upper chest portrait, opaque white fine-knit blouse closed at neck with a small restrained lace collar, ladybird pendant on a thin silver chain. Fully age-appropriate, no adult wrinkles or body development, no glamour styling.\n\nLiving skin with fine irregular pores by the nose, finer matte outer cheeks and forehead, natural delicate eyelids, soft lip lines and sparse irregular freckles. No plastic/wax, airbrushing, procedural pore-noise, heavy grain, sharpening halos, fake eyelashes or glossy lips. Broad softly directional NEUTRAL light with weak bounce and a gently darker shadow side; natural color separation between copper hair, ivory face and light-blue eyes. Quiet matte pale-gray inhabited station-study background, softly defocused cabinet, no polished sci-fi corridor or decorative bulbs. Face sharper than fabric and background. The visual appeal is slightly storybook-like through rich natural color and harmonious compact features, while rendering is an unretouched photograph of a real teenager.\n\nVertical 2:3, 1024x1536, head and shoulders, normal 85mm-equivalent perspective and f5.6 optical depth. COMPLETE head and highest hair strand within frame with ten percent clear background above. Do not elongate the midface or chin. Long natural red waves partly gathered behind ears, no celebrity hairdo. No text, watermark, collage, hands or extra people.\n\nDISTINCT ORIGINAL FACIAL ANATOMY:\nA softly rounded compact OVAL face, short lower face, slightly fuller healthy cheeks, small softly squared chin. Medium-sized BLUE eyes set slightly closer together, long horizontal upper lids and low outer corners, fine low nearly horizontal auburn brows of unequal density. A relatively prominent but short nose with a subtle convex bridge and a gently downturned rounded tip; NOT a delicate upturned nose. Small firm closed mouth with even modest lip fullness and a nearly straight upper contour, no sharply drawn lip bow. One cheek marginally fuller. Three-quarter view with eyes assessing a companion just off camera. Beautiful through strong color, balanced compact proportions and individuality, not a generic leading-lady face.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "direction_sources": [
+        "emma013",
+        "emma016"
+      ],
+      "status": "candidate",
+      "review_note": "Fresh original casting: compact proportions, red-copper hair and blue eyes; resemblance and final choice remain for human review."
+    },
+    {
+      "code": "emma022",
+      "caption": "Высокие скулы · короткий подбородок",
+      "source_file": "docs/World/characters/emma/images/emma022.png",
+      "sha256": "0e3d35c7becb5933be0e058993c4a71f281a4edc24120ce618dd7bfc2f244ba6",
+      "prompt": "Generate a completely NEW original fictional face from scratch, no image inputs. A genuinely photographic ALIVE casting portrait of EMMA, a beautiful FIFTEEN-YEAR-OLD older adolescent with a compact youthful face, vivid naturally RED-COPPER long hair, clear PALE BLUE irises and pale lightly freckled skin. These colors are strongly distinct and luminous: copper-red rather than brown/blond, clear blue rather than dull grey. Natural healthy skin color, no makeup, no luminous neon eyes, no global HDR. A self-assured proper girl with cool assessing eyes and a quietly stubborn closed mouth; emotionally controlled, not dreamy, not smiling or fashion-posing. Upper chest portrait, opaque white fine-knit blouse closed at neck with a small restrained lace collar, ladybird pendant on a thin silver chain. Fully age-appropriate, no adult wrinkles or body development, no glamour styling.\n\nLiving skin with fine irregular pores by the nose, finer matte outer cheeks and forehead, natural delicate eyelids, soft lip lines and sparse irregular freckles. No plastic/wax, airbrushing, procedural pore-noise, heavy grain, sharpening halos, fake eyelashes or glossy lips. Broad softly directional NEUTRAL light with weak bounce and a gently darker shadow side; natural color separation between copper hair, ivory face and light-blue eyes. Quiet matte pale-gray inhabited station-study background, softly defocused cabinet, no polished sci-fi corridor or decorative bulbs. Face sharper than fabric and background. The visual appeal is slightly storybook-like through rich natural color and harmonious compact features, while rendering is an unretouched photograph of a real teenager.\n\nVertical 2:3, 1024x1536, head and shoulders, normal 85mm-equivalent perspective and f5.6 optical depth. COMPLETE head and highest hair strand within frame with ten percent clear background above. Do not elongate the midface or chin. Long natural red waves partly gathered behind ears, no celebrity hairdo. No text, watermark, collage, hands or extra people.\n\nDISTINCT ORIGINAL FACIAL ANATOMY:\nA compact diamond-heart face with high but softly rounded broad cheekbones, short midface, SHORT small blunt chin, healthy teenage facial softness. Medium-large BLUE eyes clearly wider apart with straight upper lids, visible natural lower-lid shape and level outer corners. Fine SHORT brows, nearly flat, one naturally higher. A narrow ordinary nose bridge that transitions to a modest blunt slightly asymmetric tip with wider nostril spacing. A broader straight closed mouth, thin lips, slightly longer upper lip/philtrum and almost no cupid-bow notch. A tiny freckle cluster on only one cheek. Forehead open under irregular side-part red waves. Direct composed skeptical gaze and level chin. No long tapered face or pointed chin.",
+      "generation_mode": "generate",
+      "image_inputs": [],
+      "direction_sources": [
+        "emma013",
+        "emma016"
+      ],
+      "status": "candidate",
+      "review_note": "Fresh original casting: compact proportions, red-copper hair and blue eyes; resemblance and final choice remain for human review."
+    }
+  ],
+  "curation": {
+    "tais": {
+      "A": "tais053",
+      "A_emotions": [
+        "tais057",
+        "tais060",
+        "tais061"
+      ],
+      "B": "tais059",
+      "reserve": [
+        "tais058"
+      ]
+    },
+    "emma": {
+      "reserve": [
+        "emma010"
+      ],
+      "preferred_direction": "emma016",
+      "new_candidates": [
+        "emma020",
+        "emma021",
+        "emma022"
+      ],
+      "retained_earlier_candidates": true
+    },
+    "kolka": {
+      "preferred": [
+        "kolka028",
+        "kolka026"
+      ],
+      "final_A_selected": false
+    }
+  },
+  "notes": "Initial image-reference trials kept too much of emma016 facial geometry; final three portraits were generated from text without image inputs. No new producer approval is inferred."
+}

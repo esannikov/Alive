@@ -1,0 +1,5 @@
+# Колька · лицо по зонам
+
+Опора — [kolka033](../../images/kolka033.png), типаж kolka-type-015. [Анфас](../images/kp01.png) задаёт форму век, расстояние между глазами, линию скул и подбородок. Сверять переносицу, крылья носа и контур губ при одном повороте и мягком свете. Для висков и затылка использовать [лист стрижки](../images/kp04.png).
+
+Premium photographic character continuity for a film. Match this exact approved face from reference 1 in every shot: spacing and shape of eyes, brows, cheekbones, nose, lips, ears, jaw, hairline and asymmetric short uneven black self-cut spikes. Kolka is nearly sixteen, slender, warm olive complexion, high cheekbones, dark brown eyes. Keep his natural age and proportions. Real skin texture, no smoothing, no illustration, absolutely no writing, labels or watermarks. Very tight frontal full-face beauty lens portrait, hairline to chin in focus; natural uneven eyebrows, lids, distinct nostrils and philtrum, natural asymmetry. Quiet neutral warm grey studio cyclorama, soft daylight, gentle shadow. 

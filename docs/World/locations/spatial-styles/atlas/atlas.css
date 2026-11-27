@@ -1,0 +1,19 @@
+#eden-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: .75rem 1.25rem;
+}
+#eden-controls label {
+  display: grid;
+  gap: .3rem;
+  max-width: 100%;
+  min-width: 0;
+}
+#eden-controls select {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  font: inherit;
+}
+#eden-controls[hidden] { display: none; }

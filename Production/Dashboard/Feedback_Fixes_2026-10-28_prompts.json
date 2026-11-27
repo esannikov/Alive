@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-28",
+  "tool": "built-in imagegen",
+  "scope": "All approved producer feedback except Moag",
+  "variants": [
+    {
+      "code": "tais043",
+      "object": "tais",
+      "from": "tais006",
+      "title": "Пов’язка · вузька стрічка",
+      "ref": "docs/TaisBellaStrong/images/tais-strong-06.jpg",
+      "prompt": "Edit only the black-and-white headband styling in this photorealistic portrait. Fold the bandana into a narrow practical 3 cm fabric strip holding hair back, running low over the hairline, with a small flat knot tucked at the nape (not a bow on top). Crown hair stays uncovered. Retain two braids, loose thin strands along cheeks and side-swept fringe. Preserve EXACTLY the face identity, age about17, honey-brown eyes, slender build, clothes, expression, camera framing, light and background. Functional tomboy hair restraint for crawling through service shafts, modest natural fabric, no fashion glamour. Landscape16:9, no text.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-2e3de72b-e63b-4f53-87c4-08774c016bf2.png",
+      "output": "docs/World/characters/tais/images/tais043.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "fae9040a8694850e67b4e2d6a8d8621f05726a66ed89da7ec38b8b760ac37120"
+    },
+    {
+      "code": "tais044",
+      "object": "tais",
+      "from": "tais009",
+      "title": "Пов’язка · плаский вузол",
+      "ref": "docs/TaisBellaStrong/images/tais-strong-09.jpg",
+      "prompt": "Edit only the black-and-white headband styling. Change it into a practical slightly wider folded 5cm fabric headband that lies flat across the crown behind the forehead, held with a small flat side knot just behind the ear, short tucked tails. No puffy cap, no decorative top bow. Keep the two braids and long side fringe with a few thin loose strands. Lock the same exact face, teenage age, honey eyes, narrow face, slender body, expression, all clothing, frame and station background. Natural useful clothing item rather than styled fashion. Realistic landscape16:9, no text.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-069338dc-d9f2-47ad-b799-7e8b3faeb38a.png",
+      "output": "docs/World/characters/tais/images/tais044.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "6885922134e29a8bcabac7587a21f1c18239cb7426b1b68ce540197a12fb2648"
+    },
+    {
+      "code": "don027",
+      "object": "don15",
+      "from": "don022",
+      "title": "Визор · три світлові стани",
+      "ref": "docs/World/robots/don15/images/don022.png",
+      "prompt": "Create a photorealistic concept comparison triptych of this SAME robot's helmet and upper chest, landscape16:9. Three equal panels side by side, each with exactly the same helmet geometry, fixed narrow slit visor, same shoulders, white-black armor and same frontal three-quarter angle and exposure. Change ONLY the light inside the slit. Left: dim restrained warm-white thin horizontal line at rest. Middle: amber short bright scan segment toward the left side of the slit with a faint residual line. Right: deep red clearly brighter continuous horizontal slit for high alert, restrained believable optical bloom, not enormous glare. The robot must remain identical between panels. Dark industrial backdrop. Close helmet-and-shoulders framing makes the slit readable. No text or labels, no extra eyes, no weapon diagram. Fictional visual states only.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-d1227947-3e84-489f-b08f-eafe65959959.png",
+      "output": "docs/World/robots/don15/images/don027.png",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "8117e84026c8aa95c7d0ac89b4fe7d8da5bb1795398b14143950973351fd6845"
+    },
+    {
+      "code": "don028",
+      "object": "don15",
+      "from": "don022",
+      "title": "Рицар · прицілювання",
+      "ref": "docs/World/robots/don15/images/don022.png",
+      "prompt": "Edit this same fictional robot into a composed aiming pose. Keep its exact black-white armor, compact helmet with narrow slit visor, transparent shin armor, proportions and industrial corridor. Full body landscape16:9. Raise one arm forward, elbow slightly bent, aimed in the same direction as its head; feet braced naturally. The weapon is a transformed HAND: the fingers have folded into a compact terminal emitter flush with the forearm axis. There must be NO normal hand underneath or beside this emitter and NO separate giant gun attached on top. A believable continuous arm silhouette, emitter only modestly wider than wrist, small restrained red-white light at its end. Opposite arm remains normal with fingers visible lowered beside torso. Red narrow visor, quiet dangerous readiness, no firing, beam, victims, explosions or schematics. Preserve robot identity and slim agile stance.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-07d6ddac-2b04-4332-ae0c-e9551e97fc3f.png",
+      "output": "docs/World/robots/don15/images/don028.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "abcf6cefc4c212c812ccd6b70b9863529e6b9ee402b404e7c454856a50bb91aa"
+    },
+    {
+      "code": "lon011",
+      "object": "lon",
+      "from": "lon010",
+      "title": "Контур · рівні опори",
+      "ref": "docs/World/robots/lon/images/lon010.png",
+      "prompt": "Edit only this service robot's hollow torso. Replace the pinched hourglass body with an elegant upright rounded-rectangular open frame: two near-parallel gently arched side supports, same width near shoulders and base, no narrow waist, no hips or bust. The large hollow central opening should remain clearly open to the background. A slim practical retractable tray is integrated across the lower third of the opening without blocking most of it. Keep exact friendly head with round eyes and neutral mouth, neck, arms and hands, wheeled base, open service panel, screen, side brush drawer, white finish, background, lighting, full-body landscape16:9 frame. Design reads useful sculptural domestic architecture, not a gendered human torso. No text.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-fdd4cbda-b8a4-4c81-85e3-880ee6703375.png",
+      "output": "docs/World/robots/lon/images/lon011.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "030b8b068f20d57cadca94306085d12bedbf754d94b860b9ba189e808d692fc6"
+    },
+    {
+      "code": "martin009",
+      "object": "martin",
+      "from": "martin002",
+      "title": "Вихователь · робочий халат",
+      "ref": "docs/World/robots/martin/images/martin002.png",
+      "prompt": "Add a simple practical educator/caregiver work coat to this exact tall humanoid robot. Preserve its entire head and face, round serious eyes, fixed neutral unsmiling mouth, long-legged slim proportions, exact body identity, existing kind open-hand pose, room and warm lighting. The coat is muted oatmeal-beige washable cotton, modest small collar, uncomplicated front fastening and two practical pockets, knee length, loose enough over the robot frame, sleeves ending mid-forearm so its gentle rubber-coated slender fingers and mechanical wrists remain clearly visible. The coat rests naturally over shoulders with realistic cloth folds and side slits; some mechanics visible at neck and below hem. Quiet approachable nursery educator, not a doctor costume, no stethoscope, symbols, insignia, smile, children or text. Full-body landscape16:9.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-baada262-5718-4bfc-a12c-8e058d755705.png",
+      "output": "docs/World/robots/martin/images/martin009.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "6c1738ef913868c1a504b73984ab21c34da1f9d77e8b56511a5cdcdf62a12588"
+    },
+    {
+      "code": "martin010",
+      "object": "martin",
+      "from": "martin004",
+      "title": "Вихователь · геометричний халат",
+      "ref": "docs/World/robots/martin/images/martin004.png",
+      "prompt": "Add a simple practical educator/caregiver work coat to this exact tall humanoid robot. Preserve its entire head and face, round serious eyes, fixed neutral unsmiling mouth, long-legged slim proportions, exact body identity, existing kind open-hand pose, room and warm lighting. The coat is soft light warm-grey washable cotton, collarless, clean simple overlapping front and side pockets, knee length, loose enough over the robot frame, sleeves ending mid-forearm so its gentle rubber-coated slender fingers and mechanical wrists remain clearly visible. The coat rests naturally over shoulders with realistic cloth folds and side slits; some mechanics visible at neck and below hem. Quiet approachable nursery educator, not a doctor costume, no stethoscope, symbols, insignia, smile, children or text. Full-body landscape16:9.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-c7322c28-bdfd-4bd4-82fb-84a0ff3f47b0.png",
+      "intermediate_generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-e6704e58-e5fa-4fca-83ee-f3c332008159.png",
+      "refinement_prompt": "Edit ONLY the coat on this robot. Replace the plain soft work gown with an elegant geometric futuristic educator's coat, refined industrial-fashion design: structured but flexible matte warm ivory technical woven fabric, a clean diagonal overlapping front panel from shoulder to opposite waist, concealed fasteners, short asymmetric standing collar with a precise notch, geometric shoulder yoke, straight architectural seams, two flush angled welt pockets integrated into seam lines (NO patch pockets), subtly offset stepped hem ending just above knee, narrow side vents. Restrained warm-grey inset panel along one side seam, no decorative black straps or logos. Sleeves end below elbows with crisp flat faceted cuffs so the robot's delicate forearms and rubber hands stay exposed. Sophisticated minimal garment with real fabric folds and soft contact edges, not armor or an extravagant runway costume. Keep exact robot face, round eyes, fixed neutral expression, slim long-legged anatomy, head, open-hand gesture, existing room, light and full-body landscape16:9 framing. No text, no accessories.",
+      "output": "docs/World/robots/martin/images/martin010.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "ab1307222a72309af90d7d982bbbbbaed2e54b1aa6d216b157491741ef0f837d"
+    },
+    {
+      "code": "nitka012",
+      "object": "nitka",
+      "from": "nitka010",
+      "title": "Варіант 010 · за шиттям",
+      "ref": "docs/World/characters/nitka/images/nitka010.png",
+      "prompt": "Place this EXACT same nineteen-year-old young woman at a small improvised sewing worktable in the same lived-in station. Preserve her exact face identity, ethnicity/skin tone, hairstyle, slender build, practical clothing, age and photographic realism. Medium waist-up landscape16:9 at eye level, face clearly visible in three-quarter view, not hidden looking straight down. She is hand-sewing a grey denim sleeve onto a faded blue jacket assembled from salvaged child-sized clothes: small needle pinched in one hand, the other holding the seam, plausible five fingers, short visible thread with no tangles. A few fabric offcuts and one spool on the table, no machine, no decorative props. Focused quiet practical expression, gentle sidelight, naturally textured skin. Preserve the distinct face; do not beautify or change age. No text.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-ee186cb5-a2b2-482d-8bf2-157d7ae5855d.png",
+      "output": "docs/World/characters/nitka/images/nitka012.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "861e6a29959dd658ec0b2fb37b5db40cb4ec558f4dbfa7af39ac0e95fe8024cc"
+    },
+    {
+      "code": "nitka013",
+      "object": "nitka",
+      "from": "nitka009",
+      "title": "Варіант 009 · за шиттям",
+      "ref": "docs/World/characters/nitka/images/nitka009.png",
+      "prompt": "Place this EXACT same nineteen-year-old young woman at a small improvised sewing worktable in the same lived-in station. Preserve her exact face identity, ethnicity/skin tone, hairstyle, slender build, practical clothing, age and photographic realism. Medium waist-up landscape16:9 at eye level, face clearly visible in three-quarter view, not hidden looking straight down. She is hand-sewing a grey denim sleeve onto a faded blue jacket assembled from salvaged child-sized clothes: small needle pinched in one hand, the other holding the seam, plausible five fingers, short visible thread with no tangles. A few fabric offcuts and one spool on the table, no machine, no decorative props. Focused quiet practical expression, gentle sidelight, naturally textured skin. Preserve the distinct face; do not beautify or change age. No text.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-fe7cc7ae-d5ec-45ea-9e77-ba2bcff4a30a.png",
+      "output": "docs/World/characters/nitka/images/nitka013.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "74a2576dad14e3f7d8a79fde0bdb41c3c15955531757bba7fff6a598880a0607"
+    },
+    {
+      "code": "valek019",
+      "object": "valek",
+      "from": "valek018",
+      "title": "Від 018 · індивідуальність і реалізм",
+      "ref": "docs/World/characters/valek/images/valek018.png",
+      "prompt": "Refine this portrait subtly toward a real distinctive young person rather than idealized fantasy beauty. Preserve the recognizable face type, age20, very slim frame and narrow shoulders, pale skin, long very light blond hair, DARK brows and lashes, light BLUE eyes, black hoodie, posture and station environment. Keep natural ordinary proportions. Introduce only small credible asymmetries of eyelids and mouth corners, soften the overly sculpted cheekbone highlights, slightly less perfectly straight nose bridge WITHOUT enlarging the nose, irregular youthful skin texture and light under-eye fatigue. Hair is fine and untended, not salon blonde. Expression quietly guarded and coldly assessing, restrained tension in the gaze, no sneer or evil grin. Normal serious human, not elf, not caricature, not old or sick, no exaggerated features. Soft less theatrical light while keeping setting. Landscape16:9 waist-up.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-7f78ede8-2602-42d1-91a9-976cb95e5829.png",
+      "output": "docs/World/characters/valek/images/valek019.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "a0301e9babb654ff9ff58bdc412a2c8d96966ed6fea6b2fbb54b8379ff2378e2"
+    },
+    {
+      "code": "valek020",
+      "object": "valek",
+      "from": "valek013",
+      "title": "Від 013 · стриманий характер",
+      "ref": "docs/World/characters/valek/images/valek013.png",
+      "prompt": "Subtle naturalistic refinement of this same recognisable twenty-year-old. Keep very pale skin, thin lean build, long pale blond hair and dark eyebrows/lashes, pale blue eyes, black hoodie and exact scene/framing. Slightly unequal upper eyelids, naturally uneven hairline and fine flyaway hair, ordinary small variation in skin color and pores, less airbrushed and less sculpted facial lighting. Preserve the face identity and normal proportions, do not enlarge nose or ears, no sunken emaciation or wrinkles. A reserved self-possessed gaze with a trace of impatience, lips relaxed and closed, not a fashion model pose. Avoid fantasy elf beauty, theatrical villain styling, actor imitation, cosmetic gloss. Landscape16:9.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-7fb737b3-8d2b-47a1-a3bb-7a008df91f6f.png",
+      "output": "docs/World/characters/valek/images/valek020.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "bf008db79bfae923e71e44991c83a994152e93fc7dddf067b15686eef24b4b3e"
+    },
+    {
+      "code": "kolka007",
+      "object": "kolka",
+      "from": "kolka002",
+      "title": "Живий типаж · зібраний погляд",
+      "ref": "docs/World/characters/kolka/images/kolka002.png",
+      "prompt": "Make a new subtle casting alternative for this fictional boy, age15 almost16. Keep slim youthful body, short self-cut dark needle-like hair, tan skin, dark brown eyes, faded denim jacket with rolled sleeves, dark shirt, station and waist-up landscape framing. Refine the face toward a distinctive naturally appealing young person: alert direct eyes, a slightly broader but proportionate lower jaw, straightforward brows, natural small asymmetries, confident attentive expression with a barely perceptible friendly lift at one mouth corner. No flirtatious pose, cosmetics, adult muscular build, model gloss or celebrity likeness. Skin remains real, ordinary youthful texture and incidental marks. His appeal is liveliness and personality, not airbrushed geometry. Separate proposal, preserve book age.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-1b8d01cc-60d5-42ae-bc20-638a6d8c580c.png",
+      "output": "docs/World/characters/kolka/images/kolka007.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "0d21c935cb7115125ad9b1555adb5015c0a4486e8a3b27d450b968e80e43b41e"
+    },
+    {
+      "code": "kolka008",
+      "object": "kolka",
+      "from": "kolka002",
+      "title": "Кастингова проба · змішані риси",
+      "ref": "docs/World/characters/kolka/images/kolka002.png",
+      "prompt": "Create a different believable fictional casting option for this boy, age15 almost16, with subtly mixed Afro-European facial features: warm medium-brown tan skin, dark brown attentive eyes, slightly wider natural nose bridge of normal size, soft youthful lips, short coarse dark self-cut hair that still stands in tiny needle-like tufts, a lean naturally proportioned face. Keep him slim, not muscular or stocky; no oversized features, no caricature or beauty retouching. Friendly alert directness and quick intelligence, mouth closed with subtle warmth, no flirtation. Keep exact patched dark denim jacket and dark shirt, body pose, head-to-body scale and station background, landscape16:9 waist-up. No actor imitation, no adult aging. This is a new casting proposal, not a change to clothing or setting.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-89ffe069-67b3-4b61-80a0-039affebf7fc.png",
+      "output": "docs/World/characters/kolka/images/kolka008.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "588253a438adb73147509ef7a11475b707e4ce29ddd876460c32a4134b184c9b"
+    },
+    {
+      "code": "masha007",
+      "object": "masha",
+      "from": "masha006",
+      "title": "Від 006 · теплий кастинговий напрям",
+      "ref": "docs/World/characters/masha/images/masha006.png",
+      "prompt": "Create a restrained alternate casting take for this fictional girl, age almost17, subtly suggesting mixed Latin American heritage without stereotypical styling. Preserve her tall naturally broad-shouldered frame, long strong arms, calm grounded demeanor, dark deep brown eyes, practical brown top and denim vest, hairstyle with tied-back dark hair and fringe, same medium waist-up landscape16:9 frame and industrial station. Keep recognizable relation to the source face, gently warmer medium olive-brown skin and slightly changed natural cheek/nose structure, modest asymmetry and real youthful skin. Do not increase weight, do not add exaggerated hips, no glamour makeup, no ornaments, no sexualization or adult aging. A calm kind ordinary young person, not model perfection. Hands and pose remain natural.",
+      "generation_file": "/Users/sannikov/.codex/generated_images/01a168fe-42ce-7d71-97cd-8748d418127a/exec-465284e4-287d-42a9-872b-1ca984eb161a.png",
+      "output": "docs/World/characters/masha/images/masha007.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "88149119738bfccc82a70980b7028ecb543c79bd79f0b1e16875eb455f22848c"
+    }
+  ]
+}

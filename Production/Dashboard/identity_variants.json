@@ -1,0 +1,4480 @@
+{
+  "schema_version": 1,
+  "selection_unit": "identity_variant",
+  "scope": "Human casting identities. Image codes remain immutable; identity groups do not transfer approvals or per-image votes.",
+  "variants": [
+    {
+      "id": "fedor-type-009",
+      "character": "fedor",
+      "label": "Типаж 009",
+      "anchor_asset": "fedor009",
+      "cover_asset": "fedor034",
+      "member_codes": [
+        "fedor009",
+        "fedor031",
+        "fedor033",
+        "fedor034"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit identity-preserving provenance"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "nitka-type-003",
+      "character": "nitka",
+      "label": "Типаж 003",
+      "anchor_asset": "nitka003",
+      "cover_asset": "nitka007",
+      "member_codes": [
+        "nitka007",
+        "nitka008",
+        "nitka003",
+        "nitka004"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "valek-type-006",
+      "character": "valek",
+      "label": "Типаж 006",
+      "anchor_asset": "valek006",
+      "cover_asset": "valek018",
+      "member_codes": [
+        "valek018",
+        "valek006",
+        "valek012"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "katya-type-001",
+      "character": "katya",
+      "label": "Типаж 001",
+      "anchor_asset": "katya001",
+      "cover_asset": "katya001",
+      "member_codes": [
+        "katya001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "katya-type-002",
+      "character": "katya",
+      "label": "Типаж 002",
+      "anchor_asset": "katya002",
+      "cover_asset": "katya002",
+      "member_codes": [
+        "katya002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "katya-type-005",
+      "character": "katya",
+      "label": "Типаж 005",
+      "anchor_asset": "katya005",
+      "cover_asset": "katya005",
+      "member_codes": [
+        "katya005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "katya-type-006",
+      "character": "katya",
+      "label": "Типаж 006",
+      "anchor_asset": "katya006",
+      "cover_asset": "katya006",
+      "member_codes": [
+        "katya006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ilya-type-001",
+      "character": "ilya",
+      "label": "Типаж 001",
+      "anchor_asset": "ilya001",
+      "cover_asset": "ilya001",
+      "member_codes": [
+        "ilya001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ilya-type-002",
+      "character": "ilya",
+      "label": "Типаж 002",
+      "anchor_asset": "ilya002",
+      "cover_asset": "ilya002",
+      "member_codes": [
+        "ilya002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ilya-type-004",
+      "character": "ilya",
+      "label": "Типаж 004",
+      "anchor_asset": "ilya004",
+      "cover_asset": "ilya004",
+      "member_codes": [
+        "ilya004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ilya-type-005",
+      "character": "ilya",
+      "label": "Типаж 005",
+      "anchor_asset": "ilya005",
+      "cover_asset": "ilya005",
+      "member_codes": [
+        "ilya005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ilya-type-006",
+      "character": "ilya",
+      "label": "Типаж 006",
+      "anchor_asset": "ilya006",
+      "cover_asset": "ilya006",
+      "member_codes": [
+        "ilya006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "sonya-type-001",
+      "character": "sonya",
+      "label": "Типаж 001",
+      "anchor_asset": "sonya001",
+      "cover_asset": "sonya001",
+      "member_codes": [
+        "sonya001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "sonya-type-002",
+      "character": "sonya",
+      "label": "Типаж 002",
+      "anchor_asset": "sonya002",
+      "cover_asset": "sonya002",
+      "member_codes": [
+        "sonya002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "sonya-type-003",
+      "character": "sonya",
+      "label": "Типаж 003",
+      "anchor_asset": "sonya003",
+      "cover_asset": "sonya003",
+      "member_codes": [
+        "sonya003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "sonya-type-005",
+      "character": "sonya",
+      "label": "Типаж 005",
+      "anchor_asset": "sonya005",
+      "cover_asset": "sonya005",
+      "member_codes": [
+        "sonya005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "sonya-type-006",
+      "character": "sonya",
+      "label": "Типаж 006",
+      "anchor_asset": "sonya006",
+      "cover_asset": "sonya006",
+      "member_codes": [
+        "sonya006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zhanna-type-001",
+      "character": "zhanna",
+      "label": "Типаж 001",
+      "anchor_asset": "zhanna001",
+      "cover_asset": "zhanna001",
+      "member_codes": [
+        "zhanna001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zhanna-type-002",
+      "character": "zhanna",
+      "label": "Типаж 002",
+      "anchor_asset": "zhanna002",
+      "cover_asset": "zhanna002",
+      "member_codes": [
+        "zhanna002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zhanna-type-003",
+      "character": "zhanna",
+      "label": "Типаж 003",
+      "anchor_asset": "zhanna003",
+      "cover_asset": "zhanna003",
+      "member_codes": [
+        "zhanna003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zhanna-type-004",
+      "character": "zhanna",
+      "label": "Типаж 004",
+      "anchor_asset": "zhanna004",
+      "cover_asset": "zhanna004",
+      "member_codes": [
+        "zhanna004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zhanna-type-005",
+      "character": "zhanna",
+      "label": "Типаж 005",
+      "anchor_asset": "zhanna005",
+      "cover_asset": "zhanna005",
+      "member_codes": [
+        "zhanna005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zhanna-type-006",
+      "character": "zhanna",
+      "label": "Типаж 006",
+      "anchor_asset": "zhanna006",
+      "cover_asset": "zhanna006",
+      "member_codes": [
+        "zhanna006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "rita-type-001",
+      "character": "rita",
+      "label": "Типаж 001",
+      "anchor_asset": "rita001",
+      "cover_asset": "rita001",
+      "member_codes": [
+        "rita001",
+        "rita007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: rita001"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "rita-type-002",
+      "character": "rita",
+      "label": "Типаж 002",
+      "anchor_asset": "rita002",
+      "cover_asset": "rita002",
+      "member_codes": [
+        "rita002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "rita-type-003",
+      "character": "rita",
+      "label": "Типаж 003",
+      "anchor_asset": "rita003",
+      "cover_asset": "rita008",
+      "member_codes": [
+        "rita003",
+        "rita008",
+        "senka008",
+        "senka009",
+        "senka010"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit hair-length-only edit of rita003 requested by Lena."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "rita-type-004",
+      "character": "rita",
+      "label": "Типаж 004",
+      "anchor_asset": "rita004",
+      "cover_asset": "rita004",
+      "member_codes": [
+        "rita004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "rita-type-005",
+      "character": "rita",
+      "label": "Типаж 005",
+      "anchor_asset": "rita005",
+      "cover_asset": "rita005",
+      "member_codes": [
+        "rita005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "rita-type-006",
+      "character": "rita",
+      "label": "Типаж 006",
+      "anchor_asset": "rita006",
+      "cover_asset": "rita006",
+      "member_codes": [
+        "rita006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "krendel-type-004",
+      "character": "krendel",
+      "label": "Типаж 004",
+      "anchor_asset": "krendel004",
+      "cover_asset": "krendel004",
+      "member_codes": [
+        "krendel004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "krendel-type-006",
+      "character": "krendel",
+      "label": "Типаж 006",
+      "anchor_asset": "krendel006",
+      "cover_asset": "krendel006",
+      "member_codes": [
+        "krendel006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "masha-type-007",
+      "character": "masha",
+      "label": "Типаж 007",
+      "anchor_asset": "masha007",
+      "cover_asset": "masha007",
+      "member_codes": [
+        "masha007",
+        "masha008"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: masha007"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-001",
+      "character": "vovik",
+      "label": "Типаж 001",
+      "anchor_asset": "vovik001",
+      "cover_asset": "vovik001",
+      "member_codes": [
+        "vovik001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-002",
+      "character": "vovik",
+      "label": "Типаж 002",
+      "anchor_asset": "vovik002",
+      "cover_asset": "vovik002",
+      "member_codes": [
+        "vovik002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-003",
+      "character": "vovik",
+      "label": "Типаж 003",
+      "anchor_asset": "vovik003",
+      "cover_asset": "vovik003",
+      "member_codes": [
+        "vovik003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-004",
+      "character": "vovik",
+      "label": "Типаж 004",
+      "anchor_asset": "vovik004",
+      "cover_asset": "vovik004",
+      "member_codes": [
+        "vovik004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-005",
+      "character": "vovik",
+      "label": "Типаж 005",
+      "anchor_asset": "vovik005",
+      "cover_asset": "vovik005",
+      "member_codes": [
+        "vovik005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-006",
+      "character": "vovik",
+      "label": "Типаж 006",
+      "anchor_asset": "vovik006",
+      "cover_asset": "vovik006",
+      "member_codes": [
+        "vovik006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "egor-type-007",
+      "character": "egor",
+      "label": "Типаж 007",
+      "anchor_asset": "egor007",
+      "cover_asset": "egor007",
+      "member_codes": [
+        "egor007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kir-type-001",
+      "character": "kir",
+      "label": "Типаж 001",
+      "anchor_asset": "kir001",
+      "cover_asset": "kir001",
+      "member_codes": [
+        "kir001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kir-type-002",
+      "character": "kir",
+      "label": "Типаж 002",
+      "anchor_asset": "kir002",
+      "cover_asset": "kir002",
+      "member_codes": [
+        "kir002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kir-type-003",
+      "character": "kir",
+      "label": "Типаж 003",
+      "anchor_asset": "kir003",
+      "cover_asset": "kir003",
+      "member_codes": [
+        "kir003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kir-type-004",
+      "character": "kir",
+      "label": "Типаж 004",
+      "anchor_asset": "kir004",
+      "cover_asset": "kir004",
+      "member_codes": [
+        "kir004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kir-type-005",
+      "character": "kir",
+      "label": "Типаж 005",
+      "anchor_asset": "kir005",
+      "cover_asset": "kir005",
+      "member_codes": [
+        "kir005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kir-type-006",
+      "character": "kir",
+      "label": "Типаж 006",
+      "anchor_asset": "kir006",
+      "cover_asset": "kir006",
+      "member_codes": [
+        "kir006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "tais-type-053",
+      "character": "tais",
+      "label": "Типаж А",
+      "anchor_asset": "tais053",
+      "cover_asset": "tais053",
+      "member_codes": [
+        "tais053",
+        "tais057",
+        "tais060",
+        "tais061"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit identity-preserving provenance"
+      ],
+      "design_acceptance": "producer_A_group_recorded"
+    },
+    {
+      "id": "tais-type-059",
+      "character": "tais",
+      "label": "Типаж Б",
+      "anchor_asset": "tais059",
+      "cover_asset": "tais059",
+      "member_codes": [
+        "tais059"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "producer_B_group_recorded"
+    },
+    {
+      "id": "romik-type-002",
+      "character": "romik",
+      "label": "Типаж 002",
+      "anchor_asset": "romik002",
+      "cover_asset": "romik002",
+      "member_codes": [
+        "masha008",
+        "romik002",
+        "romik007"
+      ],
+      "grouping_basis": [
+        "Explicit casting_references: romik002",
+        "Independent casting candidate",
+        "Explicit identity-preserving provenance"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kristinka-type-004",
+      "character": "kristinka",
+      "label": "Типаж 004",
+      "anchor_asset": "kristinka004",
+      "cover_asset": "kristinka004",
+      "member_codes": [
+        "masha008",
+        "kristinka004"
+      ],
+      "grouping_basis": [
+        "Explicit casting_references: kristinka004",
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "romik-type-001",
+      "character": "romik",
+      "label": "Типаж 001",
+      "anchor_asset": "romik001",
+      "cover_asset": "romik001",
+      "member_codes": [
+        "romik001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "romik-type-003",
+      "character": "romik",
+      "label": "Типаж 003",
+      "anchor_asset": "romik003",
+      "cover_asset": "romik003",
+      "member_codes": [
+        "romik003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "romik-type-004",
+      "character": "romik",
+      "label": "Типаж 004",
+      "anchor_asset": "romik004",
+      "cover_asset": "romik004",
+      "member_codes": [
+        "romik004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "romik-type-005",
+      "character": "romik",
+      "label": "Типаж 005",
+      "anchor_asset": "romik005",
+      "cover_asset": "romik005",
+      "member_codes": [
+        "romik005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "romik-type-006",
+      "character": "romik",
+      "label": "Типаж 006",
+      "anchor_asset": "romik006",
+      "cover_asset": "romik006",
+      "member_codes": [
+        "romik006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kristinka-type-001",
+      "character": "kristinka",
+      "label": "Типаж 001",
+      "anchor_asset": "kristinka001",
+      "cover_asset": "kristinka001",
+      "member_codes": [
+        "kristinka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kristinka-type-002",
+      "character": "kristinka",
+      "label": "Типаж 002",
+      "anchor_asset": "kristinka002",
+      "cover_asset": "kristinka002",
+      "member_codes": [
+        "kristinka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kristinka-type-003",
+      "character": "kristinka",
+      "label": "Типаж 003",
+      "anchor_asset": "kristinka003",
+      "cover_asset": "kristinka003",
+      "member_codes": [
+        "kristinka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kristinka-type-005",
+      "character": "kristinka",
+      "label": "Типаж 005",
+      "anchor_asset": "kristinka005",
+      "cover_asset": "kristinka005",
+      "member_codes": [
+        "kristinka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kristinka-type-006",
+      "character": "kristinka",
+      "label": "Типаж 006",
+      "anchor_asset": "kristinka006",
+      "cover_asset": "kristinka006",
+      "member_codes": [
+        "kristinka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dina-type-001",
+      "character": "dina",
+      "label": "Типаж 001",
+      "anchor_asset": "dina001",
+      "cover_asset": "dina001",
+      "member_codes": [
+        "dina001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dina-type-002",
+      "character": "dina",
+      "label": "Типаж 002",
+      "anchor_asset": "dina002",
+      "cover_asset": "dina002",
+      "member_codes": [
+        "dina002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dina-type-003",
+      "character": "dina",
+      "label": "Типаж 003",
+      "anchor_asset": "dina003",
+      "cover_asset": "dina003",
+      "member_codes": [
+        "dina003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dina-type-004",
+      "character": "dina",
+      "label": "Типаж 004",
+      "anchor_asset": "dina004",
+      "cover_asset": "dina004",
+      "member_codes": [
+        "dina004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dina-type-005",
+      "character": "dina",
+      "label": "Типаж 005",
+      "anchor_asset": "dina005",
+      "cover_asset": "dina005",
+      "member_codes": [
+        "dina005",
+        "rita007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: dina005"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dina-type-006",
+      "character": "dina",
+      "label": "Типаж 006",
+      "anchor_asset": "dina006",
+      "cover_asset": "dina006",
+      "member_codes": [
+        "dina006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "inna-type-001",
+      "character": "inna",
+      "label": "Типаж 001",
+      "anchor_asset": "inna001",
+      "cover_asset": "inna001",
+      "member_codes": [
+        "inna001",
+        "rita007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: inna001"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "inna-type-002",
+      "character": "inna",
+      "label": "Типаж 002",
+      "anchor_asset": "inna002",
+      "cover_asset": "inna002",
+      "member_codes": [
+        "inna002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "inna-type-003",
+      "character": "inna",
+      "label": "Типаж 003",
+      "anchor_asset": "inna003",
+      "cover_asset": "inna003",
+      "member_codes": [
+        "inna003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "inna-type-004",
+      "character": "inna",
+      "label": "Типаж 004",
+      "anchor_asset": "inna004",
+      "cover_asset": "inna004",
+      "member_codes": [
+        "inna004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "inna-type-005",
+      "character": "inna",
+      "label": "Типаж 005",
+      "anchor_asset": "inna005",
+      "cover_asset": "inna005",
+      "member_codes": [
+        "inna005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "inna-type-006",
+      "character": "inna",
+      "label": "Типаж 006",
+      "anchor_asset": "inna006",
+      "cover_asset": "inna006",
+      "member_codes": [
+        "inna006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "semen-type-001",
+      "character": "semen",
+      "label": "Типаж 001",
+      "anchor_asset": "semen001",
+      "cover_asset": "semen001",
+      "member_codes": [
+        "semen001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "semen-type-002",
+      "character": "semen",
+      "label": "Типаж 002",
+      "anchor_asset": "semen002",
+      "cover_asset": "semen002",
+      "member_codes": [
+        "semen002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "semen-type-003",
+      "character": "semen",
+      "label": "Типаж 003",
+      "anchor_asset": "semen003",
+      "cover_asset": "semen003",
+      "member_codes": [
+        "semen003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "semen-type-004",
+      "character": "semen",
+      "label": "Типаж 004",
+      "anchor_asset": "semen004",
+      "cover_asset": "semen004",
+      "member_codes": [
+        "semen004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "semen-type-005",
+      "character": "semen",
+      "label": "Типаж 005",
+      "anchor_asset": "semen005",
+      "cover_asset": "semen005",
+      "member_codes": [
+        "semen005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "semen-type-006",
+      "character": "semen",
+      "label": "Типаж 006",
+      "anchor_asset": "semen006",
+      "cover_asset": "semen006",
+      "member_codes": [
+        "semen006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ira-type-001",
+      "character": "ira",
+      "label": "Типаж 001",
+      "anchor_asset": "ira001",
+      "cover_asset": "ira001",
+      "member_codes": [
+        "ira001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ira-type-002",
+      "character": "ira",
+      "label": "Типаж 002",
+      "anchor_asset": "ira002",
+      "cover_asset": "ira002",
+      "member_codes": [
+        "ira002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ira-type-003",
+      "character": "ira",
+      "label": "Типаж 003",
+      "anchor_asset": "ira003",
+      "cover_asset": "ira003",
+      "member_codes": [
+        "ira003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ira-type-004",
+      "character": "ira",
+      "label": "Типаж 004",
+      "anchor_asset": "ira004",
+      "cover_asset": "ira004",
+      "member_codes": [
+        "ira004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ira-type-005",
+      "character": "ira",
+      "label": "Типаж 005",
+      "anchor_asset": "ira005",
+      "cover_asset": "ira005",
+      "member_codes": [
+        "ira005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "ira-type-006",
+      "character": "ira",
+      "label": "Типаж 006",
+      "anchor_asset": "ira006",
+      "cover_asset": "ira006",
+      "member_codes": [
+        "ira006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "senka-type-001",
+      "character": "senka",
+      "label": "Типаж 001",
+      "anchor_asset": "senka001",
+      "cover_asset": "senka001",
+      "member_codes": [
+        "senka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "senka-type-002",
+      "character": "senka",
+      "label": "Типаж 002",
+      "anchor_asset": "senka002",
+      "cover_asset": "senka002",
+      "member_codes": [
+        "senka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "senka-type-003",
+      "character": "senka",
+      "label": "Типаж 003",
+      "anchor_asset": "senka003",
+      "cover_asset": "senka003",
+      "member_codes": [
+        "senka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "senka-type-004",
+      "character": "senka",
+      "label": "Типаж 004",
+      "anchor_asset": "senka004",
+      "cover_asset": "senka004",
+      "member_codes": [
+        "senka004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "senka-type-005",
+      "character": "senka",
+      "label": "Типаж 005",
+      "anchor_asset": "senka005",
+      "cover_asset": "senka005",
+      "member_codes": [
+        "senka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "senka-type-006",
+      "character": "senka",
+      "label": "Типаж 006",
+      "anchor_asset": "senka006",
+      "cover_asset": "senka006",
+      "member_codes": [
+        "senka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-001",
+      "character": "dimka",
+      "label": "Типаж 001",
+      "anchor_asset": "dimka001",
+      "cover_asset": "dimka001",
+      "member_codes": [
+        "dimka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-002",
+      "character": "dimka",
+      "label": "Типаж 002",
+      "anchor_asset": "dimka002",
+      "cover_asset": "dimka002",
+      "member_codes": [
+        "dimka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-003",
+      "character": "dimka",
+      "label": "Типаж 003",
+      "anchor_asset": "dimka003",
+      "cover_asset": "dimka003",
+      "member_codes": [
+        "dimka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-004",
+      "character": "dimka",
+      "label": "Типаж 004",
+      "anchor_asset": "dimka004",
+      "cover_asset": "dimka004",
+      "member_codes": [
+        "dimka004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-005",
+      "character": "dimka",
+      "label": "Типаж 005",
+      "anchor_asset": "dimka005",
+      "cover_asset": "dimka005",
+      "member_codes": [
+        "dimka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-006",
+      "character": "dimka",
+      "label": "Типаж 006",
+      "anchor_asset": "dimka006",
+      "cover_asset": "dimka006",
+      "member_codes": [
+        "dimka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andrey-type-001",
+      "character": "andrey",
+      "label": "Типаж 001",
+      "anchor_asset": "andrey001",
+      "cover_asset": "andrey001",
+      "member_codes": [
+        "andrey001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andrey-type-002",
+      "character": "andrey",
+      "label": "Типаж 002",
+      "anchor_asset": "andrey002",
+      "cover_asset": "andrey002",
+      "member_codes": [
+        "andrey002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andrey-type-003",
+      "character": "andrey",
+      "label": "Типаж 003",
+      "anchor_asset": "andrey003",
+      "cover_asset": "andrey003",
+      "member_codes": [
+        "andrey003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andrey-type-004",
+      "character": "andrey",
+      "label": "Типаж 004",
+      "anchor_asset": "andrey004",
+      "cover_asset": "andrey004",
+      "member_codes": [
+        "andrey004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andrey-type-005",
+      "character": "andrey",
+      "label": "Типаж 005",
+      "anchor_asset": "andrey005",
+      "cover_asset": "andrey005",
+      "member_codes": [
+        "andrey005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andrey-type-006",
+      "character": "andrey",
+      "label": "Типаж 006",
+      "anchor_asset": "andrey006",
+      "cover_asset": "andrey006",
+      "member_codes": [
+        "andrey006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-007",
+      "character": "dimka",
+      "label": "Типаж 007",
+      "anchor_asset": "dimka007",
+      "cover_asset": "dimka007",
+      "member_codes": [
+        "dimka007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-008",
+      "character": "dimka",
+      "label": "Типаж 008",
+      "anchor_asset": "dimka008",
+      "cover_asset": "dimka008",
+      "member_codes": [
+        "dimka008"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-009",
+      "character": "dimka",
+      "label": "Типаж 009",
+      "anchor_asset": "dimka009",
+      "cover_asset": "dimka009",
+      "member_codes": [
+        "dimka009"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-010",
+      "character": "dimka",
+      "label": "Типаж 010",
+      "anchor_asset": "dimka010",
+      "cover_asset": "dimka010",
+      "member_codes": [
+        "dimka010"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-011",
+      "character": "dimka",
+      "label": "Типаж 011",
+      "anchor_asset": "dimka011",
+      "cover_asset": "dimka011",
+      "member_codes": [
+        "dimka011"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "dimka-type-012",
+      "character": "dimka",
+      "label": "Типаж 012",
+      "anchor_asset": "dimka012",
+      "cover_asset": "dimka012",
+      "member_codes": [
+        "dimka012"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-020",
+      "character": "emma",
+      "label": "Типаж 020",
+      "anchor_asset": "emma020",
+      "cover_asset": "emma023",
+      "member_codes": [
+        "emma023",
+        "emma020"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-021",
+      "character": "emma",
+      "label": "Типаж 021",
+      "anchor_asset": "emma021",
+      "cover_asset": "emma024",
+      "member_codes": [
+        "emma024",
+        "emma021"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-022",
+      "character": "emma",
+      "label": "Типаж 022",
+      "anchor_asset": "emma022",
+      "cover_asset": "emma025",
+      "member_codes": [
+        "emma025",
+        "emma022"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-016",
+      "character": "emma",
+      "label": "Типаж 016",
+      "anchor_asset": "emma016",
+      "cover_asset": "emma026",
+      "member_codes": [
+        "emma026",
+        "emma016"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-009",
+      "character": "emma",
+      "label": "Типаж 009 · открытый взгляд",
+      "anchor_asset": "emma009",
+      "cover_asset": "emma038",
+      "member_codes": [
+        "emma027",
+        "emma028",
+        "emma033",
+        "emma037",
+        "emma038",
+        "emma009",
+        "emma012",
+        "emma013"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity",
+        "Emma037 attachment matches resized Emma012: mean RGB absolute difference1.525/255; visually checked. Emma038 explicitly edits037. Age/color/frontal revisions belong to the same identity."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-015",
+      "character": "emma",
+      "label": "Типаж 015",
+      "anchor_asset": "emma015",
+      "cover_asset": "emma029",
+      "member_codes": [
+        "emma029",
+        "emma015"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-017",
+      "character": "emma",
+      "label": "Типаж 017",
+      "anchor_asset": "emma017",
+      "cover_asset": "emma030",
+      "member_codes": [
+        "emma030",
+        "emma017"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-018",
+      "character": "emma",
+      "label": "Типаж 018",
+      "anchor_asset": "emma018",
+      "cover_asset": "emma031",
+      "member_codes": [
+        "emma031",
+        "emma018"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-019",
+      "character": "emma",
+      "label": "Типаж 019",
+      "anchor_asset": "emma019",
+      "cover_asset": "emma032",
+      "member_codes": [
+        "emma032",
+        "emma019"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-003",
+      "character": "emma",
+      "label": "Типаж 003",
+      "anchor_asset": "emma003",
+      "cover_asset": "emma034",
+      "member_codes": [
+        "emma034",
+        "emma003"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "emma-type-005",
+      "character": "emma",
+      "label": "Типаж 005",
+      "anchor_asset": "emma005",
+      "cover_asset": "emma035",
+      "member_codes": [
+        "emma035",
+        "emma005"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kolka-type-028",
+      "character": "kolka",
+      "label": "Типаж 028",
+      "anchor_asset": "kolka028",
+      "cover_asset": "kolka029",
+      "member_codes": [
+        "kolka029",
+        "kolka028"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kolka-type-026",
+      "character": "kolka",
+      "label": "Типаж 026",
+      "anchor_asset": "kolka026",
+      "cover_asset": "kolka030",
+      "member_codes": [
+        "kolka030",
+        "kolka026"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kolka-type-025",
+      "character": "kolka",
+      "label": "Типаж 025",
+      "anchor_asset": "kolka025",
+      "cover_asset": "kolka031",
+      "member_codes": [
+        "kolka031",
+        "kolka025"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kolka-type-027",
+      "character": "kolka",
+      "label": "Типаж 027",
+      "anchor_asset": "kolka027",
+      "cover_asset": "kolka032",
+      "member_codes": [
+        "kolka032",
+        "kolka027"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kolka-type-015",
+      "character": "kolka",
+      "label": "Типаж 015",
+      "anchor_asset": "kolka015",
+      "cover_asset": "kolka038",
+      "member_codes": [
+        "kolka033",
+        "kolka034",
+        "kolka035",
+        "kolka036",
+        "kolka015",
+        "kolka016",
+        "kolka017",
+        "kolka018",
+        "kolka038"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kolka-type-010",
+      "character": "kolka",
+      "label": "Типаж 010",
+      "anchor_asset": "kolka010",
+      "cover_asset": "kolka037",
+      "member_codes": [
+        "kolka037",
+        "kolka010"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vovik-type-007",
+      "character": "vovik",
+      "label": "Типаж 007",
+      "anchor_asset": "romik007",
+      "cover_asset": "romik007",
+      "member_codes": [
+        "romik007"
+      ],
+      "grouping_basis": [
+        "New Vovik casting in paired study; distinct from Romik despite similar faces."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kaluzhsky-type-001",
+      "character": "kaluzhsky",
+      "label": "Типаж 001",
+      "anchor_asset": "kaluzhsky001",
+      "cover_asset": "kaluzhsky001",
+      "member_codes": [
+        "kaluzhsky001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kaluzhsky-type-002",
+      "character": "kaluzhsky",
+      "label": "Типаж 002",
+      "anchor_asset": "kaluzhsky002",
+      "cover_asset": "kaluzhsky002",
+      "member_codes": [
+        "kaluzhsky002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kaluzhsky-type-003",
+      "character": "kaluzhsky",
+      "label": "Типаж 003",
+      "anchor_asset": "kaluzhsky003",
+      "cover_asset": "kaluzhsky003",
+      "member_codes": [
+        "kaluzhsky003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kaluzhsky-type-004",
+      "character": "kaluzhsky",
+      "label": "Типаж 004",
+      "anchor_asset": "kaluzhsky004",
+      "cover_asset": "kaluzhsky004",
+      "member_codes": [
+        "kaluzhsky004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kaluzhsky-type-005",
+      "character": "kaluzhsky",
+      "label": "Типаж 005",
+      "anchor_asset": "kaluzhsky005",
+      "cover_asset": "kaluzhsky005",
+      "member_codes": [
+        "kaluzhsky005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "kaluzhsky-type-006",
+      "character": "kaluzhsky",
+      "label": "Типаж 006",
+      "anchor_asset": "kaluzhsky006",
+      "cover_asset": "kaluzhsky006",
+      "member_codes": [
+        "kaluzhsky006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "liza-type-001",
+      "character": "liza",
+      "label": "Типаж 001",
+      "anchor_asset": "liza001",
+      "cover_asset": "liza001",
+      "member_codes": [
+        "liza001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "liza-type-002",
+      "character": "liza",
+      "label": "Типаж 002",
+      "anchor_asset": "liza002",
+      "cover_asset": "liza002",
+      "member_codes": [
+        "liza002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "liza-type-003",
+      "character": "liza",
+      "label": "Типаж 003",
+      "anchor_asset": "liza003",
+      "cover_asset": "liza003",
+      "member_codes": [
+        "liza003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "liza-type-004",
+      "character": "liza",
+      "label": "Типаж 004",
+      "anchor_asset": "liza004",
+      "cover_asset": "liza004",
+      "member_codes": [
+        "liza004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "liza-type-005",
+      "character": "liza",
+      "label": "Типаж 005",
+      "anchor_asset": "liza005",
+      "cover_asset": "liza005",
+      "member_codes": [
+        "liza005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "liza-type-006",
+      "character": "liza",
+      "label": "Типаж 006",
+      "anchor_asset": "liza006",
+      "cover_asset": "liza006",
+      "member_codes": [
+        "liza006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zheka-type-001",
+      "character": "zheka",
+      "label": "Типаж 001",
+      "anchor_asset": "zheka001",
+      "cover_asset": "zheka001",
+      "member_codes": [
+        "zheka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zheka-type-002",
+      "character": "zheka",
+      "label": "Типаж 002",
+      "anchor_asset": "zheka002",
+      "cover_asset": "zheka002",
+      "member_codes": [
+        "zheka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zheka-type-003",
+      "character": "zheka",
+      "label": "Типаж 003",
+      "anchor_asset": "zheka003",
+      "cover_asset": "zheka003",
+      "member_codes": [
+        "zheka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zheka-type-004",
+      "character": "zheka",
+      "label": "Типаж 004",
+      "anchor_asset": "zheka004",
+      "cover_asset": "zheka004",
+      "member_codes": [
+        "zheka004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zheka-type-005",
+      "character": "zheka",
+      "label": "Типаж 005",
+      "anchor_asset": "zheka005",
+      "cover_asset": "zheka005",
+      "member_codes": [
+        "zheka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zheka-type-006",
+      "character": "zheka",
+      "label": "Типаж 006",
+      "anchor_asset": "zheka006",
+      "cover_asset": "zheka006",
+      "member_codes": [
+        "zheka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "masha-type-009",
+      "character": "masha",
+      "label": "Типаж 009 · тёмная коса",
+      "anchor_asset": "masha009",
+      "cover_asset": "masha009",
+      "member_codes": [
+        "masha009"
+      ],
+      "grouping_basis": [
+        "New independent casting candidate; not an identity-preserving edit of Nitka or Masha007."
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-001",
+      "character": "andryushka",
+      "label": "Типаж 001 · каштановые кудри",
+      "anchor_asset": "andryushka001",
+      "cover_asset": "andryushka001",
+      "member_codes": [
+        "andryushka001",
+        "andryushka007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-002",
+      "character": "andryushka",
+      "label": "Типаж 002 · светлые кудри",
+      "anchor_asset": "andryushka002",
+      "cover_asset": "andryushka002",
+      "member_codes": [
+        "andryushka002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-003",
+      "character": "andryushka",
+      "label": "Типаж 003 · тёмные кудри",
+      "anchor_asset": "andryushka003",
+      "cover_asset": "andryushka003",
+      "member_codes": [
+        "andryushka003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-004",
+      "character": "andryushka",
+      "label": "Типаж 004 · рыжие кольца",
+      "anchor_asset": "andryushka004",
+      "cover_asset": "andryushka004",
+      "member_codes": [
+        "andryushka004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-005",
+      "character": "andryushka",
+      "label": "Типаж 005 · короткие чёрные кудри",
+      "anchor_asset": "andryushka005",
+      "cover_asset": "andryushka005",
+      "member_codes": [
+        "andryushka005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "andryushka-type-006",
+      "character": "andryushka",
+      "label": "Типаж 006 · русые кудри",
+      "anchor_asset": "andryushka006",
+      "cover_asset": "andryushka006",
+      "member_codes": [
+        "andryushka006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-001",
+      "character": "zoya",
+      "label": "Типаж 001 · чёрное каре",
+      "anchor_asset": "zoya001",
+      "cover_asset": "zoya001",
+      "member_codes": [
+        "zoya001",
+        "zoya007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-002",
+      "character": "zoya",
+      "label": "Типаж 002 · полусобранные волосы",
+      "anchor_asset": "zoya002",
+      "cover_asset": "zoya002",
+      "member_codes": [
+        "zoya002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-003",
+      "character": "zoya",
+      "label": "Типаж 003 · короткая стрижка",
+      "anchor_asset": "zoya003",
+      "cover_asset": "zoya003",
+      "member_codes": [
+        "zoya003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-004",
+      "character": "zoya",
+      "label": "Типаж 004 · мягкие волны",
+      "anchor_asset": "zoya004",
+      "cover_asset": "zoya004",
+      "member_codes": [
+        "zoya004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-005",
+      "character": "zoya",
+      "label": "Типаж 005 · низкий хвост",
+      "anchor_asset": "zoya005",
+      "cover_asset": "zoya005",
+      "member_codes": [
+        "zoya005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "zoya-type-006",
+      "character": "zoya",
+      "label": "Типаж 006 · коса",
+      "anchor_asset": "zoya006",
+      "cover_asset": "zoya006",
+      "member_codes": [
+        "zoya006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-001",
+      "character": "vaska",
+      "label": "Типаж 001 · широкие скулы",
+      "anchor_asset": "vaska001",
+      "cover_asset": "vaska001",
+      "member_codes": [
+        "vaska001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-002",
+      "character": "vaska",
+      "label": "Типаж 002 · веснушки и курчавые волосы",
+      "anchor_asset": "vaska002",
+      "cover_asset": "vaska002",
+      "member_codes": [
+        "vaska002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-003",
+      "character": "vaska",
+      "label": "Типаж 003 · прямые брови",
+      "anchor_asset": "vaska003",
+      "cover_asset": "vaska003",
+      "member_codes": [
+        "vaska003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-004",
+      "character": "vaska",
+      "label": "Типаж 004 · узкий овал",
+      "anchor_asset": "vaska004",
+      "cover_asset": "vaska004",
+      "member_codes": [
+        "vaska004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-005",
+      "character": "vaska",
+      "label": "Типаж 005 · округлая челюсть",
+      "anchor_asset": "vaska005",
+      "cover_asset": "vaska005",
+      "member_codes": [
+        "vaska005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "vaska-type-006",
+      "character": "vaska",
+      "label": "Типаж 006 · выраженная переносица",
+      "anchor_asset": "vaska006",
+      "cover_asset": "vaska006",
+      "member_codes": [
+        "vaska006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-001",
+      "character": "klin",
+      "label": "Типаж 001 · вытянутое лицо",
+      "anchor_asset": "klin001",
+      "cover_asset": "klin001",
+      "member_codes": [
+        "klin001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-002",
+      "character": "klin",
+      "label": "Типаж 002 · тяжёлые веки",
+      "anchor_asset": "klin002",
+      "cover_asset": "klin002",
+      "member_codes": [
+        "klin002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-003",
+      "character": "klin",
+      "label": "Типаж 003 · короткие завитки · выраженная линия челюсти",
+      "anchor_asset": "klin003",
+      "cover_asset": "klin007",
+      "member_codes": [
+        "klin003",
+        "klin007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-004",
+      "character": "klin",
+      "label": "Типаж 004 · острые скулы",
+      "anchor_asset": "klin004",
+      "cover_asset": "klin004",
+      "member_codes": [
+        "klin004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-005",
+      "character": "klin",
+      "label": "Типаж 005 · корейский типаж · удлинённый овал",
+      "anchor_asset": "klin005",
+      "cover_asset": "klin009",
+      "member_codes": [
+        "klin005",
+        "klin008",
+        "klin009"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    },
+    {
+      "id": "klin-type-006",
+      "character": "klin",
+      "label": "Типаж 006 · ломаная линия бровей",
+      "anchor_asset": "klin006",
+      "cover_asset": "klin006",
+      "member_codes": [
+        "klin006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied"
+    }
+  ],
+  "assets": {
+    "fedor009": {
+      "variants": {
+        "fedor": "fedor-type-009"
+      },
+      "roles": {
+        "fedor": "portrait"
+      },
+      "review_required": {}
+    },
+    "nitka007": {
+      "variants": {
+        "nitka": "nitka-type-003"
+      },
+      "roles": {
+        "nitka": "portrait"
+      },
+      "review_required": {}
+    },
+    "nitka008": {
+      "variants": {
+        "nitka": "nitka-type-003"
+      },
+      "roles": {
+        "nitka": "scene"
+      },
+      "review_required": {}
+    },
+    "valek018": {
+      "variants": {
+        "valek": "valek-type-006"
+      },
+      "roles": {
+        "valek": "portrait"
+      },
+      "review_required": {}
+    },
+    "katya001": {
+      "variants": {
+        "katya": "katya-type-001"
+      },
+      "roles": {
+        "katya": "portrait"
+      },
+      "review_required": {}
+    },
+    "katya002": {
+      "variants": {
+        "katya": "katya-type-002"
+      },
+      "roles": {
+        "katya": "portrait"
+      },
+      "review_required": {}
+    },
+    "katya005": {
+      "variants": {
+        "katya": "katya-type-005"
+      },
+      "roles": {
+        "katya": "portrait"
+      },
+      "review_required": {}
+    },
+    "katya006": {
+      "variants": {
+        "katya": "katya-type-006"
+      },
+      "roles": {
+        "katya": "portrait"
+      },
+      "review_required": {}
+    },
+    "ilya001": {
+      "variants": {
+        "ilya": "ilya-type-001"
+      },
+      "roles": {
+        "ilya": "portrait"
+      },
+      "review_required": {}
+    },
+    "ilya002": {
+      "variants": {
+        "ilya": "ilya-type-002"
+      },
+      "roles": {
+        "ilya": "portrait"
+      },
+      "review_required": {}
+    },
+    "ilya004": {
+      "variants": {
+        "ilya": "ilya-type-004"
+      },
+      "roles": {
+        "ilya": "portrait"
+      },
+      "review_required": {}
+    },
+    "ilya005": {
+      "variants": {
+        "ilya": "ilya-type-005"
+      },
+      "roles": {
+        "ilya": "portrait"
+      },
+      "review_required": {}
+    },
+    "ilya006": {
+      "variants": {
+        "ilya": "ilya-type-006"
+      },
+      "roles": {
+        "ilya": "portrait"
+      },
+      "review_required": {}
+    },
+    "sonya001": {
+      "variants": {
+        "sonya": "sonya-type-001"
+      },
+      "roles": {
+        "sonya": "portrait"
+      },
+      "review_required": {}
+    },
+    "sonya002": {
+      "variants": {
+        "sonya": "sonya-type-002"
+      },
+      "roles": {
+        "sonya": "portrait"
+      },
+      "review_required": {}
+    },
+    "sonya003": {
+      "variants": {
+        "sonya": "sonya-type-003"
+      },
+      "roles": {
+        "sonya": "portrait"
+      },
+      "review_required": {}
+    },
+    "sonya005": {
+      "variants": {
+        "sonya": "sonya-type-005"
+      },
+      "roles": {
+        "sonya": "portrait"
+      },
+      "review_required": {}
+    },
+    "sonya006": {
+      "variants": {
+        "sonya": "sonya-type-006"
+      },
+      "roles": {
+        "sonya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zhanna001": {
+      "variants": {
+        "zhanna": "zhanna-type-001"
+      },
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "review_required": {}
+    },
+    "zhanna002": {
+      "variants": {
+        "zhanna": "zhanna-type-002"
+      },
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "review_required": {}
+    },
+    "zhanna003": {
+      "variants": {
+        "zhanna": "zhanna-type-003"
+      },
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "review_required": {}
+    },
+    "zhanna004": {
+      "variants": {
+        "zhanna": "zhanna-type-004"
+      },
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "review_required": {}
+    },
+    "zhanna005": {
+      "variants": {
+        "zhanna": "zhanna-type-005"
+      },
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "review_required": {}
+    },
+    "zhanna006": {
+      "variants": {
+        "zhanna": "zhanna-type-006"
+      },
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita001": {
+      "variants": {
+        "rita": "rita-type-001"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita002": {
+      "variants": {
+        "rita": "rita-type-002"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita003": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita004": {
+      "variants": {
+        "rita": "rita-type-004"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita005": {
+      "variants": {
+        "rita": "rita-type-005"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita006": {
+      "variants": {
+        "rita": "rita-type-006"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "krendel004": {
+      "variants": {
+        "krendel": "krendel-type-004"
+      },
+      "roles": {
+        "krendel": "portrait"
+      },
+      "review_required": {}
+    },
+    "krendel006": {
+      "variants": {
+        "krendel": "krendel-type-006"
+      },
+      "roles": {
+        "krendel": "portrait"
+      },
+      "review_required": {}
+    },
+    "masha007": {
+      "variants": {
+        "masha": "masha-type-007"
+      },
+      "roles": {
+        "masha": "portrait"
+      },
+      "review_required": {}
+    },
+    "vovik001": {
+      "variants": {
+        "vovik": "vovik-type-001"
+      },
+      "roles": {
+        "vovik": "portrait"
+      },
+      "review_required": {}
+    },
+    "vovik002": {
+      "variants": {
+        "vovik": "vovik-type-002"
+      },
+      "roles": {
+        "vovik": "portrait"
+      },
+      "review_required": {}
+    },
+    "vovik003": {
+      "variants": {
+        "vovik": "vovik-type-003"
+      },
+      "roles": {
+        "vovik": "portrait"
+      },
+      "review_required": {}
+    },
+    "vovik004": {
+      "variants": {
+        "vovik": "vovik-type-004"
+      },
+      "roles": {
+        "vovik": "portrait"
+      },
+      "review_required": {}
+    },
+    "vovik005": {
+      "variants": {
+        "vovik": "vovik-type-005"
+      },
+      "roles": {
+        "vovik": "portrait"
+      },
+      "review_required": {}
+    },
+    "vovik006": {
+      "variants": {
+        "vovik": "vovik-type-006"
+      },
+      "roles": {
+        "vovik": "portrait"
+      },
+      "review_required": {}
+    },
+    "egor007": {
+      "variants": {
+        "egor": "egor-type-007"
+      },
+      "roles": {
+        "egor": "portrait"
+      },
+      "review_required": {}
+    },
+    "fedor031": {
+      "variants": {
+        "fedor": "fedor-type-009"
+      },
+      "roles": {
+        "fedor": "portrait"
+      },
+      "review_required": {}
+    },
+    "kir001": {
+      "variants": {
+        "kir": "kir-type-001"
+      },
+      "roles": {
+        "kir": "portrait"
+      },
+      "review_required": {}
+    },
+    "kir002": {
+      "variants": {
+        "kir": "kir-type-002"
+      },
+      "roles": {
+        "kir": "portrait"
+      },
+      "review_required": {}
+    },
+    "kir003": {
+      "variants": {
+        "kir": "kir-type-003"
+      },
+      "roles": {
+        "kir": "portrait"
+      },
+      "review_required": {}
+    },
+    "kir004": {
+      "variants": {
+        "kir": "kir-type-004"
+      },
+      "roles": {
+        "kir": "portrait"
+      },
+      "review_required": {}
+    },
+    "kir005": {
+      "variants": {
+        "kir": "kir-type-005"
+      },
+      "roles": {
+        "kir": "portrait"
+      },
+      "review_required": {}
+    },
+    "kir006": {
+      "variants": {
+        "kir": "kir-type-006"
+      },
+      "roles": {
+        "kir": "portrait"
+      },
+      "review_required": {}
+    },
+    "tais053": {
+      "variants": {
+        "tais": "tais-type-053"
+      },
+      "roles": {
+        "tais": "portrait"
+      },
+      "review_required": {}
+    },
+    "tais057": {
+      "variants": {
+        "tais": "tais-type-053"
+      },
+      "roles": {
+        "tais": "portrait"
+      },
+      "review_required": {}
+    },
+    "tais059": {
+      "variants": {
+        "tais": "tais-type-059"
+      },
+      "roles": {
+        "tais": "portrait"
+      },
+      "review_required": {}
+    },
+    "tais060": {
+      "variants": {
+        "tais": "tais-type-053"
+      },
+      "roles": {
+        "tais": "portrait"
+      },
+      "review_required": {}
+    },
+    "tais061": {
+      "variants": {
+        "tais": "tais-type-053"
+      },
+      "roles": {
+        "tais": "portrait"
+      },
+      "review_required": {}
+    },
+    "masha008": {
+      "variants": {
+        "masha": "masha-type-007",
+        "romik": "romik-type-002",
+        "kristinka": "kristinka-type-004"
+      },
+      "roles": {
+        "masha": "scene",
+        "romik": "scene",
+        "kristinka": "scene"
+      },
+      "review_required": {}
+    },
+    "romik001": {
+      "variants": {
+        "romik": "romik-type-001"
+      },
+      "roles": {
+        "romik": "portrait"
+      },
+      "review_required": {}
+    },
+    "romik002": {
+      "variants": {
+        "romik": "romik-type-002"
+      },
+      "roles": {
+        "romik": "portrait"
+      },
+      "review_required": {}
+    },
+    "romik003": {
+      "variants": {
+        "romik": "romik-type-003"
+      },
+      "roles": {
+        "romik": "portrait"
+      },
+      "review_required": {}
+    },
+    "romik004": {
+      "variants": {
+        "romik": "romik-type-004"
+      },
+      "roles": {
+        "romik": "portrait"
+      },
+      "review_required": {}
+    },
+    "romik005": {
+      "variants": {
+        "romik": "romik-type-005"
+      },
+      "roles": {
+        "romik": "portrait"
+      },
+      "review_required": {}
+    },
+    "romik006": {
+      "variants": {
+        "romik": "romik-type-006"
+      },
+      "roles": {
+        "romik": "portrait"
+      },
+      "review_required": {}
+    },
+    "kristinka001": {
+      "variants": {
+        "kristinka": "kristinka-type-001"
+      },
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kristinka002": {
+      "variants": {
+        "kristinka": "kristinka-type-002"
+      },
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kristinka003": {
+      "variants": {
+        "kristinka": "kristinka-type-003"
+      },
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kristinka004": {
+      "variants": {
+        "kristinka": "kristinka-type-004"
+      },
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kristinka005": {
+      "variants": {
+        "kristinka": "kristinka-type-005"
+      },
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kristinka006": {
+      "variants": {
+        "kristinka": "kristinka-type-006"
+      },
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dina001": {
+      "variants": {
+        "dina": "dina-type-001"
+      },
+      "roles": {
+        "dina": "portrait"
+      },
+      "review_required": {}
+    },
+    "dina002": {
+      "variants": {
+        "dina": "dina-type-002"
+      },
+      "roles": {
+        "dina": "portrait"
+      },
+      "review_required": {}
+    },
+    "dina003": {
+      "variants": {
+        "dina": "dina-type-003"
+      },
+      "roles": {
+        "dina": "portrait"
+      },
+      "review_required": {}
+    },
+    "dina004": {
+      "variants": {
+        "dina": "dina-type-004"
+      },
+      "roles": {
+        "dina": "portrait"
+      },
+      "review_required": {}
+    },
+    "dina005": {
+      "variants": {
+        "dina": "dina-type-005"
+      },
+      "roles": {
+        "dina": "portrait"
+      },
+      "review_required": {}
+    },
+    "dina006": {
+      "variants": {
+        "dina": "dina-type-006"
+      },
+      "roles": {
+        "dina": "portrait"
+      },
+      "review_required": {}
+    },
+    "inna001": {
+      "variants": {
+        "inna": "inna-type-001"
+      },
+      "roles": {
+        "inna": "portrait"
+      },
+      "review_required": {}
+    },
+    "inna002": {
+      "variants": {
+        "inna": "inna-type-002"
+      },
+      "roles": {
+        "inna": "portrait"
+      },
+      "review_required": {}
+    },
+    "inna003": {
+      "variants": {
+        "inna": "inna-type-003"
+      },
+      "roles": {
+        "inna": "portrait"
+      },
+      "review_required": {}
+    },
+    "inna004": {
+      "variants": {
+        "inna": "inna-type-004"
+      },
+      "roles": {
+        "inna": "portrait"
+      },
+      "review_required": {}
+    },
+    "inna005": {
+      "variants": {
+        "inna": "inna-type-005"
+      },
+      "roles": {
+        "inna": "portrait"
+      },
+      "review_required": {}
+    },
+    "inna006": {
+      "variants": {
+        "inna": "inna-type-006"
+      },
+      "roles": {
+        "inna": "portrait"
+      },
+      "review_required": {}
+    },
+    "rita007": {
+      "variants": {
+        "rita": "rita-type-001",
+        "dina": "dina-type-005",
+        "inna": "inna-type-001"
+      },
+      "roles": {
+        "rita": "scene",
+        "dina": "scene",
+        "inna": "scene"
+      },
+      "review_required": {}
+    },
+    "semen001": {
+      "variants": {
+        "semen": "semen-type-001"
+      },
+      "roles": {
+        "semen": "portrait"
+      },
+      "review_required": {}
+    },
+    "semen002": {
+      "variants": {
+        "semen": "semen-type-002"
+      },
+      "roles": {
+        "semen": "portrait"
+      },
+      "review_required": {}
+    },
+    "semen003": {
+      "variants": {
+        "semen": "semen-type-003"
+      },
+      "roles": {
+        "semen": "portrait"
+      },
+      "review_required": {}
+    },
+    "semen004": {
+      "variants": {
+        "semen": "semen-type-004"
+      },
+      "roles": {
+        "semen": "portrait"
+      },
+      "review_required": {}
+    },
+    "semen005": {
+      "variants": {
+        "semen": "semen-type-005"
+      },
+      "roles": {
+        "semen": "portrait"
+      },
+      "review_required": {}
+    },
+    "semen006": {
+      "variants": {
+        "semen": "semen-type-006"
+      },
+      "roles": {
+        "semen": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira001": {
+      "variants": {
+        "ira": "ira-type-001"
+      },
+      "roles": {
+        "ira": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira002": {
+      "variants": {
+        "ira": "ira-type-002"
+      },
+      "roles": {
+        "ira": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira003": {
+      "variants": {
+        "ira": "ira-type-003"
+      },
+      "roles": {
+        "ira": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira004": {
+      "variants": {
+        "ira": "ira-type-004"
+      },
+      "roles": {
+        "ira": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira005": {
+      "variants": {
+        "ira": "ira-type-005"
+      },
+      "roles": {
+        "ira": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira006": {
+      "variants": {
+        "ira": "ira-type-006"
+      },
+      "roles": {
+        "ira": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka001": {
+      "variants": {
+        "senka": "senka-type-001"
+      },
+      "roles": {
+        "senka": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka002": {
+      "variants": {
+        "senka": "senka-type-002"
+      },
+      "roles": {
+        "senka": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka003": {
+      "variants": {
+        "senka": "senka-type-003"
+      },
+      "roles": {
+        "senka": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka004": {
+      "variants": {
+        "senka": "senka-type-004"
+      },
+      "roles": {
+        "senka": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka005": {
+      "variants": {
+        "senka": "senka-type-005"
+      },
+      "roles": {
+        "senka": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka006": {
+      "variants": {
+        "senka": "senka-type-006"
+      },
+      "roles": {
+        "senka": "portrait"
+      },
+      "review_required": {}
+    },
+    "ira007": {
+      "variants": {},
+      "roles": {},
+      "review_required": {
+        "ira": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "zhanna": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически."
+      }
+    },
+    "senka007": {
+      "variants": {},
+      "roles": {},
+      "review_required": {
+        "senka": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "rita": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "dina": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "inna": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически."
+      }
+    },
+    "fedor033": {
+      "variants": {
+        "fedor": "fedor-type-009"
+      },
+      "roles": {
+        "fedor": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka001": {
+      "variants": {
+        "dimka": "dimka-type-001"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka002": {
+      "variants": {
+        "dimka": "dimka-type-002"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka003": {
+      "variants": {
+        "dimka": "dimka-type-003"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka004": {
+      "variants": {
+        "dimka": "dimka-type-004"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka005": {
+      "variants": {
+        "dimka": "dimka-type-005"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka006": {
+      "variants": {
+        "dimka": "dimka-type-006"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andrey001": {
+      "variants": {
+        "andrey": "andrey-type-001"
+      },
+      "roles": {
+        "andrey": "portrait"
+      },
+      "review_required": {}
+    },
+    "andrey002": {
+      "variants": {
+        "andrey": "andrey-type-002"
+      },
+      "roles": {
+        "andrey": "portrait"
+      },
+      "review_required": {}
+    },
+    "andrey003": {
+      "variants": {
+        "andrey": "andrey-type-003"
+      },
+      "roles": {
+        "andrey": "portrait"
+      },
+      "review_required": {}
+    },
+    "andrey004": {
+      "variants": {
+        "andrey": "andrey-type-004"
+      },
+      "roles": {
+        "andrey": "portrait"
+      },
+      "review_required": {}
+    },
+    "andrey005": {
+      "variants": {
+        "andrey": "andrey-type-005"
+      },
+      "roles": {
+        "andrey": "portrait"
+      },
+      "review_required": {}
+    },
+    "andrey006": {
+      "variants": {
+        "andrey": "andrey-type-006"
+      },
+      "roles": {
+        "andrey": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka007": {
+      "variants": {
+        "dimka": "dimka-type-007"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka008": {
+      "variants": {
+        "dimka": "dimka-type-008"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka009": {
+      "variants": {
+        "dimka": "dimka-type-009"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka010": {
+      "variants": {
+        "dimka": "dimka-type-010"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka011": {
+      "variants": {
+        "dimka": "dimka-type-011"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "dimka012": {
+      "variants": {
+        "dimka": "dimka-type-012"
+      },
+      "roles": {
+        "dimka": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma023": {
+      "variants": {
+        "emma": "emma-type-020"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma024": {
+      "variants": {
+        "emma": "emma-type-021"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma025": {
+      "variants": {
+        "emma": "emma-type-022"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma026": {
+      "variants": {
+        "emma": "emma-type-016"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma027": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma028": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma029": {
+      "variants": {
+        "emma": "emma-type-015"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma030": {
+      "variants": {
+        "emma": "emma-type-017"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma031": {
+      "variants": {
+        "emma": "emma-type-018"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma032": {
+      "variants": {
+        "emma": "emma-type-019"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma033": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma034": {
+      "variants": {
+        "emma": "emma-type-003"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma035": {
+      "variants": {
+        "emma": "emma-type-005"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma036": {
+      "variants": {},
+      "roles": {},
+      "review_required": {
+        "emma": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически."
+      }
+    },
+    "kolka029": {
+      "variants": {
+        "kolka": "kolka-type-028"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka030": {
+      "variants": {
+        "kolka": "kolka-type-026"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka031": {
+      "variants": {
+        "kolka": "kolka-type-025"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka032": {
+      "variants": {
+        "kolka": "kolka-type-027"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka033": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka034": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka035": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka036": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "kolka037": {
+      "variants": {
+        "kolka": "kolka-type-010"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma037": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma038": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "portrait"
+      },
+      "review_required": {}
+    },
+    "romik007": {
+      "variants": {
+        "romik": "romik-type-002",
+        "vovik": "vovik-type-007"
+      },
+      "roles": {
+        "romik": "scene",
+        "vovik": "scene"
+      },
+      "review_required": {}
+    },
+    "kaluzhsky001": {
+      "variants": {
+        "kaluzhsky": "kaluzhsky-type-001"
+      },
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "review_required": {}
+    },
+    "kaluzhsky002": {
+      "variants": {
+        "kaluzhsky": "kaluzhsky-type-002"
+      },
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "review_required": {}
+    },
+    "kaluzhsky003": {
+      "variants": {
+        "kaluzhsky": "kaluzhsky-type-003"
+      },
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "review_required": {}
+    },
+    "kaluzhsky004": {
+      "variants": {
+        "kaluzhsky": "kaluzhsky-type-004"
+      },
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "review_required": {}
+    },
+    "kaluzhsky005": {
+      "variants": {
+        "kaluzhsky": "kaluzhsky-type-005"
+      },
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "review_required": {}
+    },
+    "kaluzhsky006": {
+      "variants": {
+        "kaluzhsky": "kaluzhsky-type-006"
+      },
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "review_required": {}
+    },
+    "liza001": {
+      "variants": {
+        "liza": "liza-type-001"
+      },
+      "roles": {
+        "liza": "portrait"
+      },
+      "review_required": {}
+    },
+    "liza002": {
+      "variants": {
+        "liza": "liza-type-002"
+      },
+      "roles": {
+        "liza": "portrait"
+      },
+      "review_required": {}
+    },
+    "liza003": {
+      "variants": {
+        "liza": "liza-type-003"
+      },
+      "roles": {
+        "liza": "portrait"
+      },
+      "review_required": {}
+    },
+    "liza004": {
+      "variants": {
+        "liza": "liza-type-004"
+      },
+      "roles": {
+        "liza": "portrait"
+      },
+      "review_required": {}
+    },
+    "liza005": {
+      "variants": {
+        "liza": "liza-type-005"
+      },
+      "roles": {
+        "liza": "portrait"
+      },
+      "review_required": {}
+    },
+    "liza006": {
+      "variants": {
+        "liza": "liza-type-006"
+      },
+      "roles": {
+        "liza": "portrait"
+      },
+      "review_required": {}
+    },
+    "zheka001": {
+      "variants": {
+        "zheka": "zheka-type-001"
+      },
+      "roles": {
+        "zheka": "portrait"
+      },
+      "review_required": {}
+    },
+    "zheka002": {
+      "variants": {
+        "zheka": "zheka-type-002"
+      },
+      "roles": {
+        "zheka": "portrait"
+      },
+      "review_required": {}
+    },
+    "zheka003": {
+      "variants": {
+        "zheka": "zheka-type-003"
+      },
+      "roles": {
+        "zheka": "portrait"
+      },
+      "review_required": {}
+    },
+    "zheka004": {
+      "variants": {
+        "zheka": "zheka-type-004"
+      },
+      "roles": {
+        "zheka": "portrait"
+      },
+      "review_required": {}
+    },
+    "zheka005": {
+      "variants": {
+        "zheka": "zheka-type-005"
+      },
+      "roles": {
+        "zheka": "portrait"
+      },
+      "review_required": {}
+    },
+    "zheka006": {
+      "variants": {
+        "zheka": "zheka-type-006"
+      },
+      "roles": {
+        "zheka": "portrait"
+      },
+      "review_required": {}
+    },
+    "emma003": {
+      "variants": {
+        "emma": "emma-type-003"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma005": {
+      "variants": {
+        "emma": "emma-type-005"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma009": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma012": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma013": {
+      "variants": {
+        "emma": "emma-type-009"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma015": {
+      "variants": {
+        "emma": "emma-type-015"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma016": {
+      "variants": {
+        "emma": "emma-type-016"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma017": {
+      "variants": {
+        "emma": "emma-type-017"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma018": {
+      "variants": {
+        "emma": "emma-type-018"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma019": {
+      "variants": {
+        "emma": "emma-type-019"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma020": {
+      "variants": {
+        "emma": "emma-type-020"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma021": {
+      "variants": {
+        "emma": "emma-type-021"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "emma022": {
+      "variants": {
+        "emma": "emma-type-022"
+      },
+      "roles": {
+        "emma": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka010": {
+      "variants": {
+        "kolka": "kolka-type-010"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka015": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka016": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka017": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka018": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka025": {
+      "variants": {
+        "kolka": "kolka-type-025"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka026": {
+      "variants": {
+        "kolka": "kolka-type-026"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka027": {
+      "variants": {
+        "kolka": "kolka-type-027"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "kolka028": {
+      "variants": {
+        "kolka": "kolka-type-028"
+      },
+      "roles": {
+        "kolka": "historical"
+      },
+      "review_required": {}
+    },
+    "valek006": {
+      "variants": {
+        "valek": "valek-type-006"
+      },
+      "roles": {
+        "valek": "historical"
+      },
+      "review_required": {}
+    },
+    "valek012": {
+      "variants": {
+        "valek": "valek-type-006"
+      },
+      "roles": {
+        "valek": "historical"
+      },
+      "review_required": {}
+    },
+    "nitka003": {
+      "variants": {
+        "nitka": "nitka-type-003"
+      },
+      "roles": {
+        "nitka": "historical"
+      },
+      "review_required": {}
+    },
+    "nitka004": {
+      "variants": {
+        "nitka": "nitka-type-003"
+      },
+      "roles": {
+        "nitka": "historical"
+      },
+      "review_required": {}
+    },
+    "rita008": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "portrait"
+      },
+      "review_required": {}
+    },
+    "masha009": {
+      "variants": {
+        "masha": "masha-type-009"
+      },
+      "roles": {
+        "masha": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka001": {
+      "variants": {
+        "andryushka": "andryushka-type-001"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka002": {
+      "variants": {
+        "andryushka": "andryushka-type-002"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka003": {
+      "variants": {
+        "andryushka": "andryushka-type-003"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka004": {
+      "variants": {
+        "andryushka": "andryushka-type-004"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka005": {
+      "variants": {
+        "andryushka": "andryushka-type-005"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka006": {
+      "variants": {
+        "andryushka": "andryushka-type-006"
+      },
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "review_required": {}
+    },
+    "andryushka007": {
+      "variants": {
+        "andryushka": "andryushka-type-001"
+      },
+      "roles": {
+        "andryushka": "scene"
+      },
+      "review_required": {}
+    },
+    "zoya001": {
+      "variants": {
+        "zoya": "zoya-type-001"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya002": {
+      "variants": {
+        "zoya": "zoya-type-002"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya003": {
+      "variants": {
+        "zoya": "zoya-type-003"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya004": {
+      "variants": {
+        "zoya": "zoya-type-004"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya005": {
+      "variants": {
+        "zoya": "zoya-type-005"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya006": {
+      "variants": {
+        "zoya": "zoya-type-006"
+      },
+      "roles": {
+        "zoya": "portrait"
+      },
+      "review_required": {}
+    },
+    "zoya007": {
+      "variants": {
+        "zoya": "zoya-type-001"
+      },
+      "roles": {
+        "zoya": "scene"
+      },
+      "review_required": {}
+    },
+    "fedor034": {
+      "variants": {
+        "fedor": "fedor-type-009"
+      },
+      "roles": {
+        "fedor": "portrait"
+      },
+      "review_required": {}
+    },
+    "senka008": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      }
+    },
+    "senka009": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      }
+    },
+    "senka010": {
+      "variants": {
+        "rita": "rita-type-003"
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      }
+    },
+    "kolka038": {
+      "variants": {
+        "kolka": "kolka-type-015"
+      },
+      "roles": {
+        "kolka": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska001": {
+      "variants": {
+        "vaska": "vaska-type-001"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska002": {
+      "variants": {
+        "vaska": "vaska-type-002"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska003": {
+      "variants": {
+        "vaska": "vaska-type-003"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska004": {
+      "variants": {
+        "vaska": "vaska-type-004"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska005": {
+      "variants": {
+        "vaska": "vaska-type-005"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "vaska006": {
+      "variants": {
+        "vaska": "vaska-type-006"
+      },
+      "roles": {
+        "vaska": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin001": {
+      "variants": {
+        "klin": "klin-type-001"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin002": {
+      "variants": {
+        "klin": "klin-type-002"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin003": {
+      "variants": {
+        "klin": "klin-type-003"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin004": {
+      "variants": {
+        "klin": "klin-type-004"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin005": {
+      "variants": {
+        "klin": "klin-type-005"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin006": {
+      "variants": {
+        "klin": "klin-type-006"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin007": {
+      "variants": {
+        "klin": "klin-type-003"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin008": {
+      "variants": {
+        "klin": "klin-type-005"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    },
+    "klin009": {
+      "variants": {
+        "klin": "klin-type-005"
+      },
+      "roles": {
+        "klin": "portrait"
+      },
+      "review_required": {}
+    }
+  },
+  "notes": [
+    "A/B/C selection should use variant id, not asset code. A variant can have many views, ages, expressions and color revisions.",
+    "Different characters never share one identity id, even when a face reference is reused. Shared scene images contain per-character memberships.",
+    "Uncertain ensemble likeness and untraced costume-sheet identities are explicitly review_required.",
+    "Tais053 and Tais059 remain separate per explicit producer choice. Their common derivation does not override it."
+  ]
+}

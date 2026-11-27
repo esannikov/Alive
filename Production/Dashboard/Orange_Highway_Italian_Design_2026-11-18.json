@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-18",
+  "source_commit": "48096e33a8f0c0c1ef0f888f4c06eeddde1577c3",
+  "model": "gpt-image-2.5-sunburst",
+  "design_references": [
+    {
+      "title": "Миланское метро: цветовая навигация Альбини и Хельг",
+      "url": "https://triennale.org/en/magazine/how-rossovico-was-born-the-distinctive-brand-and-obsession"
+    },
+    {
+      "title": "Джо Коломбо: модульная система Boby",
+      "url": "https://www.moma.org/collection/works/2281"
+    }
+  ],
+  "items": [
+    {
+      "code": "orange001",
+      "title": "Торговая галерея",
+      "caption": "Продольная линия витрин и отдельная пешеходная кромка.",
+      "object": "orange-highway",
+      "source_file": "docs/World/locations/orange-highway/images/orange001.png",
+      "source_image": "orange-01-retail-gallery.png",
+      "sha256": "503de30c0da0ca782c28f741086c9f81340a36c2b12fa0097a2085afb6a2f853",
+      "series": "orange-highway-01"
+    },
+    {
+      "code": "orange002",
+      "title": "Ритм порталов",
+      "caption": "Повторяющиеся поперечные рамы задают масштаб транзитного участка.",
+      "object": "orange-highway",
+      "source_file": "docs/World/locations/orange-highway/images/orange002.png",
+      "source_image": "orange-02-tunnel-sequence.png",
+      "sha256": "60bc4bbc3e82a59be7bf18991588896b01369d88a631826983584150f9ff1ea8",
+      "series": "orange-highway-02"
+    },
+    {
+      "code": "orange003",
+      "title": "Переход к школе",
+      "caption": "Тактильная вставка связывает пешеходные зоны по обе стороны полотна.",
+      "object": "orange-highway",
+      "source_file": "docs/World/locations/orange-highway/images/orange003.png",
+      "source_image": "orange-03-school-crossing.png",
+      "sha256": "237f76d1b63287b8a019cd0724dd30e1736cc5d72e5b9938a2ef79c9f39d6749",
+      "series": "orange-highway-03"
+    },
+    {
+      "code": "orange004",
+      "title": "Длинная дуга",
+      "caption": "Свободная траектория магнитных досок и низкая ограждающая кромка.",
+      "object": "orange-highway",
+      "source_file": "docs/World/locations/orange-highway/images/orange004.png",
+      "source_image": "orange-04-board-run.png",
+      "sha256": "cf5c7839f347d566d36404539c37584c0b820181ff5350df7920ab2eaab6bf43",
+      "series": "orange-highway-04"
+    },
+    {
+      "code": "orange005",
+      "title": "Фронт снабжения",
+      "caption": "Витрины и служебные карманы вынесены за пределы движения.",
+      "object": "orange-highway",
+      "source_file": "docs/World/locations/orange-highway/images/orange005.png",
+      "source_image": "orange-05-delivery-edge.png",
+      "sha256": "46e1d9e4c57c519b832e63350c7a69992f49c6966b3f6426f9b077c8e19d30fc",
+      "series": "orange-highway-05"
+    },
+    {
+      "code": "orange006",
+      "title": "Переход на Зелёную",
+      "caption": "Обратный вид поперечного хода со стороны Оранжевой магистрали.",
+      "object": "orange-highway",
+      "source_file": "docs/World/locations/orange-highway/images/orange006.png",
+      "source_image": "orange-06-green-connection.png",
+      "sha256": "5d1e6a48a8e9492176d140d387e1d0ff7f29fcaca390cc7b95001698d2c91bb6",
+      "series": "orange-highway-06"
+    },
+    {
+      "code": "vendplaza001",
+      "title": "Настенная ниша",
+      "caption": "Очередь размещается вдоль стены в стороне от транспортного полотна.",
+      "object": "vending-plaza",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza001.png",
+      "source_image": "site-01-wall-bay.png",
+      "sha256": "76e94dcbe12c97848d17daee4d914d237ab1ba199102ac62b26c711ae7f0e326",
+      "series": "vending-plaza-01"
+    },
+    {
+      "code": "vendplaza002",
+      "title": "Карман между витринами",
+      "caption": "Скруглённая ниша, отдельный подход и короткая полка.",
+      "object": "vending-plaza",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza002.png",
+      "source_image": "site-02-vitrine-pocket.png",
+      "sha256": "35c2c283a272a0631a0d0739a4af2535f515970bf7063b9b9e863653ad7304ac",
+      "series": "vending-plaza-02"
+    },
+    {
+      "code": "vendplaza003",
+      "title": "У выхода из туннеля",
+      "caption": "Автомат виден с подхода, а свободный проход продолжается за поворотом.",
+      "object": "vending-plaza",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza003.png",
+      "source_image": "site-03-transfer-corner.png",
+      "sha256": "2b2fd5a317d4a3f613dfc679a8169a3c5c0050d4bc61fa951f59951b98d9be40",
+      "series": "vending-plaza-03"
+    },
+    {
+      "code": "vendplaza004",
+      "title": "Двусторонний островок",
+      "caption": "Отдельный остров с навесом, фронтальной выдачей и обходом по краям.",
+      "object": "vending-plaza",
+      "source_file": "docs/World/locations/vending-plaza/images/vendplaza004.png",
+      "source_image": "site-04-two-sided-island.png",
+      "sha256": "d8bf6fa7e2b6209f3cd38099bf1013db33479bfe9cca178d032433c7dac178f1",
+      "series": "vending-plaza-04"
+    },
+    {
+      "code": "vend001",
+      "title": "Скошенная витрина",
+      "caption": "Формованный корпус, видимый запас и отдельная приёмная ниша.",
+      "object": "vending-machine",
+      "source_file": "docs/World/props/vending-machine/images/vend001.png",
+      "source_image": "machine-01-glass-stock.png",
+      "sha256": "87346dca774cbddbf7c145c3aab7ee8f50a90c248ae94b216f0d636ddc20617f",
+      "series": "vending-machine-01"
+    },
+    {
+      "code": "vend002",
+      "title": "Прозрачная капсула",
+      "caption": "Овальная оболочка с видимыми кассетами, каркасом и каналом выдачи.",
+      "object": "vending-machine",
+      "source_file": "docs/World/props/vending-machine/images/vend002.png",
+      "source_image": "machine-02-transparent.png",
+      "sha256": "691983805fe6e3d44beb07132aaad24f49bd9e1e0de35561364d8069117be6c3",
+      "series": "vending-machine-02"
+    },
+    {
+      "code": "vend003",
+      "title": "Кассета с приёмной нишей",
+      "caption": "Опаловая створка, наклонный экран и открытая нижняя выдача.",
+      "object": "vending-machine",
+      "source_file": "docs/World/props/vending-machine/images/vend003.png",
+      "source_image": "machine-03-shelf-and-drop.png",
+      "sha256": "2e01cf94ac048f00d211fe17f8e3cdb6f35631439377312837ece89043cc6914",
+      "series": "vending-machine-03"
+    },
+    {
+      "code": "vend004",
+      "title": "Выдвижной лоток",
+      "caption": "Сервисный корпус на металлических стойках с выдвижной приёмной секцией.",
+      "object": "vending-machine",
+      "source_file": "docs/World/props/vending-machine/images/vend004.png",
+      "source_image": "machine-04-service-drawer.png",
+      "sha256": "60c1051f4e2f565805c7f8bc9f3eb173500221fc8b80193d7d68b13b4d8a5eb2",
+      "series": "vending-machine-04"
+    },
+    {
+      "code": "bar002",
+      "title": "Графика 02 · округлая типографика",
+      "caption": "Изумрудный фон, голубые поля и крупный срез с арахисом и нугой.",
+      "object": "chocolate-bars",
+      "source_file": "docs/World/props/chocolate-bars/images/bar002.png",
+      "source_image": "bar-02-grove-food.png",
+      "sha256": "a563c00cafabb23f808f895ee33116b2a74c304d75bb69559499c2663c380598",
+      "series": "chocolate-bars-02"
+    },
+    {
+      "code": "bar004",
+      "title": "Графика 04 · звёзды",
+      "caption": "Кобальт, яркая зелень, жёлтое поле с названием и срезом начинки.",
+      "object": "chocolate-bars",
+      "source_file": "docs/World/props/chocolate-bars/images/bar004.png",
+      "source_image": "bar-04-stars-food.png",
+      "sha256": "1df9e066c1f4ec85ba9c8201cde1997d73fc4088c85111318fb894fc4a6a249a",
+      "series": "chocolate-bars-04"
+    }
+  ]
+}

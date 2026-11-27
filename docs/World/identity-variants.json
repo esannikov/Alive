@@ -1,0 +1,6010 @@
+{
+  "schema_version": 1,
+  "selection_unit": "identity_variant",
+  "variants": [
+    {
+      "id": "fedor-type-009",
+      "character": "fedor",
+      "label": "Типаж 009",
+      "anchor_asset": "fedor009",
+      "cover_asset": "fedor034",
+      "member_codes": [
+        "fedor009",
+        "fedor031",
+        "fedor033",
+        "fedor034"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit identity-preserving provenance"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "fedor009",
+        "fedor031",
+        "fedor033",
+        "fedor034"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/fedor/",
+      "url": "https://esannikov.github.io/Alive/World/characters/fedor/#fedor-type-009"
+    },
+    {
+      "id": "nitka-type-003",
+      "character": "nitka",
+      "label": "Типаж 003",
+      "anchor_asset": "nitka003",
+      "cover_asset": "nitka007",
+      "member_codes": [
+        "nitka007",
+        "nitka008",
+        "nitka003",
+        "nitka004"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "nitka007",
+        "nitka008"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/nitka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/nitka/#nitka-type-003"
+    },
+    {
+      "id": "valek-type-006",
+      "character": "valek",
+      "label": "Типаж 006",
+      "anchor_asset": "valek006",
+      "cover_asset": "valek018",
+      "member_codes": [
+        "valek018",
+        "valek006",
+        "valek012"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "valek018"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/valek/",
+      "url": "https://esannikov.github.io/Alive/World/characters/valek/#valek-type-006"
+    },
+    {
+      "id": "katya-type-001",
+      "character": "katya",
+      "label": "Типаж 001",
+      "anchor_asset": "katya001",
+      "cover_asset": "katya001",
+      "member_codes": [
+        "katya001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "katya001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/katya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/katya/#katya-type-001"
+    },
+    {
+      "id": "katya-type-002",
+      "character": "katya",
+      "label": "Типаж 002",
+      "anchor_asset": "katya002",
+      "cover_asset": "katya002",
+      "member_codes": [
+        "katya002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "katya002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/katya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/katya/#katya-type-002"
+    },
+    {
+      "id": "katya-type-005",
+      "character": "katya",
+      "label": "Типаж 005",
+      "anchor_asset": "katya005",
+      "cover_asset": "katya005",
+      "member_codes": [
+        "katya005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "katya005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/katya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/katya/#katya-type-005"
+    },
+    {
+      "id": "katya-type-006",
+      "character": "katya",
+      "label": "Типаж 006",
+      "anchor_asset": "katya006",
+      "cover_asset": "katya006",
+      "member_codes": [
+        "katya006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "katya006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/katya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/katya/#katya-type-006"
+    },
+    {
+      "id": "ilya-type-001",
+      "character": "ilya",
+      "label": "Типаж 001",
+      "anchor_asset": "ilya001",
+      "cover_asset": "ilya001",
+      "member_codes": [
+        "ilya001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ilya001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ilya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ilya/#ilya-type-001"
+    },
+    {
+      "id": "ilya-type-002",
+      "character": "ilya",
+      "label": "Типаж 002",
+      "anchor_asset": "ilya002",
+      "cover_asset": "ilya002",
+      "member_codes": [
+        "ilya002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ilya002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ilya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ilya/#ilya-type-002"
+    },
+    {
+      "id": "ilya-type-004",
+      "character": "ilya",
+      "label": "Типаж 004",
+      "anchor_asset": "ilya004",
+      "cover_asset": "ilya004",
+      "member_codes": [
+        "ilya004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ilya004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ilya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ilya/#ilya-type-004"
+    },
+    {
+      "id": "ilya-type-005",
+      "character": "ilya",
+      "label": "Типаж 005",
+      "anchor_asset": "ilya005",
+      "cover_asset": "ilya005",
+      "member_codes": [
+        "ilya005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ilya005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ilya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ilya/#ilya-type-005"
+    },
+    {
+      "id": "ilya-type-006",
+      "character": "ilya",
+      "label": "Типаж 006",
+      "anchor_asset": "ilya006",
+      "cover_asset": "ilya006",
+      "member_codes": [
+        "ilya006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ilya006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ilya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ilya/#ilya-type-006"
+    },
+    {
+      "id": "sonya-type-001",
+      "character": "sonya",
+      "label": "Типаж 001",
+      "anchor_asset": "sonya001",
+      "cover_asset": "sonya001",
+      "member_codes": [
+        "sonya001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "sonya001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/sonya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/sonya/#sonya-type-001"
+    },
+    {
+      "id": "sonya-type-002",
+      "character": "sonya",
+      "label": "Типаж 002",
+      "anchor_asset": "sonya002",
+      "cover_asset": "sonya002",
+      "member_codes": [
+        "sonya002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "sonya002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/sonya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/sonya/#sonya-type-002"
+    },
+    {
+      "id": "sonya-type-003",
+      "character": "sonya",
+      "label": "Типаж 003",
+      "anchor_asset": "sonya003",
+      "cover_asset": "sonya003",
+      "member_codes": [
+        "sonya003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "sonya003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/sonya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/sonya/#sonya-type-003"
+    },
+    {
+      "id": "sonya-type-005",
+      "character": "sonya",
+      "label": "Типаж 005",
+      "anchor_asset": "sonya005",
+      "cover_asset": "sonya005",
+      "member_codes": [
+        "sonya005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "sonya005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/sonya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/sonya/#sonya-type-005"
+    },
+    {
+      "id": "sonya-type-006",
+      "character": "sonya",
+      "label": "Типаж 006",
+      "anchor_asset": "sonya006",
+      "cover_asset": "sonya006",
+      "member_codes": [
+        "sonya006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "sonya006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/sonya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/sonya/#sonya-type-006"
+    },
+    {
+      "id": "zhanna-type-001",
+      "character": "zhanna",
+      "label": "Типаж 001",
+      "anchor_asset": "zhanna001",
+      "cover_asset": "zhanna001",
+      "member_codes": [
+        "zhanna001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-001"
+    },
+    {
+      "id": "zhanna-type-002",
+      "character": "zhanna",
+      "label": "Типаж 002",
+      "anchor_asset": "zhanna002",
+      "cover_asset": "zhanna002",
+      "member_codes": [
+        "zhanna002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-002"
+    },
+    {
+      "id": "zhanna-type-003",
+      "character": "zhanna",
+      "label": "Типаж 003",
+      "anchor_asset": "zhanna003",
+      "cover_asset": "zhanna003",
+      "member_codes": [
+        "zhanna003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Moved to casting reserve at Lena request 16.11.2026; retain stable variant ID and historical membership."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-003"
+    },
+    {
+      "id": "zhanna-type-004",
+      "character": "zhanna",
+      "label": "Типаж 004",
+      "anchor_asset": "zhanna004",
+      "cover_asset": "zhanna004",
+      "member_codes": [
+        "zhanna004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zhanna004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-004"
+    },
+    {
+      "id": "zhanna-type-005",
+      "character": "zhanna",
+      "label": "Типаж 005",
+      "anchor_asset": "zhanna005",
+      "cover_asset": "zhanna005",
+      "member_codes": [
+        "zhanna005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zhanna005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-005"
+    },
+    {
+      "id": "zhanna-type-006",
+      "character": "zhanna",
+      "label": "Типаж 006",
+      "anchor_asset": "zhanna006",
+      "cover_asset": "zhanna006",
+      "member_codes": [
+        "zhanna006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zhanna006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zhanna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zhanna/#zhanna-type-006"
+    },
+    {
+      "id": "rita-type-001",
+      "character": "rita",
+      "label": "Типаж 001",
+      "anchor_asset": "rita001",
+      "cover_asset": "rita001",
+      "member_codes": [
+        "rita001",
+        "rita007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: rita001"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "rita001",
+        "rita007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
+      "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-001"
+    },
+    {
+      "id": "rita-type-002",
+      "character": "rita",
+      "label": "Типаж 002",
+      "anchor_asset": "rita002",
+      "cover_asset": "rita002",
+      "member_codes": [
+        "rita002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "rita002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
+      "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-002"
+    },
+    {
+      "id": "rita-type-003",
+      "character": "rita",
+      "label": "Типаж 003",
+      "anchor_asset": "rita003",
+      "cover_asset": "rita008",
+      "member_codes": [
+        "rita003",
+        "rita008",
+        "senka008",
+        "senka009",
+        "senka010"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit hair-length-only edit of rita003 requested by Lena."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "rita003",
+        "rita008",
+        "senka008",
+        "senka009",
+        "senka010"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
+      "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-003"
+    },
+    {
+      "id": "rita-type-004",
+      "character": "rita",
+      "label": "Типаж 004",
+      "anchor_asset": "rita004",
+      "cover_asset": "rita004",
+      "member_codes": [
+        "rita004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "rita004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
+      "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-004"
+    },
+    {
+      "id": "rita-type-005",
+      "character": "rita",
+      "label": "Типаж 005",
+      "anchor_asset": "rita005",
+      "cover_asset": "rita005",
+      "member_codes": [
+        "rita005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "rita005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
+      "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-005"
+    },
+    {
+      "id": "rita-type-006",
+      "character": "rita",
+      "label": "Типаж 006",
+      "anchor_asset": "rita006",
+      "cover_asset": "rita006",
+      "member_codes": [
+        "rita006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "rita006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/rita/",
+      "url": "https://esannikov.github.io/Alive/World/characters/rita/#rita-type-006"
+    },
+    {
+      "id": "krendel-type-004",
+      "character": "krendel",
+      "label": "Типаж 004",
+      "anchor_asset": "krendel004",
+      "cover_asset": "krendel004",
+      "member_codes": [
+        "krendel004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "krendel004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/krendel/",
+      "url": "https://esannikov.github.io/Alive/World/characters/krendel/#krendel-type-004"
+    },
+    {
+      "id": "krendel-type-006",
+      "character": "krendel",
+      "label": "Типаж 006",
+      "anchor_asset": "krendel006",
+      "cover_asset": "krendel006",
+      "member_codes": [
+        "krendel006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "krendel006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/krendel/",
+      "url": "https://esannikov.github.io/Alive/World/characters/krendel/#krendel-type-006"
+    },
+    {
+      "id": "masha-type-007",
+      "character": "masha",
+      "label": "Типаж 007",
+      "anchor_asset": "masha007",
+      "cover_asset": "masha007",
+      "member_codes": [
+        "masha007",
+        "masha008"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: masha007"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "masha007",
+        "masha008"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/masha/",
+      "url": "https://esannikov.github.io/Alive/World/characters/masha/#masha-type-007"
+    },
+    {
+      "id": "vovik-type-001",
+      "character": "vovik",
+      "label": "Типаж 001",
+      "anchor_asset": "vovik001",
+      "cover_asset": "vovik001",
+      "member_codes": [
+        "vovik001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vovik001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-001"
+    },
+    {
+      "id": "vovik-type-002",
+      "character": "vovik",
+      "label": "Типаж 002",
+      "anchor_asset": "vovik002",
+      "cover_asset": "vovik002",
+      "member_codes": [
+        "vovik002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vovik002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-002"
+    },
+    {
+      "id": "vovik-type-003",
+      "character": "vovik",
+      "label": "Типаж 003",
+      "anchor_asset": "vovik003",
+      "cover_asset": "vovik003",
+      "member_codes": [
+        "vovik003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vovik003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-003"
+    },
+    {
+      "id": "vovik-type-004",
+      "character": "vovik",
+      "label": "Типаж 004",
+      "anchor_asset": "vovik004",
+      "cover_asset": "vovik004",
+      "member_codes": [
+        "vovik004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vovik004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-004"
+    },
+    {
+      "id": "vovik-type-005",
+      "character": "vovik",
+      "label": "Типаж 005",
+      "anchor_asset": "vovik005",
+      "cover_asset": "vovik005",
+      "member_codes": [
+        "vovik005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vovik005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-005"
+    },
+    {
+      "id": "vovik-type-006",
+      "character": "vovik",
+      "label": "Типаж 006",
+      "anchor_asset": "vovik006",
+      "cover_asset": "vovik006",
+      "member_codes": [
+        "vovik006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vovik006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-006"
+    },
+    {
+      "id": "egor-type-007",
+      "character": "egor",
+      "label": "Типаж 007",
+      "anchor_asset": "egor007",
+      "cover_asset": "egor007",
+      "member_codes": [
+        "egor007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "egor007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/egor/",
+      "url": "https://esannikov.github.io/Alive/World/characters/egor/#egor-type-007"
+    },
+    {
+      "id": "kir-type-001",
+      "character": "kir",
+      "label": "Типаж 001",
+      "anchor_asset": "kir001",
+      "cover_asset": "kir001",
+      "member_codes": [
+        "kir001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kir001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kir/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kir/#kir-type-001"
+    },
+    {
+      "id": "kir-type-002",
+      "character": "kir",
+      "label": "Типаж 002",
+      "anchor_asset": "kir002",
+      "cover_asset": "kir002",
+      "member_codes": [
+        "kir002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kir002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kir/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kir/#kir-type-002"
+    },
+    {
+      "id": "kir-type-003",
+      "character": "kir",
+      "label": "Типаж 003",
+      "anchor_asset": "kir003",
+      "cover_asset": "kir003",
+      "member_codes": [
+        "kir003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kir003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kir/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kir/#kir-type-003"
+    },
+    {
+      "id": "kir-type-004",
+      "character": "kir",
+      "label": "Типаж 004",
+      "anchor_asset": "kir004",
+      "cover_asset": "kir004",
+      "member_codes": [
+        "kir004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kir004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kir/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kir/#kir-type-004"
+    },
+    {
+      "id": "kir-type-005",
+      "character": "kir",
+      "label": "Типаж 005",
+      "anchor_asset": "kir005",
+      "cover_asset": "kir005",
+      "member_codes": [
+        "kir005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kir005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kir/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kir/#kir-type-005"
+    },
+    {
+      "id": "kir-type-006",
+      "character": "kir",
+      "label": "Типаж 006",
+      "anchor_asset": "kir006",
+      "cover_asset": "kir006",
+      "member_codes": [
+        "kir006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kir006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kir/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kir/#kir-type-006"
+    },
+    {
+      "id": "tais-type-053",
+      "character": "tais",
+      "label": "Типаж А",
+      "anchor_asset": "tais053",
+      "cover_asset": "tais053",
+      "member_codes": [
+        "tais053",
+        "tais057",
+        "tais060",
+        "tais061"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit identity-preserving provenance"
+      ],
+      "design_acceptance": "producer_A_group_recorded",
+      "active_asset_codes": [
+        "tais053",
+        "tais057",
+        "tais060",
+        "tais061"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/tais/",
+      "url": "https://esannikov.github.io/Alive/World/characters/tais/#tais-type-053"
+    },
+    {
+      "id": "tais-type-059",
+      "character": "tais",
+      "label": "Типаж Б",
+      "anchor_asset": "tais059",
+      "cover_asset": "tais059",
+      "member_codes": [
+        "tais059"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "producer_B_group_recorded",
+      "active_asset_codes": [
+        "tais059"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/tais/",
+      "url": "https://esannikov.github.io/Alive/World/characters/tais/#tais-type-059"
+    },
+    {
+      "id": "romik-type-002",
+      "character": "romik",
+      "label": "Типаж 002",
+      "anchor_asset": "romik002",
+      "cover_asset": "romik002",
+      "member_codes": [
+        "masha008",
+        "romik002",
+        "romik007"
+      ],
+      "grouping_basis": [
+        "Explicit casting_references: romik002",
+        "Independent casting candidate",
+        "Explicit identity-preserving provenance"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "masha008",
+        "romik002",
+        "romik007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/romik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/romik/#romik-type-002"
+    },
+    {
+      "id": "kristinka-type-004",
+      "character": "kristinka",
+      "label": "Типаж 004",
+      "anchor_asset": "kristinka004",
+      "cover_asset": "kristinka004",
+      "member_codes": [
+        "masha008",
+        "kristinka004"
+      ],
+      "grouping_basis": [
+        "Explicit casting_references: kristinka004",
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "masha008",
+        "kristinka004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kristinka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kristinka/#kristinka-type-004"
+    },
+    {
+      "id": "romik-type-001",
+      "character": "romik",
+      "label": "Типаж 001",
+      "anchor_asset": "romik001",
+      "cover_asset": "romik001",
+      "member_codes": [
+        "romik001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "romik001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/romik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/romik/#romik-type-001"
+    },
+    {
+      "id": "romik-type-003",
+      "character": "romik",
+      "label": "Типаж 003",
+      "anchor_asset": "romik003",
+      "cover_asset": "romik003",
+      "member_codes": [
+        "romik003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "romik003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/romik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/romik/#romik-type-003"
+    },
+    {
+      "id": "romik-type-004",
+      "character": "romik",
+      "label": "Типаж 004",
+      "anchor_asset": "romik004",
+      "cover_asset": "romik004",
+      "member_codes": [
+        "romik004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "romik004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/romik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/romik/#romik-type-004"
+    },
+    {
+      "id": "romik-type-005",
+      "character": "romik",
+      "label": "Типаж 005",
+      "anchor_asset": "romik005",
+      "cover_asset": "romik005",
+      "member_codes": [
+        "romik005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "romik005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/romik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/romik/#romik-type-005"
+    },
+    {
+      "id": "romik-type-006",
+      "character": "romik",
+      "label": "Типаж 006",
+      "anchor_asset": "romik006",
+      "cover_asset": "romik006",
+      "member_codes": [
+        "romik006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "romik006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/romik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/romik/#romik-type-006"
+    },
+    {
+      "id": "kristinka-type-001",
+      "character": "kristinka",
+      "label": "Типаж 001",
+      "anchor_asset": "kristinka001",
+      "cover_asset": "kristinka001",
+      "member_codes": [
+        "kristinka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kristinka001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kristinka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kristinka/#kristinka-type-001"
+    },
+    {
+      "id": "kristinka-type-002",
+      "character": "kristinka",
+      "label": "Типаж 002",
+      "anchor_asset": "kristinka002",
+      "cover_asset": "kristinka002",
+      "member_codes": [
+        "kristinka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kristinka002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kristinka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kristinka/#kristinka-type-002"
+    },
+    {
+      "id": "kristinka-type-003",
+      "character": "kristinka",
+      "label": "Типаж 003",
+      "anchor_asset": "kristinka003",
+      "cover_asset": "kristinka003",
+      "member_codes": [
+        "kristinka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kristinka003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kristinka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kristinka/#kristinka-type-003"
+    },
+    {
+      "id": "kristinka-type-005",
+      "character": "kristinka",
+      "label": "Типаж 005",
+      "anchor_asset": "kristinka005",
+      "cover_asset": "kristinka005",
+      "member_codes": [
+        "kristinka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kristinka005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kristinka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kristinka/#kristinka-type-005"
+    },
+    {
+      "id": "kristinka-type-006",
+      "character": "kristinka",
+      "label": "Типаж 006",
+      "anchor_asset": "kristinka006",
+      "cover_asset": "kristinka006",
+      "member_codes": [
+        "kristinka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kristinka006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kristinka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kristinka/#kristinka-type-006"
+    },
+    {
+      "id": "dina-type-001",
+      "character": "dina",
+      "label": "Типаж 001",
+      "anchor_asset": "dina001",
+      "cover_asset": "dina001",
+      "member_codes": [
+        "dina001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dina001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dina/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dina/#dina-type-001"
+    },
+    {
+      "id": "dina-type-002",
+      "character": "dina",
+      "label": "Типаж 002",
+      "anchor_asset": "dina002",
+      "cover_asset": "dina002",
+      "member_codes": [
+        "dina002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dina002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dina/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dina/#dina-type-002"
+    },
+    {
+      "id": "dina-type-003",
+      "character": "dina",
+      "label": "Типаж 003",
+      "anchor_asset": "dina003",
+      "cover_asset": "dina003",
+      "member_codes": [
+        "dina003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dina003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dina/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dina/#dina-type-003"
+    },
+    {
+      "id": "dina-type-004",
+      "character": "dina",
+      "label": "Типаж 004",
+      "anchor_asset": "dina004",
+      "cover_asset": "dina004",
+      "member_codes": [
+        "dina004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dina004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dina/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dina/#dina-type-004"
+    },
+    {
+      "id": "dina-type-005",
+      "character": "dina",
+      "label": "Типаж 005",
+      "anchor_asset": "dina005",
+      "cover_asset": "dina005",
+      "member_codes": [
+        "dina005",
+        "rita007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: dina005"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dina005",
+        "rita007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dina/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dina/#dina-type-005"
+    },
+    {
+      "id": "dina-type-006",
+      "character": "dina",
+      "label": "Типаж 006",
+      "anchor_asset": "dina006",
+      "cover_asset": "dina006",
+      "member_codes": [
+        "dina006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dina006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dina/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dina/#dina-type-006"
+    },
+    {
+      "id": "inna-type-001",
+      "character": "inna",
+      "label": "Типаж 001",
+      "anchor_asset": "inna001",
+      "cover_asset": "inna001",
+      "member_codes": [
+        "inna001",
+        "rita007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate",
+        "Explicit casting_references: inna001"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "inna001",
+        "rita007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/inna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/inna/#inna-type-001"
+    },
+    {
+      "id": "inna-type-002",
+      "character": "inna",
+      "label": "Типаж 002",
+      "anchor_asset": "inna002",
+      "cover_asset": "inna002",
+      "member_codes": [
+        "inna002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "inna002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/inna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/inna/#inna-type-002"
+    },
+    {
+      "id": "inna-type-003",
+      "character": "inna",
+      "label": "Типаж 003",
+      "anchor_asset": "inna003",
+      "cover_asset": "inna003",
+      "member_codes": [
+        "inna003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "inna003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/inna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/inna/#inna-type-003"
+    },
+    {
+      "id": "inna-type-004",
+      "character": "inna",
+      "label": "Типаж 004",
+      "anchor_asset": "inna004",
+      "cover_asset": "inna004",
+      "member_codes": [
+        "inna004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "inna004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/inna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/inna/#inna-type-004"
+    },
+    {
+      "id": "inna-type-005",
+      "character": "inna",
+      "label": "Типаж 005",
+      "anchor_asset": "inna005",
+      "cover_asset": "inna005",
+      "member_codes": [
+        "inna005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "inna005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/inna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/inna/#inna-type-005"
+    },
+    {
+      "id": "inna-type-006",
+      "character": "inna",
+      "label": "Типаж 006",
+      "anchor_asset": "inna006",
+      "cover_asset": "inna006",
+      "member_codes": [
+        "inna006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "inna006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/inna/",
+      "url": "https://esannikov.github.io/Alive/World/characters/inna/#inna-type-006"
+    },
+    {
+      "id": "semen-type-001",
+      "character": "semen",
+      "label": "Типаж 001",
+      "anchor_asset": "semen001",
+      "cover_asset": "semen001",
+      "member_codes": [
+        "semen001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "semen001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/semen/",
+      "url": "https://esannikov.github.io/Alive/World/characters/semen/#semen-type-001"
+    },
+    {
+      "id": "semen-type-002",
+      "character": "semen",
+      "label": "Типаж 002",
+      "anchor_asset": "semen002",
+      "cover_asset": "semen002",
+      "member_codes": [
+        "semen002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "semen002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/semen/",
+      "url": "https://esannikov.github.io/Alive/World/characters/semen/#semen-type-002"
+    },
+    {
+      "id": "semen-type-003",
+      "character": "semen",
+      "label": "Типаж 003",
+      "anchor_asset": "semen003",
+      "cover_asset": "semen003",
+      "member_codes": [
+        "semen003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "semen003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/semen/",
+      "url": "https://esannikov.github.io/Alive/World/characters/semen/#semen-type-003"
+    },
+    {
+      "id": "semen-type-004",
+      "character": "semen",
+      "label": "Типаж 004",
+      "anchor_asset": "semen004",
+      "cover_asset": "semen004",
+      "member_codes": [
+        "semen004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "semen004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/semen/",
+      "url": "https://esannikov.github.io/Alive/World/characters/semen/#semen-type-004"
+    },
+    {
+      "id": "semen-type-005",
+      "character": "semen",
+      "label": "Типаж 005",
+      "anchor_asset": "semen005",
+      "cover_asset": "semen005",
+      "member_codes": [
+        "semen005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "semen005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/semen/",
+      "url": "https://esannikov.github.io/Alive/World/characters/semen/#semen-type-005"
+    },
+    {
+      "id": "semen-type-006",
+      "character": "semen",
+      "label": "Типаж 006",
+      "anchor_asset": "semen006",
+      "cover_asset": "semen006",
+      "member_codes": [
+        "semen006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "semen006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/semen/",
+      "url": "https://esannikov.github.io/Alive/World/characters/semen/#semen-type-006"
+    },
+    {
+      "id": "ira-type-001",
+      "character": "ira",
+      "label": "Типаж 001",
+      "anchor_asset": "ira001",
+      "cover_asset": "ira001",
+      "member_codes": [
+        "ira001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ira001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ira/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ira/#ira-type-001"
+    },
+    {
+      "id": "ira-type-002",
+      "character": "ira",
+      "label": "Типаж 002",
+      "anchor_asset": "ira002",
+      "cover_asset": "ira002",
+      "member_codes": [
+        "ira002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ira002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ira/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ira/#ira-type-002"
+    },
+    {
+      "id": "ira-type-003",
+      "character": "ira",
+      "label": "Типаж 003",
+      "anchor_asset": "ira003",
+      "cover_asset": "ira003",
+      "member_codes": [
+        "ira003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ira003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ira/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ira/#ira-type-003"
+    },
+    {
+      "id": "ira-type-004",
+      "character": "ira",
+      "label": "Типаж 004",
+      "anchor_asset": "ira004",
+      "cover_asset": "ira004",
+      "member_codes": [
+        "ira004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ira004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ira/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ira/#ira-type-004"
+    },
+    {
+      "id": "ira-type-005",
+      "character": "ira",
+      "label": "Типаж 005",
+      "anchor_asset": "ira005",
+      "cover_asset": "ira005",
+      "member_codes": [
+        "ira005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ira005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ira/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ira/#ira-type-005"
+    },
+    {
+      "id": "ira-type-006",
+      "character": "ira",
+      "label": "Типаж 006",
+      "anchor_asset": "ira006",
+      "cover_asset": "ira006",
+      "member_codes": [
+        "ira006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "ira006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/ira/",
+      "url": "https://esannikov.github.io/Alive/World/characters/ira/#ira-type-006"
+    },
+    {
+      "id": "senka-type-001",
+      "character": "senka",
+      "label": "Типаж 001",
+      "anchor_asset": "senka001",
+      "cover_asset": "senka001",
+      "member_codes": [
+        "senka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "senka001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/senka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/senka/#senka-type-001"
+    },
+    {
+      "id": "senka-type-002",
+      "character": "senka",
+      "label": "Типаж 002",
+      "anchor_asset": "senka002",
+      "cover_asset": "senka002",
+      "member_codes": [
+        "senka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "senka002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/senka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/senka/#senka-type-002"
+    },
+    {
+      "id": "senka-type-003",
+      "character": "senka",
+      "label": "Типаж 003",
+      "anchor_asset": "senka003",
+      "cover_asset": "senka003",
+      "member_codes": [
+        "senka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "senka003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/senka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/senka/#senka-type-003"
+    },
+    {
+      "id": "senka-type-004",
+      "character": "senka",
+      "label": "Типаж 004",
+      "anchor_asset": "senka004",
+      "cover_asset": "senka004",
+      "member_codes": [
+        "senka004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "senka004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/senka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/senka/#senka-type-004"
+    },
+    {
+      "id": "senka-type-005",
+      "character": "senka",
+      "label": "Типаж 005",
+      "anchor_asset": "senka005",
+      "cover_asset": "senka005",
+      "member_codes": [
+        "senka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "senka005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/senka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/senka/#senka-type-005"
+    },
+    {
+      "id": "senka-type-006",
+      "character": "senka",
+      "label": "Типаж 006",
+      "anchor_asset": "senka006",
+      "cover_asset": "senka006",
+      "member_codes": [
+        "senka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "senka006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/senka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/senka/#senka-type-006"
+    },
+    {
+      "id": "dimka-type-001",
+      "character": "dimka",
+      "label": "Типаж 001",
+      "anchor_asset": "dimka001",
+      "cover_asset": "dimka001",
+      "member_codes": [
+        "dimka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-001"
+    },
+    {
+      "id": "dimka-type-002",
+      "character": "dimka",
+      "label": "Типаж 002",
+      "anchor_asset": "dimka002",
+      "cover_asset": "dimka002",
+      "member_codes": [
+        "dimka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-002"
+    },
+    {
+      "id": "dimka-type-003",
+      "character": "dimka",
+      "label": "Типаж 003",
+      "anchor_asset": "dimka003",
+      "cover_asset": "dimka003",
+      "member_codes": [
+        "dimka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-003"
+    },
+    {
+      "id": "dimka-type-004",
+      "character": "dimka",
+      "label": "Типаж 004",
+      "anchor_asset": "dimka004",
+      "cover_asset": "dimka004",
+      "member_codes": [
+        "dimka004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-004"
+    },
+    {
+      "id": "dimka-type-005",
+      "character": "dimka",
+      "label": "Типаж 005",
+      "anchor_asset": "dimka005",
+      "cover_asset": "dimka005",
+      "member_codes": [
+        "dimka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-005"
+    },
+    {
+      "id": "dimka-type-006",
+      "character": "dimka",
+      "label": "Типаж 006",
+      "anchor_asset": "dimka006",
+      "cover_asset": "dimka006",
+      "member_codes": [
+        "dimka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-006"
+    },
+    {
+      "id": "andrey-type-001",
+      "character": "andrey",
+      "label": "Типаж 001",
+      "anchor_asset": "andrey001",
+      "cover_asset": "andrey001",
+      "member_codes": [
+        "andrey001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andrey001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andrey/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andrey/#andrey-type-001"
+    },
+    {
+      "id": "andrey-type-002",
+      "character": "andrey",
+      "label": "Типаж 002",
+      "anchor_asset": "andrey002",
+      "cover_asset": "andrey002",
+      "member_codes": [
+        "andrey002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andrey002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andrey/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andrey/#andrey-type-002"
+    },
+    {
+      "id": "andrey-type-003",
+      "character": "andrey",
+      "label": "Типаж 003",
+      "anchor_asset": "andrey003",
+      "cover_asset": "andrey003",
+      "member_codes": [
+        "andrey003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andrey003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andrey/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andrey/#andrey-type-003"
+    },
+    {
+      "id": "andrey-type-004",
+      "character": "andrey",
+      "label": "Типаж 004",
+      "anchor_asset": "andrey004",
+      "cover_asset": "andrey004",
+      "member_codes": [
+        "andrey004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andrey004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andrey/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andrey/#andrey-type-004"
+    },
+    {
+      "id": "andrey-type-005",
+      "character": "andrey",
+      "label": "Типаж 005",
+      "anchor_asset": "andrey005",
+      "cover_asset": "andrey005",
+      "member_codes": [
+        "andrey005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andrey005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andrey/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andrey/#andrey-type-005"
+    },
+    {
+      "id": "andrey-type-006",
+      "character": "andrey",
+      "label": "Типаж 006",
+      "anchor_asset": "andrey006",
+      "cover_asset": "andrey006",
+      "member_codes": [
+        "andrey006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andrey006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andrey/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andrey/#andrey-type-006"
+    },
+    {
+      "id": "dimka-type-007",
+      "character": "dimka",
+      "label": "Типаж 007",
+      "anchor_asset": "dimka007",
+      "cover_asset": "dimka007",
+      "member_codes": [
+        "dimka007"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-007"
+    },
+    {
+      "id": "dimka-type-008",
+      "character": "dimka",
+      "label": "Типаж 008",
+      "anchor_asset": "dimka008",
+      "cover_asset": "dimka008",
+      "member_codes": [
+        "dimka008"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka008"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-008"
+    },
+    {
+      "id": "dimka-type-009",
+      "character": "dimka",
+      "label": "Типаж 009",
+      "anchor_asset": "dimka009",
+      "cover_asset": "dimka009",
+      "member_codes": [
+        "dimka009"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka009"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-009"
+    },
+    {
+      "id": "dimka-type-010",
+      "character": "dimka",
+      "label": "Типаж 010",
+      "anchor_asset": "dimka010",
+      "cover_asset": "dimka010",
+      "member_codes": [
+        "dimka010"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka010"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-010"
+    },
+    {
+      "id": "dimka-type-011",
+      "character": "dimka",
+      "label": "Типаж 011",
+      "anchor_asset": "dimka011",
+      "cover_asset": "dimka011",
+      "member_codes": [
+        "dimka011"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka011"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-011"
+    },
+    {
+      "id": "dimka-type-012",
+      "character": "dimka",
+      "label": "Типаж 012",
+      "anchor_asset": "dimka012",
+      "cover_asset": "dimka012",
+      "member_codes": [
+        "dimka012"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "dimka012"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/dimka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/dimka/#dimka-type-012"
+    },
+    {
+      "id": "emma-type-020",
+      "character": "emma",
+      "label": "Типаж 020",
+      "anchor_asset": "emma020",
+      "cover_asset": "emma023",
+      "member_codes": [
+        "emma023",
+        "emma020"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma023"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-020"
+    },
+    {
+      "id": "emma-type-021",
+      "character": "emma",
+      "label": "Типаж 021",
+      "anchor_asset": "emma021",
+      "cover_asset": "emma024",
+      "member_codes": [
+        "emma024",
+        "emma021"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma024"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-021"
+    },
+    {
+      "id": "emma-type-022",
+      "character": "emma",
+      "label": "Типаж 022",
+      "anchor_asset": "emma022",
+      "cover_asset": "emma025",
+      "member_codes": [
+        "emma025",
+        "emma022"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma025"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-022"
+    },
+    {
+      "id": "emma-type-016",
+      "character": "emma",
+      "label": "Типаж 016",
+      "anchor_asset": "emma016",
+      "cover_asset": "emma026",
+      "member_codes": [
+        "emma026",
+        "emma016"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma026"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-016"
+    },
+    {
+      "id": "emma-type-009",
+      "character": "emma",
+      "label": "Типаж 009 · открытый взгляд",
+      "anchor_asset": "emma009",
+      "cover_asset": "emma038",
+      "member_codes": [
+        "emma027",
+        "emma028",
+        "emma033",
+        "emma037",
+        "emma038",
+        "emma009",
+        "emma012",
+        "emma013"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity",
+        "Emma037 attachment matches resized Emma012: mean RGB absolute difference1.525/255; visually checked. Emma038 explicitly edits037. Age/color/frontal revisions belong to the same identity."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma027",
+        "emma028",
+        "emma033",
+        "emma037",
+        "emma038"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-009"
+    },
+    {
+      "id": "emma-type-015",
+      "character": "emma",
+      "label": "Типаж 015",
+      "anchor_asset": "emma015",
+      "cover_asset": "emma029",
+      "member_codes": [
+        "emma029",
+        "emma015"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma029"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-015"
+    },
+    {
+      "id": "emma-type-017",
+      "character": "emma",
+      "label": "Типаж 017",
+      "anchor_asset": "emma017",
+      "cover_asset": "emma030",
+      "member_codes": [
+        "emma030",
+        "emma017"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma030"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-017"
+    },
+    {
+      "id": "emma-type-018",
+      "character": "emma",
+      "label": "Типаж 018",
+      "anchor_asset": "emma018",
+      "cover_asset": "emma031",
+      "member_codes": [
+        "emma031",
+        "emma018"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma031"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-018"
+    },
+    {
+      "id": "emma-type-019",
+      "character": "emma",
+      "label": "Типаж 019",
+      "anchor_asset": "emma019",
+      "cover_asset": "emma032",
+      "member_codes": [
+        "emma032",
+        "emma019"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma032"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-019"
+    },
+    {
+      "id": "emma-type-003",
+      "character": "emma",
+      "label": "Типаж 003",
+      "anchor_asset": "emma003",
+      "cover_asset": "emma034",
+      "member_codes": [
+        "emma034",
+        "emma003"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma034"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-003"
+    },
+    {
+      "id": "emma-type-005",
+      "character": "emma",
+      "label": "Типаж 005",
+      "anchor_asset": "emma005",
+      "cover_asset": "emma035",
+      "member_codes": [
+        "emma035",
+        "emma005"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "emma035"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/emma/",
+      "url": "https://esannikov.github.io/Alive/World/characters/emma/#emma-type-005"
+    },
+    {
+      "id": "kolka-type-028",
+      "character": "kolka",
+      "label": "Типаж 028",
+      "anchor_asset": "kolka028",
+      "cover_asset": "kolka029",
+      "member_codes": [
+        "kolka029",
+        "kolka028"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kolka029"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-028"
+    },
+    {
+      "id": "kolka-type-026",
+      "character": "kolka",
+      "label": "Типаж 026",
+      "anchor_asset": "kolka026",
+      "cover_asset": "kolka030",
+      "member_codes": [
+        "kolka030",
+        "kolka026"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kolka030"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-026"
+    },
+    {
+      "id": "kolka-type-025",
+      "character": "kolka",
+      "label": "Типаж 025",
+      "anchor_asset": "kolka025",
+      "cover_asset": "kolka031",
+      "member_codes": [
+        "kolka031",
+        "kolka025"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kolka031"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-025"
+    },
+    {
+      "id": "kolka-type-027",
+      "character": "kolka",
+      "label": "Типаж 027",
+      "anchor_asset": "kolka027",
+      "cover_asset": "kolka032",
+      "member_codes": [
+        "kolka032",
+        "kolka027"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kolka032"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-027"
+    },
+    {
+      "id": "kolka-type-015",
+      "character": "kolka",
+      "label": "Типаж 015",
+      "anchor_asset": "kolka015",
+      "cover_asset": "kolka038",
+      "member_codes": [
+        "kolka033",
+        "kolka034",
+        "kolka035",
+        "kolka036",
+        "kolka015",
+        "kolka016",
+        "kolka017",
+        "kolka018",
+        "kolka038"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kolka033",
+        "kolka034",
+        "kolka035",
+        "kolka036",
+        "kolka038"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-015"
+    },
+    {
+      "id": "kolka-type-010",
+      "character": "kolka",
+      "label": "Типаж 010",
+      "anchor_asset": "kolka010",
+      "cover_asset": "kolka037",
+      "member_codes": [
+        "kolka037",
+        "kolka010"
+      ],
+      "grouping_basis": [
+        "Explicit identity-preserving provenance",
+        "Historical source/derivative in the same recorded identity"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kolka037"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kolka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kolka/#kolka-type-010"
+    },
+    {
+      "id": "vovik-type-007",
+      "character": "vovik",
+      "label": "Типаж 007",
+      "anchor_asset": "romik007",
+      "cover_asset": "romik007",
+      "member_codes": [
+        "romik007"
+      ],
+      "grouping_basis": [
+        "New Vovik casting in paired study; distinct from Romik despite similar faces."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "romik007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vovik/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vovik/#vovik-type-007"
+    },
+    {
+      "id": "kaluzhsky-type-001",
+      "character": "kaluzhsky",
+      "label": "Типаж 001",
+      "anchor_asset": "kaluzhsky001",
+      "cover_asset": "kaluzhsky001",
+      "member_codes": [
+        "kaluzhsky001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kaluzhsky001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/#kaluzhsky-type-001"
+    },
+    {
+      "id": "kaluzhsky-type-002",
+      "character": "kaluzhsky",
+      "label": "Типаж 002",
+      "anchor_asset": "kaluzhsky002",
+      "cover_asset": "kaluzhsky002",
+      "member_codes": [
+        "kaluzhsky002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kaluzhsky002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/#kaluzhsky-type-002"
+    },
+    {
+      "id": "kaluzhsky-type-003",
+      "character": "kaluzhsky",
+      "label": "Типаж 003",
+      "anchor_asset": "kaluzhsky003",
+      "cover_asset": "kaluzhsky003",
+      "member_codes": [
+        "kaluzhsky003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kaluzhsky003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/#kaluzhsky-type-003"
+    },
+    {
+      "id": "kaluzhsky-type-004",
+      "character": "kaluzhsky",
+      "label": "Типаж 004",
+      "anchor_asset": "kaluzhsky004",
+      "cover_asset": "kaluzhsky004",
+      "member_codes": [
+        "kaluzhsky004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kaluzhsky004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/#kaluzhsky-type-004"
+    },
+    {
+      "id": "kaluzhsky-type-005",
+      "character": "kaluzhsky",
+      "label": "Типаж 005",
+      "anchor_asset": "kaluzhsky005",
+      "cover_asset": "kaluzhsky005",
+      "member_codes": [
+        "kaluzhsky005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kaluzhsky005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/#kaluzhsky-type-005"
+    },
+    {
+      "id": "kaluzhsky-type-006",
+      "character": "kaluzhsky",
+      "label": "Типаж 006",
+      "anchor_asset": "kaluzhsky006",
+      "cover_asset": "kaluzhsky006",
+      "member_codes": [
+        "kaluzhsky006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "kaluzhsky006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/",
+      "url": "https://esannikov.github.io/Alive/World/characters/kaluzhsky/#kaluzhsky-type-006"
+    },
+    {
+      "id": "liza-type-001",
+      "character": "liza",
+      "label": "Типаж 001",
+      "anchor_asset": "liza001",
+      "cover_asset": "liza001",
+      "member_codes": [
+        "liza001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "liza001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/liza/",
+      "url": "https://esannikov.github.io/Alive/World/characters/liza/#liza-type-001"
+    },
+    {
+      "id": "liza-type-002",
+      "character": "liza",
+      "label": "Типаж 002",
+      "anchor_asset": "liza002",
+      "cover_asset": "liza002",
+      "member_codes": [
+        "liza002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "liza002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/liza/",
+      "url": "https://esannikov.github.io/Alive/World/characters/liza/#liza-type-002"
+    },
+    {
+      "id": "liza-type-003",
+      "character": "liza",
+      "label": "Типаж 003",
+      "anchor_asset": "liza003",
+      "cover_asset": "liza003",
+      "member_codes": [
+        "liza003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "liza003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/liza/",
+      "url": "https://esannikov.github.io/Alive/World/characters/liza/#liza-type-003"
+    },
+    {
+      "id": "liza-type-004",
+      "character": "liza",
+      "label": "Типаж 004",
+      "anchor_asset": "liza004",
+      "cover_asset": "liza004",
+      "member_codes": [
+        "liza004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "liza004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/liza/",
+      "url": "https://esannikov.github.io/Alive/World/characters/liza/#liza-type-004"
+    },
+    {
+      "id": "liza-type-005",
+      "character": "liza",
+      "label": "Типаж 005",
+      "anchor_asset": "liza005",
+      "cover_asset": "liza005",
+      "member_codes": [
+        "liza005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "liza005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/liza/",
+      "url": "https://esannikov.github.io/Alive/World/characters/liza/#liza-type-005"
+    },
+    {
+      "id": "liza-type-006",
+      "character": "liza",
+      "label": "Типаж 006",
+      "anchor_asset": "liza006",
+      "cover_asset": "liza006",
+      "member_codes": [
+        "liza006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "liza006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/liza/",
+      "url": "https://esannikov.github.io/Alive/World/characters/liza/#liza-type-006"
+    },
+    {
+      "id": "zheka-type-001",
+      "character": "zheka",
+      "label": "Типаж 001",
+      "anchor_asset": "zheka001",
+      "cover_asset": "zheka001",
+      "member_codes": [
+        "zheka001"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zheka001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-001"
+    },
+    {
+      "id": "zheka-type-002",
+      "character": "zheka",
+      "label": "Типаж 002",
+      "anchor_asset": "zheka002",
+      "cover_asset": "zheka002",
+      "member_codes": [
+        "zheka002"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zheka002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-002"
+    },
+    {
+      "id": "zheka-type-003",
+      "character": "zheka",
+      "label": "Типаж 003",
+      "anchor_asset": "zheka003",
+      "cover_asset": "zheka003",
+      "member_codes": [
+        "zheka003"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zheka003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-003"
+    },
+    {
+      "id": "zheka-type-004",
+      "character": "zheka",
+      "label": "Типаж 004",
+      "anchor_asset": "zheka004",
+      "cover_asset": "zheka004",
+      "member_codes": [
+        "zheka004"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zheka004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-004"
+    },
+    {
+      "id": "zheka-type-005",
+      "character": "zheka",
+      "label": "Типаж 005",
+      "anchor_asset": "zheka005",
+      "cover_asset": "zheka005",
+      "member_codes": [
+        "zheka005"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zheka005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-005"
+    },
+    {
+      "id": "zheka-type-006",
+      "character": "zheka",
+      "label": "Типаж 006",
+      "anchor_asset": "zheka006",
+      "cover_asset": "zheka006",
+      "member_codes": [
+        "zheka006"
+      ],
+      "grouping_basis": [
+        "Independent casting candidate"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zheka006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zheka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zheka/#zheka-type-006"
+    },
+    {
+      "id": "masha-type-009",
+      "character": "masha",
+      "label": "Типаж 009 · тёмная коса",
+      "anchor_asset": "masha009",
+      "cover_asset": "masha009",
+      "member_codes": [
+        "masha009"
+      ],
+      "grouping_basis": [
+        "New independent casting candidate; not an identity-preserving edit of Nitka or Masha007."
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "masha009"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/masha/",
+      "url": "https://esannikov.github.io/Alive/World/characters/masha/#masha-type-009"
+    },
+    {
+      "id": "andryushka-type-001",
+      "character": "andryushka",
+      "label": "Типаж 001 · каштановые кудри",
+      "anchor_asset": "andryushka001",
+      "cover_asset": "andryushka001",
+      "member_codes": [
+        "andryushka001",
+        "andryushka007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka001",
+        "andryushka007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-001"
+    },
+    {
+      "id": "andryushka-type-002",
+      "character": "andryushka",
+      "label": "Типаж 002 · светлые кудри",
+      "anchor_asset": "andryushka002",
+      "cover_asset": "andryushka002",
+      "member_codes": [
+        "andryushka002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-002"
+    },
+    {
+      "id": "andryushka-type-003",
+      "character": "andryushka",
+      "label": "Типаж 003 · тёмные кудри",
+      "anchor_asset": "andryushka003",
+      "cover_asset": "andryushka003",
+      "member_codes": [
+        "andryushka003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-003"
+    },
+    {
+      "id": "andryushka-type-004",
+      "character": "andryushka",
+      "label": "Типаж 004 · рыжие кольца",
+      "anchor_asset": "andryushka004",
+      "cover_asset": "andryushka004",
+      "member_codes": [
+        "andryushka004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-004"
+    },
+    {
+      "id": "andryushka-type-005",
+      "character": "andryushka",
+      "label": "Типаж 005 · короткие чёрные кудри",
+      "anchor_asset": "andryushka005",
+      "cover_asset": "andryushka005",
+      "member_codes": [
+        "andryushka005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-005"
+    },
+    {
+      "id": "andryushka-type-006",
+      "character": "andryushka",
+      "label": "Типаж 006 · русые кудри",
+      "anchor_asset": "andryushka006",
+      "cover_asset": "andryushka006",
+      "member_codes": [
+        "andryushka006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "andryushka006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/andryushka/",
+      "url": "https://esannikov.github.io/Alive/World/characters/andryushka/#andryushka-type-006"
+    },
+    {
+      "id": "zoya-type-001",
+      "character": "zoya",
+      "label": "Типаж 001 · чёрное каре",
+      "anchor_asset": "zoya001",
+      "cover_asset": "zoya001",
+      "member_codes": [
+        "zoya001",
+        "zoya007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба",
+        "Сюжетный кадр использует портрет 001 как референс"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya001",
+        "zoya007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-001"
+    },
+    {
+      "id": "zoya-type-002",
+      "character": "zoya",
+      "label": "Типаж 002 · полусобранные волосы",
+      "anchor_asset": "zoya002",
+      "cover_asset": "zoya002",
+      "member_codes": [
+        "zoya002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-002"
+    },
+    {
+      "id": "zoya-type-003",
+      "character": "zoya",
+      "label": "Типаж 003 · короткая стрижка",
+      "anchor_asset": "zoya003",
+      "cover_asset": "zoya003",
+      "member_codes": [
+        "zoya003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-003"
+    },
+    {
+      "id": "zoya-type-004",
+      "character": "zoya",
+      "label": "Типаж 004 · мягкие волны",
+      "anchor_asset": "zoya004",
+      "cover_asset": "zoya004",
+      "member_codes": [
+        "zoya004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-004"
+    },
+    {
+      "id": "zoya-type-005",
+      "character": "zoya",
+      "label": "Типаж 005 · низкий хвост",
+      "anchor_asset": "zoya005",
+      "cover_asset": "zoya005",
+      "member_codes": [
+        "zoya005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-005"
+    },
+    {
+      "id": "zoya-type-006",
+      "character": "zoya",
+      "label": "Типаж 006 · коса",
+      "anchor_asset": "zoya006",
+      "cover_asset": "zoya006",
+      "member_codes": [
+        "zoya006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "zoya006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/zoya/",
+      "url": "https://esannikov.github.io/Alive/World/characters/zoya/#zoya-type-006"
+    },
+    {
+      "id": "vaska-type-001",
+      "character": "vaska",
+      "label": "Типаж 001 · широкие скулы",
+      "anchor_asset": "vaska001",
+      "cover_asset": "vaska001",
+      "member_codes": [
+        "vaska001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-001"
+    },
+    {
+      "id": "vaska-type-002",
+      "character": "vaska",
+      "label": "Типаж 002 · веснушки и курчавые волосы",
+      "anchor_asset": "vaska002",
+      "cover_asset": "vaska002",
+      "member_codes": [
+        "vaska002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-002"
+    },
+    {
+      "id": "vaska-type-003",
+      "character": "vaska",
+      "label": "Типаж 003 · прямые брови",
+      "anchor_asset": "vaska003",
+      "cover_asset": "vaska003",
+      "member_codes": [
+        "vaska003"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska003"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-003"
+    },
+    {
+      "id": "vaska-type-004",
+      "character": "vaska",
+      "label": "Типаж 004 · узкий овал",
+      "anchor_asset": "vaska004",
+      "cover_asset": "vaska004",
+      "member_codes": [
+        "vaska004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-004"
+    },
+    {
+      "id": "vaska-type-005",
+      "character": "vaska",
+      "label": "Типаж 005 · округлая челюсть",
+      "anchor_asset": "vaska005",
+      "cover_asset": "vaska005",
+      "member_codes": [
+        "vaska005"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska005"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-005"
+    },
+    {
+      "id": "vaska-type-006",
+      "character": "vaska",
+      "label": "Типаж 006 · выраженная переносица",
+      "anchor_asset": "vaska006",
+      "cover_asset": "vaska006",
+      "member_codes": [
+        "vaska006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "vaska006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/vaska/",
+      "url": "https://esannikov.github.io/Alive/World/characters/vaska/#vaska-type-006"
+    },
+    {
+      "id": "klin-type-001",
+      "character": "klin",
+      "label": "Типаж 001 · вытянутое лицо",
+      "anchor_asset": "klin001",
+      "cover_asset": "klin001",
+      "member_codes": [
+        "klin001"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin001"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-001"
+    },
+    {
+      "id": "klin-type-002",
+      "character": "klin",
+      "label": "Типаж 002 · тяжёлые веки",
+      "anchor_asset": "klin002",
+      "cover_asset": "klin002",
+      "member_codes": [
+        "klin002"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin002"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-002"
+    },
+    {
+      "id": "klin-type-003",
+      "character": "klin",
+      "label": "Типаж 003 · короткие завитки · выраженная линия челюсти",
+      "anchor_asset": "klin003",
+      "cover_asset": "klin007",
+      "member_codes": [
+        "klin003",
+        "klin007"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin007"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-003"
+    },
+    {
+      "id": "klin-type-004",
+      "character": "klin",
+      "label": "Типаж 004 · острые скулы",
+      "anchor_asset": "klin004",
+      "cover_asset": "klin004",
+      "member_codes": [
+        "klin004"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin004"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-004"
+    },
+    {
+      "id": "klin-type-005",
+      "character": "klin",
+      "label": "Типаж 005 · корейский типаж · удлинённый овал",
+      "anchor_asset": "klin005",
+      "cover_asset": "klin009",
+      "member_codes": [
+        "klin005",
+        "klin008",
+        "klin009"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin009"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-005"
+    },
+    {
+      "id": "klin-type-006",
+      "character": "klin",
+      "label": "Типаж 006 · ломаная линия бровей",
+      "anchor_asset": "klin006",
+      "cover_asset": "klin006",
+      "member_codes": [
+        "klin006"
+      ],
+      "grouping_basis": [
+        "Самостоятельная кастинговая проба"
+      ],
+      "design_acceptance": "not_implied",
+      "active_asset_codes": [
+        "klin006"
+      ],
+      "gallery": "https://esannikov.github.io/Alive/World/characters/klin/",
+      "url": "https://esannikov.github.io/Alive/World/characters/klin/#klin-type-006"
+    }
+  ],
+  "assets": {
+    "fedor009": {
+      "identity_variant_ids": {
+        "fedor": "fedor-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "fedor": "portrait"
+      },
+      "archived": false,
+      "page": "characters/fedor/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/1040530e4ab6050b735804abdf88d6e5825f2a25/docs/FedorSix/images/fedor-09.png"
+    },
+    "nitka007": {
+      "identity_variant_ids": {
+        "nitka": "nitka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "nitka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/nitka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ffcbeeac10135a214bc880a971d911d488f2655a/docs/World/characters/nitka/images/nitka007.png"
+    },
+    "nitka008": {
+      "identity_variant_ids": {
+        "nitka": "nitka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "nitka": "scene"
+      },
+      "archived": false,
+      "page": "characters/nitka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ffcbeeac10135a214bc880a971d911d488f2655a/docs/World/characters/nitka/images/nitka008.png"
+    },
+    "valek018": {
+      "identity_variant_ids": {
+        "valek": "valek-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "valek": "portrait"
+      },
+      "archived": false,
+      "page": "characters/valek/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/df12d5372cdefbca3c11c624b10d1bb0352b0701/docs/World/characters/valek/images/valek018.png"
+    },
+    "katya001": {
+      "identity_variant_ids": {
+        "katya": "katya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "katya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/katya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d/docs/World/characters/katya/images/katya001.png"
+    },
+    "katya002": {
+      "identity_variant_ids": {
+        "katya": "katya-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "katya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/katya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d/docs/World/characters/katya/images/katya002.png"
+    },
+    "katya005": {
+      "identity_variant_ids": {
+        "katya": "katya-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "katya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/katya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d/docs/World/characters/katya/images/katya005.png"
+    },
+    "katya006": {
+      "identity_variant_ids": {
+        "katya": "katya-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "katya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/katya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/e6462a794c3c3e33a65efd90fd09ae3a8c2fde4d/docs/World/characters/katya/images/katya006.png"
+    },
+    "ilya001": {
+      "identity_variant_ids": {
+        "ilya": "ilya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "ilya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ilya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/47ee7739f9d8a404458adf812fbe83b90da59edf/docs/World/characters/ilya/images/ilya001.png"
+    },
+    "ilya002": {
+      "identity_variant_ids": {
+        "ilya": "ilya-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "ilya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ilya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/47ee7739f9d8a404458adf812fbe83b90da59edf/docs/World/characters/ilya/images/ilya002.png"
+    },
+    "ilya004": {
+      "identity_variant_ids": {
+        "ilya": "ilya-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "ilya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ilya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/47ee7739f9d8a404458adf812fbe83b90da59edf/docs/World/characters/ilya/images/ilya004.png"
+    },
+    "ilya005": {
+      "identity_variant_ids": {
+        "ilya": "ilya-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "ilya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ilya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/47ee7739f9d8a404458adf812fbe83b90da59edf/docs/World/characters/ilya/images/ilya005.png"
+    },
+    "ilya006": {
+      "identity_variant_ids": {
+        "ilya": "ilya-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "ilya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ilya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/47ee7739f9d8a404458adf812fbe83b90da59edf/docs/World/characters/ilya/images/ilya006.png"
+    },
+    "sonya001": {
+      "identity_variant_ids": {
+        "sonya": "sonya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "sonya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/sonya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3c066513aeff9bc75d29ff6a8f238071448f05db/docs/World/characters/sonya/images/sonya001.png"
+    },
+    "sonya002": {
+      "identity_variant_ids": {
+        "sonya": "sonya-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "sonya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/sonya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3c066513aeff9bc75d29ff6a8f238071448f05db/docs/World/characters/sonya/images/sonya002.png"
+    },
+    "sonya003": {
+      "identity_variant_ids": {
+        "sonya": "sonya-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "sonya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/sonya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3c066513aeff9bc75d29ff6a8f238071448f05db/docs/World/characters/sonya/images/sonya003.png"
+    },
+    "sonya005": {
+      "identity_variant_ids": {
+        "sonya": "sonya-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "sonya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/sonya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3c066513aeff9bc75d29ff6a8f238071448f05db/docs/World/characters/sonya/images/sonya005.png"
+    },
+    "sonya006": {
+      "identity_variant_ids": {
+        "sonya": "sonya-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "sonya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/sonya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3c066513aeff9bc75d29ff6a8f238071448f05db/docs/World/characters/sonya/images/sonya006.png"
+    },
+    "zhanna001": {
+      "identity_variant_ids": {
+        "zhanna": "zhanna-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna001.png"
+    },
+    "zhanna002": {
+      "identity_variant_ids": {
+        "zhanna": "zhanna-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna002.png"
+    },
+    "zhanna003": {
+      "identity_variant_ids": {
+        "zhanna": "zhanna-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna003.png"
+    },
+    "zhanna004": {
+      "identity_variant_ids": {
+        "zhanna": "zhanna-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zhanna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna004.png"
+    },
+    "zhanna005": {
+      "identity_variant_ids": {
+        "zhanna": "zhanna-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zhanna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna005.png"
+    },
+    "zhanna006": {
+      "identity_variant_ids": {
+        "zhanna": "zhanna-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "zhanna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zhanna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2660564ea3369e22d43c2125aefe639215833c45/docs/World/characters/zhanna/images/zhanna006.png"
+    },
+    "rita001": {
+      "identity_variant_ids": {
+        "rita": "rita-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/954fc0e6aa0ef107c9f6d838cb81458f738e1c6e/docs/World/characters/rita/images/rita001.png"
+    },
+    "rita002": {
+      "identity_variant_ids": {
+        "rita": "rita-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/954fc0e6aa0ef107c9f6d838cb81458f738e1c6e/docs/World/characters/rita/images/rita002.png"
+    },
+    "rita003": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/954fc0e6aa0ef107c9f6d838cb81458f738e1c6e/docs/World/characters/rita/images/rita003.png"
+    },
+    "rita004": {
+      "identity_variant_ids": {
+        "rita": "rita-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/954fc0e6aa0ef107c9f6d838cb81458f738e1c6e/docs/World/characters/rita/images/rita004.png"
+    },
+    "rita005": {
+      "identity_variant_ids": {
+        "rita": "rita-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/954fc0e6aa0ef107c9f6d838cb81458f738e1c6e/docs/World/characters/rita/images/rita005.png"
+    },
+    "rita006": {
+      "identity_variant_ids": {
+        "rita": "rita-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/954fc0e6aa0ef107c9f6d838cb81458f738e1c6e/docs/World/characters/rita/images/rita006.png"
+    },
+    "krendel004": {
+      "identity_variant_ids": {
+        "krendel": "krendel-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "krendel": "portrait"
+      },
+      "archived": false,
+      "page": "characters/krendel/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/185afbdee6b6d9aff0b255e7f532e550e54d31a5/docs/World/characters/krendel/images/krendel004.png"
+    },
+    "krendel006": {
+      "identity_variant_ids": {
+        "krendel": "krendel-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "krendel": "portrait"
+      },
+      "archived": false,
+      "page": "characters/krendel/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/185afbdee6b6d9aff0b255e7f532e550e54d31a5/docs/World/characters/krendel/images/krendel006.png"
+    },
+    "masha007": {
+      "identity_variant_ids": {
+        "masha": "masha-type-007"
+      },
+      "review_required": {},
+      "roles": {
+        "masha": "portrait"
+      },
+      "archived": false,
+      "page": "characters/masha/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/500252911ef67cda762b3f01d6fbd7ee37a303dc/docs/World/characters/masha/images/masha007.png"
+    },
+    "vovik001": {
+      "identity_variant_ids": {
+        "vovik": "vovik-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "vovik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vovik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a/docs/World/characters/vovik/images/vovik001.png"
+    },
+    "vovik002": {
+      "identity_variant_ids": {
+        "vovik": "vovik-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "vovik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vovik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a/docs/World/characters/vovik/images/vovik002.png"
+    },
+    "vovik003": {
+      "identity_variant_ids": {
+        "vovik": "vovik-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "vovik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vovik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a/docs/World/characters/vovik/images/vovik003.png"
+    },
+    "vovik004": {
+      "identity_variant_ids": {
+        "vovik": "vovik-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "vovik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vovik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a/docs/World/characters/vovik/images/vovik004.png"
+    },
+    "vovik005": {
+      "identity_variant_ids": {
+        "vovik": "vovik-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "vovik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vovik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a/docs/World/characters/vovik/images/vovik005.png"
+    },
+    "vovik006": {
+      "identity_variant_ids": {
+        "vovik": "vovik-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "vovik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vovik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ecafed5c3d3110a6fd45a0a7fb60c0dc6a32b74a/docs/World/characters/vovik/images/vovik006.png"
+    },
+    "egor007": {
+      "identity_variant_ids": {
+        "egor": "egor-type-007"
+      },
+      "review_required": {},
+      "roles": {
+        "egor": "portrait"
+      },
+      "archived": false,
+      "page": "characters/egor/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/a4bf431cfa447deaca3e05d79df8c728012916e1/docs/World/characters/egor/images/egor007.png"
+    },
+    "fedor031": {
+      "identity_variant_ids": {
+        "fedor": "fedor-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "fedor": "portrait"
+      },
+      "archived": false,
+      "page": "characters/fedor/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/a4bf431cfa447deaca3e05d79df8c728012916e1/docs/World/characters/fedor/images/fedor031.png"
+    },
+    "kir001": {
+      "identity_variant_ids": {
+        "kir": "kir-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "kir": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kir/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kir/images/kir001.webp"
+    },
+    "kir002": {
+      "identity_variant_ids": {
+        "kir": "kir-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "kir": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kir/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kir/images/kir002.webp"
+    },
+    "kir003": {
+      "identity_variant_ids": {
+        "kir": "kir-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "kir": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kir/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kir/images/kir003.webp"
+    },
+    "kir004": {
+      "identity_variant_ids": {
+        "kir": "kir-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "kir": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kir/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kir/images/kir004.webp"
+    },
+    "kir005": {
+      "identity_variant_ids": {
+        "kir": "kir-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "kir": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kir/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kir/images/kir005.webp"
+    },
+    "kir006": {
+      "identity_variant_ids": {
+        "kir": "kir-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "kir": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kir/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kir/images/kir006.webp"
+    },
+    "tais053": {
+      "identity_variant_ids": {
+        "tais": "tais-type-053"
+      },
+      "review_required": {},
+      "roles": {
+        "tais": "portrait"
+      },
+      "archived": false,
+      "page": "characters/tais/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/616158e8f3db6e09932c179d7b3db1ba573bb2d0/docs/World/characters/tais/images/tais053.webp"
+    },
+    "tais057": {
+      "identity_variant_ids": {
+        "tais": "tais-type-053"
+      },
+      "review_required": {},
+      "roles": {
+        "tais": "portrait"
+      },
+      "archived": false,
+      "page": "characters/tais/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/616158e8f3db6e09932c179d7b3db1ba573bb2d0/docs/World/characters/tais/images/tais057.webp"
+    },
+    "tais059": {
+      "identity_variant_ids": {
+        "tais": "tais-type-059"
+      },
+      "review_required": {},
+      "roles": {
+        "tais": "portrait"
+      },
+      "archived": false,
+      "page": "characters/tais/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/616158e8f3db6e09932c179d7b3db1ba573bb2d0/docs/World/characters/tais/images/tais059.webp"
+    },
+    "tais060": {
+      "identity_variant_ids": {
+        "tais": "tais-type-053"
+      },
+      "review_required": {},
+      "roles": {
+        "tais": "portrait"
+      },
+      "archived": false,
+      "page": "characters/tais/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/616158e8f3db6e09932c179d7b3db1ba573bb2d0/docs/World/characters/tais/images/tais060.webp"
+    },
+    "tais061": {
+      "identity_variant_ids": {
+        "tais": "tais-type-053"
+      },
+      "review_required": {},
+      "roles": {
+        "tais": "portrait"
+      },
+      "archived": false,
+      "page": "characters/tais/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/616158e8f3db6e09932c179d7b3db1ba573bb2d0/docs/World/characters/tais/images/tais061.webp"
+    },
+    "masha008": {
+      "identity_variant_ids": {
+        "masha": "masha-type-007",
+        "romik": "romik-type-002",
+        "kristinka": "kristinka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "masha": "scene",
+        "romik": "scene",
+        "kristinka": "scene"
+      },
+      "archived": false,
+      "page": "characters/masha/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/masha/images/masha008.webp"
+    },
+    "romik001": {
+      "identity_variant_ids": {
+        "romik": "romik-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/romik/images/romik001.webp"
+    },
+    "romik002": {
+      "identity_variant_ids": {
+        "romik": "romik-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/romik/images/romik002.webp"
+    },
+    "romik003": {
+      "identity_variant_ids": {
+        "romik": "romik-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/romik/images/romik003.webp"
+    },
+    "romik004": {
+      "identity_variant_ids": {
+        "romik": "romik-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/romik/images/romik004.webp"
+    },
+    "romik005": {
+      "identity_variant_ids": {
+        "romik": "romik-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/romik/images/romik005.webp"
+    },
+    "romik006": {
+      "identity_variant_ids": {
+        "romik": "romik-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "portrait"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/romik/images/romik006.webp"
+    },
+    "kristinka001": {
+      "identity_variant_ids": {
+        "kristinka": "kristinka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kristinka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/kristinka/images/kristinka001.webp"
+    },
+    "kristinka002": {
+      "identity_variant_ids": {
+        "kristinka": "kristinka-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kristinka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/kristinka/images/kristinka002.webp"
+    },
+    "kristinka003": {
+      "identity_variant_ids": {
+        "kristinka": "kristinka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kristinka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/kristinka/images/kristinka003.webp"
+    },
+    "kristinka004": {
+      "identity_variant_ids": {
+        "kristinka": "kristinka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kristinka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/kristinka/images/kristinka004.webp"
+    },
+    "kristinka005": {
+      "identity_variant_ids": {
+        "kristinka": "kristinka-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kristinka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/kristinka/images/kristinka005.webp"
+    },
+    "kristinka006": {
+      "identity_variant_ids": {
+        "kristinka": "kristinka-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "kristinka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kristinka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/2271a05229c2acb0d76d2c78890624ab23331028/docs/World/characters/kristinka/images/kristinka006.webp"
+    },
+    "dina001": {
+      "identity_variant_ids": {
+        "dina": "dina-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "dina": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dina/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/dina/images/dina001.webp"
+    },
+    "dina002": {
+      "identity_variant_ids": {
+        "dina": "dina-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "dina": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dina/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/dina/images/dina002.webp"
+    },
+    "dina003": {
+      "identity_variant_ids": {
+        "dina": "dina-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "dina": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dina/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/dina/images/dina003.webp"
+    },
+    "dina004": {
+      "identity_variant_ids": {
+        "dina": "dina-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "dina": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dina/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/dina/images/dina004.webp"
+    },
+    "dina005": {
+      "identity_variant_ids": {
+        "dina": "dina-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "dina": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dina/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/dina/images/dina005.webp"
+    },
+    "dina006": {
+      "identity_variant_ids": {
+        "dina": "dina-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "dina": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dina/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/dina/images/dina006.webp"
+    },
+    "inna001": {
+      "identity_variant_ids": {
+        "inna": "inna-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "inna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/inna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/inna/images/inna001.webp"
+    },
+    "inna002": {
+      "identity_variant_ids": {
+        "inna": "inna-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "inna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/inna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/inna/images/inna002.webp"
+    },
+    "inna003": {
+      "identity_variant_ids": {
+        "inna": "inna-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "inna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/inna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/inna/images/inna003.webp"
+    },
+    "inna004": {
+      "identity_variant_ids": {
+        "inna": "inna-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "inna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/inna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/inna/images/inna004.webp"
+    },
+    "inna005": {
+      "identity_variant_ids": {
+        "inna": "inna-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "inna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/inna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/inna/images/inna005.webp"
+    },
+    "inna006": {
+      "identity_variant_ids": {
+        "inna": "inna-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "inna": "portrait"
+      },
+      "archived": false,
+      "page": "characters/inna/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/inna/images/inna006.webp"
+    },
+    "rita007": {
+      "identity_variant_ids": {
+        "rita": "rita-type-001",
+        "dina": "dina-type-005",
+        "inna": "inna-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "scene",
+        "dina": "scene",
+        "inna": "scene"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/81fa6bd3226df33d3b2c58a58327536460c4a8ed/docs/World/characters/rita/images/rita007.webp"
+    },
+    "semen001": {
+      "identity_variant_ids": {
+        "semen": "semen-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "semen": "portrait"
+      },
+      "archived": false,
+      "page": "characters/semen/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/semen/images/semen001.webp"
+    },
+    "semen002": {
+      "identity_variant_ids": {
+        "semen": "semen-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "semen": "portrait"
+      },
+      "archived": false,
+      "page": "characters/semen/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/semen/images/semen002.webp"
+    },
+    "semen003": {
+      "identity_variant_ids": {
+        "semen": "semen-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "semen": "portrait"
+      },
+      "archived": false,
+      "page": "characters/semen/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/semen/images/semen003.webp"
+    },
+    "semen004": {
+      "identity_variant_ids": {
+        "semen": "semen-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "semen": "portrait"
+      },
+      "archived": false,
+      "page": "characters/semen/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/semen/images/semen004.webp"
+    },
+    "semen005": {
+      "identity_variant_ids": {
+        "semen": "semen-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "semen": "portrait"
+      },
+      "archived": false,
+      "page": "characters/semen/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/semen/images/semen005.webp"
+    },
+    "semen006": {
+      "identity_variant_ids": {
+        "semen": "semen-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "semen": "portrait"
+      },
+      "archived": false,
+      "page": "characters/semen/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/semen/images/semen006.webp"
+    },
+    "ira001": {
+      "identity_variant_ids": {
+        "ira": "ira-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "ira": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira001.webp"
+    },
+    "ira002": {
+      "identity_variant_ids": {
+        "ira": "ira-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "ira": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira002.webp"
+    },
+    "ira003": {
+      "identity_variant_ids": {
+        "ira": "ira-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "ira": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira003.webp"
+    },
+    "ira004": {
+      "identity_variant_ids": {
+        "ira": "ira-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "ira": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira004.webp"
+    },
+    "ira005": {
+      "identity_variant_ids": {
+        "ira": "ira-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "ira": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira005.webp"
+    },
+    "ira006": {
+      "identity_variant_ids": {
+        "ira": "ira-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "ira": "portrait"
+      },
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira006.webp"
+    },
+    "senka001": {
+      "identity_variant_ids": {
+        "senka": "senka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "senka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka001.webp"
+    },
+    "senka002": {
+      "identity_variant_ids": {
+        "senka": "senka-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "senka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka002.webp"
+    },
+    "senka003": {
+      "identity_variant_ids": {
+        "senka": "senka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "senka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka003.webp"
+    },
+    "senka004": {
+      "identity_variant_ids": {
+        "senka": "senka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "senka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka004.webp"
+    },
+    "senka005": {
+      "identity_variant_ids": {
+        "senka": "senka-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "senka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka005.webp"
+    },
+    "senka006": {
+      "identity_variant_ids": {
+        "senka": "senka-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "senka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka006.webp"
+    },
+    "ira007": {
+      "identity_variant_ids": {},
+      "review_required": {
+        "ira": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "zhanna": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически."
+      },
+      "roles": {},
+      "archived": false,
+      "page": "characters/ira/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/ira/images/ira007.webp"
+    },
+    "senka007": {
+      "identity_variant_ids": {},
+      "review_required": {
+        "senka": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "rita": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "dina": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически.",
+        "inna": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически."
+      },
+      "roles": {},
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/20fc496102265a3f63455c316bd909929a475878/docs/World/characters/senka/images/senka007.webp"
+    },
+    "fedor033": {
+      "identity_variant_ids": {
+        "fedor": "fedor-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "fedor": "portrait"
+      },
+      "archived": false,
+      "page": "characters/fedor/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/fedor/images/fedor033.png"
+    },
+    "dimka001": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/dimka/images/dimka001.png"
+    },
+    "dimka002": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/dimka/images/dimka002.png"
+    },
+    "dimka003": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/dimka/images/dimka003.png"
+    },
+    "dimka004": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/dimka/images/dimka004.png"
+    },
+    "dimka005": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/dimka/images/dimka005.png"
+    },
+    "dimka006": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/dimka/images/dimka006.png"
+    },
+    "andrey001": {
+      "identity_variant_ids": {
+        "andrey": "andrey-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "andrey": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andrey/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey001.png"
+    },
+    "andrey002": {
+      "identity_variant_ids": {
+        "andrey": "andrey-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "andrey": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andrey/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey002.png"
+    },
+    "andrey003": {
+      "identity_variant_ids": {
+        "andrey": "andrey-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "andrey": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andrey/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey003.png"
+    },
+    "andrey004": {
+      "identity_variant_ids": {
+        "andrey": "andrey-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "andrey": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andrey/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey004.png"
+    },
+    "andrey005": {
+      "identity_variant_ids": {
+        "andrey": "andrey-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "andrey": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andrey/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey005.png"
+    },
+    "andrey006": {
+      "identity_variant_ids": {
+        "andrey": "andrey-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "andrey": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andrey/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3b496f9225dd84b68111c8ae2a24fc5422e5f3d2/docs/World/characters/andrey/images/andrey006.png"
+    },
+    "dimka007": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-007"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka007.webp"
+    },
+    "dimka008": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-008"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka008.webp"
+    },
+    "dimka009": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka009.webp"
+    },
+    "dimka010": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-010"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka010.webp"
+    },
+    "dimka011": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-011"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka011.webp"
+    },
+    "dimka012": {
+      "identity_variant_ids": {
+        "dimka": "dimka-type-012"
+      },
+      "review_required": {},
+      "roles": {
+        "dimka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/dimka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ceeb93446e6f864d44dd629360985da022c02972/docs/World/characters/dimka/images/dimka012.webp"
+    },
+    "emma023": {
+      "identity_variant_ids": {
+        "emma": "emma-type-020"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma023.png"
+    },
+    "emma024": {
+      "identity_variant_ids": {
+        "emma": "emma-type-021"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma024.png"
+    },
+    "emma025": {
+      "identity_variant_ids": {
+        "emma": "emma-type-022"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma025.png"
+    },
+    "emma026": {
+      "identity_variant_ids": {
+        "emma": "emma-type-016"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma026.png"
+    },
+    "emma027": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma027.png"
+    },
+    "emma028": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma028.png"
+    },
+    "emma029": {
+      "identity_variant_ids": {
+        "emma": "emma-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma029.png"
+    },
+    "emma030": {
+      "identity_variant_ids": {
+        "emma": "emma-type-017"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma030.png"
+    },
+    "emma031": {
+      "identity_variant_ids": {
+        "emma": "emma-type-018"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma031.png"
+    },
+    "emma032": {
+      "identity_variant_ids": {
+        "emma": "emma-type-019"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma032.png"
+    },
+    "emma033": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma033.png"
+    },
+    "emma034": {
+      "identity_variant_ids": {
+        "emma": "emma-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma034.png"
+    },
+    "emma035": {
+      "identity_variant_ids": {
+        "emma": "emma-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma035.png"
+    },
+    "emma036": {
+      "identity_variant_ids": {},
+      "review_required": {
+        "emma": "Не подтверждён исходный типаж; не объединять по внешнему сходству автоматически."
+      },
+      "roles": {},
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma036.png"
+    },
+    "kolka029": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-028"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/kolka/images/kolka029.png"
+    },
+    "kolka030": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-026"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/kolka/images/kolka030.png"
+    },
+    "kolka031": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-025"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/kolka/images/kolka031.png"
+    },
+    "kolka032": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-027"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/kolka/images/kolka032.png"
+    },
+    "kolka033": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/cbbb72ac88775cccdc50bff852dd8c0ea7220422/docs/World/characters/kolka/images/kolka033.png"
+    },
+    "kolka034": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/cbbb72ac88775cccdc50bff852dd8c0ea7220422/docs/World/characters/kolka/images/kolka034.png"
+    },
+    "kolka035": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/cbbb72ac88775cccdc50bff852dd8c0ea7220422/docs/World/characters/kolka/images/kolka035.png"
+    },
+    "kolka036": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/cbbb72ac88775cccdc50bff852dd8c0ea7220422/docs/World/characters/kolka/images/kolka036.png"
+    },
+    "kolka037": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-010"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/kolka/images/kolka037.png"
+    },
+    "emma037": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5666627618c51b3017269062394eeb0b6289ea7c/docs/World/characters/emma/images/emma037.png"
+    },
+    "emma038": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "portrait"
+      },
+      "archived": false,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3e8bbae976bb69bfcd215327adc8ae200ca7ba30/docs/World/characters/emma/images/emma038.png"
+    },
+    "romik007": {
+      "identity_variant_ids": {
+        "romik": "romik-type-002",
+        "vovik": "vovik-type-007"
+      },
+      "review_required": {},
+      "roles": {
+        "romik": "scene",
+        "vovik": "scene"
+      },
+      "archived": false,
+      "page": "characters/romik/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/3edfe2a4504283e443a886846e78950042d0a30f/docs/World/characters/romik/images/romik007.png"
+    },
+    "kaluzhsky001": {
+      "identity_variant_ids": {
+        "kaluzhsky": "kaluzhsky-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kaluzhsky/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/kaluzhsky/images/kaluzhsky001.png"
+    },
+    "kaluzhsky002": {
+      "identity_variant_ids": {
+        "kaluzhsky": "kaluzhsky-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kaluzhsky/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/kaluzhsky/images/kaluzhsky002.png"
+    },
+    "kaluzhsky003": {
+      "identity_variant_ids": {
+        "kaluzhsky": "kaluzhsky-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kaluzhsky/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/kaluzhsky/images/kaluzhsky003.png"
+    },
+    "kaluzhsky004": {
+      "identity_variant_ids": {
+        "kaluzhsky": "kaluzhsky-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kaluzhsky/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/kaluzhsky/images/kaluzhsky004.png"
+    },
+    "kaluzhsky005": {
+      "identity_variant_ids": {
+        "kaluzhsky": "kaluzhsky-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kaluzhsky/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/kaluzhsky/images/kaluzhsky005.png"
+    },
+    "kaluzhsky006": {
+      "identity_variant_ids": {
+        "kaluzhsky": "kaluzhsky-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "kaluzhsky": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kaluzhsky/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/kaluzhsky/images/kaluzhsky006.png"
+    },
+    "liza001": {
+      "identity_variant_ids": {
+        "liza": "liza-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "liza": "portrait"
+      },
+      "archived": false,
+      "page": "characters/liza/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/liza/images/liza001.png"
+    },
+    "liza002": {
+      "identity_variant_ids": {
+        "liza": "liza-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "liza": "portrait"
+      },
+      "archived": false,
+      "page": "characters/liza/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/liza/images/liza002.png"
+    },
+    "liza003": {
+      "identity_variant_ids": {
+        "liza": "liza-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "liza": "portrait"
+      },
+      "archived": false,
+      "page": "characters/liza/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/liza/images/liza003.png"
+    },
+    "liza004": {
+      "identity_variant_ids": {
+        "liza": "liza-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "liza": "portrait"
+      },
+      "archived": false,
+      "page": "characters/liza/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/liza/images/liza004.png"
+    },
+    "liza005": {
+      "identity_variant_ids": {
+        "liza": "liza-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "liza": "portrait"
+      },
+      "archived": false,
+      "page": "characters/liza/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/liza/images/liza005.png"
+    },
+    "liza006": {
+      "identity_variant_ids": {
+        "liza": "liza-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "liza": "portrait"
+      },
+      "archived": false,
+      "page": "characters/liza/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/liza/images/liza006.png"
+    },
+    "zheka001": {
+      "identity_variant_ids": {
+        "zheka": "zheka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "zheka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zheka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/zheka/images/zheka001.png"
+    },
+    "zheka002": {
+      "identity_variant_ids": {
+        "zheka": "zheka-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "zheka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zheka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/zheka/images/zheka002.png"
+    },
+    "zheka003": {
+      "identity_variant_ids": {
+        "zheka": "zheka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "zheka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zheka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/zheka/images/zheka003.png"
+    },
+    "zheka004": {
+      "identity_variant_ids": {
+        "zheka": "zheka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "zheka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zheka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/zheka/images/zheka004.png"
+    },
+    "zheka005": {
+      "identity_variant_ids": {
+        "zheka": "zheka-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "zheka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zheka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/zheka/images/zheka005.png"
+    },
+    "zheka006": {
+      "identity_variant_ids": {
+        "zheka": "zheka-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "zheka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zheka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/868d0873ba6ed210396baa76deb32c2701e8c8c7/docs/World/characters/zheka/images/zheka006.png"
+    },
+    "emma003": {
+      "identity_variant_ids": {
+        "emma": "emma-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9eba256ddd4d9429fa306e45e9c4e9baae300bc7/docs/World/characters/emma/images/emma003.png"
+    },
+    "emma005": {
+      "identity_variant_ids": {
+        "emma": "emma-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9eba256ddd4d9429fa306e45e9c4e9baae300bc7/docs/World/characters/emma/images/emma005.png"
+    },
+    "emma009": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/8f06743908b96bd36c17ec34517ba93872a1814a/docs/World/characters/emma/images/emma009.png"
+    },
+    "emma012": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5d57c655616f200d689b1e5966dcda482a62af8b/docs/World/characters/emma/images/emma012.png"
+    },
+    "emma013": {
+      "identity_variant_ids": {
+        "emma": "emma-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5d57c655616f200d689b1e5966dcda482a62af8b/docs/World/characters/emma/images/emma013.png"
+    },
+    "emma015": {
+      "identity_variant_ids": {
+        "emma": "emma-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/emma/images/emma015.png"
+    },
+    "emma016": {
+      "identity_variant_ids": {
+        "emma": "emma-type-016"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/emma/images/emma016.png"
+    },
+    "emma017": {
+      "identity_variant_ids": {
+        "emma": "emma-type-017"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/emma/images/emma017.png"
+    },
+    "emma018": {
+      "identity_variant_ids": {
+        "emma": "emma-type-018"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/emma/images/emma018.png"
+    },
+    "emma019": {
+      "identity_variant_ids": {
+        "emma": "emma-type-019"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/emma/images/emma019.png"
+    },
+    "emma020": {
+      "identity_variant_ids": {
+        "emma": "emma-type-020"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/567ddba7c3d29b055b15f295ee33b2b723e1f4f7/docs/World/characters/emma/images/emma020.png"
+    },
+    "emma021": {
+      "identity_variant_ids": {
+        "emma": "emma-type-021"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/567ddba7c3d29b055b15f295ee33b2b723e1f4f7/docs/World/characters/emma/images/emma021.png"
+    },
+    "emma022": {
+      "identity_variant_ids": {
+        "emma": "emma-type-022"
+      },
+      "review_required": {},
+      "roles": {
+        "emma": "historical"
+      },
+      "archived": true,
+      "page": "characters/emma/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/567ddba7c3d29b055b15f295ee33b2b723e1f4f7/docs/World/characters/emma/images/emma022.png"
+    },
+    "kolka010": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-010"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/ae9c3614adcdd4388431e7f40f4134133f87a9ad/docs/World/characters/kolka/images/kolka010.webp"
+    },
+    "kolka015": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5d57c655616f200d689b1e5966dcda482a62af8b/docs/World/characters/kolka/images/kolka015.png"
+    },
+    "kolka016": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5d57c655616f200d689b1e5966dcda482a62af8b/docs/World/characters/kolka/images/kolka016.png"
+    },
+    "kolka017": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5d57c655616f200d689b1e5966dcda482a62af8b/docs/World/characters/kolka/images/kolka017.png"
+    },
+    "kolka018": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/5d57c655616f200d689b1e5966dcda482a62af8b/docs/World/characters/kolka/images/kolka018.png"
+    },
+    "kolka025": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-025"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/kolka/images/kolka025.png"
+    },
+    "kolka026": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-026"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/kolka/images/kolka026.png"
+    },
+    "kolka027": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-027"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/kolka/images/kolka027.png"
+    },
+    "kolka028": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-028"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "historical"
+      },
+      "archived": true,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/79eed1a075c1ba4df3861021bce5d9612ec36a38/docs/World/characters/kolka/images/kolka028.png"
+    },
+    "valek006": {
+      "identity_variant_ids": {
+        "valek": "valek-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "valek": "historical"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/99be33a819bcc8b8062bcc4e68cf2ff7b46ed331/docs/World/characters/valek/images/valek006.png"
+    },
+    "valek012": {
+      "identity_variant_ids": {
+        "valek": "valek-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "valek": "historical"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/62052eb794a5c31fafd12e4b880de15ace863dfd/docs/World/characters/valek/images/valek012.png"
+    },
+    "nitka003": {
+      "identity_variant_ids": {
+        "nitka": "nitka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "nitka": "historical"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f846aaeb22f61a6facdacedb42ad5767d4ba894b/docs/World/characters/nitka/images/nitka003.png"
+    },
+    "nitka004": {
+      "identity_variant_ids": {
+        "nitka": "nitka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "nitka": "historical"
+      },
+      "archived": false,
+      "page": "characters/base-girls/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f846aaeb22f61a6facdacedb42ad5767d4ba894b/docs/World/characters/nitka/images/nitka004.png"
+    },
+    "rita008": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "rita": "portrait"
+      },
+      "archived": false,
+      "page": "characters/rita/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7ce9c429b59cc0ce5cea16fdba93d5933bc23b58/docs/World/characters/rita/images/rita008.png"
+    },
+    "masha009": {
+      "identity_variant_ids": {
+        "masha": "masha-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "masha": "portrait"
+      },
+      "archived": false,
+      "page": "characters/masha/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7ce9c429b59cc0ce5cea16fdba93d5933bc23b58/docs/World/characters/masha/images/masha009.png"
+    },
+    "andryushka001": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka001.png"
+    },
+    "andryushka002": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka002.png"
+    },
+    "andryushka003": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka003.png"
+    },
+    "andryushka004": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka004.png"
+    },
+    "andryushka005": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka005.png"
+    },
+    "andryushka006": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka006.png"
+    },
+    "andryushka007": {
+      "identity_variant_ids": {
+        "andryushka": "andryushka-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "andryushka": "scene"
+      },
+      "archived": false,
+      "page": "characters/andryushka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/andryushka/images/andryushka007.png"
+    },
+    "zoya001": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya001.png"
+    },
+    "zoya002": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya002.png"
+    },
+    "zoya003": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya003.png"
+    },
+    "zoya004": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya004.png"
+    },
+    "zoya005": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya005.png"
+    },
+    "zoya006": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "portrait"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya006.png"
+    },
+    "zoya007": {
+      "identity_variant_ids": {
+        "zoya": "zoya-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "zoya": "scene"
+      },
+      "archived": false,
+      "page": "characters/zoya/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/7b3316cf1d96b945ea999a7efee5f08d29db61fd/docs/World/characters/zoya/images/zoya007.png"
+    },
+    "fedor034": {
+      "identity_variant_ids": {
+        "fedor": "fedor-type-009"
+      },
+      "review_required": {},
+      "roles": {
+        "fedor": "portrait"
+      },
+      "archived": false,
+      "page": "characters/fedor/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/cadd270c54bf0e387497ba0c0e69235d7750745f/docs/World/characters/fedor/model-sheet/images/fp01.png"
+    },
+    "senka008": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/senka/images/siblings-01.png"
+    },
+    "senka009": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/senka/images/siblings-02.png"
+    },
+    "senka010": {
+      "identity_variant_ids": {
+        "rita": "rita-type-003"
+      },
+      "review_required": {
+        "senka": "Семейная проба по рабочему портрету Сеньки от 21.11. Типаж брата на рассмотрении."
+      },
+      "roles": {
+        "rita": "scene"
+      },
+      "archived": false,
+      "page": "characters/senka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/senka/images/siblings-03.png"
+    },
+    "kolka038": {
+      "identity_variant_ids": {
+        "kolka": "kolka-type-015"
+      },
+      "review_required": {},
+      "roles": {
+        "kolka": "portrait"
+      },
+      "archived": false,
+      "page": "characters/kolka/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/f715f5f69f7ec6ac736f4229574575cdeea6e95a/docs/World/characters/kolka/model-sheet/images/kp01.png"
+    },
+    "vaska001": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska001.png"
+    },
+    "vaska002": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska002.png"
+    },
+    "vaska003": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska003.png"
+    },
+    "vaska004": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska004.png"
+    },
+    "vaska005": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska005.png"
+    },
+    "vaska006": {
+      "identity_variant_ids": {
+        "vaska": "vaska-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "vaska": "portrait"
+      },
+      "archived": false,
+      "page": "characters/vaska/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/vaska/images/vaska006.png"
+    },
+    "klin001": {
+      "identity_variant_ids": {
+        "klin": "klin-type-001"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin001.png"
+    },
+    "klin002": {
+      "identity_variant_ids": {
+        "klin": "klin-type-002"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin002.png"
+    },
+    "klin003": {
+      "identity_variant_ids": {
+        "klin": "klin-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": true,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin003.png"
+    },
+    "klin004": {
+      "identity_variant_ids": {
+        "klin": "klin-type-004"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin004.png"
+    },
+    "klin005": {
+      "identity_variant_ids": {
+        "klin": "klin-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": true,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin005.png"
+    },
+    "klin006": {
+      "identity_variant_ids": {
+        "klin": "klin-type-006"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/9909436f63da7ddf3071b12e57c8b296cfe97e22/docs/World/characters/klin/images/klin006.png"
+    },
+    "klin007": {
+      "identity_variant_ids": {
+        "klin": "klin-type-003"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/10e00bec31fbe26f95d6a7e17404023d64ba9d89/docs/World/characters/klin/images/klin007.png"
+    },
+    "klin008": {
+      "identity_variant_ids": {
+        "klin": "klin-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": true,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/10e00bec31fbe26f95d6a7e17404023d64ba9d89/docs/World/characters/klin/images/klin008.png"
+    },
+    "klin009": {
+      "identity_variant_ids": {
+        "klin": "klin-type-005"
+      },
+      "review_required": {},
+      "roles": {
+        "klin": "portrait"
+      },
+      "archived": false,
+      "page": "characters/klin/",
+      "original": "https://raw.githubusercontent.com/esannikov/Alive/8dc6518642a2e14957539b66365374e597b116b7/docs/World/characters/klin/images/klin009.png"
+    }
+  },
+  "notes": [
+    "A/B/C selection should use variant id, not asset code. A variant can have many views, ages, expressions and color revisions.",
+    "Different characters never share one identity id, even when a face reference is reused. Shared scene images contain per-character memberships.",
+    "Uncertain ensemble likeness and untraced costume-sheet identities are explicitly review_required.",
+    "Tais053 and Tais059 remain separate per explicit producer choice. Their common derivation does not override it."
+  ]
+}

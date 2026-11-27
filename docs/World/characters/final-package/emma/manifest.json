@@ -1,0 +1,435 @@
+{
+  "title": "Эмма · Фотореалистический пакет",
+  "version": "1.5",
+  "body_reference": "EMMA-EP03",
+  "face_revisions": [
+    "ep01",
+    "ec02",
+    "ec03",
+    "ec04",
+    "ec05",
+    "ep03",
+    "ep04",
+    "ep05",
+    "ep06",
+    "ep07",
+    "ep08",
+    "ep09",
+    "ep10",
+    "ep11"
+  ],
+  "wardrobe_revisions": [
+    "EMMA-EC02",
+    "EMMA-EC03",
+    "EMMA-EC04",
+    "EMMA-EC06"
+  ],
+  "approved_wardrobe": {
+    "EMMA-EC02": {
+      "source": "user",
+      "portrait": "references/ec02-portrait.png",
+      "approved_board": "references/ec02-approved-board.png"
+    }
+  },
+  "wardrobe_portraits": {
+    "EMMA-EC02": "references/ec02-portrait.png",
+    "EMMA-EC03": "references/ec03-portrait.png",
+    "EMMA-EC04": "references/ec04-portrait.png",
+    "EMMA-EC05": "references/ec05-portrait.png",
+    "EMMA-EC06": "references/ec06-portrait.png"
+  },
+  "proposed_wardrobe": [
+    "EMMA-EC03",
+    "EMMA-EC04",
+    "EMMA-EC06"
+  ],
+  "identity": {
+    "variant": "emma-type-009",
+    "original": "emma009",
+    "frontal_reference": "emma038"
+  },
+  "status": "На просмотр",
+  "date": "21.11.2026",
+  "pdf": "EMMA_Photoreal_Package.pdf",
+  "pdf_pages": 27,
+  "insignia": {
+    "diagram": "operator-insignia.svg",
+    "anchor": "insignia",
+    "status": "Проект адаптации",
+    "source_pages": [
+      173,
+      174
+    ],
+    "stars_by_rank": {
+      "Оператор": 1,
+      "Старший оператор": 2,
+      "Капитан отделения": 3
+    },
+    "updated": [
+      "EMMA-EC03",
+      "EMMA-EP17",
+      "references/ec03-portrait.png"
+    ]
+  },
+  "prompt_pack": "EMMA_Prompt_Pack.md",
+  "assets": [
+    {
+      "id": "portrait-front",
+      "title": "Контрольный портрет",
+      "group": "look",
+      "pages": [],
+      "caption": "Фронтальный ракурс при мягком нейтральном свете.",
+      "code": "EMMA-P01",
+      "file": "images/portrait-front.png",
+      "preview": "images/portrait-front.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3997ac73e59c479a952385298fadcfbf72a1d798061eb306cced894dea099e71"
+    },
+    {
+      "id": "portrait-34",
+      "title": "Портрет в три четверти",
+      "group": "look",
+      "pages": [],
+      "caption": "Ракурс типажа 009.",
+      "code": "EMMA-P02",
+      "file": "images/portrait-34.png",
+      "preview": "images/portrait-34.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4eea541798be6dcac8dc7b6a8d1d56328ec949ee0f0a6282bc6bc386b8d3ee4e"
+    },
+    {
+      "id": "ep03",
+      "title": "Эталон пропорций",
+      "group": "look",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP03",
+      "file": "images/ep03.png",
+      "preview": "images/ep03.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3c7b5fa17a2dcff0c6611e50955703dfc47687a5bdf8f9128a8f7b884fe31dde"
+    },
+    {
+      "id": "ep04",
+      "title": "Экзаменационный костюм · передние ракурсы",
+      "group": "look",
+      "pages": [
+        36,
+        37
+      ],
+      "caption": "",
+      "code": "EMMA-EP04",
+      "file": "images/ep04.png",
+      "preview": "images/ep04.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "88d753d0e5da23b3214147cafd111ecf3556cc4edc880ef0dd9315ae1c569386"
+    },
+    {
+      "id": "ep05",
+      "title": "Экзаменационный костюм · задние ракурсы",
+      "group": "look",
+      "pages": [
+        36,
+        37
+      ],
+      "caption": "",
+      "code": "EMMA-EP05",
+      "file": "images/ep05.png",
+      "preview": "images/ep05.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "386c5c2387f3c60f3e9660af44ecdd25b4881e9d9ee802627566b15c071fea20"
+    },
+    {
+      "id": "ep06",
+      "title": "Голова · шесть ракурсов",
+      "group": "look",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP06",
+      "file": "images/ep06.png",
+      "preview": "images/ep06.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a3a758d12c6b5867e17ca841a1a69920673c1fc35c6c87ee013a1288bfa5bc68"
+    },
+    {
+      "id": "ep07",
+      "title": "Волосы · три укладки",
+      "group": "look",
+      "pages": [
+        315
+      ],
+      "caption": "Распущенные волны, две боковые косы с общей сборкой сзади и одна коса.",
+      "code": "EMMA-EP07",
+      "file": "images/ep07.png",
+      "preview": "images/ep07.webp",
+      "width": 1774,
+      "height": 887,
+      "sha256": "795396e1cc7a345c8e4314a1cf1f05a7e46411cb534846d3ba22fe1a08741f3c"
+    },
+    {
+      "id": "ep08",
+      "title": "Мимика · разговор",
+      "group": "acting",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP08",
+      "file": "images/ep08.png",
+      "preview": "images/ep08.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a235908b043cb1165bfb841f6f5aa35afe7ea151d4dbd235b32e1c5788d4cc5a"
+    },
+    {
+      "id": "ep09",
+      "title": "Мимика · сюжетные реакции",
+      "group": "acting",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP09",
+      "file": "images/ep09.png",
+      "preview": "images/ep09.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2d5b880b7b2d7fa73de3205e3f79147ab2d430d9261d72281a7611c6d5a229eb"
+    },
+    {
+      "id": "ep10",
+      "title": "Пластика · экзаменационный день",
+      "group": "acting",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP10",
+      "file": "images/ep10.png",
+      "preview": "images/ep10.webp",
+      "width": 1774,
+      "height": 887,
+      "sha256": "364a192de4b2ecb559f814614cf277896901d75e10b943da352bb89f3af8413a"
+    },
+    {
+      "id": "ep11",
+      "title": "Пластика · повседневные действия",
+      "group": "acting",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP11",
+      "file": "images/ep11.png",
+      "preview": "images/ep11.webp",
+      "width": 1774,
+      "height": 887,
+      "sha256": "8fd8cc68baf21d334857d3af7d2d4b3ac8fc47e1d5f8d3dae6fcd94c4ec9e352"
+    },
+    {
+      "id": "ep01",
+      "title": "Перед экзаменом",
+      "group": "wardrobe",
+      "pages": [
+        35,
+        36,
+        37
+      ],
+      "caption": "Белая трикотажная кофточка с кружевом, юбка с узкими складками, чёрные лаковые туфли и сумка для планшета. Для адаптации сохранён тёмно-синий цвет из сценических проб. Узкие складки раскрываются ниже линии бёдер, а кружево повторяет геометрию трикотажа.",
+      "code": "EMMA-EC01",
+      "file": "images/ep01.png",
+      "preview": "images/ep01.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "de0ee2a7633c85bdf1fc4d91fea35419a0cabf4229aa7f8d73cf661c6fed29fb"
+    },
+    {
+      "id": "ec02",
+      "title": "Бриджи и футболка",
+      "group": "wardrobe",
+      "pages": [
+        86
+      ],
+      "caption": "Эмма спешит остановить Илью. На ней бриджи, футболка и кроссовки со шнурками. Утверждённый вариант адаптации. Молочно-белая футболка с перфорированной вставкой, сливовые бриджи и формованные кроссовки без шнурков.",
+      "code": "EMMA-EC02",
+      "file": "images/ec02.png",
+      "preview": "images/ec02.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8d270381495aa88b3e23d41fb9e91e98d203f52d38be9594069ce897ebb6e86a"
+    },
+    {
+      "id": "ec03",
+      "title": "Форма капитана отделения операторов",
+      "group": "wardrobe",
+      "pages": [
+        173,
+        174
+      ],
+      "caption": "Костюмная проба. В романе форма лежит в коробке. На узких погонах и треугольных шевронах видны синие звёзды на золоте. Для адаптации предложен форменный комплект из матовой костюмной ткани. В адаптации у капитана по три синие звезды на каждом погоне и шевроне.",
+      "code": "EMMA-EC03",
+      "file": "images/ec03.png",
+      "preview": "images/ec03.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c477a18bee1971ead995efcdcede595c713fa02f30aab6b473708959e1ba6eed"
+    },
+    {
+      "id": "ec04",
+      "title": "Песочное худи Нижнего уровня",
+      "group": "wardrobe",
+      "pages": [
+        213,
+        228,
+        268,
+        269
+      ],
+      "caption": "Собраны детали нескольких сцен Нижнего уровня. В романе у Эммы худи с лекарствами в кармане. В этой версии карман вшит в боковой шов, а передняя часть худи остаётся гладкой. У худи асимметричная кокетка, рельефный крой рукавов и терракотовая подкладка капюшона. У синих брюк диагональные входы в карманы и вытачки на коленях.",
+      "code": "EMMA-EC04",
+      "file": "images/ec04.png",
+      "preview": "images/ec04.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c6a41ef301bbdf38a2f9cc96168fb892512d360e5400598f8362f68383cc3b19"
+    },
+    {
+      "id": "ec05",
+      "title": "Пижама",
+      "group": "wardrobe",
+      "pages": [
+        315,
+        316
+      ],
+      "caption": "Пижамная кофта, свободные брюки, одна коса и кулон с божьей коровкой. Абрикосовый верх, серо-голубые брюки и мягкая конструкция горловины предложены для адаптации.",
+      "code": "EMMA-EC05",
+      "file": "images/ec05.png",
+      "preview": "images/ec05.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2590ea362e240681c7a335298456e709c9cc916dbf4a19291a40cd1510f57a8d"
+    },
+    {
+      "id": "ec06",
+      "title": "Худи и широкие брюки Нижнего уровня",
+      "group": "wardrobe",
+      "pages": [
+        439
+      ],
+      "caption": "В романе у Эммы спортивные брюки на резинке, водолазка и худи. Для адаптации разработаны широкие брюки из плотной ткани с фактурой денима и карманом в шве, а также короткое худи умеренного объёма.",
+      "code": "EMMA-EC06",
+      "file": "images/ec06.png",
+      "preview": "images/ec06.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a5b76bdeb3ad7b88a01d34bd0d02418df4b28c0c82f9448c97e57a297a86cae2"
+    },
+    {
+      "id": "wardrobe-overview",
+      "title": "Сравнение шести силуэтов",
+      "group": "wardrobe",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EC",
+      "file": "images/wardrobe-overview.png",
+      "preview": "images/wardrobe-overview.webp",
+      "width": 1992,
+      "height": 590,
+      "sha256": "8c53d94e253f6ae09276d4bb93eb140456d62090965730d306d25296486029c0"
+    },
+    {
+      "id": "ep12",
+      "title": "Руки и жесты",
+      "group": "details",
+      "pages": [],
+      "caption": "",
+      "code": "EMMA-EP12",
+      "file": "images/ep12.png",
+      "preview": "images/ep12.webp",
+      "width": 2172,
+      "height": 724,
+      "sha256": "a6b3df50ef53f15283594c108dc90d6c8dfa8fcded225827139eb309824fadc9"
+    },
+    {
+      "id": "ep13",
+      "title": "Обувь и сумки",
+      "group": "details",
+      "pages": [
+        37,
+        191,
+        213
+      ],
+      "caption": "У джинсового рюкзачка из раннего эпизода яркие молнии и квадратный монитор сбоку.",
+      "code": "EMMA-EP13",
+      "file": "images/ep13.png",
+      "preview": "images/ep13.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d74ac3733542b31a6abd607548a13c2cffa125d225393549887b8bc15e1697bf"
+    },
+    {
+      "id": "ep14",
+      "title": "Кулон на цепочке и шнурке",
+      "group": "details",
+      "pages": [
+        36,
+        172,
+        316
+      ],
+      "caption": "После разрыва серебряной цепочки Эмма продевает чёрный шнурок и сама завязывает узел.",
+      "code": "EMMA-EP14",
+      "file": "images/ep14.png",
+      "preview": "images/ep14.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3d7e01c0cc1c37125e1886815a94f9886c9eab594878dd87149d10ceb85c20ec"
+    },
+    {
+      "id": "ep15",
+      "title": "Украшения",
+      "group": "details",
+      "pages": [
+        170,
+        171,
+        393
+      ],
+      "caption": "",
+      "code": "EMMA-EP15",
+      "file": "images/ep15.png",
+      "preview": "images/ep15.webp",
+      "width": 1774,
+      "height": 887,
+      "sha256": "054e89c95eef147a999f5c053c567a19f7da97f6f3bb610301043792d03f212a"
+    },
+    {
+      "id": "ep16",
+      "title": "Детали кроя и материалы",
+      "group": "details",
+      "pages": [
+        36,
+        268,
+        439
+      ],
+      "caption": "Увеличенные фрагменты трёх костюмов. Кружевной воротник и складки, гладкая передняя часть худи, слои и конструкция капюшона.",
+      "code": "EMMA-EP16",
+      "file": "images/ep16.png",
+      "preview": "images/ep16.webp",
+      "width": 1558,
+      "height": 720,
+      "sha256": "e3f95b66d6744745af987ed9225f4f03b042cef95de0892f97f521be3aaa8ae9"
+    },
+    {
+      "id": "ep17",
+      "title": "Коробка с формой",
+      "group": "details",
+      "pages": [
+        173,
+        174
+      ],
+      "caption": "Чип показывает треугольный шеврон с тремя звёздами. Та же тройка повторяется на погонах и нарукавных шевронах.",
+      "code": "EMMA-EP17",
+      "file": "images/ep17.png",
+      "preview": "images/ep17.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "58a2ab247633a85896d920398b3a769d723e34dd226b876126989455cc35f271"
+    }
+  ]
+}

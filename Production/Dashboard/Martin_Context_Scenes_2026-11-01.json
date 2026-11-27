@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-01",
+  "status": "approved_for_gallery",
+  "authorization": "User explicitly requested publication of all three context scenes",
+  "asset_commit": "67c607fa83ed549a5cef60d0d05e62125b23ffac",
+  "assets": [
+    {
+      "code": "martin017",
+      "parent": "martin015",
+      "title": "Сашуля перед сном",
+      "file": "docs/World/robots/martin/images/martin017.png",
+      "sha256": "32db93878eb8a509484130e954d66c63ccdfe46ec48e4447946ae17a49854dd4"
+    },
+    {
+      "code": "martin018",
+      "parent": "martin016",
+      "title": "Ещё один кубик",
+      "file": "docs/World/robots/martin/images/martin018.png",
+      "sha256": "8134a337f4e1926962b5c60a750f265c176d6c98310f56f94e8406c9028effd9"
+    },
+    {
+      "code": "martin019",
+      "parent": "martin014",
+      "title": "Знакомство с новенькими",
+      "file": "docs/World/robots/martin/images/martin019.png",
+      "sha256": "269b48fc07c10ea4f702ea5f513ae04422e69296f1c89b74f3cc54a4d0c61489"
+    }
+  ],
+  "gallery": "https://esannikov.github.io/Alive/World/robots/martin/",
+  "existing_images": "preserved",
+  "art_direction_status": "scene studies; publication is not final character design approval"
+}
