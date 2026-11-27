@@ -3945,7 +3945,7 @@
         "everyday",
         "public"
       ],
-      "summary": "Тёплый Эдем · 12 интерьеров детского уровня",
+      "summary": "11 стилей · 12 помещений детского уровня в каждом",
       "image": "locations/spatial-styles/warm-eden/nursery-small.webp",
       "body_file": "Production/Dashboard/spatial_styles_body.html",
       "label": "Архитектура станции",
@@ -3955,6 +3955,11 @@
           "path": "locations/spatial-styles/warm-eden",
           "title": "Тёплый Эдем",
           "body_file": "Production/Dashboard/warm_eden_body.html"
+        },
+        {
+          "path": "locations/spatial-styles/atlas",
+          "title": "Интерьеры детского Эдема",
+          "body_file": "Production/Dashboard/eden_atlas_body.html"
         }
       ]
     }
