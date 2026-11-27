@@ -34,7 +34,7 @@
     "alc": 53,
     "kir": 7,
     "push": 19,
-    "frik": 67,
+    "frik": 73,
     "romik": 8,
     "kristinka": 7,
     "dina": 7,
@@ -17803,6 +17803,138 @@
         "service"
       ],
       "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "frik067",
+      "caption": "Срыв с места",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik067.webp",
+      "source_commit": "a8bdaf7737cc0ed4eb5db965042b3aae66048e62",
+      "sha256": "fbd724f5879ebfcda6e7d37cfc1bcbeb798963e2f6667fbe1574a12fa1969d37",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik067.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-in-motion",
+      "visibility": "active"
+    },
+    {
+      "code": "frik068",
+      "caption": "Над пролётом",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik068.webp",
+      "source_commit": "a8bdaf7737cc0ed4eb5db965042b3aae66048e62",
+      "sha256": "e1e8f4c7b651abd11e6e9d3c80b34382099a2cef552c21594c8c30303cded27a",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik068.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-in-motion",
+      "visibility": "active"
+    },
+    {
+      "code": "frik069",
+      "caption": "Встречный прыжок",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik069.webp",
+      "source_commit": "a8bdaf7737cc0ed4eb5db965042b3aae66048e62",
+      "sha256": "f4341f2d16d56bd77ad7327226f3ef04cba3508efa6770a714bada6d1d3d1231",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik069.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-in-motion",
+      "visibility": "active"
+    },
+    {
+      "code": "frik070",
+      "caption": "Сцепка у переборки",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik070.webp",
+      "source_commit": "a8bdaf7737cc0ed4eb5db965042b3aae66048e62",
+      "sha256": "948d5b4f1b0df22a8887fe4220c785d9fce1564df3de10c7e97ccfe5c2ec106c",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik070.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-in-motion",
+      "visibility": "active"
+    },
+    {
+      "code": "frik071",
+      "caption": "Разворот после падения",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik071.webp",
+      "source_commit": "a8bdaf7737cc0ed4eb5db965042b3aae66048e62",
+      "sha256": "f9db73f637435a3269d45b7d63df1ea5aaaf8a7f5959f9cd00d70d228f321987",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik071.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-in-motion",
+      "visibility": "active"
+    },
+    {
+      "code": "frik072",
+      "caption": "Последний рывок",
+      "object": "friki",
+      "source_file": "docs/World/creatures/friki/images/frik072.webp",
+      "source_commit": "a8bdaf7737cc0ed4eb5db965042b3aae66048e62",
+      "sha256": "3a7a729514a71c2516aacc6b0e6bc4eec7a4a1745e9d50212fe09d24f9d8fbc9",
+      "aliases": [
+        "docs/World/creatures/friki/images/frik072.webp"
+      ],
+      "galleries": [
+        "World/creatures/friki"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "character-concepts"
+      ],
+      "series": "friki-in-motion",
       "visibility": "active"
     }
   ],
