@@ -1621,5 +1621,24 @@
     "page": "robots/vacuum/reference.html",
     "title": "Роботы-пылесосы · справка",
     "variantCodes": []
+  },
+  {
+    "term": "Alive/World/robots/baker/",
+    "page": "robots/baker/",
+    "title": "Роботы-пекари",
+    "variantCodes": [
+      "baker001",
+      "baker002",
+      "baker003",
+      "baker004",
+      "baker005",
+      "baker006"
+    ]
+  },
+  {
+    "term": "Alive/World/robots/baker/reference",
+    "page": "robots/baker/reference.html",
+    "title": "Роботы-пекари · справка",
+    "variantCodes": []
   }
 ]

@@ -60,7 +60,8 @@
     "vaska": 7,
     "klin": 10,
     "loader": 7,
-    "vacuum": 7
+    "vacuum": 7,
+    "baker": 7
   },
   "assets": [
     {
@@ -17662,6 +17663,138 @@
       ],
       "galleries": [
         "World/robots/vacuum"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "baker001",
+      "object": "baker",
+      "caption": "Тестомес",
+      "source_file": "docs/World/robots/baker/images/baker001.webp",
+      "source_commit": "2ec2dbb9d973928bc7f04c9c621e05d5fb1fdce3",
+      "sha256": "1b681565356c3f3f2310b2040c626f5f28a9f231d1dca9b167d00996435c7fe5",
+      "aliases": [
+        "docs/World/robots/baker/images/baker001.webp"
+      ],
+      "galleries": [
+        "World/robots/baker"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "baker002",
+      "object": "baker",
+      "caption": "Раскатчик",
+      "source_file": "docs/World/robots/baker/images/baker002.webp",
+      "source_commit": "2ec2dbb9d973928bc7f04c9c621e05d5fb1fdce3",
+      "sha256": "9bdd087a976056b7f532ea51c70c0e61cf640da4573ca72c5f776580ec281db2",
+      "aliases": [
+        "docs/World/robots/baker/images/baker002.webp"
+      ],
+      "galleries": [
+        "World/robots/baker"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "baker003",
+      "object": "baker",
+      "caption": "Порционер",
+      "source_file": "docs/World/robots/baker/images/baker003.webp",
+      "source_commit": "2ec2dbb9d973928bc7f04c9c621e05d5fb1fdce3",
+      "sha256": "b66492e8a64d225458ad3c9cb83c3f5cb13dbc02a6f91b3399ecccee2470d1ee",
+      "aliases": [
+        "docs/World/robots/baker/images/baker003.webp"
+      ],
+      "galleries": [
+        "World/robots/baker"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "baker004",
+      "object": "baker",
+      "caption": "Подовый",
+      "source_file": "docs/World/robots/baker/images/baker004.webp",
+      "source_commit": "2ec2dbb9d973928bc7f04c9c621e05d5fb1fdce3",
+      "sha256": "abd4fb075e08be9ceadb0ceaad6be96f925d804ca54499aab0932150547569b1",
+      "aliases": [
+        "docs/World/robots/baker/images/baker004.webp"
+      ],
+      "galleries": [
+        "World/robots/baker"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "baker005",
+      "object": "baker",
+      "caption": "Плетельщик",
+      "source_file": "docs/World/robots/baker/images/baker005.webp",
+      "source_commit": "2ec2dbb9d973928bc7f04c9c621e05d5fb1fdce3",
+      "sha256": "004f9393eee7930fe91d6c8088e57024c692e8a03f1962f9c41c158a88a1ef8c",
+      "aliases": [
+        "docs/World/robots/baker/images/baker005.webp"
+      ],
+      "galleries": [
+        "World/robots/baker"
+      ],
+      "kind": "appearance",
+      "status": "candidate",
+      "renditions": [],
+      "task_ids": [
+        "service"
+      ],
+      "series": "current",
+      "visibility": "active"
+    },
+    {
+      "code": "baker006",
+      "object": "baker",
+      "caption": "Мучник",
+      "source_file": "docs/World/robots/baker/images/baker006.webp",
+      "source_commit": "2ec2dbb9d973928bc7f04c9c621e05d5fb1fdce3",
+      "sha256": "4ddcd532fae2779029e08881fc7fc1ad42463006c7b4b22208fd82a2dfcd226f",
+      "aliases": [
+        "docs/World/robots/baker/images/baker006.webp"
+      ],
+      "galleries": [
+        "World/robots/baker"
       ],
       "kind": "appearance",
       "status": "candidate",
