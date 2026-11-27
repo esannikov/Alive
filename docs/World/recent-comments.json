@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T02:17:30.522830+00:00",
+  "generatedAt": "2026-11-27T14:07:44.378276+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BMHWe",
+      "page": "styles/alc-15/",
+      "title": "Перьевая графика с плоскостным цветом",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-27T14:07:23Z",
+      "excerpt": "мне в целом стиль нравится очень но я боюсь что он темноват для соцсетей",
+      "url": "https://github.com/esannikov/Alive/discussions/285#discussioncomment-19953054"
+    },
     {
       "id": "DC_kwDOVCLQyc4BLLOL",
       "page": "locations/main-square/",
@@ -37,18 +46,10 @@
       "createdAt": "2026-11-16T18:08:41Z",
       "excerpt": "Илью выбрать не могу. Мне все нравятся. вот Типаж 001 например - ну класс же. В контесте дайверсити наверное правильно Типаж 004 брать. Но что-то меня в нем смущает",
       "url": "https://github.com/esannikov/Alive/discussions/94#discussioncomment-19660339"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BK_0T",
-      "page": "characters/katya/",
-      "title": "Катя",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-16T17:52:40Z",
-      "excerpt": "Мне katya001 в целом нравится, но она с Вальком очень пересекается как-то по типажу сейчас. Утвержденным. Поэтому, я больше за Типаж 002 из них всех - katya002",
-      "url": "https://github.com/esannikov/Alive/discussions/67#discussioncomment-19660051"
     }
   ],
   "discussionNumbers": {
+    "styles/alc-15/": 285,
     "locations/main-square/": 125,
     "characters/rita/": 85,
     "characters/zhanna/": 231,
@@ -573,8 +574,11 @@
       "last": null
     },
     "styles/alc-15/": {
-      "messageCount": 0,
-      "last": null
+      "messageCount": 1,
+      "last": {
+        "author": "ElenaAlive",
+        "createdAt": "2026-11-27T14:07:23Z"
+      }
     },
     "styles/alc-15/reference.html": {
       "messageCount": 0,
