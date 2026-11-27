@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T15:11:07.526281+00:00",
+  "generatedAt": "2026-11-27T15:13:07.224035+00:00",
   "items": [
+    {
+      "id": "DC_kwDOVCLQyc4BMHsI",
+      "page": "creatures/friki/",
+      "title": "Фрики",
+      "author": "ElenaAlive",
+      "createdAt": "2026-11-27T15:12:46Z",
+      "excerpt": "frik061 и frik064 и frik060 - женщины мне очень ок, но может тоже зрачки, слюни им пустить еще))",
+      "url": "https://github.com/esannikov/Alive/discussions/288#discussioncomment-19954440"
+    },
     {
       "id": "DC_kwDOVCLQyc4BMHrU",
       "page": "creatures/friki/",
@@ -37,15 +46,6 @@
       "createdAt": "2026-11-27T14:09:30Z",
       "excerpt": "У меня этот стиль в фаворитах точно",
       "url": "https://github.com/esannikov/Alive/discussions/184#discussioncomment-19953095"
-    },
-    {
-      "id": "DC_kwDOVCLQyc4BMHWe",
-      "page": "styles/alc-15/",
-      "title": "Перьевая графика с плоскостным цветом",
-      "author": "ElenaAlive",
-      "createdAt": "2026-11-27T14:07:23Z",
-      "excerpt": "мне в целом стиль нравится очень но я боюсь что он темноват для соцсетей",
-      "url": "https://github.com/esannikov/Alive/discussions/285#discussioncomment-19953054"
     }
   ],
   "discussionNumbers": {
@@ -489,10 +489,10 @@
       "last": null
     },
     "creatures/friki/": {
-      "messageCount": 3,
+      "messageCount": 4,
       "last": {
         "author": "ElenaAlive",
-        "createdAt": "2026-11-27T15:10:36Z"
+        "createdAt": "2026-11-27T15:12:46Z"
       }
     },
     "creatures/friki/reference.html": {
