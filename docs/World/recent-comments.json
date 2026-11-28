@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T15:13:07.224035+00:00",
+  "generatedAt": "2026-11-28T02:44:07.359714+00:00",
   "items": [
     {
       "id": "DC_kwDOVCLQyc4BMHsI",
@@ -756,6 +756,18 @@
       "last": null
     },
     "robots/vacuum/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/baker/": {
+      "messageCount": 0,
+      "last": null
+    },
+    "robots/baker/reference.html": {
+      "messageCount": 0,
+      "last": null
+    },
+    "locations/spatial-styles/atlas/": {
       "messageCount": 0,
       "last": null
     }
